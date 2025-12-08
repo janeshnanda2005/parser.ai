@@ -8,6 +8,11 @@ a {
   color: #646cff;
   text-decoration: inherit;
 }
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
 a:hover {
   color: #535bf2;
 }
