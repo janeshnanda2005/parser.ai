@@ -1,0 +1,1456 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 1540852.17,
+    "count": 285,
+    "results": [
+        {
+            "title": "Senior Back-End Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTI5ODA2MzcxIn0.vCix-SrTU1irB8-_CwefuPo4_68ulLKFZI1Mz2dLotA",
+            "created": "2025-12-06T01:27:56Z",
+            "id": "5529806371",
+            "description": "Viking Cloud is the leading Predict-to-Prevent cybersecurity and compliance company, offering businesses a single, integrated solution to make informed, predictive, and cost-effective risk mitigation decisions – faster. Powered by the Asgard Platform™, the industry’s largest repository of anonymized cybersecurity and compliance event data, we continuously monitor and analyze over 6 billion online events every day. Viking Cloud is the one-stop partner trusted by 4 million customers to provide th…",
+            "company": {
+                "display_name": "VikingCloud India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 73.1924,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5529806371?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A15CF819F39F2A0A8BCA531455D2B2E845587C2D",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": 22.2891,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Vadodara"
+                ],
+                "display_name": "Vadodara, Gujarat"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "company": {
+                "display_name": "Elife Transfer",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Title: Senior/Staff Backend Engineer Location: Fully Remote Company Overview Founded in 2019, Elife Transfer is a fast-growing startup headquartered in San Francisco, California, at the heart of Silicon Valley. We are an all-in-one global ground transportation marketplace, enabling travelers to book airport transfers, ride-hailing, shared rides, private cars and rail tickets. Trusted by over 40 million travelers across 182 countries, we are rapidly scaling to become the world’s go-to platfo…",
+            "id": "5553108092",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzMTA4MDkyIn0.S5ziBp1709NNljPxGm5eirdpBvUoO84yJ-EdpA-lnng",
+            "created": "2025-12-24T00:07:08Z",
+            "title": "Senior Back End Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553108092?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=FB7B6EA45BEF55668AD2B63D2B9B13CA44EE03B2",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "longitude": 73.84735,
+            "company": {
+                "display_name": "Jeeva AI",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Please note: This is an on site position in Kharadi, Pune. Timings: 6 PM - 3 AM Remote/Hybrid options are not available Notice Period - Immediate joiners or those with a maximum notice period of 30 days are preferred. We’re a fast-growing AI startup with a fast-paced, ambitious culture. Our team often works long hours (at times 12 hours a day, 6 days a week), similar to other high-growth tech companies. If you thrive in this kind of environment, we’d love to hear from you! About Jeeva.AI Jeeva …",
+            "id": "5482781840",
+            "created": "2025-11-06T03:04:54Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDgyNzgxODQwIn0.qXPGjuruwCewuq8sTAPkMruwaGIpIT4Gwy5arfg_qto",
+            "title": "Sr. Back End Engineer (Python)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 18.5062,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5482781840?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=43C5F9F9BAEC92178D33A62F556BDAEDEBF312A2",
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5532334966?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A38C1DA32152931782650327448B3CB4673F61F5",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_type": "contract",
+            "created": "2025-12-07T18:41:19Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjMzNDk2NiIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.sceyJPNSgAA36AasSGL31zsmCOz4glc00N_JLtx66VA",
+            "description": "Role Overview: We’re looking for experienced Python engineers to collaborate with one of the world’s top Large Language Model (LLM) companies. Your work will directly help improve how AI models think, reason, and code. In this role, you’ll generate and evaluate high-quality data used to fine-tune and benchmark LLMs. You’ll design prompts, analyze model outputs, write Python solutions, and provide detailed feedback that guides model improvements. This is a unique opportunity to contribute to the…",
+            "company": {
+                "display_name": "Turing",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5532334966",
+            "title": "Remote Back-end Python Engineer"
+        },
+        {
+            "id": "5549494838",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "REA"
+            },
+            "longitude": 76.983738,
+            "description": "What the role is all about: We're seeking an Engineer Backend (2-4 years experience). You will be joining a group of wonderful people and function in a distributed team and solve complex problems that have far reaching benefits to the business and Tech community. While no two days are likely to be the same, your typical responsibilities will include: Designing, coding, testing, and deploying new data management tools and systems. Supporting a robust platform for the business by building monitor…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NDk0ODM4In0._PavCgxjn6C9hHDy6wuhA9OmN2bqeftPhaHtGiLfK78",
+            "created": "2025-12-20T08:56:06Z",
+            "title": "Engineer - Back End",
+            "location": {
+                "display_name": "Gurgaon, Haryana",
+                "area": [
+                    "India",
+                    "Haryana",
+                    "Gurgaon"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 28.323996,
+            "redirect_url": "https://www.adzuna.in/land/ad/5549494838?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0CFA1A710C2EF3C59291A90D947FF1F04D9BAEE4",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "longitude": 77.3225,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hack2skill"
+            },
+            "description": "Role & Responsibilities Develop, test, and maintain responsive user interfaces in React.js, ensuring pixel-perfect execution across devices. Translate Figma or Adobe XD designs into high-performance components with reusable, modular architecture. Integrate RESTful and GraphQL APIs, handling state management with Redux or Context for real-time data flow. Optimize load time, bundle size, and Lighthouse scores through code-splitting, lazy loading, and performance profiling. Collaborate with UX des…",
+            "id": "5536066026",
+            "created": "2025-12-10T16:53:51Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NjAyNiIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.kO35JHeExokFLrvijwM-hn-MmIQAGEaKQ9wFZsE6XDM",
+            "title": "React Developer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ]
+            },
+            "latitude": 28.56579,
+            "redirect_url": "https://www.adzuna.in/land/ad/5536066026?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=64B2F15D78FB12151E003C0C9A7CDE2845053E4E",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOjE1MjY5ODY0Mzl9.Ux6O647lhsK7ai22Ws-LZA5uiz__jBiecU3J36Sb_BQ",
+            "created": "2020-04-22T20:40:55Z",
+            "id": 1526986439,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Intelizest Consulting"
+            },
+            "redirect_url": "https://www.adzuna.in/details/1526986439?utm_medium=api&utm_source=d58ac19b",
+            "title": "Back End Engineer",
+            "salary_min": 1400000,
+            "contract_time": "full_time",
+            "description": "IMMEDIATE JOINEE. Work with other engineers to develop and test tools and applications used by team on daily basis Play a significant role in the ongoing evolution and refinement of current tools and applications Triage, troubleshoot, escalate and provide resolution to production issues. Reproduce, document and escalate product defects to the Engineering Team. Provide well-thought out and reliable direction, both in technical and non-technical terms, to help customers. Take ownership of custome…",
+            "longitude": 80.24963,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 2500000,
+            "latitude": 13.06041,
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Back-End Engineer",
+            "salary_min": 500000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DoSelect"
+            },
+            "description": "Our Company: Incepted in 2015 and incubated inside InMobi, India’s one of the hottest tech startups, we are a comprehensive skill proficiency measurement platform that helps organizations make critical people decisions better with the help of deep learning, predictive data analytics, AI, and automation. DoSelect has helped organizations like InMobi, Edge Verve, Hexaware, Sapient, Dream11, Globaledge etc. to increase their time and cost efficiency substantially in hiring and employee learning & …",
+            "id": "4853960739",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg1Mzk2MDczOSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.OWcqTjtPHNdbncS-MFT0jen32IS55hydWsnyS-vJ_yw",
+            "created": "2024-09-06T10:43:02Z",
+            "salary_max": 1500000,
+            "redirect_url": "https://www.adzuna.in/details/4853960739?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5355232228?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Back-end Engineer",
+            "id": "5355232228",
+            "description": "About doola doola is a dynamic company committed to simplifying the complexities of business formation, payment setup, compliance, taxes, and more. We empower entrepreneurs and businesses of all sizes to navigate the intricate landscape of financial and regulatory requirements with ease, allowing them to focus on what truly matters - building and growing their ventures. About the Role Do you remember the excitement of building your first backend service that just worked — processing data, conne…",
+            "company": {
+                "display_name": "doola",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-08-16T17:35:38Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM1NTIzMjIyOCIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.M92y89B3W5RMG-esLVKJ2XDV-ocaF8h-EFZrKdatSJk"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5481373239?utm_medium=api&utm_source=d58ac19b",
+            "created": "2025-11-05T06:28:33Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MTM3MzIzOSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.Y_y7T6LcaSSJrGVGLqW1umbmUHNGPOg9F1hCRLgAd2I",
+            "id": "5481373239",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Solique Advisors"
+            },
+            "latitude": 13.06041,
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "salary_max": 1500000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "description": "Backend Development & API Design · Design, develop, and maintain scalable and high-performance REST APIs using FastAPI. · Implement robust and secure authentication and authorization mechanisms. · Ensure seamless data flow and communication between frontend and backend services. Database & Performance Optimization · Work with SQL databases (PostgreSQL, etc.), including writing optimized queries and managing database schemas. · Implement data storage solutions that ensure high availability, perf…",
+            "longitude": 80.24963,
+            "salary_min": 1200000,
+            "title": "Back-end Engineer"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Worldhire"
+            },
+            "description": "NOTE: This is a permanent role with remote working and requires working in West Coast time zone from 5:00 PM IST to 1:30 AM IST Monday to Friday. Job Description: We are looking for a highly motivated senior level software engineer specializing in server-side and backend software to join our Information Technology (IT) department of this US based medical business company. This Engineer will work in collaboration with the Product Management team to evaluate, design, develop, debug, deploy, and d…",
+            "id": "5120362427",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTEyMDM2MjQyNyIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.-AWSIqXb0xLxTqznGK61BMynjgWuTx5H2ZgvBQASk-A",
+            "created": "2025-04-01T01:41:27Z",
+            "title": "Back End Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5120362427?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_type": "permanent",
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/4801619865?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Back End Engineer",
+            "id": "4801619865",
+            "description": "Position Overview The job involves website development, mobile platform development, testing, etc. and will provide an opportunity for enhancing your technical skills. Responsibilities Build backend interfaces using Python-Django and mysql Writing reusable, testable and efficient code Integration of user-facing elements developed by front-end developers with server side logic. Architect, design, build, deploy and maintain scalable, re-usable software. Craft new features from the ground up, and …",
+            "company": {
+                "display_name": "Zimply",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTYxOTg2NSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.AH_WMc-Oin5zRuY158uzxnZjz5SyLcZvy68PvBLR_ZU",
+            "contract_time": "full_time",
+            "created": "2024-07-31T03:19:24Z"
+        },
+        {
+            "title": "Back-End Engineer",
+            "id": "5503355363",
+            "company": {
+                "display_name": "LotusFlare",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 73.84735,
+            "description": "LotusFlare is a provider of cloud-native SaaS products based in the heart of Silicon Valley. Founded by the team that helped Facebook reach over one billion users, LotusFlare was founded to make affordable mobile communications available to everyone on Earth. Today, LotusFlare focuses on designing, building, and continuously evolving a digital commerce and monetization platform that delivers valuable outcomes for enterprises. Our platform, Digital Network Operator® (DNO™) Cloud, is licensed to …",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTAzMzU1MzYzIn0.M4kHUxncbozXRNsmNG9GCxGB9MTqRC8pv7-ofYIKqzI",
+            "contract_time": "full_time",
+            "created": "2025-11-19T22:32:08Z",
+            "redirect_url": "https://www.adzuna.in/details/5503355363?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.5062
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDI5NzY3OCIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.Mp8IWWc6U_X9zn6M02gcwietlMFH0c7BqdmBYDQMp0I",
+            "contract_time": "full_time",
+            "created": "2025-12-13T01:37:27Z",
+            "id": "5540297678",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hurix"
+            },
+            "longitude": 72.84415,
+            "description": "Job Description Location : Mumbai , Pune , Chennai Experience: 3-5 Years Employment Type: Contract of 1 year About the Role We are seeking a skilled Python Engineer to design, develop, and optimize high-performance backend systems and applications. The ideal candidate will have strong expertise in Python frameworks, modern software architecture, and API development, with a passion for writing clean, efficient, and scalable code. Youll work closely with cross-functional teams including DevOps, D…",
+            "title": "Back End Engineer",
+            "latitude": 19.00821,
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5540297678?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "latitude": 18.5062,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5499016617?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "longitude": 73.84735,
+            "company": {
+                "display_name": "LotusFlare, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "LotusFlare is a provider of cloud-native SaaS products based in the heart of Silicon Valley. Founded by the team that helped Facebook reach over one billion users, LotusFlare was founded to make affordable mobile communications available to everyone on Earth. Today, LotusFlare focuses on designing, building, and continuously evolving a digital commerce and monetization platform that delivers valuable outcomes for enterprises. Our platform, Digital Network Operator® (DNO™) Cloud, is licensed to …",
+            "id": "5499016617",
+            "created": "2025-11-16T13:01:43Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDk5MDE2NjE3In0.u_WZ8hkgrKbY_9K1Y5H_1z4rfDJWxLhKYyV-p_y2Cbw",
+            "title": "Senior Back-End Engineer"
+        },
+        {
+            "title": "Data Engineer to Join TCS (Spark, Scala, Java, MSK/Kafka) - Bangalore",
+            "id": "5518771383",
+            "description": "Total Exp : 5 to 10 Years Location: Bangalore About the Role: We are seeking a skilled and passionate Back-End Engineer with a strong background in data engineering to join our growing team. In this role, you will be responsible for designing, developing, and maintaining scalable and reliable data pipelines and back-end systems. You will work with large datasets, leverage cloud technologies, and collaborate with data scientists and other engineers to deliver impactful data-driven solutions. Thi…",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-29T10:11:13Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODc3MTM4MyIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.vw3FiN9ykqbj9FOqU9uDOSYFOCsdK6pKOXQ_C3_-RdA",
+            "redirect_url": "https://www.adzuna.in/land/ad/5518771383?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3CDC004401966C89F8C24CA06F79CF028D27AAD7",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548132128?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=50CAC87A7A588DE5D50BF8205A47626879BC72DA",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-19T08:56:23Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEzMjEyOCIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.ihVMAHRiE364tHTgowNwn_0SSuOYkbRC7EH8oYDOeDs",
+            "id": "5548132128",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "description": "1.Hiring For : Senior Data Engineer (Scala  Spark  ETL) Total Exp : 5 to 12 Years Location : Bangalore Desired Skills: Job Title: Senior Data Engineer Locations: Bangalore About the Role: We are seeking a skilled and passionate Back-End Engineer with a strong background in data engineering to join our growing team. In this role, you will be responsible for designing, developing, and maintaining scalable and reliable data pipelines and back-end systems. You will work with large datasets, leverag…",
+            "title": "Senior Data Engineer (ScalaSparkETL) - Bangalore Location"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "redirect_url": "https://www.adzuna.in/details/5479698570?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-11-04T15:54:29Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3OTY5ODU3MCIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.8jgtDh9pNPxgH_RrekA0f396oY2wX4FQuO_pQPJQK8s",
+            "id": "5479698570",
+            "description": "Director - Back-end Engineering We exist to wow our customers. We know we’re doing the right thing when we hear our customers say, \"How did we ever live without Coupang?\" Born out of an obsession to make shopping, eating, and living easier than ever, we are collectively disrupting the multi-billion-dollar commerce industry from the ground up and establishing an unparalleled reputation for being leading and reliable force in South Korean commerce. We are proud to have the best of both worlds — a…",
+            "company": {
+                "display_name": "Coupand",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Director, Back-end Engineering"
+        },
+        {
+            "title": "Senior Back End Engineer",
+            "company": {
+                "display_name": "Dabadu",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Role Overview You will be working in a cross-functional team, using agile methodologies to build cloud-native applications for the Auto industry. We are looking for true team-players who can work beyond their specialty to help the team deliver. The ideal candidate will be a team player who is adaptable and willing to contribute to various aspects of the project, from backend development to deployment automation. Key Responsibilities: • Architect and Develop Backend Solutions: Lead the design, d…",
+            "id": "5412323325",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxMjMyMzMyNSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.VCxE8X5gkrvi_MIIU16pyPZC3T2NZIY8faQ2kq24hvY",
+            "created": "2025-09-23T23:47:22Z",
+            "redirect_url": "https://www.adzuna.in/details/5412323325?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            }
+        },
+        {
+            "title": "Senior Back End Engineer",
+            "company": {
+                "display_name": "Dabadu",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Role Overview You will be working in a cross-functional team, using agile methodologies to build cloud-native applications for the Auto industry. We are looking for true team-players who can work beyond their specialty to help the team deliver. The ideal candidate will be a team player who is adaptable and willing to contribute to various aspects of the project, from backend development to deployment automation. Key Responsibilities: • Architect and Develop Backend Solutions: Lead the design, d…",
+            "id": "5412325621",
+            "contract_time": "full_time",
+            "created": "2025-09-23T23:49:49Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDEyMzI1NjIxIn0.6ri04pO9p36cOfZ9IIyQ8G4ApJom2n3uP0RwZrhXHRc",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5412325621?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Delhi"
+                ],
+                "display_name": "Delhi, India"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5539841468?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Senior Back-End Engineer",
+            "id": "5539841468",
+            "description": "Location: Gurugram - India Full-time What You’ll Be Spending Your Time On: Take a leadership role in achieving team goals, contributing to the overall design, architecture, development, quality, and production deployment of the team's systems Design and implement robust, scalable, and maintainable backend solutions for complex scenarios, ensuring high-quality results that may be consumed by other teams. Collaborate effectively within your team and with cross-functional partners, such as Product…",
+            "company": {
+                "display_name": "Payoneer",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-13T00:17:16Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTg0MTQ2OCIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.-rWUBPkfnBJMVvr7tes-B1AMVisfeICeK6lMOENTRtY"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Navi Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.02,
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.in/details/5545621803?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5545621803",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "WrkTalk DigiSec AI Pvt Ltd"
+            },
+            "longitude": 73.02,
+            "description": "This is a foundational engineering role. Not a role where you just optimize endpoints or manage tickets. You’ll be helping architect the backend of a global, privacy-first communication platform— built from the ground up, on principles we don’t compromise. It’s an opportunity to craft a product that users love—and one that holds its own against WhatsApp, Teams, or Signal, not just in UX, but in security, auditability, and data control. You’ll build systems that deliver consumer-grade performanc…",
+            "contract_time": "full_time",
+            "created": "2025-12-17T20:01:57Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ1NjIxODAzIn0.6LVr92H5tYh53zfK3kJs_Tb4XoiNEKQkQk-Dfd-2Gp0",
+            "title": "Senior Back End Engineer"
+        },
+        {
+            "title": "Staff Back-end Engineer",
+            "description": "Company Introduction We exist to wow our customers. We know we’re doing the right thing when we hear our customers say, \"How did we ever live without Coupang?\" Born out of an obsession to make shopping, eating, and living easier than ever, we are collectively disrupting the multi-billion-dollar commerce industry from the ground up and establishing an unparalleled reputation for being leading and reliable force in South Korean commerce. We are proud to have the best of both worlds — a startup cu…",
+            "company": {
+                "display_name": "Coupand",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5409733219",
+            "contract_time": "full_time",
+            "created": "2025-09-21T23:46:50Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwOTczMzIxOSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.yB0Jzw8WH1X99SD44j4rMzgjioN_8q0Csq_LzLfjK1c",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5409733219?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            }
+        },
+        {
+            "latitude": 13.06041,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546314289?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DAF7E4C49EA11A3F120C05AD73E6FE00ED1BEE71",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-18T02:37:00Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNDI4OSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.GMGnziK7ns3PoEVmJLyaVbIfwYgdMFTIbaGEjYKVBUw",
+            "company": {
+                "display_name": "Optum",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 80.24963,
+            "description": "Description - External '•Performing design, coding, unit testing and ensuring conformance to the team s development process and standards •Review of requirements and/or systems analysis documents for completeness •Working with the Deployment Lead, peer developers to complete various project deployment activities •Ensure the performance, quality, and responsiveness of applications. •Troubleshoot and resolve complex technical issues. •Stay updated with the latest industry trends and technologies …",
+            "id": "5546314289",
+            "title": "Senior Software Engineering Lead - Java Back End Developer"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5517266512?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=CF9F770B9EE97B60455F4BBEF7BB9B3F5314DB12",
+            "created": "2025-11-28T09:45:09Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTE3MjY2NTEyIn0.pblQO-cFwX-eugagfH5_sr1vXMGGLHVyD5cZPlY5zBw",
+            "description": "Design at RedBus: Designers lead the full lifecycle of their designs across all platforms, collaborate with product managers on strategy, participate in research to test and validate designs, and partner with engineering to make everything come to life. What We Look For: We’re looking for an experienced product designer who loves and has had success in simplifying complex workstreams into simple, intuitive experiences. You bring a solid knowledge of best practices and a keen ability to leverage…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "redBus"
+            },
+            "id": "5517266512",
+            "title": "Senior User Experience Designer"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/1171506648?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 3500000,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Delhi"
+                ],
+                "display_name": "Delhi, India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 2400000,
+            "title": "Technical Lead - Back end Engineering",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOjExNzE1MDY2NDh9.snBAdkC1_BpnmQ6QmPoLDJFNHcV-b0ByEz8QAlpIZvc",
+            "created": "2019-06-05T21:12:01Z",
+            "id": 1171506648,
+            "description": "Responsible: ● Responsible for championing persistence, business logic and other back-end layers architectural and SDLC process strategy as well as the planning and successful execution of said strategy ● Effectively balance technical leadership and software engineering individual contributor responsibilities ● Directly or indirectly drive BE projects and provide architectural and technical leadership in an innovative and fast-paced environment ● Continually retrospect and drive innovation with…",
+            "company": {
+                "display_name": "Antal International Network",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5539968057?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Back-End Engineer (C#/.Net)",
+            "company": {
+                "display_name": "Payoneer",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Location: Gurugram - India Full-time What You’ll Be Spending Your Time On: Design and implement robust, scalable, and maintainable backend solutions for complex scenarios, ensuring high-quality results that may be consumed by other teams. Collaborate effectively within your team and with cross-functional partners, such as Product, Design/UX, DevOps, and other R&D teams, representing your team as needed. Maintain and improve the team's engineering practices, suggesting and implementing technolog…",
+            "id": "5539968057",
+            "created": "2025-12-13T00:35:30Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTk2ODA1NyIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.Ij1AZhiR_gnHFkI0A8y3cJi8SZHm41uMTPNKPZQiKRk"
+        },
+        {
+            "title": "Conversational AI Back-End Engineer",
+            "id": "5428717621",
+            "company": {
+                "display_name": "Automation Anywhere, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About Us Automation Anywhere is the leader in Agentic Process Automation (APA), transforming how work gets done with AI-powered automation. Its APA system, built on the industry's first Process Reasoning Engine (PRE) and specialized AI agents, combines process discovery, RPA, end-to-end orchestration, document processing, and analytics-all delivered with enterprise-grade security and governance. Guided by its vision to fuel the future of work, Automation Anywhere helps organizations worldwide b…",
+            "created": "2025-10-03T10:56:58Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyODcxNzYyMSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.Mnox2yY0gw2yRQ0gulxaLiK49LXhmUhDQpTPyyUzoS8",
+            "redirect_url": "https://www.adzuna.in/details/5428717621?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDI4OTc5NTk3In0.orI_zg3Bda_aIPjRsHpv2sVgpypI7sg4gmaZjDbocJw",
+            "contract_time": "full_time",
+            "created": "2025-10-03T14:30:34Z",
+            "company": {
+                "display_name": "AutoStore System",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About Us Automation Anywhere is the leader in Agentic Process Automation (APA), transforming how work gets done with AI-powered automation. Its APA system, built on the industry’s first Process Reasoning Engine (PRE) and specialized AI agents, combines process discovery, RPA, end-to-end orchestration, document processing, and analytics—all delivered with enterprise-grade security and governance. Guided by its vision to fuel the future of work, Automation Anywhere helps organizations worldwide b…",
+            "id": "5428979597",
+            "title": "Conversational AI Back-End Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5428979597?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "description": "We are looking for a back-end software engineer to join a team working on video processing pipelines for broadcast clients. This offer isn't restricted to India, it's a fully remote position, but cost plays a big role. We are open to candidates from other locations or with less experience in some of the technologies, but you will need strong problem-solving skills and be good at algorithmic question as the interview includes 2 HackerRank tasks (to be answered live during the interview). What we…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Yoonka"
+            },
+            "id": "5549502652",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTUwMjY1MiIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.aAb8OfyOn_xUiCfOjWEF5i78JDYgzBSPgdpg61HVupM",
+            "created": "2025-12-20T09:06:29Z",
+            "title": "Software Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5549502652?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=723F5D9A4EF5569CED47EB3F421ABAAF75ABFFB5",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5504534597?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B03FE5A7D4B1CD81726B6F674E17B815EEA56D71",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Data Engineer",
+            "company": {
+                "display_name": "BayOne Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "The Opportunity: We are seeking a highly experienced Data Engineer to join our MarTech team and play a pivotal role in driving innovation within our microservices architecture, with a strong emphasis on data engineering and back-end systems. You will be responsible for leading the development, optimization, and maintenance of both data pipelines and back-end services, ensuring seamless integration within a microservices environment. You'll be responsible for building robust data solutions and c…",
+            "id": "5504534597",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTA0NTM0NTk3In0.vvQTrSa7-f3j0FfT3NnBb6-eH1PMPYwJG_0f0KdDB9s",
+            "created": "2025-11-20T08:20:13Z"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5539763617?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "created": "2025-12-13T00:06:02Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM5NzYzNjE3In0.PsQygD5fTJoER0wcGPu9U7a1xIT42ORTTL5mrNHS4YE",
+            "id": "5539763617",
+            "description": "Location: Gurugram - India Full-time What You’ll Be Spending Your Time On: Take a leadership role in achieving team goals, contributing to the overall design, architecture, development, quality, and production deployment of the team's systems Design and implement robust, scalable, and maintainable backend solutions for complex scenarios, ensuring high-quality results that may be consumed by other teams. Collaborate effectively within your team and with cross-functional partners, such as Product…",
+            "company": {
+                "display_name": "Payoneer",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Back-End Engineer (C#/.Net)"
+        },
+        {
+            "title": "SDE III Back-end Engineer (Chennai or Bangalore)",
+            "id": "4589508043",
+            "description": "Backend - Software Development Engineer III Experience - 7 yrs About Wekan Enterprise Solutions Wekan Enterprise Solutions is a leading Technology Consulting company and a strategic investment partner of MongoDB. We help companies drive innovation in the cloud by adopting modern technology solutions that help them achieve their performance and availability requirements. With strong capabilities around Mobile, IOT and Cloud environments, we have an extensive track record helping Fortune 500 comp…",
+            "company": {
+                "display_name": "Wekan Enterprise Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI0NTg5NTA4MDQzIn0.ws8qoldq4Kh82DbypThSuzdVFVFOHu2XWPJPYqVkDBw",
+            "created": "2024-03-02T15:30:47Z",
+            "redirect_url": "https://www.adzuna.in/details/4589508043?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5536066882",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Avensys Consulting"
+            },
+            "description": "Job Description Avensys is a reputed global IT professional services company headquartered in Singapore. Our service spectrum includes enterprise solution consulting, business intelligence, business process automation and managed services. Given our decade of success, we have evolved to become one of the top trusted providers in Singapore and service a client base across banking and financial services, insurance, information technology, healthcare, retail and supply chain. We are currently look…",
+            "created": "2025-12-10T16:54:46Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2Njg4MiIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.0mgbW-WMpF--h5phit71UFkkWLnjLsfP3YnpEYmwaMU",
+            "title": "Lead Software Engineer_Back End _ At least 10 years experience with Java,Scala, Kotlin or C#_Product industry exp is a MUST",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "permanent",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5536066882?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5A3412F320FF20D83AA79637B5735C349CDAEB3F",
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-12-18T08:43:45Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NTkxNzk4In0.ebPZXexprMdK6nhjsGMqFwlosSYnd1Tb-bAC2FjXN3s",
+            "description": "About Us: Astra is a cybersecurity SaaS company that makes otherwise chaotic pentests a breeze with its one-of-a-kind AI-led offensive Pentest Platform. Astra's continuous vulnerability scanner emulates hacker behavior to scan applications for 13,000 security tests. CTOs and CISOs love Astra because it helps them to achieve continuous security at scale, fix vulnerabilities in record time, and seamlessly transition from DevOps to DevSecOps with Astra's powerful CI/CD integrations. Astra is loved…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Astra Security"
+            },
+            "id": "5546591798",
+            "title": "SDE 1 - Platform Backend Engineer (Symfony/Laravel)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546591798?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=FF2D5E9C99DAAEEF94BE5A81BDB34FBC78E7E6A2"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5555200981?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=48F2FA60D8A6E0018363AD8BFC5BB6D950C82904",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "Frontend Engineer",
+            "created": "2025-12-25T13:36:00Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMDk4MSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.CzORctbrT-SCf1zrFZs-L84xVazI2QnPLa8cFw_7WmU",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Neuron ERP Solutions"
+            },
+            "description": "Role: Front End Engineer – India (Reporting to US Product Lead) Location: India (Remote / Hybrid, with overlap to US time zones) About NeuronERP NeuronERP is redefining how enterprises run their operations by combining Oracle ERP systems with cutting-edge AI/ML automation. We are an early-stage, high-velocity team building a category-defining product, and we are looking for front end engineers in India who can turn complex enterprise workflows into simple, intuitive, and performant user experie…",
+            "id": "5555200981"
+        },
+        {
+            "title": "Lead Software Engineer- Back-end Engineer - Chase UK",
+            "created": "2025-06-16T02:56:27Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI1MjM4MTQ0MSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.FnYjCY4TT4PSXBNag2PrgJGEHmKq_e4KC1LfpEzVC5U",
+            "company": {
+                "display_name": "JPMorganChase",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Description At JP Morgan Chase, we understand that customers seek exceptional value and a seamless experience from a trusted financial institution. That's why we launched Chase UK to transform digital banking with intuitive and enjoyable customer journeys. With a strong foundation of trust established by millions of customers in the US, we have been rapidly expanding our presence in the UK and soon across Europe. We have been building the bank of the future from the ground up, offering you the …",
+            "id": "5252381441",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5252381441?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "contract_time": "full_time",
+            "created": "2025-12-02T23:02:46Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDQxNzE3NCIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.DbTelqwfjKaiYKPyoALBAnT2RQYIV1lEDlPgCImbpp0",
+            "description": "Description At JP Morgan Chase, we understand that customers seek exceptional value and a seamless experience from a trusted financial institution. That's why we launched Chase UK to transform digital banking with intuitive and enjoyable customer journeys. With a strong foundation of trust established by millions of customers in the US, we have been rapidly expanding our presence in the UK and soon across Europe. We have been building the bank of the future from the ground up, offering you the …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JPMorganChase"
+            },
+            "id": "5524417174",
+            "title": "Sr Lead Software Engineer - Back-End Engineer - Chase UK",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5524417174?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "id": "5369756144",
+            "company": {
+                "display_name": "Resources Valley",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-08-27T05:48:47Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1MzY5NzU2MTQ0In0.RhLwwAQxJA3wDHYS2MQLL8FdSxtrrhEqh5qGIKZw09E",
+            "redirect_url": "https://www.adzuna.in/details/5369756144?utm_medium=api&utm_source=d58ac19b",
+            "description": "WHAT YOU’LL DO: Lead in the design and development of robust, scalable, and efficient software solutions, ensuring the highest standards in all aspects of software development. Design and implement high-quality, test-driven, scalable backend code for various client projects using TypeScript and Nest.js Develop and maintain APIs to support consuming teams. Work closely with frontend teams to optimize REST API integrations, ensuring efficient data fetching and caching strategies. Create and maint…",
+            "longitude": 77.3225,
+            "contract_time": "full_time",
+            "title": "Staff/ Lead Back End Engineer (Nest.js, Nodejs, GCP)",
+            "salary_min": 3000000,
+            "location": {
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 28.56579,
+            "salary_max": 4000000,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/4344578253?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jobdost"
+            },
+            "id": "4344578253",
+            "created": "2023-10-02T13:22:28Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI0MzQ0NTc4MjUzIn0.gdefN9YKlcCBrMZIftiyOqdimFT3appx0v-c0EdaFvU",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_max": 1800000,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad"
+            },
+            "latitude": 28.56579,
+            "salary_min": 600000,
+            "title": "Back End Developer Engineer",
+            "longitude": 77.3225,
+            "description": "Job Profile:- We’re in search of a Back-End Software Engineer that specializes in server-side components. In this role, you’ll primarily work on Node JS, Mongo DB, Redis, building scalable products and will bring a depth of knowledge on algorithms and data structures. As a Back-End Software Engineer, on any given day you might be architecting new features for our customers, refactoring existing code to be more scalable, and seeing changes through to completion in a live environment. Key Attribu…",
+            "contract_time": "full_time"
+        },
+        {
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5231081147?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "id": "5231081147",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "People First Consultants"
+            },
+            "longitude": 78.50806,
+            "description": "In this role, you will… • Be part of a team of SW engineers working on a large scale, distributed, cloud based services. • Help the team to solve engineering problems and deliver state-of-the-art software solutions. • Work closely and willingly with your team members, and with members in other teams. • Take part in all phases of our agile software development process - design, planning and execution. • Full ownership of delivered code in terms of quality (Tests Automation), maintained and monit…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1MjMxMDgxMTQ3In0.DZRQCeHktbCwSqZHm5yF5-XlWhEsSAqsQMnKMvObiWE",
+            "created": "2025-06-03T23:47:30Z",
+            "title": "Back End Cloud Engineer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5555202541?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=776120264F7E19BEE13FAD4F774A9D52CD84F2A1",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Senior Quality Engineer",
+            "description": "Primary Responsibilities: Overall regression automation and maintenance Communicate and interact efficiently with co-workers, management & customers Work with business analyst and programmers to create and analyze various required project documents Comply with standards and strategies of the software development life cycle Responsible for developing and executing comprehensive suites of test plans and test cases for system and integration testing, maintaining and continued evaluation of test ca…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Optum"
+            },
+            "id": "5555202541",
+            "created": "2025-12-25T13:41:41Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMjU0MSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.9xcZxU4pBLtt7NmOqrWz_jvFUjp4tehgQeteM04TOwY"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai",
+                    "Injambakkam"
+                ],
+                "display_name": "Injambakkam, Chennai"
+            },
+            "latitude": 12.96853,
+            "redirect_url": "https://www.adzuna.in/details/5489239195?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "description": "What are we looking for? Purpose-Driven : You understand how your work impacts end-users and business goals. You have a result-oriented builder’s mindset and are always curious to learn more. Complex Problem Solver : You thrive on managing complexity and are adept at designing user-centric solutions that balance technical and business needs. Passionate & Committed : You take pride in your work and view it as more than just a job. You are motivated to contribute to our mission: to democratise th…",
+            "company": {
+                "display_name": "CobbleWeb",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 80.24305,
+            "id": "5489239195",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4OTIzOTE5NSIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.nXbEpRdxk5MSus51Nkj-O7AS3KNIYaJnUG_zWpE-m-0",
+            "contract_time": "full_time",
+            "created": "2025-11-10T17:10:50Z",
+            "title": "Senior Back-End JS Engineer"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5361961012?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 13.06041,
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Java Back-end RTB Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1MzYxOTYxMDEyIn0.JHyj9XYz8C8cfXVumH29zCYavhi-yTEJdMxh1CA1EDI",
+            "created": "2025-08-21T18:46:08Z",
+            "id": "5361961012",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "C1Exchange"
+            },
+            "description": "C1X AdTech Pvt Ltd is a fast-growing product and engineering-based AdTech company building next-generation advertising and marketing technology platforms. Our mission is to empower enterprise clients with the smartest marketing solutions, enabling seamless integration with personalization engines and delivering cross-channel marketing capabilities. We focus on enhancing customer engagement and experiences while driving measurable growth in Lifetime Value (LTV). As part of our world-class engine…",
+            "longitude": 80.24963
+        },
+        {
+            "title": "Back End Developer_At least 7 years experience with Java, kafka, Scala_product industry exp is a MUST",
+            "created": "2025-12-11T09:26:30Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MjU0NiIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.0OAYYkfsEro37XCc4FIih2yMizYfsezRygPTpo1evDw",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Avensys Consulting"
+            },
+            "description": "Job Description Avensys is a reputed global IT professional services company headquartered in Singapore. Our service spectrum includes enterprise solution consulting, business intelligence, business process automation and managed services. Given our decade of success, we have evolved to become one of the top trusted providers in Singapore and service a client base across banking and financial services, insurance, information technology, healthcare, retail and supply chain. We are currently look…",
+            "id": "5537382546",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537382546?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DD7D2631891C9835046D364D204CDCED23FF1402",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5495127239?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=E3189F75174DE610A1E75F1F0E379676837A3E1D",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Senior Engineer II - Java [T500-21424]",
+            "description": "About lululemon: lululemon is an innovative performance apparel company for yoga, running, training, and other athletic pursuits. Setting the bar in technical fabrics and functional design, we create transformational products and experiences that support people in moving, growing, connecting, and being well. We owe our success to our innovative products, commitment to our people, and the incredible connections we make in every community we're in. As a company, we focus on creating positive chan…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "lululemon"
+            },
+            "id": "5495127239",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDk1MTI3MjM5In0.5mmFqj-tBkR2PMX-vy0jAovQsMLInzSQ-C2u_D7VmO4",
+            "created": "2025-11-14T10:34:29Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/3343026402?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 3000000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Founding Engineer (Back End)",
+            "salary_min": 2000000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzM0MzAyNjQwMiIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.MteFQumLM_SE6M6nMq_6T5LBKGCgAwybs7njprKY_I8",
+            "contract_time": "full_time",
+            "created": "2022-07-24T06:39:02Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Floworksai"
+            },
+            "description": "What/Why/How is Floworks? Floworks ( https://floworks.ai ) builds powerful business process tools that simplify business operations for the largest of e-commerce and logistics companies in India. Floworks was founded by distinguished alums from IIT and BIT, with exemplary backgrounds in business and technology. Floworks has raised two rounds of funding within just 6 months of existence.We are funded by London based Startup Incubator, Entrepreneur First whose investors include the likes of PayPa…",
+            "id": "3343026402"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5341800677?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Back-end Senior Software Engineer II",
+            "created": "2025-08-07T17:23:53Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM0MTgwMDY3NyIsInMiOiItcnZyWWxqaThCR2pKYWJ4V3QwZURRIn0.LmIBp-iYPbj7CV98pLH8w4h5itPLed6tiEzTUfxUYRQ",
+            "id": "5341800677",
+            "description": "At Curriculum Associates, we believe in the potential of every child and are changing the face of education technology with award-winning learning programs like i-Ready that serve a third of the nation’s K–8 students. For more than 50 years, our commitment to making classrooms better places, serving educators, and supporting accessible learning experiences for all students has driven the continuous improvement of our innovative programs. Our team of more than 2,500 employees is composed of life…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Curriculum Associates"
+            }
+        },
+        {
+            "title": "Senior Golang Developer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTU2MTA0MTA5In0.Gb-3oDKW411SUIeC0F-c07v4s9ibxaZBGTMIREdMAPM",
+            "created": "2025-12-26T08:41:43Z",
+            "id": "5556104109",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Webknot Technologies"
+            },
+            "description": "About the Role: We are looking for a skilled Back-End Golang Developer to join our engineering team. You will be responsible for designing, developing, and maintaining scalable, secure, and high-performance back-end systems and APIs. This role provides an opportunity to work on complex distributed systems, contribute to architecture decisions, and build fault-tolerant solutions that serve millions of users. Key Skills: Golang, Gin / Echo / Fiber (REST API frameworks), gRPC PostgreSQL, Redis, My…",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5556104109?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=72B46CD9D443AD8F6045100EBD0D3A5453CB0F2E",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "company": {
+                "display_name": "BlackLine India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Summary It's fun to work in a company where people truly believe in what they're doing! At BlackLine, we're committed to bringing passion and customer focus to the business of enterprise applications. Since being founded in 2001, BlackLine has become a leading provider of cloud software that automates and controls the entire financial close process. Our vision is to modernize the finance and accounting function to enable greater operational effectiveness and agility, and we are committed to…",
+            "id": "5525206358",
+            "created": "2025-12-03T09:00:06Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXJ2cllsamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTI1MjA2MzU4In0.dmtTaNCbxLktFikAZjlqcQGjAE4_7kquR6WslFsURzo",
+            "title": "Manager Performance Testing",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5525206358?se=-rvrYlji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=760D24C8DAE40B1B8103ABFCC0C7866570E252ED",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        }
+    ]
+}

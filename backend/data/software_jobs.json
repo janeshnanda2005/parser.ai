@@ -1,0 +1,1424 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "title": "Software Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMjk5NCIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.cT9IEz-oRpuqoa6BXAcfaXRiy9ksQjESxdjAIYzMcXI",
+            "created": "2025-12-25T13:43:14Z",
+            "id": "5555202994",
+            "description": "We are looking to hire a Software Engineer (backend) @ Global B2B startup. They are automating compliance for multinationals. Their competitors are the Big Four accounting firms, who earn a combined $200b/yr in revenue. What you'll do: Build out the core backend infrastructure that powers the entire product suite. Index the world’s regulations and build systems to query them efficiently. Implement, test, and deploy code to production quickly. Go from an idea in the morning to a fully-completed …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ZappHire"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5555202994?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DE3009778D729B5CFD9FD36483E1D04A574041D7",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5538938858",
+            "description": "About the Role The Frontend Software Engineer plays a critical role in making our business applications easy to use, driving adoption and simplifying our change management efforts. We work with UX/UI architects/designers to help build compelling designs and layouts. To ensure a consistent look and experience across our portfolio, we have invested in a Design System. This is maintained by our UI designers in Figma and then transformed into Angular components by the Frontend Software Engineer. We…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Stolt-Nielsen Digital Innovation Centre"
+            },
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODkzODg1OCIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.kJoFar3zSNt07P1XOETHrqrhas04MtXhr8B0mKVGN9Y",
+            "created": "2025-12-12T08:53:27Z",
+            "title": "Software Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5538938858?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DB711A24546EA4CA74737D174DB6BB15157181A2",
+            "salary_is_predicted": "0"
+        },
+        {
+            "description": "Company Description Market Disc Media provides comprehensive B2B marketing and sales acceleration services to businesses and agencies globally. Specializing in building scalable strategies, we help companies convert potential customer intent into predictable pipelines. Powered by our innovative AI-driven TAM Intelligence Engine and proprietary Ready-to-Switch Index (RSI), we identify high-conversion accounts ready for outreach. Our solutions focus on consent-first data, precise multi-channel en…",
+            "company": {
+                "display_name": "Market Disc",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 73.84735,
+            "id": "5542028629",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MjAyODYyOSIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.Jm-2QfpHA42gZmhoQ80Xcvzfoz-NMjTYbtfFW9gGZpQ",
+            "created": "2025-12-14T16:07:49Z",
+            "title": "Software Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 18.5062,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5542028629?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=1EA06047B1D677908F8236D28108942CD1CA5C07",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Software Engineer",
+            "description": "Company Description Devx Commerce partners with Direct-to-Consumer (D2C) brands to provide comprehensive technology solutions. We specialise in building and managing Shopify stores and custom e-commerce platforms. Our headless suite of commerce products enables brands to scale with modular and API-first e-commerce tools, including Order Management Systems, Product Information Management, Subscriptions, Loyalty programs, and C-Suite dashboards. Role Description This is a full-time remote role fo…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "devx commerce"
+            },
+            "longitude": 72.8318,
+            "id": "5493111449",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDkzMTExNDQ5In0.jmygNu2Bc8tWCCauDvaMYECzrrjFucFpjmNIYnHV5g4",
+            "contract_time": "full_time",
+            "created": "2025-11-13T11:09:52Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5493111449?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=34CBFDECD07869103052FAD97BF2D76BC761E088",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Surat"
+                ],
+                "display_name": "Surat, Gujarat",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 21.18955
+        },
+        {
+            "title": "Software Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzMTE1MzA4In0.BoknlpuL42iP_Jo-opns90IW9Mkp210d5ByyIcpqESw",
+            "created": "2025-12-24T00:08:07Z",
+            "description": "Job Description: Software Engineer Department: Business Intelligence Reports To: Arshbir Singh Sandhu About the Role We are looking for a highly skilled Software Engineer – Generative AI who is passionate about building intelligent, scalable, and secure AI-driven applications. The ideal candidate will combine strong software engineering fundamentals with hands-on experience in Generative AI, LLMs, and agentic AI solutions. You will play a key role in designing, developing, and deploying AI-base…",
+            "company": {
+                "display_name": "Nath Outsourcing Solutions Pvt. Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5553115308",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553115308?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=417FE636F4C47E53D09AA5BBC4C18D595D969ACD",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            }
+        },
+        {
+            "id": "5502715432",
+            "company": {
+                "display_name": "Taurus AI",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Company Description Taurus AI is an innovative platform designed to streamline the hiring process by leveraging Artificial Intelligence. Through WhatsApp, Taurus AI acts as a job seeker's personal assistant, offering AI-powered resume building, real-time job updates, interview scheduling, and smart matching with potential employers. Taurus AI's mission is to make hiring faster, fairer, and more human. The platform simplifies job searches while enhancing connections between job seekers and recru…",
+            "contract_time": "full_time",
+            "created": "2025-11-19T08:21:08Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTAyNzE1NDMyIn0.l2Y9uDSa7Wx4I6j5yWcy1W84hvyL8sUeFQvZtNUNblQ",
+            "title": "Software Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5502715432?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=FF3E92488B6D4FCB01D3235A31C371CEF7220DD9",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "latitude": 28.56579,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5549502389?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=471677372429D44FABFB5E33127A82147F938434",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTUwMjM4OSIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.uJVM-t_zUSXhgcg-CbAOYA3CjHbmFNL5hTkXvJN5148",
+            "created": "2025-12-20T09:06:24Z",
+            "id": "5549502389",
+            "company": {
+                "display_name": "ACS Infotech Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Company Description ACS Infotech Pvt. Ltd. is an Application Solutions Company focused on developing workflow-based applications that enhance productivity and reduce operational costs. With a customer-driven approach, the company continuously learns and evolves its products based on long-term client relationships and a deep understanding of their business needs. This dedication has enabled ACS Infotech to create innovative applications that address critical business challenges. Our mission is t…",
+            "longitude": 77.3225,
+            "title": "Software Engineer"
+        },
+        {
+            "description": "Software Engineer – Applied AI & LLM Systems Role Overview This role focuses on building, deploying, and operating production LLM-powered applications at Click2.ai Consulting. You will design and implement AI-driven features such as search, document understanding, and workflow copilots, with a strong emphasis on software engineering rigor, evaluation, and reliability . Systems are primarily deployed on AWS , with periodic integration into Azure-hosted client environments . Responsibilities Desi…",
+            "company": {
+                "display_name": "Click2.ai",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5553876368",
+            "created": "2025-12-24T10:21:00Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3NjM2OCIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.DrQjtOis_V2st0oaugyezYPyzayTO3nRQ8Eaa_fOYiA",
+            "title": "Software Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553876368?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=ABAE44818A131F328CE5CB7AFA01724919238EA3",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Software Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Softmaster technology solutions"
+            },
+            "description": "Company Description We suggest you enter details here. Role Description This is a full-time on-site role for a Software Engineer located in Hyderabad. The Software Engineer will be responsible for developing and maintaining back-end web applications, writing high-quality code, and ensuring optimal performance of software systems. Daily tasks include software development, programming, code reviews, and collaborating with cross-functional teams to design scalable, efficient, and reliable software…",
+            "longitude": 78.50806,
+            "id": "5424623126",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyNDYyMzEyNiIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.o5WPWDLM6gi9IiR6VIABx600WZMmKch1-f9yygCdf_k",
+            "contract_time": "full_time",
+            "created": "2025-10-01T21:05:49Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5424623126?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=EE75642418499A76C55CD27EE44BE4B35B48FDF0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275
+        },
+        {
+            "description": "Hiring: Software Engineer – Hyderabad (On-site) EchorTech is a technology company delivering secure, scalable, and performance-driven digital solutions across healthcare, fintech, AI, blockchain, and IoT. Our team has built HIPAA-compliant healthcare platforms, real-time trading systems, AI-driven chatbots, and enterprise-grade software that has delivered measurable impact to clients. We are looking for Software Engineer (0–2 years experience) who want to work on real, user-facing products from…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EchorTech"
+            },
+            "longitude": 78.50806,
+            "id": "5515704023",
+            "created": "2025-11-27T09:50:55Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTE1NzA0MDIzIn0.z0aJZEq7jp4-EQWDCPS8H-N3xwbV2ZRCgK3_E5WInB0",
+            "title": "Software Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "latitude": 17.40275,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5515704023?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=592FE46F18821DCCAFE3EFF79F9C8F3DC1CEBD9C",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Software Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM2MDY2OTkyIn0.cQ74zZcU_dnrBhOQgtQOw_c61gg7MCXfycLz7WzESi0",
+            "contract_time": "full_time",
+            "created": "2025-12-10T16:54:59Z",
+            "id": "5536066992",
+            "description": "Job Opening: 15 Company Description Seceon delivers a unified cybersecurity platform that enables enterprises, MSPs, and MSSPs to detect, respond, and remediate threats in real-time. With AI-powered threat detection and auto-response, Seceon provides full context across telemetry to enhance situational awareness. The platform is scalable, multi-tenant, and ensures continuous compliance with leading security standards. Role Description This is a full-time remote role for a Software Engineer at S…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Seceon Inc."
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5536066992?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=117F57FD3BE51C203B03053DBD62DE42EAF548B1",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5556104058?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D11B6C99745BD5C1B80B197D3EC38A8916C5ED60",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NjEwNDA1OCIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.vJoguuTna7ol6LEhhXLM3P-Ov7DVa0ViJbLN4a30U5A",
+            "contract_time": "full_time",
+            "created": "2025-12-26T08:41:27Z",
+            "company": {
+                "display_name": "Vasu Travel & Tourism LLC",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Company Description Vasu Travel & Tourism LLC is a trusted provider of comprehensive travel solutions, catering to both B2B and B2C clients. Specializing in competitive travel tickets, visa assistance, and transfers, the company ensures seamless travel experiences for corporate and personal journeys. With a skilled team offering 24/7 support and tailored services, Vasu Travel & Tourism LLC strives to meet the unique needs of every traveler. Visit us at https://vasutravel.com to plan your next j…",
+            "id": "5556104058",
+            "title": "Software Engineer"
+        },
+        {
+            "title": "Software Engineer",
+            "id": "5556104128",
+            "company": {
+                "display_name": "Deluxe",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Title: Software Engineer (C# .NET Core, SQL, AWS) Experience: 3- 5 years Location: Onsite Industry: Media & Entertainment About the Role We are looking for a Software Engineer with strong backend development experience in C# .NET Core to join our team. This role is focused on building scalable backend systems, working with relational and non-relational databases, and leveraging cloud technologies. You will be part of an agile team, contributing primarily through hands-on coding, with exposu…",
+            "created": "2025-12-26T08:41:47Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTU2MTA0MTI4In0.vrqbLd4vfCX9J5ieu8JGFqPivLuR6Ta4681ObVzUHsw",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5556104128?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=189EF8A53C515F446B2BA06BF1047010D27389F1",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546316433?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5BBB3F5EE67CACD82A2841922DFAFF56CCE2ADEE",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": 9.98011,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Ernakulam",
+                    "Kochi"
+                ],
+                "display_name": "Kochi, Ernakulam"
+            },
+            "title": "Software Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNjQzMyIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.nwsIG43PiqPW5tteuBuDUujcfK8r9X2j12Du_nJqfS8",
+            "created": "2025-12-18T02:41:24Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Velodata Global Pvt Ltd"
+            },
+            "description": "Role: Software Engineer(mobile & web) Location: Kochi infopark Experience: 6 -10 years Mandatory skills: React, Reactnative, C++/ PHP Budget: max 22lpa Qualification: BTech/MCA Your tasks: As Senior Software Engineer with a strong background in React, React Native , C++, and PHP you will be part of a Product Engineering team. We are looking for engineers with a passion for programming and a product mindset. Responsibilities include: Enhance and maintain a mobile app. Enhance and maintain a web …",
+            "longitude": 76.24637,
+            "id": "5546316433"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553877678?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8F594D662A98249C3D7594E67F9085F04331E220",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": 18.5062,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "title": "Software Engineer",
+            "created": "2025-12-24T10:21:43Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODc3Njc4In0.4gVoi-CIgx44672ljbPR2FQYJtmt7sNZq2bTl7jtRfw",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lemma"
+            },
+            "description": "Role: Software Engineer Experience: 5 years Job Location: Pune Qualification: ME/BE Computer/IT Engineering, MCS/MCA About the Role: We’re looking for a passionate Software Engineer who loves clean code, solid fundamentals, and building great user experiences. If you enjoy diving deep into JavaScript quirks like closures and temporal dead zones, can’t rest until a Lighthouse report turns green, and find yourself going down rabbit holes to chase memory leaks, you’ll fit right in. What you Bring:…",
+            "longitude": 73.84735,
+            "id": "5553877678"
+        },
+        {
+            "created": "2025-12-24T10:22:17Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODc5NDcxIn0.d2CuIXNMGEco0WIkmW9kt_uHQZ5ef6rUpMzcf27zrL4",
+            "description": "Company Description Cooee is an innovative tech company revolutionising eCommerce conversion rates by addressing the challenges of customer acquisition and retention. Utilising AI-powered technology, Cooee analyses real-time visitor behaviours to understand individual intent, allowing businesses to craft personalised dynamic offers that boost conversions. As the first eCommerce platform to cater to all customers, including both first-time and repeat visitors, Cooee helps increase conversions wi…",
+            "company": {
+                "display_name": "Cooee",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5553879471",
+            "title": "Software Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553879471?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D1883AB24819A2646EECCB0C217191E71838D917"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "redirect_url": "https://www.adzuna.in/land/ad/5424620888?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2670E634B9288DE0853D47A191F10E3994FF29F1",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5424620888",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "capeiron"
+            },
+            "description": "We’re Hiring: Software Engineer [Remote] 2-Month Contract Role at Capeiron Technology Fixed Compensation for contract: INR 5,00,000 Roles and Responsibilities As a Software Engineer, you’ll be responsible for developing and maintaining the end-to-end application stack, ensuring seamless integrations and high-quality user experiences. You’ll collaborate closely with cross-functional teams to deliver robust, scalable, and secure features. Design and develop scalable web applications using Next.js…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyNDYyMDg4OCIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.4pYAq1e6unxBqsCfAyy19GqER3cZuflOJvf9YvQOJK0",
+            "created": "2025-10-01T21:05:20Z",
+            "title": "Software Engineer"
+        },
+        {
+            "id": "5553879033",
+            "description": "Company Description: North Side FZC provides cased hole logging solutions for oil and gas industry Visit northsidetools.com for more information.  Senior C++ Qt/ML Software Engineer Job description: · Design, develop, and maintain Windows applications using modern C++ standards, the Qt framework (Widgets) · Integrate machine learning models into the application logic · Optimize the application's performance and responsiveness · Work with cross-functional teams, including data analysts, software…",
+            "company": {
+                "display_name": "North Side FZC",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-24T10:22:10Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODc5MDMzIn0.srkam9peAilViFyORBLVtbPCgf42LD636hyzPHEwgRU",
+            "title": "Software Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553879033?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=88E6B7D7BD416E5D928DB0E06769696BC3C40663",
+            "salary_is_predicted": "0"
+        },
+        {
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5517270284?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=C57D6A49D5C623E67D8D2C393A0D004CBF87B50C",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzI3MDI4NCIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.6KoPdjxjgeyvf2SHUzyBN96rnnZr51d-xn6nlZUzzMw",
+            "created": "2025-11-28T09:48:33Z",
+            "id": "5517270284",
+            "description": "Job Title: Software Engineer Location: Gurugram, India Industry: IT Job Summary: The Software Engineer will design, develop, and maintain software solutions, contributing to the company’s IT projects and technological innovations. This role requires a proficient developer skilled in programming, problem-solving, and software lifecycle management, with a strong commitment to quality and performance. Key Responsibilities: Software Development: Write, test, and deploy high-quality code, following …",
+            "company": {
+                "display_name": "Valkyrie People Consulting",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Software Engineer"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553876883?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=452C58F06E3A5EBE9EFEE4C666F2018EAFEC38E1",
+            "created": "2025-12-24T10:21:22Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODc2ODgzIn0.3Q2C-B_81RKPPy5lMe4UVBZqUlyQt-WthwWKvvJfIC4",
+            "id": "5553876883",
+            "description": "Software Engineer (NestJS) Our Client: Company is (founded in 2020) is an industry leading, first of its kind in India, digital healthcare data platform and exchange, infused with AI/ML capabilities delivering solutions to stakeholders in all segments of the healthcare sector. Job Title: Software Engineer (NestJS) Education: B.Tech/MCA Experience: 3 - 4 Years Location: Bangalore About the Role: We’re looking for a driven Backend Software Engineer (NestJS) to build scalable, secure, and high-per…",
+            "company": {
+                "display_name": "Hireginie",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Software Engineer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5538938868?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=568C3637061989DD61B79110DEC39102B313E542",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "latitude": 17.40275,
+            "title": "Software Engineer",
+            "company": {
+                "display_name": "Stolt-Nielsen Digital Innovation Centre",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About the Role: As a Low-Code Developer (OutSystems), you will be part of our growing engineering practice thats enabling rapid delivery of business applications across Stolt-Nielsen. Youll use OutSystems and potentially other low-code platforms to design, develop, and deploy enterprise-grade applications that are robust, scalable, and maintainable. Our OutSystems landscape consists of business- and mission critical applications, at the heart of our business. You will work closely with product …",
+            "longitude": 78.50806,
+            "id": "5538938868",
+            "created": "2025-12-12T08:53:29Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM4OTM4ODY4In0.X0netVn99c9rMZK071slTFnAfTudgR4P19yq5V-MEbI"
+        },
+        {
+            "id": "5538938852",
+            "description": "About the Role: As a Low-Code Developer (OutSystems), you will be part of our growing engineering practice thats enabling rapid delivery of business applications across Stolt-Nielsen. Youll use OutSystems and potentially other low-code platforms to design, develop, and deploy enterprise-grade applications that are robust, scalable, and maintainable. Our OutSystems landscape consists of business- and mission critical applications, at the heart of our business. You will work closely with product …",
+            "company": {
+                "display_name": "Stolt-Nielsen Digital Innovation Centre",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.50806,
+            "created": "2025-12-12T08:53:25Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODkzODg1MiIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.C5OKXG3r7uEBpAz6wJ4hH29jHHs4ZI3cg4G7DVX68Iw",
+            "title": "Software Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5538938852?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A8D742660D76BD11658167DA53320550EABD3DB2",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "contract_time": "full_time",
+            "created": "2025-12-14T10:29:16Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQxODI2NTQyIn0.bTk-Stbwc2ELONVDMNxRvUS9aPwByIGGBGnAf9RhJ0Y",
+            "description": "Role Description This is a full-time on-site role for a Software Engineer (3–6 Years) located in Hyderabad, India . The Software Engineer will be responsible for designing, developing, and maintaining scalable backend services and high-performance web applications. This role involves close collaboration with cross-functional teams to deliver reliable, secure, and maintainable software solutions while ensuring optimal system performance and user experience. Daily activities include backend and f…",
+            "company": {
+                "display_name": "Applix",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.50806,
+            "id": "5541826542",
+            "title": "Software Engineer",
+            "latitude": 17.40275,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5541826542?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D04A8DE260BF710D8884D81D498D60781EB7E64D"
+        },
+        {
+            "created": "2025-12-16T02:14:13Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MzQ5MzU4NyIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.nPN_zyp6b0We_EY8wMKYKTIMINX_qcPx8YUd9IhSSu0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Star Knowledge"
+            },
+            "description": "Job Title: Software Engineer/Consultant Workplace type: Hybrid Location: Bangalore, Karnataka, India Employment type: Contract Job duration: Initial 6-month contract Experience: 6-12 years We are looking for a Software Engineer, Martech platforms with 6 years of experience who is passionate about building intelligent, scalable applications. This role is ideal for someone who thrives in a fast-paced environment and is eager to grow into areas like AI integration, automation, cloud-native develop…",
+            "id": "5543493587",
+            "title": "Software Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5543493587?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5D78F25C94340865AA034CE1A81EC039DCF57E5D",
+            "contract_type": "contract"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5550651137?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=CEEBFC7223EC944ECE63E30B86748DCBCD986B69",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Software Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MDY1MTEzNyIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.7yNrQXJ1Qzn0y4V_6PX66jiCnQJqVzMaxSjPDR1BtTw",
+            "created": "2025-12-21T08:19:27Z",
+            "description": "Company Introduction Iskraemeco India Pvt Ltd is an Indian arm of a global conglomerate Iskraemeco in the energy sector. Our offices are present in the continents like Asia (India), Europe (Slovenia) and Africa (Egypt). Our solutions cover 80 countries worldwide. We are a globally recognized brand and are also part of Elsewedy Group since 2007. We have successfully delivered quality software products, solutions and services, which make efficient energy use a reality across different mediums lik…",
+            "company": {
+                "display_name": "Iskraemeco ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5550651137"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5536066822?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=297924ACB7E9EFE5BA5F902EB9A9C4ECC48D5124",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Software Engineer",
+            "id": "5536066822",
+            "company": {
+                "display_name": "BrightEdge",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "What? Just seeking some good talent! Where? At BrightEdge, we innovate at the intersection of AI, SEO, and enterprise growth. We’re not just shaping the future of enterprise SEO and content performance; we’re also redefining how digital experiences drive real business results. Trusted by more than 55% of the Fortune 100 and 500, alongside 2000 enterprise brands, our AI-powered platform transforms content into measurable traffic, engagement, and revenue. About the Role: BrightEdge is seeking a S…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NjgyMiIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.66nxf26S8g4lVXPPPi1y1VFcS4dhbWZbD9hP2Ujd6Kc",
+            "created": "2025-12-10T16:54:35Z"
+        },
+        {
+            "contract_type": "contract",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553876084?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F43E4816A35DFCB6D8D373DD4C4729E859830FDF",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Software Engineer",
+            "id": "5553876084",
+            "description": "Job Title: Software Engineer Location: Bangalore Department: Technology Experience Level: 2-5 Years & 5-7 Years Employment Type: Contract About the Role: We are seeking a passionate and skilled Software Engineer to join our CLEAR product team at clientside. This role offers the opportunity to work on a cutting-edge media and AI platform that powers global enterprises in managing, distributing, and monetizing content. You will be part of a dynamic team driving innovation and scalability across o…",
+            "company": {
+                "display_name": "TalentBridge",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3NjA4NCIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.XQdDIB9Fj3vacwOTypvFLbb-sxuVGd8G9o6OlnyQdOA",
+            "created": "2025-12-24T10:20:48Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5549502652?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=723F5D9A4EF5569CED47EB3F421ABAAF75ABFFB5",
+            "created": "2025-12-20T09:06:29Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NTAyNjUyIn0.ed80LjKAsnOM_sEGbuj95KpqWJ3IdeESV-_Bdlo6xt8",
+            "description": "We are looking for a back-end software engineer to join a team working on video processing pipelines for broadcast clients. This offer isn't restricted to India, it's a fully remote position, but cost plays a big role. We are open to candidates from other locations or with less experience in some of the technologies, but you will need strong problem-solving skills and be good at algorithmic question as the interview includes 2 HackerRank tasks (to be answered live during the interview). What we…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Yoonka"
+            },
+            "id": "5549502652",
+            "title": "Software Engineer"
+        },
+        {
+            "contract_time": "full_time",
+            "created": "2025-12-26T08:40:50Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NjEwMzk1MCIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.5A5ipLbctVcDkFLM7ED5eBnHoLlpAi6M4RJwFtlEPCs",
+            "company": {
+                "display_name": "Maven Workforce Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": " Position: Sr. iOS Software Engineer  Location: Hyderabad | Hybrid  Experience: 7 Years | Full-time We are hiring a Senior iOS Engineer to build and enhance our flagship iOS native application used by millions. You’ll collaborate with product, design & engineering teams to deliver high-quality features, intuitive UI, and scalable architecture. Key Responsibilities Build & enhance native iOS features using Swift / SwiftUI Work with cross-functional teams to deliver seamless experiences Integrate…",
+            "longitude": 78.50806,
+            "id": "5556103950",
+            "title": "Software Engineer",
+            "latitude": 17.40275,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5556103950?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=088DB4B84DD4ACE73B1843BE502986E71FBB5110"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTI5ODEyNzEwIn0.24BKQ07T-JzJ0qGptG_kJ4kjHFfCRF_4CksnE7aH5Rc",
+            "created": "2025-12-06T01:34:05Z",
+            "description": "Ambient Security is an exciting early startup, looking to reduce the risk of cyber attacks for large enterprises. The founder and CEO is a 7x cyber security entrepreneur with a track record of successful exits. We have large enterprise customers and are cash-flow neutral. Ws seeking software engineers at entry levels to lead the design and implementation of innovative technologies. We are seeking creative engineers to build innovative technologies that involve hard problems in Security, Large S…",
+            "company": {
+                "display_name": "Ambient Security",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5529812710",
+            "title": "Software Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5529812710?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6E98BF600A7257B3AB9C55DD2645930F9B30EA95",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553876890?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6BF8C1811A7B2E5B8E1587D9261E955D0408C232",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Software Engineer",
+            "created": "2025-12-24T10:21:22Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3Njg5MCIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.zf9ez2LGcpf_XDcuJ2saFz8rzyteY-HPJyujDXpz9Jg",
+            "id": "5553876890",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "First American "
+            },
+            "description": "About FAI At First American (India), we don’t just build software—we build the future of real estate technology. Our people- first culture empowers bold thinkers and passionate technologists to solve real-world challenges through scalable architecture and innovative design. If you're driven by impact, thrive in collaborative environments, and want to shape how world-class products are delivered—this is the place for you. Role Summary The Software Engineer is a responsible for setting engineerin…"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5537385962?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0E825258E0480C66D4B34F0DB4C878F7A05B7C39",
+            "latitude": 19.00821,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "title": "Software Engineer",
+            "created": "2025-12-11T09:27:59Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4NTk2MiIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.EALJ9T64uzXyFk9tjlNIOaHET9wdKGGuEoQ08ivGPtw",
+            "longitude": 72.84415,
+            "company": {
+                "display_name": "AQM Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Title: Software Engineer – General Insurance (Commercial Lines) Location: Mumbai, Maharashtra Experience: 3-7 years Type: Full-Time Only Commercial Lines experienced candidates based in Mumbai should apply.  We're Hiring! AQM Technologies is excited to invite skilled Manual Testers with expertise in the Commercial Lines domain to join our team in Mumbai! If you're passionate about ensuring software quality and have a background in insurance workflows, we’d love to meet you! What You’ll Do: …",
+            "id": "5537385962"
+        },
+        {
+            "title": "Software Engineer",
+            "created": "2025-11-28T09:48:47Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzI3MDY5MyIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.dJOaXJVs3Fgm_FbZRqWAmzk1lac_x3rVOfpmzmly9sc",
+            "id": "5517270693",
+            "description": "Role: Software Engineer About the Job: We are seeking a passionate and skilled Backend Engineer with strong expertise in Java-based backend development and big data frameworks such as Apache Spark and Hadoop. The candidate should have practical experience in building and optimizing data pipelines and APIs, with proven exposure to ClickHouse for large-scale analytical workloads. Roles & Responsibility: - Design, develop, and maintain scalable backend services and data processing pipelines using …",
+            "company": {
+                "display_name": "Mobileum",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5517270693?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3E46D1F87808ECAE854412E006E4E9CBE90B1296",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjYxMzczMSIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.C_PQqWjVouLe8hCB0RFO-DnyheaZ2XJbT5mBhrWuZAQ",
+            "created": "2025-12-18T08:46:26Z",
+            "id": "5546613731",
+            "longitude": 77.3225,
+            "company": {
+                "display_name": "QuickReturns",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "We are looking for a motivated and detail-oriented Software Engineer with 1–3 years of experience to join the Quickreturns team. The ideal candidate will be responsible for building, maintaining, and enhancing software applications while working closely with cross-functional teams to deliver high-quality, scalable solutions. Role & Responsibility: Design, develop, test, and maintain scalable software applications Write clean, efficient, and well-documented code Collaborate with product managers…",
+            "title": "Software Engineer",
+            "latitude": 28.56579,
+            "location": {
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546613731?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=C7CC529CC454C759DAAF9E30CADD67B358300912"
+        },
+        {
+            "title": "Software Engineer",
+            "description": "Position: Software Engineer Location: Nandanam ( Near Nandanam Metro), Chennai Duration: Ful, Time Start Date: 01/01/2026 About the Role: We are looking for Software Professionals who are passionate about working in a product-driven environment.What we’re looking for interest in product engineeringAbility to work in an engineering-focused environmentProblem-solving mindset with a passion for finding effective solutionsWillingness to take ownership and contribute across the product lifecycleIf y…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ecbee innovations pvt ltd"
+            },
+            "id": "5553116507",
+            "contract_time": "full_time",
+            "created": "2025-12-24T00:08:19Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzExNjUwNyIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.6ucA4EFLwWps24diycIcfIThN-16v344UpNO8nUPGvc",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553116507?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D517510A7192DC7AE37592A48402DDDA91B69256",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "title": "Software Engineer",
+            "id": "5553876196",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CareerXperts Consulting"
+            },
+            "description": "We are looking for a Software Engineer who enjoys building reliable, scalable software and solving real-world problems through clean code. This role involves working across development, testing, and deployment—contributing to products and platforms that are used in production. You’ll collaborate closely with engineers, product teams, and stakeholders to deliver high-quality software solutions. Key Responsibilities Design, develop, and maintain software applications and services Write clean, eff…",
+            "created": "2025-12-24T10:20:51Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3NjE5NiIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.ZoG40n8RC7Kv7tN-c2xdxGWl1x-qoI_TrRURpa9WykM",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553876196?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=C41F6B237A0412F425244A44522D0B5BA8D5D094",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5424620644?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=4D87BE7DA7A728085B8DAB646B7C92EA218DBCC1",
+            "latitude": 28.56579,
+            "location": {
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Software Engineer",
+            "created": "2025-10-01T21:05:16Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDI0NjIwNjQ0In0.E4DORInYl-_Z1AL8VwNGho6lu5Vmc4OV8-1WKf5elbg",
+            "id": "5424620644",
+            "longitude": 77.3225,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PayNways Worldwide"
+            },
+            "description": "We are looking for a Java Developer freshers and experience (0-2 years) in building high-performing, scalable, enterprise-grade applications. You will be part of a talented software team that works on mission-critical applications. Java developer roles and responsibilities include managing Java/Java EE application development while providing expertise in the full software development lifecycle, from concept and design to testing. Java developer responsibilities include designing, developing and…"
+        },
+        {
+            "created": "2025-12-19T09:00:27Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ4MTM5ODk0In0.4MXo7uTNQ5Tzm_60_mrGqZpUMu1nIj1LA9EV9QuMTfg",
+            "description": "Software Architect Location – Mumbai Experience: 10 years in so5ware engineering, 3 years in leadership roles Role Overview: Lead the technology vision and architecture for a live MERN stack used-car platform. Oversee the smooth transition from an external agency to in-house development. Drive scalability, security, and performance improvements. What You'll Do: * Define Technical Vision: Own and articulate the end-to-end technical architecture and long-term vision for the platform. * System Des…",
+            "company": {
+                "display_name": "Sourcebae",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 72.84415,
+            "id": "5548139894",
+            "title": "Software Engineer",
+            "latitude": 19.00821,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548139894?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D0C66898B976F305208451BDD92248B33D5061DE",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548139408?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=FE91C7959DCDA4C7757828635A33E8A259D68A9C",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEzOTQwOCIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.gd606AkQYMJ4l0TbOY8VgJRga8BrkmQ3hKD0fG0NaoU",
+            "created": "2025-12-19T09:00:15Z",
+            "company": {
+                "display_name": "AppSecure Security",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Backend Software Engineer – AppSecure Security About AppSecure AppSecure is a globally trusted offensive security company specializing in advanced penetration testing, red teaming, AI security, and automated security validation. For over 9 years, we have been the preferred partner for fast-growing startups and large enterprises across fintech, e-commerce, AI, SaaS, and telecom. We are known for our hacker-first methodology and our ability to simulate real-world attack scenarios that traditional…",
+            "id": "5548139408",
+            "title": "Software Engineer"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5424620121?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B4C433EE278EEEADD05163E6CF0E0BD7F8CF8055",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Epsilon"
+            },
+            "description": "About Business Unit: From helping to invent the affiliate industry to leading performance marketing, the CJ Team has earned a reputation for maintaining the largest and most reliable partnership-based platform. We are the platform of choice for driving profitable growth for over 3,800 global brands - across industries like retail, travel, finance, and network & home services. Our technology powers a vast partnership ecosystem where over 167K publishers and brands engage with billions of consume…",
+            "id": "5424620121",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDI0NjIwMTIxIn0.xSM4DADGPTNfRSDLTobjP0hkUnna55KajZ2cfQyQug4",
+            "created": "2025-10-01T21:05:10Z",
+            "title": "Software Engineer"
+        },
+        {
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5548140320?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2AC97B0EC51A380F2FF8FE76C9F680788BBA5E5A",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ4MTQwMzIwIn0.GK5_pcQzy_C5-_guiRpchr7ZEwO1kdUbU2qY5rneP-k",
+            "created": "2025-12-19T09:00:48Z",
+            "id": "5548140320",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NIIT"
+            },
+            "description": "About NIIT At NIIT, we’re transforming the way the world learns, for the better. That’s why the world’s best-run learning functions across 30 countries trust us with their learning and talent. Since 1981, we have helped leading companies transform their learning ecosystems while increasing the business value of learning. Our comprehensive, high-impact managed learning solutions weave together the best of learning theory, technology, operations, and services to enable a thriving workforce. Link …",
+            "title": "Software Engineer"
+        },
+        {
+            "title": "Software Engineer",
+            "company": {
+                "display_name": "Binary Semantics Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Dear Candidate, Greetings From Binary Semantics Ltd. Immediate Hiring For Sr Odoo Developer - Gurgaon(WFO) About Binary Semantics Ltd. Binary Semantics Limited (BSL) is a ISO 9001: 2015 & ISO 27001:2013 and CMMI Level 3 offshore development and a software services company headquartered in Gurugram. We have strong software engineering and service processes and are providing wide range of services varying from maintenance of existing applications to full life-cycle development of enterprise-wide …",
+            "id": "5482784403",
+            "created": "2025-11-06T03:05:48Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4Mjc4NDQwMyIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.Yys3CetNt7UG-wm4cEuOW1ITD9iKFCX2c9VRp8HbdDM",
+            "redirect_url": "https://www.adzuna.in/land/ad/5482784403?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=166A97B7EB46D07FDD4BE7632E7007B5A97B2EDB",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "description": "About Strand Life Sciences: Strand Life Sciences is a pioneering genomics and bioinformatics company founded in 2000. We combine deep expertise in data science with hands-on laboratory experience to deliver integrated solutions across research, diagnostics, and precision medicine. With a CAP-accredited clinical genomics lab and decades of experience in bioinformatics software and analytics, Strand partners with leading global diagnostics, pharma, and life science companies to accelerate discove…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Strand Life Sciences"
+            },
+            "id": "5553877690",
+            "created": "2025-12-24T10:21:43Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODc3NjkwIn0.TRT4PdPx1p2hzO-RUwBIWjF5a_4HsDNpwlHXoirrGY0",
+            "title": "Software Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553877690?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=63CB166E04F09AF2180DDA04FB1F26362D583E96",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Software Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDg0Njk4MzYyIn0.4GrsLGd-t0IMTiZ8PjnPN-BLGC8fJ4Ch3pHpTZvis2k",
+            "created": "2025-11-07T09:11:47Z",
+            "id": "5484698362",
+            "description": "About the Team Scheduled is building the world’s first AI-native personal operating system — a “Free Executive Planner” that helps users structure their days, manage relationships, and live with intention. You will have the opportunity to work directly with entrepreneurs who have built and partnered with teams at Uber, Twitter, Warner Bros., Disney, Bank of America, Facebook, Google, Snapchat, and many of the world’s leading marketing-technology firms. Our engineering team works across web, iOS…",
+            "company": {
+                "display_name": "Rahul Khanna",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5484698362?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DEF935C55F7DEB09E7DA8ED408031F74BDDB6162",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-12-18T08:47:03Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NjE4NjQxIn0.6R6TiRwLyVc2pk2kb3VI3hwA3N5l__Qk2ulWaSGVW6A",
+            "id": "5546618641",
+            "description": "Company Overview Ditansource is an emerging freelancing platform committed to delivering high-quality services at competitive prices. Our mission is to foster a user-friendly, collaborative ecosystem that empowers professionals and emerging talent worldwide. By connecting clients with a diverse global network of skilled freelancers, we aim to build meaningful, scalable, and cross-border work relationships that fuel innovation and professional growth. Role Summary Ditansource is looking for a mo…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ditansource"
+            },
+            "title": "Software Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546618641?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=4F47BD53265F0263069F51DC160EAD1AAB31E244",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            }
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5515703554?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=341214C7C845C2554C402588AC6B40424ABF09B1",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Software Engineer",
+            "id": "5515703554",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mobileum"
+            },
+            "description": "About Us: Mobileum is a leading provider of Telecom analytics solutions for roaming, core network, security, risk management, domestic and international connectivity testing, and customer intelligence. More than 1,000 customers rely on its Active Intelligence platform, which provides advanced analytics solutions, allowing customers to connect deep network and operational intelligence with real-time actions that increase revenue, improve customer experience, and reduce costs. Know our story: htt…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTE1NzAzNTU0In0.olvAq_EQaHNQaOJheeqTWgSOHjuNzCY_SSFt86VV1O4",
+            "created": "2025-11-27T09:50:42Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537386181?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=7A52EBAB9583F6AB39390EE4953D36E8D6AFA52D",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Software Engineer",
+            "contract_time": "full_time",
+            "created": "2025-12-11T09:28:07Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM3Mzg2MTgxIn0.STURwuf5WyCsVfDb07RZeyF_de-SvppChyWdYueTapc",
+            "id": "5537386181",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Clothing Tech, a Hexagon Venture"
+            },
+            "description": "Company Description Clothing Tech®, a Hexagon Venture, has developed the Fashionr™ platform, a cutting-edge 3D design solution tailored for the fashion industry. Fashionr™ uniquely incorporates the fourth dimension of time, enabling businesses to streamline their value chain, reduce material waste, and accelerate time to market. This advanced platform helps companies achieve lower material costs, healthier profit margins, and improved cash flow. Location: Remote / India Employment Type: Full-ti…"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Valsad"
+                ],
+                "display_name": "Valsad, Gujarat"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5525210333?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=FBD26EA4AD37FFFAB9F9C1208B2ACC6B1D809325",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTIxMDMzMyIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.cCMaxWlzUfe-wM9J3zR2fzYjZx839Wsev7Z2vgL4FyU",
+            "created": "2025-12-03T09:03:47Z",
+            "company": {
+                "display_name": "Meril",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Title: Software Engineer – .NET & Embedded Systems (Instrumentation) Department: Diagnostics - Research & Development / Engineering – Software & Embedded Systems Location: Vapi, Gujarat. Reports To: Manager / Senior Manager – R&D (Software & Embedded Systems) Job Purpose: To design, develop, and integrate software applications with embedded and electrical systems used in advanced instrumentation and medical diagnostic devices. The role involves full-cycle software development using the .NET…",
+            "id": "5525210333",
+            "title": "Software Engineer"
+        },
+        {
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546316729?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B817109643B7EF70B1736CEA97EABBF97620C50D",
+            "latitude": 18.5062,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Software Engineer",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicUczMVhWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzE2NzI5In0.L5_RE9UugC8T2LVRZbsIuuGeoDzlrGHKAePf5nOUe_0",
+            "created": "2025-12-18T02:42:07Z",
+            "id": "5546316729",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Solytics Partners"
+            },
+            "description": "About Us: Solytics Partners is a Global Analytics firm, recognized with multiple industry awards for innovation and excellence. Our team comprises experts with deep domain knowledge in risk, analytics, AI/ML, AML/FCC, and fraud. By converging this expertise with cutting-edge technologies like AI, Machine Learning, Generative AI, and Large Language Models (LLMs), we deliver powerful automated platforms and incisive point solutions. Our offerings enable clients to streamline and future-proof thei…",
+            "longitude": 73.84735
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3NzAzMSIsInMiOiJxRzMxWFZqaThCR2pKYWJ4V3QwZURRIn0.3RbZZy5GzAXlwC0_WhE53EsND6OeX0crHatclbiJHac",
+            "created": "2025-12-24T10:21:28Z",
+            "description": "About the Company www.apnatech.com About the Role We are seeking a highly skilled Embedded Software Engineer to design, develop, and maintain software for real-time, resource-constrained embedded systems . The role involves working close to hardware, building reliable firmware, and enabling secure, high-performance communication across embedded platforms. You will collaborate with hardware engineers, system architects, and product teams to translate requirements into robust embedded solutions u…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Apna Technologies & Solutions "
+            },
+            "id": "5553877031",
+            "title": "Software Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Krishnagiri, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Krishnagiri"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553877031?se=qG31XVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=BC297BFC61DFBB507420E736D20F3D1DAD9574CB",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            }
+        }
+    ],
+    "count": 28282,
+    "mean": 1529309.53
+}

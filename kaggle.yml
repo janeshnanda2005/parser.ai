@@ -1,0 +1,10 @@
+project: kernel
+kernel_slug: janeshnanda12/kernel
+code_file: backend\sample.ipynb
+accelerator: none
+internet: false
+privacy: private
+datasets: []
+competitions: []
+outputs:
+  download_to: .kaggle-outputs/

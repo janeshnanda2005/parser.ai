@@ -1,0 +1,1441 @@
+{
+    "count": 3684,
+    "results": [
+        {
+            "id": "5541824556",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Wbcom Designs"
+            },
+            "longitude": 80.8897,
+            "description": "About Wbcom Designs is a software product company with 10 years of experience building web-based solutions for communities, online learning, and e-commerce. We've served 2,000 clients globally, delivered 500 custom projects, and published 89 software products. Our products help businesses build online communities, learning platforms, and marketplaces. Role Overview We're looking for a detail-oriented B.Tech/CS graduate to join our QA team. This is a training-focused role – you'll learn to test …",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQxODI0NTU2In0.69Ap5sYhMMJJmNzCFlAQSSZJRaV80btL6Hc6MKl4SV8",
+            "created": "2025-12-14T10:27:54Z",
+            "title": "QA Engineer",
+            "location": {
+                "display_name": "Lucknow, Uttar Pradesh",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Lucknow"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 26.8677,
+            "contract_type": "contract",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5541824556?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=CB082E920A70488CF280D0206A2DE711C4B1A875",
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546565340?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=EF3BE68EE2D4E60DA1C728554F19F8ACBBAB369E",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "QA Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjU2NTM0MCIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.kQrEguN9wC3g9RX0fwVScEyPD0HradxvYZ25UoCsQz4",
+            "created": "2025-12-18T08:39:56Z",
+            "id": "5546565340",
+            "description": "The candidate that will succeed in this position will be able to create all the testing and automation frameworks as required for their projects. Thus, the candidate may have to work on multiple projects once, also working to improve the company's best practices from a testing a standpoint. Responsibilities Design, implement, and execute test cases Evaluate testing process, make recommendations as necessary Timely execution of test cases Identify, and record bugs Position Name- QA Engineer No o…",
+            "company": {
+                "display_name": "Enterprise Minds, Inc",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "QA Engineer",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQwNjY5ODE5In0.l3Od3LFs5Fi4_m3QCMv9vyDmP5PkswqH4KrvuZjwN-U",
+            "created": "2025-12-13T09:38:44Z",
+            "description": "About Position: We are seeking for QA engineer with hands on experience in automation testing, rest assured, etc., Role: QA Engineer Location: All Persistent Locations Experience: 6 to 12 Years Job Type: Full Time Employment What You'll Do: Design, develop, and maintain automated test frameworks and tools to ensure product quality. Collaborate with developers and QA teams to identify test requirements and integrate testing into the development lifecycle. Write and execute automated test scripts…",
+            "company": {
+                "display_name": "Persistent Systems",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 73.84735,
+            "id": "5540669819",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5540669819?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F8DBF6431316D5F1476E51E7D6E732F6621245D3",
+            "latitude": 18.5062,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            }
+        },
+        {
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.00821,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5519967341?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=FA688C7B8551DF418E79606E940F3127B5D53F03",
+            "salary_is_predicted": "0",
+            "id": "5519967341",
+            "description": "QA Engineer (Manual) — 2 Years Experience We’re looking for a detail-obsessed Manual QA Engineer to help us ship reliable releases at speed. You’ll own end-to-end manual testing on release branches, maintain and evolve test cases, and partner closely with Product and Engineering to ensure every go-live is smooth. If you’re excited by ownership, fast feedback loops, and building quality into the process, this role is for you. What you’ll do Perform thorough manual QA on release branches across w…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Commotion"
+            },
+            "longitude": 72.84415,
+            "created": "2025-11-30T09:47:31Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTk2NzM0MSIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.TrFa21u2rIbiP2Wpl6TYi6I7PqZsrMcYiSwxBeQrJIE",
+            "title": "QA Engineer"
+        },
+        {
+            "created": "2025-06-24T10:29:57Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1MjY1MDMzODcxIn0.V-D-8CMU6G_F5RtgFBsXLqjEVJAQZinca4yihsOCXPU",
+            "description": "About Dr. Martens: Dr. Martens is an iconic British brand founded in 1960 in Northamptonshire. Produced originally for workers looking for tough, durable boots, the brand was quickly adopted by diverse youth subcultures and associated musical movements. Dr. Martens has since transcended its working-class roots while still celebrating its proud heritage and, six decades later, Docs or DMs are worn by people around the world who use them as a symbol of empowerment and their own individual attitud…",
+            "company": {
+                "display_name": "DrMartens",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5265033871",
+            "title": "QA Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5265033871?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3AAA7FD562D512D1F61C23A7D008CBF603203AEB",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.00821,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5549500669?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0B2889F383612BD047AE8A94B348B5C3817C5C32",
+            "salary_is_predicted": "0",
+            "id": "5549500669",
+            "longitude": 72.84415,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NymbleUp"
+            },
+            "description": "About NymbleUp NymbleUp is a fast-growing B2B SaaS platform working with leading retail brands across India and global markets. We solve complex operational challenges through AI, automation, and real-time intelligence across workforce management, demand planning, video analytics, and retail operations. We are looking for a Product / Project Manager who can translate customer needs into scalable solutions, collaborate cross-functionally, and drive product execution with speed, clarity, and owne…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NTAwNjY5In0.VuZmn37aP3ENgKwe96nXndx-HhOoRTu6CYpIV0hZviw",
+            "created": "2025-12-20T09:04:40Z",
+            "title": "QA Engineer"
+        },
+        {
+            "description": "About the Role The QA - Test Automation Engineer plays a critical role in ensuring the quality and reliability of scalable software systems that drive our business. Across our businesses, our applications run business critical processes. Quality is paramount and testing critical. We want to further invest in our test automation practices, in line with the shift-left paradigm and DevOps practices. We have three main technology stacks: .NET/Angular; Node.js/Angular and Low Code (OutSystems). Each…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Stolt-Nielsen Digital Innovation Centre"
+            },
+            "longitude": 78.50806,
+            "id": "5538938835",
+            "created": "2025-12-12T08:53:19Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODkzODgzNSIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.I94NrxargKBRuM8qZDvuXN7NTHJiv3kAiVsNpYcXe1k",
+            "title": "QA Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5538938835?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=97A63EBA988D45E8D08586FBCD24F276091DBF4F",
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5529803146?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6A0965392149806460B60FD95103CF6AC0A57F65",
+            "latitude": 17.40275,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "QA Engineering",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTI5ODAzMTQ2In0.VtW0901xWXGaSI8cFs8xZmVvRd9BOOkiLpHiWZfJtfM",
+            "created": "2025-12-06T01:23:28Z",
+            "longitude": 78.50806,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Endowus"
+            },
+            "description": "The Opportunity: Build the future of Wealth In a fintech world obsessed with gamification and speculative betting, Endowus stands apart. We aren't here to build another trading app; we are building the financial infrastructure to help people achieve long-term life goals - retirement, education, and financial freedom. Headquartered in Singapore, we are the largest independent digital wealth platform in Asia . However, we are not a one-trick robo-advisor. We are a full-suite wealth platform spann…",
+            "id": "5529803146"
+        },
+        {
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5538938899?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5735E6609E95208FBE6BE01E1A951D8B88FEEB32",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5538938899",
+            "longitude": 78.50806,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Stolt-Nielsen Digital Innovation Centre"
+            },
+            "description": "About the Role The Quality Analyst plays a critical role in ensuring the quality and reliability of scalable software systems that drive our business. Across our businesses, our applications run business critical processes. Quality is paramount and testing critical. As a QA, your primary focus will be on defining and executing manual testing strategies and creating detailed and efficient test cases. Over time, you will have the opportunity to grow into test automation and contribute to enhancin…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODkzODg5OSIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.6T3ZUcCt-t8qsTu_Kr7ee6Hl9y-2CaIghO1UmWuy6XA",
+            "created": "2025-12-12T08:53:34Z",
+            "title": "QA Engineer"
+        },
+        {
+            "title": "Intern – QA Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "MetFlux Research"
+            },
+            "description": "Job Title: Intern—QA Engineer (Health Analytics Platform) Location: Bengaluru-Rajarajeshwari Nagar / Onsite Organization: MetFlux Research Private Limited Employment Type: Internship (with potential conversion to full-time based on performance) About MetFlux Research MetFlux Research is building the ΩmeX ecosystem , a biology-grounded intelligence layer that powers: MetSights —a precision health analytics and interpretation platform for wellness and healthcare professionals MetSolve —an in-sili…",
+            "id": "5556103854",
+            "contract_time": "full_time",
+            "created": "2025-12-26T08:39:40Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTU2MTAzODU0In0.C3UrRIXoTJmiZbmM9udiIpGa4rmAmrBbovewR84A3R4",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5556103854?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=26606054A24C62AB1FCA63C621AA23BD8D06DD60",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5530552910?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=AEDEE3D34193D671CA8F496ED9718EAE462CC62A",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Salesforce QA Engineer",
+            "id": "5530552910",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Recro"
+            },
+            "description": "Job Title: Sr. Salesforce QA Engineer Location: Bangalore (Hybrid) Experience: 5 Years About the Role We are seeking a Sr. Salesforce QA Engineer with strong Service Cloud and post-sales system experience. You will ensure the quality of Salesforce applications by developing test strategies, executing test cycles, and collaborating with cross-functional teams in an Agile environment. Key Responsibilities Understand business requirements and define test scenarios & acceptance criteria. Create and…",
+            "created": "2025-12-06T09:41:30Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTMwNTUyOTEwIn0.as7OXoA5Tx-ZXcWNiQ2qhwekT1gD6A9AV_VMGZqPr7k"
+        },
+        {
+            "title": "QA Engineer with Cypress",
+            "id": "5546312848",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IntraEdge"
+            },
+            "description": "Website- https://intraedge.com/ Job Title: Sr. QA Engineer (Java, Cypress, API Testing) Location: Pune/Remote Experience Level: 5 Type: [Full-time] US Overlap will be there Job Description We are looking for a detail-oriented QA Engineer to join our dynamic team. This role involves ensuring the delivery of high-quality software solutions by designing and executing effective test strategies. The ideal candidate has hands-on experience in Java, Cypress, and API testing and is passionate about bui…",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzEyODQ4In0.oz8My4Pvm4Xpiunip-rtFKMRpkXax3KZ72FocGzZuWQ",
+            "created": "2025-12-18T02:35:37Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546312848?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DA4ECD831126B94A87C73831FE510FAEE29F274A",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5529803835",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Revolut"
+            },
+            "description": "QA Engineer for SDKs – Analytics & Metrics Platform Salary: 45 LPA Overview Join a team dedicated to building a large-scale data and analytics platform that aggregates online and offline data to enable advanced analysis and marketing activities. This platform processes billions of events daily, integrating web and mobile SDKs to deliver real-time insights through a user-friendly interface. Role Summary We are looking for an experienced QA Engineer to ensure the quality and reliability of mobile…",
+            "created": "2025-12-06T01:25:16Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgwMzgzNSIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.Vj4tTZKqIYFUDKW2eJhPsplWR_NAs4GceWX9Q4WWBmQ",
+            "title": "SDK QA Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5529803835?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=26B9AA6ED2A5858F6F88434C830E11DD0A4BDA98",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549500373?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0935E64EA31DCDCD68B40B9632E9CAEE4A64EE1C",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NTAwMzczIn0.cMWK7usgARRt_7E1l1Sb30mxE6iMqQQ9NEO4NnlFhl0",
+            "created": "2025-12-20T09:04:30Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Aptiva Technologies"
+            },
+            "description": "Experience : 5–8 years (data engineering) Location : Remote (India) CTC : ₹10–20 LPA Notice Period: ≤ 30 days Role Overview We are hiring Senior QA Engineers to ensure high-quality, production-ready enterprise software . Key Responsibilities Design and execute UI & API automation tests Build QA frameworks and test strategies Collaborate with engineering teams early in the SDLC Ensure release quality and stability Required Skills Strong experience in UI & API testing Automation frameworks Manual…",
+            "id": "5549500373",
+            "title": "Senior QA Engineer"
+        },
+        {
+            "title": "QA Engineer (Automation)",
+            "description": "Job Title: QA Engineer (Automation) Location: Hyderabad (Onsite) Experience: 5 years Employment Type: Full-time About BizAcuity BizAcuity is on a mission to help enterprises get most out of their data by providing Business Intelligence and Data Analytics services, product development and consulting services for clients across globe in various domains / verticals. Established in 2011, by a strong leadership team and a team of 200 engineers, we have made a mark as a world class service provider a…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BizAcuity"
+            },
+            "longitude": 78.50806,
+            "id": "5548132173",
+            "created": "2025-12-19T08:56:24Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ4MTMyMTczIn0._2CskGFl01R_-SGg6FaT_N9TlaINhGFEILIpD-AIKt4",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5548132173?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D762F7AB71E033DDA15909CE04BBD4A772577C74",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275
+        },
+        {
+            "title": "Automation QA Engineer",
+            "created": "2025-12-19T08:56:22Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ4MTMyMDY1In0.8dPqbuj4DWB_LVBqtBhkVHz0DkknibZUVlw7sjJjtXE",
+            "longitude": 72.8318,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Avinyaa Ed Tech Private Limited"
+            },
+            "description": "About Avinyaa EdTech: At Avinyaa EdTech, we’re not just building a product — we’re building possibilities. We are an education technology company committed to making future-ready careers accessible for everyone. Through a learner-first approach, we provide skilling pathways, mentorship, and practical career support to help individuals unlock their full potential. Our team includes passionate technologists, educators, and designers working on high-impact solutions. If you’re excited about techno…",
+            "id": "5548132065",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548132065?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=72FAA6C3196F7CD6D1298B56A50A3011BB4A2C5A",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": 21.18955,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Surat, Gujarat",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Surat"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5374790704?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DEB0A490C5256B2F33770B0B949DEE54C94A1E85",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "AI QA Engineer",
+            "description": "TestZeus is pioneering the next generation of AI-powered QA tools. We are seeking an AI QA Engineer with strong expertise in Salesforce QA and a passion for prompt engineering. This role is not traditional manual or automation QA. Instead, you will focus on designing, testing, and optimizing QA prompts that drive AI agents to validate Salesforce and customer applications. You will play a key role in ensuring that TestZeus’ self-serve AI QA platform delivers accurate, reliable, and human-like te…",
+            "company": {
+                "display_name": "TestZeus",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5374790704",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1Mzc0NzkwNzA0In0.RDJnBmROjy8EkNxYRKlouaWYqjifn3ViuwMtCYga_Ow",
+            "created": "2025-08-30T08:41:39Z"
+        },
+        {
+            "created": "2025-12-09T08:57:57Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM0MjY4NjIyIn0.N5sMyrwx2JzsI3fd8xfMUMBXzT5QXYlwyYYrqywgTkQ",
+            "id": "5534268622",
+            "description": "What? Just seeking some good talent! Where? At BrightEdge, we innovate at the intersection of AI, SEO, and enterprise growth. We’re not just shaping the future of enterprise SEO and content performance; we’re also redefining how digital experiences drive real business results. Trusted by more than 55% of the Fortune 100 and 500, alongside 2000 enterprise brands, our AI-powered platform transforms content into measurable traffic, engagement, and revenue. Title: Sr. QA Engineer Location: 100% rem…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BrightEdge"
+            },
+            "title": "Sr. QA Engineer",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5534268622?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=44865965998DCF172D09B44C1D3AE3F6EB9B6F0D"
+        },
+        {
+            "description": "About the Role We are looking for a skilled Automation QA Engineer to ensure the quality, stability, and reliability of our Doverunner SaaS-based Console . The candidate will be responsible for designing and executing test cases, identifying bugs, validating fixes, and ensuring smooth functionality across modules. In addition to manual testing, the candidate should have hands-on experience with Postman for API testing and basic scripting skills for test automation. Key Responsibilities Understa…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DoveRunner"
+            },
+            "id": "5546579468",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NTc5NDY4In0.mCniTxBp8AqKUStb7Nj01zdc_CHtXP-78Y0LNdBoXms",
+            "created": "2025-12-18T08:42:10Z",
+            "title": "Automation QA Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546579468?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A427AD610CD4B81416C952E20EFE7BD3C12DDF73",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Dev QA Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ClearTrail Technologies"
+            },
+            "longitude": 75.9035,
+            "description": "Hi, ClearTrail Technologies is looking for a Dev. QA Engineer in Indore. Roles and Responsibilities 1.Release Sanity Testing: Perform release sanity checks to verify the basic functionality of new releases before they are handed over to the QA team.oIdentify and document any immediate issues or blockers during the sanity testing phase. 2.Release Deployment:oManage and deploy releases to the Dev and Staging environments in alignment with the development cycle. oEnsure all environments are up-to-…",
+            "id": "5517260973",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzI2MDk3MyIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.l_8G27hz3yBPVv2SALkmageKXx-w_mtJHOp_E-b9K_U",
+            "created": "2025-11-28T09:40:49Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5517260973?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B09CF7D6C10D2E3DD3D249A8EF146C1A1E67CF14",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Indore, Madhya Pradesh",
+                "area": [
+                    "India",
+                    "Madhya Pradesh",
+                    "Indore"
+                ]
+            },
+            "latitude": 22.66215
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539009704?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=1A60BADB076BB5B0915455700FB1FCFFCFE82C77",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Manual QA Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM5MDA5NzA0In0.xfR_Bx9VxP49Quky_ZwLO5ktF7JKdggEwDnttpxBBxY",
+            "created": "2025-12-12T09:49:07Z",
+            "company": {
+                "display_name": "ALLSTARSIT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About Client: Our client is a global leader in EV charging and energy management solutions, supporting charge point operators and mobility service providers. Its scalable, end-to-end platform helps clients efficiently manage charging networks while delivering a seamless experience to EV drivers. With operations in over 30 countries and trusted by major brands like Shell, Volvo Group, and EVgo, our client powers millions of charging events and manages over 100,000 public chargers worldwide. As a…",
+            "id": "5539009704"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5555202263?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2956BCC7D4925BB4777D43BB6C9127FB46B321BB",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "QA Engineer (Product)",
+            "company": {
+                "display_name": "gnani.ai",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "We are looking for a detail-oriented QA Engineer with at least 3 years of hands-on experience in manual and automation testing. You will play a critical role in ensuring product quality for our web, mobile, and API platforms. This role is ideal for someone who is strong in manual testing and is comfortable contributing to automation. Key Responsibilities Collaborate with product managers, AI engineers, and developers to define QA strategies for LLM and voice-based features. Design and execute t…",
+            "id": "5555202263",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMjI2MyIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.uwYDJHjnyyI_CefB8-iR_esbJdre9OU1h0-wudwm7fY",
+            "created": "2025-12-25T13:40:51Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5538938833?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=7C60050A1701A155AC02AC130DD62F1212CBA2AF",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "title": "Senior QA Engineer",
+            "id": "5538938833",
+            "company": {
+                "display_name": "Stolt-Nielsen Digital Innovation Centre",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About the Role The Senior QA - Test Automation Engineer plays a critical role in ensuring the quality and reliability of scalable software systems that drive our business. Across our businesses, our applications run business critical processes. Quality is paramount and testing critical. We want to further invest in our test automation practices, in line with the shift-left paradigm and DevOps practices. We have three main technology stacks: .NET/Angular; Node.js/Angular and Low Code (OutSystems…",
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODkzODgzMyIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.5kqcWHRo-yx6k92LvphvfcKzV0gou24jdSlXPWaIp3o",
+            "created": "2025-12-12T08:53:19Z"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5538938836?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=47B1869BCC2C70AFFB948D47DBC6908C005B99C0",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "title": "Manager QA Engineering",
+            "id": "5538938836",
+            "longitude": 78.50806,
+            "company": {
+                "display_name": "Stolt-Nielsen Digital Innovation Centre",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About the Role As an Engineering Manager Quality Assurance, you will lead and grow a world-class test engineering team within our Digital Innovation Centre. You will shape and nurture a team of specialists who deliver cutting-edge solutions for our business units, while fostering a culture of quality, collaboration, and continuous learning. In this role, you are not directly assigned to project delivery but instead oversee the engineering discipline (vertical) in a matrix organization. Your eng…",
+            "created": "2025-12-12T08:53:20Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM4OTM4ODM2In0.q8qlJzrlMC2g2GNGYJwtwp3foVw8LdTcYzDATRQfNe0"
+        },
+        {
+            "latitude": 13.06041,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5529806496?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=C40FF87A8524371223A0463E58B09E51FF786BF0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgwNjQ5NiIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.RP2AVImXxpUjygfmcbvRwKs0pNdFeOR58cyvCc2vdX4",
+            "created": "2025-12-06T01:28:01Z",
+            "longitude": 80.24963,
+            "company": {
+                "display_name": "Lexitas",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About the company Lexitas is a high growth company. The Company is built on a belief that having strong personal relationships with our clients, and providing reliable, accurate and professional services is the driving force of our success. Lexitas offers an array of services including local and national court reporting, medical record retrieval, process service, registered agent services and legal talent outsourcing. Our reach is truly national as well as international. Lexitas is a MNC Compan…",
+            "id": "5529806496",
+            "title": "Senior QA Engineer"
+        },
+        {
+            "title": "Senior QA Engineer",
+            "company": {
+                "display_name": "Ferguson",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "DUTIES AND RESPONSIBILITIES : Responsible for devising a strategic test plan with a focus on API Testing based on reviewing Requirements, User Stories and Tech Design. Responsible for design and development of automated API Testing Frameworks. Responsible for creating regression testing suites for CI/CD Test Automation Responsible for creating and executing detailed and Comprehensive API Test Cases that cover API Contract Validation, Positive, Negative, Boundary and Edge Case Test Scenarios. Re…",
+            "id": "5298975172",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1Mjk4OTc1MTcyIn0.ioe4xBr36y5MqPWlFRgOABmIX5RaUNz4cPsDUNPGgt0",
+            "created": "2025-07-12T08:27:57Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5298975172?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=4025048F204DE3A0F42FE5D269B2AE98944085F9",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5537369151?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=823663CB0BBFE74CF5281E7ADB146440A5008295",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM3MzY5MTUxIn0.Yl21Sd6FUVvm76XpwKKwuq3WJCtqBPPhgQ2Fc8Rf2kY",
+            "created": "2025-12-11T08:52:38Z",
+            "description": "Duties and Responsibilities: Overall3yearsofQAFunctionaltesting.Solidunderstandingofsoftwaretesting principles, methodologies, and standard processes. Must have extensive Manual / Functional testing experience. Abletowritetestplans,create andexecutetestscripts,andreportdefects, clearly,for Functional Testing. Involvedinpeer-reviewoftestscripts forFunctional,Smoke, Regression,andSystem testing. Organizing, monitoring defect management process. Attend status calls as needed to report on testing p…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ferguson"
+            },
+            "id": "5537369151",
+            "title": "Senior QA Engineer"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5519966048?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A002B7BA3565FBB64050DD029A67128454A62FB6",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Principal QA Engineer (Cypress)",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTE5OTY2MDQ4In0._yHFPcskHSM0Y1818zNy07-N77iCX7FURkkACMLoVI0",
+            "created": "2025-11-30T09:45:26Z",
+            "description": "We are seeking a Principal QA Engineer to join our agile development team and take ownership of delivering high-quality software through advanced testing strategies. This is a hands-on IC role where you will design and implement automation frameworks, execute complex test plans, and drive an AI-first approach to quality assurance. What You’ll Do Lead Testing Initiatives: Design, develop, and maintain robust testing strategies and automation platforms. Hands-On Execution: Author and execute func…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CES"
+            },
+            "id": "5519966048"
+        },
+        {
+            "title": "QA Engineer (Automation & Manual)",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1Mjc4NyIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.eTFeTUAromxVLJKQpnxQGJqQcEdZLT2j776FQQ-X88M",
+            "created": "2025-12-06T09:41:02Z",
+            "description": "InfoStride is a global technology and IT services company specializing in staffing, software development, and digital transformation solutions. With expertise in US staffing, cloud, mobile, and web technologies, InfoStride partners with clients to deliver scalable, innovative, and cost-effective solutions that accelerate business growth and drive digital excellence across industries. PFB the job description for the QA Engineer- Automation & Manual role for your better understanding along with c…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "InfoStride"
+            },
+            "longitude": 77.3225,
+            "id": "5530552787",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5530552787?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=42E214D6FB75B354E0287BA4E304A506A165E3A4",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": 28.56579,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "title": "Senior ETL QA Engineer",
+            "id": "5549498407",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Circana"
+            },
+            "description": "Who are we? Circana is a leading provider of market research, data analytics, and consumer insights, serving over 7,000 global brands across 26 industries. Formed through the merger of IRI and NPD, Circana leverages decades of expertise and its proprietary Liquid Data™ platform to help businesses understand consumer behavior, measure market performance, and drive growth. Headquartered in Chicago, the company combines advanced technology, AI, and a vast data ecosystem to deliver actionable intel…",
+            "created": "2025-12-20T09:02:19Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NDk4NDA3In0.nrAjs1O7dtK_WJ0L7htIBIGaD6_LvF1DQro5Y8p3Urc",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549498407?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=37BCC9A4A52A7AA9ED2AE0B00AD35A6A77CB5D72",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5551665463?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=26937782EDFCCB4D376CA809DC5C570ED9654746",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Senior Manual QA Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hyper Lychee Labs"
+            },
+            "description": "We are looking for a highly experienced Senior Manual QA Engineer with strong expertise in testing mobile and web applications , excellent product thinking , and the ability to take ownership of quality across the product lifecycle. The ideal candidate is not just a tester but a quality advocate who works closely with product, engineering, and design teams to ensure we ship exceptional customer experiences. Leadership skills and the ability to mentor junior QA engineers is essential. Experience…",
+            "id": "5551665463",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MTY2NTQ2MyIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.TD27LsTxZ1Y6yp_WYM0_L_1wvQR-piHB_G-93rvGBEE",
+            "created": "2025-12-22T12:09:42Z"
+        },
+        {
+            "title": "Senior Functional QA Engineer",
+            "contract_time": "full_time",
+            "created": "2025-12-13T09:40:07Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDY3MzQ4MCIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.IiLCgeNPmuN19zcnG-vpr0vE5k8XJk0wvV60oI_JkfY",
+            "id": "5540673480",
+            "description": "About ImpactQA ImpactQA is a top global player in the quality assurance and software testing space, assisting enterprises in their digital transformation journeys using AI, DevOps, and Agile approaches. Our industry-agnostic services strive to improve our clients' quality, speed, security, and digital experience. Combining unrivaled knowledge and specialized talents across our service verticals, we are the first choice for enterprise and fortune 500 firms to help them remain ahead of the curve.…",
+            "company": {
+                "display_name": "ImpactQA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 77.3225,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5540673480?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=AF9867DE010EA99E5280A615EEA7933D9177816F",
+            "latitude": 28.56579,
+            "location": {
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Senior Salesforce QA Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ness Digital Engineering"
+            },
+            "description": "Job Description – Senior Salesforce QA Engineer (Manual & Automation) Experience: 6–9 years Location: Bangalore Employment Type: Full-time Certifications: Mandatory: Salesforce Administrator (ADM-201) Preferred: Salesforce Sales Cloud Consultant, Service Cloud Consultant About the Role We are looking for a highly experienced Senior Salesforce QA Engineer who is strong in both manual and automation testing , with deep hands-on expertise across Salesforce Sales Cloud, Service Cloud, Experience Cl…",
+            "id": "5546312805",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxMjgwNSIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.EQHDDJ8DV7kFK5DLb0Nzixuzy3Vr6vc26jYPxnQ7O6w",
+            "created": "2025-12-18T02:35:36Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546312805?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5480B5C49CD5F664015227A3FE76EC02090E0E85",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TransPerfect"
+            },
+            "description": "We are seeking a Senior QA Engineer with extensive experience testing tablet applications, leading quality strategy, and driving end-to-end testing across complex, cross-device ecosystems. This role requires deep expertise in responsive/adaptive UI, AI models validation, strong technical judgment, and the ability to influence engineering and product teams to deliver high-quality tablet experiences at scale for global users by supporting internationalization and localization workflows and automa…",
+            "id": "5539015296",
+            "created": "2025-12-12T09:51:29Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM5MDE1Mjk2In0.62v66OyVYD_NXUztqS28klOkpUhrh655tZw9nsYDphY",
+            "title": "Senior QA Engineer - Tablet",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5539015296?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8C9028BC5A4B06EBB964ED09EAC19B2337ECF658",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_type": "contract",
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDk4NzI0Mjg5In0.x2pOjRD6OwpwLGKG-yWIfb_SvXRg-TmJYRiuW-Swmb4",
+            "created": "2025-11-16T09:17:01Z",
+            "id": "5498724289",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TransPerfect"
+            },
+            "longitude": 73.84735,
+            "description": "We are seeking a Senior QA Engineer with extensive experience testing smartphone applications, leading quality strategy, and driving end-to-end testing across complex, cross-device ecosystems. This role requires deep expertise in responsive/adaptive UI, AI models validation, strong technical judgment, and the ability to influence engineering and product teams to deliver high-quality smartphone experiences at scale for global users by supporting internationalization and localization workflows an…",
+            "title": "Senior QA Engineer - Smartphone",
+            "latitude": 18.5062,
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5498724289?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=7D2ACB03383D75B5FE5387A4620507D6B33200B3"
+        },
+        {
+            "description": "Job Description: We are seeking a skilled and passionate QA Engineer with strong expertise in Python and TestComplete (Web Automation). The candidate will be responsible for developing and maintaining automation frameworks, writing test scripts, and performing manual and automated testing, including functional, regression, and cross-browser testing. Key skills also include experience with Jira, BDD frameworks, API testing, and working within Agile/Scrum methodologies. Key Responsibilities · Aut…",
+            "company": {
+                "display_name": "BayOne Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5514217971",
+            "created": "2025-11-26T10:00:37Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTE0MjE3OTcxIn0.04femN3mBL2OKAMtusCU1KDlAat4JJeXlR_OccNy0uI",
+            "title": "QA Engineer (Python  TestComplete)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5514217971?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5D50C7C36B0E2D3C30CB03821AF34BB3ECF6E7BF",
+            "salary_is_predicted": "0"
+        },
+        {
+            "latitude": 18.5062,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5501264001?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=7BE51B2791396EB6CB7F77E46BE7F292A143624B",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTI2NDAwMSIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.IihJ-Q-4FPd56Kyr8zvZb6rketglcVTxre0nlTJVSII",
+            "created": "2025-11-18T09:03:11Z",
+            "longitude": 73.84735,
+            "company": {
+                "display_name": "TransPerfect",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "We are seeking a Senior QA Engineer with extensive experience testing desktop applications on Windows and Mac, leading quality strategy, and driving end-to-end testing across complex, cross-device ecosystems. This role requires deep expertise in installation testing, system-level validation, responsive/adaptive UI, AI models validation, strong technical judgment, and the ability to influence engineering and product teams to deliver high-quality desktop experiences at scale for global users by s…",
+            "id": "5501264001",
+            "title": "Senior QA Engineer - PC"
+        },
+        {
+            "id": "5539003011",
+            "company": {
+                "display_name": "TransPerfect",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "We are seeking a Senior QA Engineer with extensive experience testing connected devices, firmware, companion apps, cloud interfaces, leading quality strategy, and driving end-to-end testing across complex, cross-device ecosystems. This role requires deep expertise in responsive/adaptive UI, AI models validation, strong technical judgment, and the ability to influence engineering and product teams to deliver high-quality IoT experiences at scale for global users by supporting internationalizatio…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAwMzAxMSIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.jSmW1xNCMAxZ-puOFfze9Bn0SHF0G6p1d_NBpWhEf-4",
+            "created": "2025-12-12T09:46:46Z",
+            "title": "Senior QA Engineer - IoT",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5539003011?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=9D2254FCCDA66583A74333C872702A6B91E3EA80",
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM3MzgyMzUwIn0.SR-IRR73mJzaTWaTiPceFa5sw46pM3lFk3sp6YZY6yw",
+            "created": "2025-12-11T09:26:22Z",
+            "description": "We are seeking a Senior QA Engineer with extensive experience testing desktop applications on Windows and Mac, leading quality strategy, and driving end-to-end testing across complex, cross-device ecosystems. This role requires deep expertise in installation testing, system-level validation, responsive/adaptive UI, AI models validation, strong technical judgment, and the ability to influence engineering and product teams to deliver high-quality desktop experiences at scale for global users by s…",
+            "company": {
+                "display_name": "TransPerfect",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5537382350",
+            "title": "Senior QA Engineer - PC",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5537382350?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=08E929BBE2D9945C91E369CDABBD11DF8ADF606D",
+            "contract_type": "contract"
+        },
+        {
+            "longitude": 73.84735,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TransPerfect"
+            },
+            "description": "We are seeking a Senior QA Engineer with extensive experience testing connected devices, firmware, companion apps, cloud interfaces, leading quality strategy, and driving end-to-end testing across complex, cross-device ecosystems. This role requires deep expertise in responsive/adaptive UI, AI models validation, strong technical judgment, and the ability to influence engineering and product teams to deliver high-quality IoT experiences at scale for global users by supporting internationalizatio…",
+            "id": "5498724259",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDk4NzI0MjU5In0._6G_pkw__uKLe5mrfOs9g4wUlBQBFfynj7Ggk_NXfl8",
+            "created": "2025-11-16T09:16:59Z",
+            "title": "Senior QA Engineer - IoT",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 18.5062,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5498724259?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B08550DC4FF388DF92D79E7EF33F12EB71E92F43",
+            "contract_type": "contract",
+            "salary_is_predicted": "0"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5490128281?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F938BEAD206BF229098696770B9FC37558C65C7B",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "Sr. Software QA Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HME"
+            },
+            "description": "Job Summary: We are seeking a Senior Software QA Engineer with expertise in software testing, test strategy design, test planning, test execution, and defect management. The candidate will work on cloud-based applications and device-related systems, particularly within drive-through solutions (QSR). This role requires strong automation experience using Playwright with TypeScript/JavaScript, and Cucumber BDD frameworks. The candidate will be responsible for ensuring end-to-end product quality ac…",
+            "id": "5490128281",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MDEyODI4MSIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.-ny3sIgacr92vEQoYJwWp7gtJYjxHiB9iWJtTXhydtI",
+            "created": "2025-11-11T10:08:31Z"
+        },
+        {
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5467156460?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D288502B3B7EA82BA74B1F508F6CC554913B4D42",
+            "salary_is_predicted": "0",
+            "id": "5467156460",
+            "description": "The Opportunity “Come join our highly energetic team of software engineers to create the next generation decisioning platform for FICO’s feature management capabilities. As a QA Engineer, you will be part of an expanding and highly valued software development team which is developing cutting edge analytic software for high profile customers across a wide variety of industries using the latest technologies and software development methodologies” - Director, Software Engineering What You’ll Contr…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FICO"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDY3MTU2NDYwIn0.aVoG61Vx64sSnwzaTNMk2j-UZ4fBVguwiJrS32_7sfU",
+            "created": "2025-10-28T09:14:23Z",
+            "title": "QA Engineer ( Python, Pytest)"
+        },
+        {
+            "id": "5517269087",
+            "description": "It’s not everyday that you consider starting a new career challenge. RingCentral, Inc. (NYSE: RNG) is a global leader in cloud-based communications and collaboration software. We are fundamentally changing the nature of human interaction—giving people the freedom to connect powerfully and personally from anywhere, at any time, on any device. The company provides unified voice, video meetings, team messaging, digital customer engagement, and integrated contact center solutions for enterprises gl…",
+            "company": {
+                "display_name": "RingCentral",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzI2OTA4NyIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.NeHX3YHx8B3NeDKPz3k3nCXs9U9KLasF7DM-F72bgko",
+            "created": "2025-11-28T09:47:25Z",
+            "title": "Lead Automation QA Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5517269087?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8A4028E99F8473E0D9A5178D0F48A3927B16CDDA",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Mobile/Web QA Engineer",
+            "created": "2025-11-24T07:14:11Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTEwOTM2OTgzIn0.zEUaO1Ut45N8z3241mrcmpifzlImxMU3bXKVtetcqE4",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BayOne Solutions"
+            },
+            "description": "Responsibilities: · Collaborate with cross-functional teams to understand project requirements · Come up with Test Plan and write Test Cases for Mobile Applications/Web Applications · Execute the Test Cases Manually and provide sign Offs · Define test automation strategies. · Develop and maintain end-to-end test suites using Detox to validate web applications. · Create and execute automated test scripts for regression, functional, and performance testing. · Identify and report defects, track is…",
+            "id": "5510936983",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5510936983?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=C53BB535E2E1D8CEA156A45F5D2E98B6C81FBB42",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4NTQ2NSIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.1X_oyUi1c41BEt0OVKKa8FmEdblXN_P1Xq8BBHo8qAo",
+            "created": "2025-12-11T09:27:41Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Luxoft"
+            },
+            "description": "Project Description: Working within the client's test and government framework, you will be responsible for creating the automation framework to support all data warehousing progression and regression testing and fix the defects. Responsibilities: • Analyze and document test data, results, and recommendations. • Perform functional and non-functional testing for data validation between source and target DBs as per the business requirements using relevant Azure components such as Azure bricks, Az…",
+            "id": "5537385465",
+            "title": "Data QA Engineer_Bengaluru",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5537385465?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=C5646DFF2D47FBD4E26EA8FBD22E2AC05E083380"
+        },
+        {
+            "contract_type": "contract",
+            "redirect_url": "https://www.adzuna.in/land/ad/5556103711?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B972B4CDB8F60BF4D6984FDBDBA94E34537A42FF",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Salesforce QA Engineer- Contract",
+            "id": "5556103711",
+            "description": "Title: Salesforce QA Consultant Location: Remote Time: 11 am to 8 pm IST Duration: 6 months  Extendable Experience: 5 years Job Description: Salesforce QA Ability to generate test cases by referring to the functional requirements and/or user stories Strict adherence to traceability Ability to iterate over test cases to refine them as execution progresses Performing / assisting in RCA to the extent possible Owner test execution & reporting for in-sprint testing as well SIT & UAT Leading triage m…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Gravity Infosolutions, Inc."
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTU2MTAzNzExIn0.XiVJYlaqAAFUZGgnT5nVzgUYOBA8c7IhdiR7XcKPn3M",
+            "created": "2025-12-26T08:39:24Z"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5518768136?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=91E1794F35CFAFB8D887F85F758DEF7B4A030416",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "latitude": 19.00821,
+            "title": "QA Engineer – RMS  Trading Domain",
+            "company": {
+                "display_name": "Indiabulls Securities Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 72.84415,
+            "description": "QA Engineer – RMS  Trading Domain Experience: 5 years Location: Mumbai Immediate Joiners Preferred. Job Description: We are hiring a QA Engineer with deep hands-on experience in Risk Management Systems (RMS) and trading-domain applications . The candidate must demonstrate strong analytical capability, attention to detail, and effective decision-making under pressure. Leadership ability and domain understanding are critical for this role. Key Responsibilities: Perform functional, integration, an…",
+            "id": "5518768136",
+            "created": "2025-11-29T10:07:44Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTE4NzY4MTM2In0.nTPj6ShRggsthU5uYGmMO9CZopxxWrrd_mLJm-eAlAI"
+        },
+        {
+            "created": "2025-12-19T08:58:57Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEzNzQ4OCIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.ZwO9_RTn1up2Qpjb764R8jdQQrnjK5U9Tyu9zpWDXJ4",
+            "id": "5548137488",
+            "longitude": 78.50806,
+            "company": {
+                "display_name": "Talent500",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Talent500 is hiring for one of its clients. About Pella India: ANSR has set up Pella India, a Global Capability Centre in Hyderabad. The center’s mission is to create a high-impact, high-trust technology and data hub that strengthens Pella’s global capabilities and accelerates innovation. Pella India operates as a direct extension of the Pella U.S. IT team to support long-term capability growth, especially in areas like Data Engineering, SalesForce (CRM, Install, Service), Oracle Human Capital …",
+            "title": "Senior QA Engineer [T500-21895]",
+            "latitude": 17.40275,
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548137488?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6BA92CB9B47DABC04B8160B14365C4005602FAA0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5494918567?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=9D8B5BD27B69C88AF98F1A19BF64ECA146A2616B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVB1YlpGamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDk0OTE4NTY3In0.x9HEfv6lC5re8ghBAAJvrlZLBW9GekpVVcZkdJT9aqI",
+            "created": "2025-11-14T06:27:12Z",
+            "description": "Location: Remote (India) Availability: Must overlap with US Pacific Time until 11:00 AM PST on weekdays We’re looking for a skilled QA Engineer specializing in blackbox testing to ensure the quality and usability of our products. This role is entirely focused on functional, regression, and exploratory testing. Key Responsibilities: Perform thorough blackbox testing: functional, regression, smoke, exploratory, and UI/UX Design and execute detailed manual test cases Identify, document, and track …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Abacus.AI"
+            },
+            "id": "5494918567",
+            "title": "QA Engineer (Blackbox Testing - Remote)"
+        },
+        {
+            "id": "5525206380",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TransPerfect"
+            },
+            "description": "We are seeking a QA Engineer with strong experience testing smartphone applications and driving end-to-end testing across complex, cross-device ecosystems. This role requires strong expertise in responsive/adaptive UI, technical judgment, and the ability to influence engineering and product teams to deliver high-quality smartphone experiences at scale for global users by supporting internationalization and localization workflows and automation. Contract Duration: 12 Months (Potential 12-Month E…",
+            "created": "2025-12-03T09:00:07Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTIwNjM4MCIsInMiOiI5UHViWkZqaThCR2pKYWJ4V3QwZURRIn0.MYQam0ZNBshagFDexmXxGONIQb05iVKgrKB-1g_ZaaY",
+            "title": "Mid-level QA Engineer-Smartphone",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5525206380?se=9PubZFji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=06873BDF269B2A464688745BE5480268C9BB6E86",
+            "salary_is_predicted": "0"
+        }
+    ],
+    "mean": 1209365.99,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

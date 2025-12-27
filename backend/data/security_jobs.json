@@ -1,0 +1,1454 @@
+{
+    "mean": 1556116.13,
+    "count": 3506,
+    "results": [
+        {
+            "company": {
+                "display_name": "Jio Platforms Limited ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Security Engineer (L2) : System Compliance and Identity & Access Management Job Role Position: Security Engineer (L2) : System Compliance and Identity & Access Management Work Location: Bhubaneswar Educational Qualification: Bachelor’s degree in Engineering or equivalent Work Experience: 5 Years Certification: Azure Security certification / GCP Security Certification / AWS Cloud Security Certification or similar certifications Flexible on working hours and ready for 24/7 support model. Knowledg…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Security Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5537383665?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=40B3A9F052BE2E0261BA1FF44B0C8323FD5A56BC",
+            "id": "5537383665",
+            "created": "2025-12-11T09:26:47Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTM3MzgzNjY1In0.1I1DQwN5Y3pn4nsKbSfyS3-FNmxqqvq97T5rfh714B0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 77.41355,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4NTEyNyIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.X1UJ823l6nNk-oyX5AFlf5bSlxlK3OjyKQGUQY6BAFo",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537385127?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=E8A240261C52389036ED8A153AA995EF1F07BA00",
+            "created": "2025-12-11T09:27:34Z",
+            "id": "5537385127",
+            "location": {
+                "area": [
+                    "India",
+                    "Madhya Pradesh",
+                    "Bhopal"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bhopal, Madhya Pradesh"
+            },
+            "latitude": 23.27495,
+            "title": "Security Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are looking for Security Engineers with following qualities to join our team at Altered Security: Passionate about information security. Ability to solve challenges. Interest in new attack vectors and creating challenges. Demonstrated experience in Windows and Active Directory security. If you hold CRTP certification, it is a plus. Who should apply: Very good communication skills and ability to communicate with customers. Good knowledge of Windows, Active Directory and/or Azure security. Exc…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Altered Security"
+            }
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2NTY2NDI5In0.ph2-527QcN2RHltQ4wyv79iZkDCT2VblzoXoHT4-0Jc",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546566429?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=55B579EDBF6DBFCF21012558041184B313B46B9B",
+            "id": "5546566429",
+            "created": "2025-12-18T08:40:11Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "latitude": 17.40275,
+            "title": "Security Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Hi, We have an immediate requirement for Security Engineer with our organization SHI Solutions India Pvt Ltd. PFB Job details: Experience - 3years Work Location - Hyderabad JD: Microsoft Purview (Information Protection & Compliance) Design, implement, and manage Microsoft Purview components: Information Protection (MIP): Labels, sensitivity labels, auto-labeling, encryption, and DLP policies. Data Lifecycle Management (DLM): Retention, records management, and disposition. Data Loss Prevention (…",
+            "company": {
+                "display_name": "SHI Solutions India Pvt. Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ADM"
+            },
+            "description": "Position Summary: Under general supervision engineer, implement, and maintain effective methods to protect ADM systems and data. Use and establish procedures to consistently build and deploy secure solutions, such as security tools and business systems. Collaborate with IT, and other business functions to provide recommendations of operational and technical solutions to enable the business and maintain the security posture to appropriate risk levels. This position will directly report to the Se…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Security Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5518666102?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=BC6229D79912961050E3110B8DFC6B0468F489BC",
+            "created": "2025-11-29T05:52:05Z",
+            "id": "5518666102",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTE4NjY2MTAyIn0.UTV8TQm66nJFil63Ul-rkMpUpKri9hDOrRwj6bLTQ7I",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "company": {
+                "display_name": "redBus",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are looking for a Security Engineer to join our cybersecurity team and strengthen redBus defence against evolving cyber threats. This role involves monitoring, analysing, and responding to security incidents while continuously improving our security framework. The ideal candidate will have 7–10 years of experience in Security Operations, with deep expertise in Endpoint Security, Network Security Controls, and Application/Data Security, hands-on experience with relevant tools, and strong scri…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Security Engineer",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMDc3NyIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.r6Gf5btvdxwz3GcvrphOMwPxR60B2ZfSpl-_Mi3nDyM",
+            "id": "5555200777",
+            "created": "2025-12-25T13:35:51Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5555200777?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4D1E83C8875868008D7D9D59B25271F0FD35DD2A"
+        },
+        {
+            "description": "ISA is a premier technology solution provider for the Aviation industry. We are backed by Air Arabia and headquartered in Sharjah, UAE. https://isa.ae/ ISA (Information Systems Associates) is a premier in the field of Information Technology providing best-of-breed technology solutions for the global travel and aviation industry since 2005. We offer a wide range of tailor-made aviation technology We are hiring! Pune location Smartworks Building, Nexa Soft, Core Ops,5th Floor, 43EQ, Survey No 44,…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ISA"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-06T01:27:28Z",
+            "id": "5529805514",
+            "redirect_url": "https://www.adzuna.in/land/ad/5529805514?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=F8E0D67DCB593E69A061043E41C1990D4F35DDE9",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTI5ODA1NTE0In0.E24RJyMflmjLB4kI2_gqynBVLjcg3bkinl-oyiL6irU",
+            "longitude": 73.84735,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "title": "Security Engineer",
+            "latitude": 18.5062,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "As the world’s leading vendor of Cyber Security, facing the most sophisticated threats and attacks, we’ve assembled a global team of the most driven, creative and innovative people. At Check Point, our employees are redefining the security landscape by meeting our customers’ real-time needs and providing our cutting-edge technologies and services to an ever-growing customer base. If you want to make the world a safer place – you belong with us. Your role in a nutshell No two days for a Check Po…",
+            "company": {
+                "display_name": "Check Point Software",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 80.24963,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjYwMTg3NiIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0._qpHbT8-geZr43eJVmSgCvEjCnukaGPIE-3NyvS0lCo",
+            "created": "2025-12-18T08:45:15Z",
+            "id": "5546601876",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546601876?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=169E067B3E0810E66803AF0B4341159958CE68B4",
+            "latitude": 13.06041,
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Security Engineer"
+        },
+        {
+            "longitude": 75.9469,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2MzE1MDM5In0.ScPYvn7pRAolGmzcf1SZxVTaf-zkrhdzri2d2lrz9wQ",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546315039?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=A88F2FBB2E7FB1F8415DC1A87082BC57434CFE49",
+            "id": "5546315039",
+            "created": "2025-12-18T02:38:17Z",
+            "latitude": 26.7441,
+            "location": {
+                "display_name": "Jaipur, Rajasthan",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Rajasthan",
+                    "Jaipur"
+                ]
+            },
+            "title": "Security Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "We are seeking a highly skilled Security and Network Engineer to join our team supporting our customers. This role is critical in ensuring the security, reliability, and efficiency of global Security and Network infrastructure across multiple sites and factories. Salary is based on experience and technical competence. Key Responsibilities • Co-manage firewalls across global sites and factories, ensuring compliance and optimal performance. • Conduct periodic audits of internal and external firew…",
+            "company": {
+                "display_name": "OpalSoft",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "title": "Application Security Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ5NDk3OTg2In0.TxQQ5XfNLK2GQ3UqRB33I6VLQbuS3rrh_6YSbl8YYfg",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549497986?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=CA28789AEEFA512DBA71A5BE9614DE0D4884985F",
+            "created": "2025-12-20T09:02:04Z",
+            "id": "5549497986",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KPG99 INC"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Role: Application Security Engineer Skills Required: • At lease 3 years of Application Security Experience • Experience with SAST, SCA, DAST • Experience with Python, C#, or Javascript • Experience security testing for Web Applications Application Security Engineer (Analyst?) - Job Description As the Application Security Engineer (Analyst) at the Information Security team, you will support security analysis and security support activities into software solutions. You will have the opportunity t…"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "longitude": 80.24963,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNDk3OCIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.LKIFcRhjVTnJ6e9eQHclDZQhd5W0TMKmwgd_1lLpz4Q",
+            "created": "2025-12-18T02:38:16Z",
+            "id": "5546314978",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546314978?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=480F6AD88DB8330F0619AFE98EE172845DE1B1DE",
+            "latitude": 13.06041,
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "title": "Security Engineers (F5)",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Important Note: Please apply only if you have relevant experience for the role. Submitting applications for positions unrelated to your skills or experience may result in your profile being flagged by LinkedIn. This could reduce your visibility for future job postings and recruiters in your area of expertise. Security Engineers (F5) Exp – 8- 10 Location: Chennai Responsibilities Security engineer needs minimum 10 years of IT experience and at least 5 years worked in azure cloud security roles. …",
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            }
+        },
+        {
+            "created": "2025-12-13T09:39:00Z",
+            "id": "5540671870",
+            "redirect_url": "https://www.adzuna.in/land/ad/5540671870?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=AA934005344E7E32A78EBB47F491342000753878",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQwNjcxODcwIn0.-8SRmCQjyd7IUCC6F0D0WdzX-31cLEv--rVq-qP08bI",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Application Security Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "contract_type": "contract",
+            "description": "Job Title: Application Security Engineer Location: Remote (Offshore) Contract Type: Contract Job Description Skills Required: • At lease 3 years of Application Security Experience • Experience with SAST, SCA, DAST • Experience with Python, C#, or Javascript • Experience security testing for Web Applications As the Application Security Engineer (Analyst) at the Information Security team, you will support security analysis and security support activities into software solutions. You will have the…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "KPG99 INC",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Cyber Security Engineer",
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "latitude": 19.00821,
+            "redirect_url": "https://www.adzuna.in/land/ad/5548136299?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=004A79DA4D87836AE9896C5F3F7717E174995BF8",
+            "created": "2025-12-19T08:58:31Z",
+            "id": "5548136299",
+            "longitude": 72.84415,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTM2Mjk5In0.hSKNYVoIVGTv2m0FZ1RNjG-JQIZGY51XbVgGjhrgMUM",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "display_name": "Eaglehires HR Solutions Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Hi, Hiring for one of our client based in Mumbai, Job Title : Cyber Security Engineer Experience : 5 years Salary Bracket : upto 9 LPA Location : Andheri East,Mumbai Job Description: Cyber Security Engineer We are seeking a proactive Cyber Security Engineer to develop, implement, and manage organizational cyber security policies and controls. The role involves overseeing security audits and compliance initiatives, managing vendor and third-party risk, and ensuring alignment with industry regula…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "description": "Sr. Network Security Engineer  Chennai, India | Full-time We’re looking for a Sr. Network Security Engineer to join our Managed Security Services team. The ideal candidate will have strong hands-on experience with enterprise-grade network security technologies and a solid understanding of SASE, ZTNA, SSE, and SD-WAN architectures. Key Responsibilities: Implement and manage next-gen network security solutions (SASE, ZTNA, SSE, SD-WAN). Configure and optimize firewalls, VPNs, IDS/IPS , and other …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TECEZE"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548137335?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=EB250F55CEAD056903D87321E6667EA6FB280304",
+            "id": "5548137335",
+            "created": "2025-12-19T08:58:55Z",
+            "longitude": 80.24963,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTM3MzM1In0.FyJKd6BS-Qc4vnFc6zjS8c5GlUEMrXBh7bcLizazRUI",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Network Security Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "latitude": 13.06041
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "apna"
+            },
+            "contract_time": "full_time",
+            "description": "Job Title: Senior Security Engineer (Sr.SE ) Location: Bengaluru Employment Type: Full-time Team: Security Engineering Role Overview As a Senior Security Engineer , you will play a key role in strengthening the company’s overall security posture across our AI platforms, microservices, data pipelines and mobile/web products . You will design, build and automate scalable security controls that integrate seamlessly into our CI/CD pipelines and cloud infrastructure. This role demands a hands-on bre…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Senior Security Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5493101431?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=E5DCE28251C1912D7374A591C3FD506B484AD5EE",
+            "id": "5493101431",
+            "created": "2025-11-13T11:03:52Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NDkzMTAxNDMxIn0.Hw_dljr9S0djxIM4WsbPkXXCVJDfWvzZtQ464fCmrAM"
+        },
+        {
+            "title": "Network Security Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5510936774",
+            "created": "2025-11-24T07:14:03Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5510936774?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=5C9AA728FD0F365F5E0FCB41AC0636266D5E12D6",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDkzNjc3NCIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.dbLEiXI4FVll_I6af-cAlZeaJF1YatZEW0aqA0JcqgY",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "display_name": "PeopleStrong",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "We are looking for an experienced Network and Security Engineer (3 years) to manage and enhance our IT infrastructure. The ideal candidate will have strong expertise in network management, security, and troubleshooting, ensuring seamless connectivity and robust protection across systems. Key Responsibilities: Configure and manage Fortinet Firewalls and Cisco L3 Switches . Oversee network infrastructure with multiple ILLs, firewalls, and HA setups across data centers. Configure and maintain P2P …",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Persistent Systems"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Position: We are seeking kubernetes security engineer with hands on experience in kyverno, security kubernetes, etc., Role: Kubernetes Security Engineer Location: All Persistent Locations Experience: 5 to 8 Years Job Type: Full Time Employment What You'll Do: Design, implement, and maintain secure cloud architectures on GCP. Develop and manage Infrastructure as Code (IaC) using Terraform to automate cloud deployments. Monitor and analyse security events in SOC operations, responding to in…",
+            "latitude": 18.5062,
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Kubernetes Security Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MDg4NSIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.VnfxXQ5GtY0TBBtK6SWDcq3KCxnfpeRRxe-lJLNSphw",
+            "longitude": 73.84735,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "id": "5530550885",
+            "created": "2025-12-06T09:34:37Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5530550885?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=1DE3D8CC079EE27986B28B8FBE2162E9C33790E9"
+        },
+        {
+            "company": {
+                "display_name": "Tumeryk",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "description": "Company Description Tumeryk is a security and governance platform tailored for Agentic AI infrastructure. We assist enterprises in discovering, securing, and governing AI agentic applications, chatbots, and large language models across their cloud and internal environments. Our offerings include AI Trust Score™ Guardrails for enforcing real-time controls, AI Trust Score™ Red Teaming for scanning LLMs, and AI Trust Score™ Observability for monitoring model behavior. We also provide a Secure Work…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "AI Security Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "created": "2025-10-07T09:47:32Z",
+            "id": "5434982852",
+            "redirect_url": "https://www.adzuna.in/land/ad/5434982852?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6BD5164B4E50E174578CE2FF207C992701A945A8",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NDM0OTgyODUyIn0.l-vyS9Uy9jBOSQIb67WDCyDJMm1O1oyOotKHxLR8c04",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Persistent Systems",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Position: A Level 3 Network/Security Engineer (Senior Engineer) is responsible for designing, implementing, and managing complex network and security infrastructures. This role involves advanced troubleshooting, strategic planning, and ensuring compliance with security standards. It typically includes leadership responsibilities such as mentoring junior engineers and handling escalated issues. Role: Network Security Engineer Location: Bangalore Experience: 8 to 12 Years Job Type: Full Tim…",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Network Security Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NTE5NyIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.rqEA4F666P3rSCdmkSmSM1r0FI_UmDVlui6-7yMxndY",
+            "id": "5536065197",
+            "created": "2025-12-10T16:52:31Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5536065197?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=155D29E2535373B7B96418814C6C675F017662A3"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MzU1NiIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.deLnfI8MMMqEHvsUGU_c5Vm7AqB9AIptn4BHNw1zm0U",
+            "longitude": 80.24963,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5530553556?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=68B27C4E8DE1EC404C1D66EE713BA0D2C7AEBE7D",
+            "id": "5530553556",
+            "created": "2025-12-06T09:44:13Z",
+            "latitude": 13.06041,
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Application Security Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Job Description: Application Security Engineer Experience : 2 to 5 years Location : Alwarpet,Chennai. Job Summary : In this role, you will focus on ensuring the security of web applications, mobile applications, and APIs through a combination of proactive security testing, code review, threat modeling, and vulnerability assessments. You will work closely with development teams to integrate secure coding practices and help mitigate risks in the software development lifecycle. Key Responsibilitie…",
+            "company": {
+                "display_name": "Novac Technology Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Role Insight Global is seeking a Product Security Engineer to join a leading global enterprise software company known for its cloud-based solutions that help businesses manage customer relationships, data and operations. In this role, you will guide our security initiatives across product design, development, and deployment. You’ll work closely with engineering teams to identify and mitigate security risks through threat modeling, penetration testing, and code reviews. You will also c…",
+            "company": {
+                "display_name": "Insight Global",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU0OTUxOSIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0._gdwyvzSOZbL3TLh4HvxDE1KuqslItH66Mfc9MBoPr8",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5530549519?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=DFC30C600640D06583C98F930D8B2DAD3DF48F99",
+            "id": "5530549519",
+            "created": "2025-12-06T09:29:21Z",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "title": "Product Security Engineer"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Greetings from TCS Role: Network security Engineer Experience: 5years In person drive Location : Chennai, Hyderabad, Bangalore,Mumbai,,Pune Mode of interview: In Person interview. Job Description: We're Hiring: Network Security Specialist! Are you passionate about network security and thrive in dynamic environments? We're looking for a skilled professional to join our team! ✅ Required Skills: Strong foundation in networking technologies (LAN Switching, Routing) Hands-on experience with Cisco Se…",
+            "latitude": 17.40275,
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana"
+            },
+            "title": "Network Security Engineer",
+            "longitude": 78.50806,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMzQ1NDQzNiIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.4It-CuHr8DaDBqqL3ODsk-nCodEZvOUaxVviBaXj6To",
+            "id": "5523454436",
+            "created": "2025-12-02T08:54:15Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5523454436?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=EB9FCCE0F85C80761C18DFECF381C437E43A1486"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NjEwMzIwNCIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.iQDvHDtYAqRxz8M2FeL2YNlB0wOzcDKIuS4xjAOaPJE",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-26T08:37:53Z",
+            "id": "5556103204",
+            "redirect_url": "https://www.adzuna.in/land/ad/5556103204?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=7FE578FA0EF561500BFB4FEC4814B6EE7E1CE320",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "contract_type": "contract",
+            "title": "Product Security Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Job Title: Product Security Engineer Location: Bangalore, Karnataka Duration: Long-Term Contract Company Overview: FLUIDECH, an ESCONET group company and a deemed public company, is a technology consulting and managed services firm specialising in cybersecurity. Founded in 2014 and headquartered in Gurugram—and today with a client base spanning over 100 organisations worldwide—Fluidech designs IT solutions aligned with business objectives, fostering trusted relationships and delivering measurab…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Fluidech"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Greetings from TCS TCS is Hiring for Network Security Engineer(L2) Desired Experience: 6- 10 Years Job Location: Chennai Job Description: · Routing and switching on expertise level · Cisco Switch 2k,5k 7k 9k. Juniper switches · Firewalls: checkpoint, Palo Alto, FortiGate SDWAN, SonicWALL · F5 LTM/GTM, Citrix Riverbed WLC and Access points. · Infoblox DDI · Demonstrable experience in LAN/WAN, MPLS, QOS, multicast and core networking discipline, including advanced routing protocols, BGP, OSPF and…",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTI4MDA5Nzc5In0.9PXPkaARScRaCQG35_hGbtitFA5vSM61FPUyq8pCFHs",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5528009779?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=2D198C7E1CBA84027E2F5C859199168085F65683",
+            "id": "5528009779",
+            "created": "2025-12-05T01:21:31Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Network Security Engineer"
+        },
+        {
+            "description": "We are seeking a proactive SOC Analyst / Security Engineer with 1 years of experience in EDR, SIEM monitoring, and incident analysis. The role involves monitoring alerts, validating threats, performing basic remediation, and improving detection capabilities using frameworks like MITRE ATT&CK. Key Responsibilities · Monitor, analyze, and triage alerts from various security sources. · Investigate suspicious processes, file executions, and malware behavior on endpoints. · Escalate high severity in…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SAAP Technologies"
+            },
+            "id": "5555202341",
+            "created": "2025-12-25T13:41:05Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5555202341?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=7064354F03B09DD74F1CFE288C0436341C091889",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMjM0MSIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.Cpl14ej516bbu_KFcyaeaVMrqa74-DWRdK2iFcGwgi8",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "title": "Security Engineer L1",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            }
+        },
+        {
+            "description": "Role: Network Security Engineer Required Technical Skill Set: Strong Knowledge Juniper Firewalls Desired Experience Range: 8-10 Yrs Location of Requirement: Pune, Hyderabad, India Responsibilities Experience with the design, configuration, implementation and troubleshooting of Juniper Firewall. Responsible for the planning, design, implementation, organization and operation of Firewalls based perimeter security network and network security devices. Provide operational support for Proxy, WAF on …",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "created": "2025-12-21T14:32:25Z",
+            "id": "5550831055",
+            "redirect_url": "https://www.adzuna.in/land/ad/5550831055?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=23C295A04C3CABA6D494E419D3D7BEC9FD536D52",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 73.84735,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTUwODMxMDU1In0.24wg2rLkCL-FCHS_9f46qReUkzKGMk9V6-UVA_ro6GQ",
+            "title": "Network Security Engineer",
+            "latitude": 18.5062,
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Role: Network Security Engineer Required Technical Skill Set: Strong Knowledge Juniper Firewalls Desired Experience Range: 8-10 Yrs Location of Requirement: Pune, Hyderabad, India Responsibilities Experience with the design, configuration, implementation and troubleshooting of Juniper Firewall. Responsible for the planning, design, implementation, organization and operation of Firewalls based perimeter security network and network security devices. Provide operational support for Proxy, WAF on …",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MDY0NzczNCIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.yqcb_jsirdmJtfLn1lmxCe07g7pH1HFjdnaRrRAIE3U",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5550647734",
+            "created": "2025-12-21T08:12:02Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5550647734?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=0D00D60542C18C08A0328B73D15C92A5E0FD1542",
+            "latitude": 17.40275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "title": "Network Security Engineer"
+        },
+        {
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "title": "Application Security Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTI2OTM5In0.i7du7qu8CsDXDe8k92ik6GW1DURNCs78wlCtlUHxoGo",
+            "id": "5548126939",
+            "created": "2025-12-19T08:54:33Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548126939?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6BF89019148765C58EABE87BC35C7C35424F7D60",
+            "company": {
+                "display_name": "Unicommerce",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Role: As an Application Security Engineer, you will play a pivotal role in establishing and spearheading our company's appsec program, ensuring the security of our products and services. You will be responsible for conducting comprehensive security assessments, identifying and remediating vulnerabilities, and collaborating with our product and tech teams to integrate security into the development lifecycle. This is an opportunity for you to make a tangible impact on our company's security postu…"
+        },
+        {
+            "id": "5553108037",
+            "created": "2025-12-24T00:07:07Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553108037?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=A97EB26C2B5892FD2F02127B4D3948686243D952",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTUzMTA4MDM3In0.oIseLZf-GbnAsJCQv0Z2PlClG9rIKoyqySoMHoiltCQ",
+            "longitude": 72.84415,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "Network Security Engineer",
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "latitude": 19.00821,
+            "description": "TCS Hiring for Network Security-Fortigate-Support Engineer Role : Network Security-Fortigate-Support Engineer Desired Experience Range: 6 to 8years Location: Mumbai Job Description : Must-Have 1. Must have hand on experience on SIEM Required Technical Skill Set Provide day to day operational support for the Firewall Management Service. · Responsible for the design, planning, implementation, and operation of firewall setups and management. · Your role involves resolving operational incidents, ma…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTM5MDEyNjUzIn0.-Y57EQ6cvZ1gqY6ZFef6KPxtJOzUnykquKmdefvxo24",
+            "id": "5539012653",
+            "created": "2025-12-12T09:50:41Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539012653?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=132FE9CF9BBFBCF3D0521ACB99DA00C1F4900F37",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Senior Security Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Break. Test. Secure. Strengthen. We are seeking a highly skilled Senior Security Engineer specializing in penetration testing to strengthen the security posture of our digital ecosystem. In this role, you will proactively identify vulnerabilities, simulate real-world attack scenarios, and work closely with engineering teams to build a safer, more resilient platform. If you thrive in high-impact environments and believe security is built—not assumed—this role offers the challenge and scope you’r…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Boutiqaat"
+            }
+        },
+        {
+            "description": "Role : Security Engineer - II (GRC) Key Responsibilities Creating, updating, and maintaining organization information security policies, and procedures. Working with various departments to promote a culture of security awareness and assist in driving the information security training & awareness program. Assist in conducting the various simulations and campaigns for awareness and maintain measure the effectiveness. Assist in Information security projects implementation as per the projects assig…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Nykaa",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5546566524",
+            "created": "2025-12-18T08:40:12Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546566524?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=8FF80BA8D961321DC1F4EF2D77F39C7A3630AAF6",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2NTY2NTI0In0.Hn1g-SrVNatAo0tjMkUouU8GGEJrtdoLsqGMZoAtZV8",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Senior Security Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "company": {
+                "display_name": "ADM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "OT Security Engineer Position Summary: Under general supervision engineer, implement, and maintain effective methods to protect ADM (Archer Daniels Midland) systems and data. Use and establish procedures and standards to consistently build, deploy, support, and integrate secure solutions, such as security tools and business systems. Collaborate with IT (Information Technology), and other business functions to provide recommendations of operational and technical controls to enable the business a…",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "OT Security Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTM0ODAxNiIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.MXYAIC_9tvK2lTk2eEJISXd0QhWyFwruOomH4PIx1Po",
+            "redirect_url": "https://www.adzuna.in/land/ad/5501348016?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=F790A2672724EE0D036C30EDF520A6157FCDE823",
+            "id": "5501348016",
+            "created": "2025-11-18T12:32:15Z"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Advance Auto Parts"
+            },
+            "description": "INTRODUCTION The Infrastructure Architecture and Engineering group is a component of The Infrastructure Engineering, Operations and Support (iEOS) organization that is part of Advance Auto Parts Information Technology function. This team is responsible for all phases of Infrastructure delivery from architecture to daily operations. iEOS operates at significant scale supporting over 70,000 connected end points and nearly 75,000 team members across North America. We deliver infrastructure and sup…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Network Security Engineer",
+            "latitude": 17.40275,
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "created": "2025-12-06T05:58:38Z",
+            "id": "5530447245",
+            "redirect_url": "https://www.adzuna.in/land/ad/5530447245?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=CD050DFF689BFE9C464798B3705AF7F8DADAD30B",
+            "longitude": 78.50806,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTMwNDQ3MjQ1In0.pTxHfWOC8mvHnF9YzkHnL4wkvIhv5r3fz3G700rvFgc"
+        },
+        {
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PLEXO HR Solutions"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Mode: Hybrid Job Type : Full-time Working Days: 5 Industry: AI Consulting About the Company: The company builds intelligent, scalable, and secure platforms that power real-world business automation and decision-making. We work with modern AI systems, robust backend architecture, and high-performance cloud infrastructure. If you love solving deep technical problems and building production-grade systems, you’ll fit right in What You’ll Do: We are looking for a Cybersecurity Engineer who can o…",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 18.5062,
+            "title": "Cyber Security Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MTYwNCIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.4oAZk1mpU2262qIgasjv3Zphn_47uxfKmhToSTg0iuU",
+            "longitude": 73.84735,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-12-11T09:25:21Z",
+            "id": "5537381604",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537381604?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6D38A6EA0235A9E3795ADF94A8B9C66A39838BE1"
+        },
+        {
+            "description": "Job Title: Lead Engineer – Security Operations Department: Engineering and Operations Location: Mumbai Reporting: Manager Security Operations Job Type: Full Time Shift: Rotational Shift PRE-REQUISITES Strong technical and subject matter expertise in at least four or more of the following security specialties: Firewall: Cisco, Palo Alto, Checkpoint, Fortinet, Zscaler, Barracuda VPN - IPSEC, SSL VPN: Ivanti, F5, Cisco, GlobalProtect NAC: Cisco ISE, Aruba ClearPass Unified Thread Management (UTM) …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "NTT Global Networks",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537385667?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6E260B9D2F0A382B01CCD6B67E89AA6B14DB5010",
+            "id": "5537385667",
+            "created": "2025-12-11T09:27:46Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTM3Mzg1NjY3In0.nXwJ2RtsQ2cfYDqRQ3EkP8eCGftV0WwTaGmCm0mVGRE",
+            "title": "Lead Security Engineer",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            }
+        },
+        {
+            "id": "5525206403",
+            "created": "2025-12-03T09:00:07Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5525206403?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=DDDF275C51DEF590FC64D85BA840D0B8A56457B3",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTI1MjA2NDAzIn0.pkTZo6HJrSeuk-7eXZX2rWc-tNuceTgB5TS9GDvDoYs",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Physical Security Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "description": "The hiring Manager highlighted the following mandatory details: 1.They are looking for someone with experience in camera systems and the ability to apply AI technology. 2.The candidate should be motivated, technically strong, and able to communicate effectively with cross-country stakeholders. 3.The client currently has a large backlog of tickets that need to be cleared, and they require someone who can resolve tickets efficiently within the team. Description Job Title: T&M Physical Security Te…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nityo Infotech"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTM3Mzg1NzMzIn0.GK5HkpReBojl4Laljeszl5FsR485rxSlo2g4jzJMEF0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "id": "5537385733",
+            "created": "2025-12-11T09:27:46Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537385733?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=89FDDF1C0B1B012E12AA7463D9871C5F15CA8D75",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Lead Security Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Job Title: Lead Engineer – Network Security Implementation / Network Security Implementation Lead Department: Engineering and Operations Location: Mumbai Reporting: Manager Security Operations Job Type: Full Time Shift: Rotational Shift PRE-REQUISITES Strong technical and subject matter expertise in at least four or more of the following security specialties: Firewall: Palo Alto, Cisco, Checkpoint, Fortinet VPN - IPSEC, Pulse SSL VPN : Juniper, F5, Cisco Content Filtering: Bluecoat , Websense, …",
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT Global Networks"
+            }
+        },
+        {
+            "longitude": 73.02,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDY3MzIxNCIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.A6vDMn5ydgeaFZhlkKqYi0HOH-QliF2eM8p-a5HuYRM",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "id": "5540673214",
+            "created": "2025-12-13T09:39:54Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5540673214?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C56C980F63904D8475B35EF6761A9A57FABCE11F",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "display_name": "Navi Mumbai, Maharashtra"
+            },
+            "latitude": 19.02,
+            "title": "Sr. Security Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Summary We are seeking an experienced Level 2 Technical Support Engineer to provide 24/7 support for cybersecurity products across multiple platforms. This is a product-based role (NOT SOC Analyst) focused on troubleshooting, configuration, and operational support for endpoint, email, and network security solutions , including EDR/XDR technologies from Trend Micro or other leading vendors . Key Responsibilities Core Support Responsibilities Deliver Tier 2 technical support for: Endpoint, Em…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Eventus Security"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Trantor",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Hi, Thank you for your interest in exploring opportunities with Trantor. We are currently hiring for a Professional Services Consultant (PSC) role, and based on your background, we believe you could be a great fit. About Trantor: Trantor is a global technology services company delivering cutting-edge digital transformation and product engineering solutions. Since 2012, we’ve partnered with clients across Technology, FinTech, Media, and Cybersecurity industries. With delivery centers across the …",
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 19.00821,
+            "title": "Network Security Engineer",
+            "longitude": 72.84415,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMzQ1NDg2MSIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.sjekOHTxlMx4E4-mpyiD3IqixhQ2x4TSQ-5J8zAFJKw",
+            "id": "5523454861",
+            "created": "2025-12-02T08:55:13Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5523454861?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=A480C6DDF90F53BD092BD6B9C9506D629BDA7C31"
+        },
+        {
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Greetings from TCS Skill: One Identity Experience: 4years In person drive Location : Chennai, Hyderabad, Bangalore,Mumbai,Pune Mode of interview: In Person interview. Job Description: We're Hiring: Network Security Specialist! Are you passionate about One Identity and thrive in dynamic environments? We're looking for a skilled professional to join our team! ✅ Required Skills: 4 years of experience as One Identity Manager Engineer, Strong understanding of IAM concepts, including authentication, …",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Cyber Security Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTI1MjA3NDI2In0.QByZNmhFTxmpSg-XQeIqqTnYULw7AovBmaMY8F8Vf6s",
+            "redirect_url": "https://www.adzuna.in/land/ad/5525207426?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=62D1DEA55DC9A103A889768119FB4028DBA8EC48",
+            "created": "2025-12-03T09:01:07Z",
+            "id": "5525207426"
+        },
+        {
+            "title": "Network Security Engineer",
+            "latitude": 13.06041,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546316343?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6D6204994C62A45D74A1682DC50526A414A38FFF",
+            "id": "5546316343",
+            "created": "2025-12-18T02:40:45Z",
+            "longitude": 80.24963,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2MzE2MzQzIn0.yVXs1-O6Dfz7o7Q6uqxWb1EKnF1jMI9mo97qCr99u0M",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HCLTech"
+            },
+            "description": "Role: Network Security Location: PAN India Working Mode : 5 Days WFO The F5 Network Operations Engineer is responsible for advanced troubleshooting, design validation, implementation, and optimization of F5 BIG-IP LTM and DNS/GTM platforms. This role is fully focused on network traffic management and load balancing technologies, ensuring high availability, performance, and scalability of application delivery networks. Key Responsibilities 1. Advanced Troubleshooting & Incident Management Act as…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "Cyber Security Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEzNzU5NSIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.3FsKy65o5OgYa257_JI9YiqPh3kqv9xYEs4un_j-hdo",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548137595?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=BA9BFBC4597C5F211C80E521B209385E300C6E67",
+            "created": "2025-12-19T08:58:59Z",
+            "id": "5548137595",
+            "company": {
+                "display_name": "ACL Digital",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Vulnerability Management Engineer Key Responsibilities Conduct vulnerability scans, analyze reports, and validate potential fi ndings; contribute to process improvements; and documentation. Configure and manage vulnerability scanners for both VM and Container (Kubernetes) environments, including their integration into eBay’s software development lifecycle. Track and guide Vulnerability remediation efforts across the organization. Escalate issues and problems when needed. Coordinate PCI-DSS vuln…"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 75.9469,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTM3MTc1In0.OZOp_2jouXAe-Q1jLn-GQPf8dX_EIYgcrFlvD72UkRc",
+            "id": "5548137175",
+            "created": "2025-12-19T08:58:49Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548137175?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6BBD879B9AB7382ED959D85BAEFB8261A1EA455E",
+            "latitude": 26.7441,
+            "location": {
+                "display_name": "Jaipur, Rajasthan",
+                "area": [
+                    "India",
+                    "Rajasthan",
+                    "Jaipur"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Network Security Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Role:- Network Security Admin Responsibilities:- Technology/OEM : Hands-on experience on IPS/IDS or UTM Firewalls WAF ( Web-Application-Firewalls) like F5, Imperva, Radware Web-Proxy solutions like Zscaler, Forcepoint or McAfee Network Access control ( NAC ) solutions like Cisco ISE or Forcescout AAA / TACACS solutions like Cisco, Mini-Orange etc. Understanding of HTTP protocol and web applications and API security. Expertise and skills:- In designing new solutions with industry best security s…",
+            "company": {
+                "display_name": "AU SMALL FINANCE BANK",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "id": "5511937664",
+            "created": "2025-11-25T05:50:07Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5511937664?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C9444B63A90A3CBF987341A1E22C1198DFF9E2FB",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMTkzNzY2NCIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.YhtAH6X-6uVM1EbBwS1WUxw9I6ahh8gvcuUvYVJvvaE",
+            "longitude": 78.50806,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "Information Security Engineer",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "latitude": 17.40275,
+            "description": "This position is a technical role responsible for the successful development, installation, integration, and deployment of Identity Management applications in the Inspire Brands environments and for assisting our implementation partners in that process. The main focus of your work will be with Okta, but you will be expected to perform similar duties for other applications for controlling authentication, including but not limited to Beyond Identity. As a software engineer for the Identity Access…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Inspire Brands Hyderabad Support Center"
+            }
+        },
+        {
+            "description": "Responsibilities: Monitors alerting tools, handles escalated incidents from helpdesk/desk side and end users Respond to suspicious alerts in a consistent and repeatable manner from multiple alerting sources Provide 24x7 coverage through a combination of onsite normal business hours monitoring and after hours on call Responsible for triage of C2 alerts, Phishing attempts & AV Alerts and botnets which will make up the majority of the day-to-day threats Provide escalations of unknown threats to Se…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Infosys"
+            },
+            "created": "2025-12-06T09:30:19Z",
+            "id": "5530549765",
+            "redirect_url": "https://www.adzuna.in/land/ad/5530549765?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=A96679B1EF54EC8DD5D33CFF119C395355671C8F",
+            "longitude": 80.24963,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTMwNTQ5NzY1In0.JoQUDdcWIyYo28eJ_97D_C7KZZSrGc5KGTKHF0Mkqzo",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Information Security Engineer",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 13.06041
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Poshmark"
+            },
+            "description": "Security team at Poshmark is responsible for securing our application platform, cloud infrastructure, and IT systems to protect Poshmark and its 60 million Community members. As a AWS and Infrastructure Security Engineer, you will collaborate with other security team members and other stakeholders to design and harden infrastructure, network and access implementing security best practices. Responsibilities: Design, implement and maintain secure AWS architecture aligned with industry standards, …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Senior Security Engineer - Infrastructure Security",
+            "latitude": 13.06041,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "id": "5525207528",
+            "created": "2025-12-03T09:01:09Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5525207528?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=2687EFAD4976445ADE00A5A50B5DD6953EC6B2BF",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTIwNzUyOCIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.8QdJfvN-8xTVnFxh7i36keTjQXxY4Hzs9VKHZplcBcU",
+            "longitude": 80.24963,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "title": "Senior Security Engineer, SAP Security",
+            "latitude": 17.40275,
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/4902691992?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6ABE199FFBBC9C986F454AFCBFFC7F25A25FB34B",
+            "id": "4902691992",
+            "created": "2024-10-15T21:26:55Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI0OTAyNjkxOTkyIn0.ULKiILn-wopS6DCWou7Ifx8uYxwpN3alE2Bp7l0Pb90",
+            "company": {
+                "display_name": "Bristol Myers Squibb",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "The Senior Security Engineer, SAP Security is responsible for designing and implementing the Security for SAP S4 HANA and other SAP systems such as Governance Risk and Compliance (GRC), Project and Portfolio Management (PPM), as well as SAP Fiori and SAP Business Technology Platform.The Digital Capability Security Manager provides direct governance and oversight for the BUILD and RUN partners for the security associated to the SAP systems. The Senior Security Engineer drives strong collaboratio…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "TCS has been a great pioneer in feeding the fire of Techies like you. We are a global leader in the technology arena and there's nothing that can stop us from growing together. TCS Hiring for Azure Network Security Engineers Experience Range: - 8to 10 Years Job Location: Chennai Job Description: a) Security engineer needs minimum 10 years of IT experience and at least 5 years worked in azure cloud security roles. b) security engineer implements, manages, and monitors security for resources in A…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "longitude": 80.24963,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTUzODY4MjAyIn0.6is77U-2UUhoMFVK-O4JEWClwdC8htuuzGoXx2O3v4w",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553868202?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=2E3085B6005F4C01FC45F70CBE27EB40AF86CBDB",
+            "created": "2025-12-24T10:15:56Z",
+            "id": "5553868202",
+            "latitude": 13.06041,
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ]
+            },
+            "title": "Azure Network Security Engineers"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTM2MDYyMjQxIn0.QtlI1wUkbix6BT06hDls7C_YsRVIB_67uU45847bBmQ",
+            "longitude": 72.84415,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "id": "5536062241",
+            "created": "2025-12-10T16:47:25Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5536062241?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=119B14748C75F03D009D8D27984366D8FD101364",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "latitude": 19.00821,
+            "title": "Silverfort Security Engineer Specialist",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Silverfort Security Engineer Specialist Location : Mumbai Mode: 5 Days work from office (24/7 support) Tool : Silverfort Security Mandatory Experience : 8 to 10 Years Mandatory Job Title : Silverfort Security Engineer Specialist Location : India / Remote / Mumbai Job Type : Full-time Role : Team Lead Start date : Immediate requirement Urgent Role : Silverfort Security Engineer is responsible for designing, deploying, managing, and maintaining Silverfort Unified Identity Protection (UIP) platfor…",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "ITC Infotech",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "latitude": 18.5062,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "title": "Senior Cloud Security Engineer",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 73.84735,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEyNjQ4NCIsInMiOiJ1RUlJY0ZqaThCR05LZkktSFBSd2J3In0.rKGUqIGxS91ESC0P_DyjVMeSp6aTz44_8izpzBSb8AM",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548126484?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6258AA737CEBB03C0632D568BEC434FD27D61F6F",
+            "created": "2025-12-19T08:54:25Z",
+            "id": "5548126484",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Qualys"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Job Description About the Role We're seeking a Senior Cloud Security Engineer to join our Product Security team’s Cloud Infrastructure Security wing, where you'll play a critical role in building and maintaining security infrastructure that prevents issues before they become incidents. Working closely with our leads across Qualys, you'll design and implement security controls, automation, and policies that protect our cloud-native products at scale. What You'll Do Cloud Security Engineering Rev…"
+        },
+        {
+            "title": "Lead Cloud Security Engineer",
+            "latitude": 18.5062,
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546583625?se=uEIIcFji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C230A2399A65B8557AF2E7493AD5AF70DE8D5821",
+            "id": "5546583625",
+            "created": "2025-12-18T08:42:53Z",
+            "longitude": 73.84735,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUVJSWNGamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2NTgzNjI1In0.QNa1A3pGhu26DMB3YGYRKreMD7_18U0ouDX9akrslwo",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Qualys"
+            },
+            "description": "Job Description About the Role We're seeking a Lead Cloud Security Engineer to join our Product Security team’s Cloud Infrastructure Security wing, where you'll play a critical role in building and maintaining security infrastructure that prevents issues before they become incidents. Working closely with our leads across Qualys, you'll design and implement security controls, automation, and policies that protect our cloud-native products at scale. What You'll Do Cloud Security Engineering Desig…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

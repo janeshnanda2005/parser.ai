@@ -1,0 +1,1455 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "latitude": 18.5062,
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Mobile Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTI4MDA5Mjc1In0.PMmYq1kWax7uuShqQq6IpUcOmAahkplg29DYgjhlW34",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 73.84735,
+            "created": "2025-12-05T01:19:34Z",
+            "id": "5528009275",
+            "redirect_url": "https://www.adzuna.in/land/ad/5528009275?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=EFA4E3CDB3AD170385D8BCE38DC122824AC0998B",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Avaloq"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "This is an opportunity for Senior Android and iOS Engineers to work in a brand new team that is defining the future Mobile Banking experience for our customers. Collaborate with cross-functional teams of talented engineers to define, design, and develop new features for next-generation applications. Also, they will be responsible for designing and developing top-notch applications for the mobile platforms, You will also unit-test your code for robustness including edge cases, usability, and gen…"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Andela"
+            },
+            "contract_time": "full_time",
+            "description": "About Andela Andela exists to connect brilliance and opportunity. Since 2014, we have been dedicated to breaking down global barriers and accelerating the future of work for both technologists and organizations around the world. For technologists, Andela offers competitive long-term career opportunities with leading organizations, access to a global community of professionals, and educational opportunities with leading technology providers. At Andela, we’re deeply passionate about creating long…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Mobile Engineer",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "created": "2025-12-20T09:06:26Z",
+            "id": "5549502479",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549502479?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C5017228A69D0237C786475A1E38AB411B4FFAC7",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ5NTAyNDc5In0.zSd3ZjqBcsSGRphKYkwHJv9QRceg0b_qJAWdQ1INRvI",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "description": "We are Hiring SDE III – Frontend Mobile Engineer at Exxat! Job Description We are looking for Software Engineers passionate about building scalable, high-impact systems in a fast-paced, collaborative environment. As an SDE III – Frontend Mobile Engineer, you will lead the development of high-quality mobile apps built with React Native. You’ll help drive architecture decisions, mentor engineers, and ensure that our apps are scalable, secure, and delightful to use. Join us to tackle complex probl…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Exxat",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-10T16:50:34Z",
+            "id": "5536064154",
+            "redirect_url": "https://www.adzuna.in/land/ad/5536064154?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4D402C01099338B23D591E496274581182015E7F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTM2MDY0MTU0In0.kZbRqV_b6NuTjASM6jIiBgeXM42Hrnm9hs6oV-N2L9M",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Frontend Mobile Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            }
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyNDYyMjM0MiIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.3KcSqgaT202Chug8Gv9-8wNsjS_ATKCNt0_XT5M4chw",
+            "id": "5424622342",
+            "created": "2025-10-01T21:05:39Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5424622342?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C4235E54E971BF555613919A3BD0ABE6E955F6B7",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Lead Mobile Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Senpi is the first AI Wallet - a new category of intelligent wallets that think, trade, and protect alongside users. In just four months since launching on Base, Senpi has processed 285K AI auto-trades , achieved a b (~3× higher than typical exchanges), and welcomed 200 traders to the “1000% Club.” Backed with $4M in Seed capital by top investors including Lemniscap, Coinbase Ventures, and SuperLayer, we’re building on a track record of OG Ethereum innovation — from creating one of the first sm…",
+            "company": {
+                "display_name": "Senpi",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "SDE III [Mobile Engineer]",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjYyMTc2OSIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.9r2XLGA9cLFWr0Y5dgvTdcHbQc8mLpkzbcIFAlUMepw",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546621769?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=69FFA6D3A217E857064F4ACB9215878A11CF5066",
+            "id": "5546621769",
+            "created": "2025-12-18T08:47:21Z",
+            "company": {
+                "display_name": "Livspace",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "You will lead the end-to-end delivery of high-impact mobile features for our React Native applications across iOS and Android. This includes architecture and design, hands-on implementation, automated testing, release management, and post-release observability. You’ll mentor teammates, champion best practices, and help shape our mobile engineering culture. Your work will directly influence how millions of users experience our product on their devices. Roles & Responsibilities : Own Features End…"
+        },
+        {
+            "id": "5555203126",
+            "created": "2025-12-25T13:43:24Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5555203126?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=53F6252AED14111C01285F3FA9772FEC67B915B7",
+            "longitude": 75.949555,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTU1MjAzMTI2In0.GkNEU2vx4eXbBEROahh_XPVj_QSw8dZ2_in2EhTl79U",
+            "title": "Senior Mobile Engineer (React Native & Native Integration)",
+            "latitude": 19.439563,
+            "location": {
+                "display_name": "Maharashtra, India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra"
+                ]
+            },
+            "description": "About Woliba Woliba stands for Work Life Balance. We are a comprehensive Employee Engagement and Wellness platform that connects fitness, wellness, and recognition to create healthier, more connected workplaces. We don't just talk about wellness—we live it. The Opportunity We are looking for a Senior Mobile Engineer to lead our transition into a hybrid mobile environment. Instead of a \"greenfield\" rewrite, you will be the architect responsible for embedding React Native into our existing, high-…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Woliba: A Comprehensive Employee Engagement & Benefits Solution",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "As a Senior Localization Engineer/Leader – Smartphone & Tablet, You will shape standards, guide L10n Engineering team, manage and monitor daily activities, lead the team for efficient and automation tasks, ensure mobile apps and device UI experiences are globally ready by supporting localization workflows, automation, and technical integration across all platforms Responsibilities Lead team activities and roadmap. Interface with other internal teams for activities management and solutions. Prep…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "TransPerfect",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5501265030?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=456B3E89D75A395183AE7AD0E2294BFA2B978C0C",
+            "id": "5501265030",
+            "created": "2025-11-18T09:05:31Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTI2NTAzMCIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.0IkA_shlVR28EKOVnNUFrB6EB3Z8V64MkVCejUoFu1U",
+            "title": "Mobile Localization Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Shipsy"
+            },
+            "description": "Role Overview Looking for an SDET to rapidly convert existing manual Android/iOS flows into reliable, scalable automation. You’ll own critical-path coverage, wire suites into CI/CD, and raise release confidence—primarily coding in TypeScript/JavaScript . Responsibilities Design & build automation: Implement and maintain mobile E2E tests for Android/iOS using Appium with TypeScript/JS (e.g., WebdriverIO/Appium Service or Appium  Mocha/Jest). Rapid conversion: Analyze current manual flows, priori…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Mobile Automation Engineer",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5515694645?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C0C3F544B3FF474C5AC1262E31620C40560B8B97",
+            "id": "5515694645",
+            "created": "2025-11-27T09:47:02Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTE1Njk0NjQ1In0.8GVy9OUmuA_C9I0zYyCyf7c3Ab6Lmhd7bpxNlHTAlDE"
+        },
+        {
+            "title": "Software Engineer-Mobile",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5517271203",
+            "created": "2025-11-28T09:49:17Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5517271203?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=7CF34E577ADE67F705D7A2EF0C98049069739907",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTE3MjcxMjAzIn0.fIUZ3wuoN3g8kdB7iOnBNgFFpG98lnBcSUDx1OCfHKg",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Zupee"
+            },
+            "description": "✨ What You'll Do Frontend & Mobile Development: Develop and maintain React Native applications for iOS and Android, handling the full app development lifecycle from code to publishing Build intuitive, responsive mobile interfaces that facilitate natural AI conversations and story experiences Implement real-time communication features using WebSockets for seamless user interactions Optimize application performance, ensuring smooth experiences across devices and network conditions Handle app stor…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "latitude": 19.00821,
+            "title": "Lead Mobile Systems Engineer (Android / Flutter)",
+            "longitude": 72.84415,
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTQ5NzgyNyIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.XfcLbeXuida_NifNMhTDASo3fglwnJ4j4Jk3TBQDHfY",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549497827?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=14EEBC6E54976221B587F5246F0ADC348092D935",
+            "created": "2025-12-20T09:01:58Z",
+            "id": "5549497827",
+            "company": {
+                "display_name": "SwanSAT - Geospatial Intelligence",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "About SwanSat Group SwanSat Group stands at the intersection of deep technology, precision intelligence, and social impact, uniting three powerful verticals to transform how nations, businesses, and communities make decisions. At our core is SwanSat, a leader in satellite and geospatial intelligence. We harness cutting-edge SAR, optical, and thermal data, enhanced with advanced AI/ML algorithms, to deliver unmatched insights for agriculture, disaster management, defence, and climate resilience.…"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTM5MDE4NzMxIn0.3hitp1M0W0Layq9Vq_Q6B1W-6XMmp2MNc1LVRZAPNyQ",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5539018731?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=5C4AC7A241212DFD63CFB8168BE341D8BE42FD6B",
+            "created": "2025-12-12T09:53:29Z",
+            "id": "5539018731",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Principal Engineer – Mobile (Flutter)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": " We’re hiring a Principal Engineer – Mobile (Flutter)! Location: Bengaluru | Hybrid Experience: 8–12 years Type: Individual Contributor (Hands-on)  About the Role We are looking for a highly skilled Principal Flutter Engineer to architect, build, and scale multi-platform applications (Android, iOS, Web) that reach millions of users. This role is ideal for someone who thrives in solving complex engineering challenges and delivering high-performance consumer-grade mobile apps.  Key Responsibiliti…",
+            "company": {
+                "display_name": "Antal International",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Mobile/Web QA Engineer",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "id": "5510936983",
+            "created": "2025-11-24T07:14:11Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5510936983?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C53BB535E2E1D8CEA156A45F5D2E98B6C81FBB42",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDkzNjk4MyIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.dmfKr5DqUgKh5wUzMhsWVesl1VauaAvEtBg0yP6RwcY",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BayOne Solutions"
+            },
+            "description": "Responsibilities: · Collaborate with cross-functional teams to understand project requirements · Come up with Test Plan and write Test Cases for Mobile Applications/Web Applications · Execute the Test Cases Manually and provide sign Offs · Define test automation strategies. · Develop and maintain end-to-end test suites using Detox to validate web applications. · Create and execute automated test scripts for regression, functional, and performance testing. · Identify and report defects, track is…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTUwMzUxOCIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.nPKy84m7u_5JbeLCXYe_J0TZ1lbpxF4peEf3Pll0TrE",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "longitude": 72.84415,
+            "redirect_url": "https://www.adzuna.in/land/ad/5549503518?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9DD573299562446EF4957CBBA10F455E10175FC3",
+            "id": "5549503518",
+            "created": "2025-12-20T09:06:57Z",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "latitude": 19.00821,
+            "title": "Mobile–AI Integration Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About SwanSat Group SwanSat Group stands at the intersection of deep technology, precision intelligence, and social impact, uniting three powerful verticals to transform how nations, businesses, and communities make decisions. At our core is SwanSat, a leader in satellite and geospatial intelligence. We harness cutting-edge SAR, optical, and thermal data, enhanced with advanced AI/ML algorithms, to deliver unmatched insights for agriculture, disaster management, defense, and climate resilience.…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SwanSAT - Geospatial Intelligence"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5517269955?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=53E5CB50C35C32EDEA5497970B67221A26F42869",
+            "created": "2025-11-28T09:48:17Z",
+            "id": "5517269955",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzI2OTk1NSIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.72UW2Sg0pXPaGtCu2EJ7wTBP0nYH5HHhwLNCVmnZkLw",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "Software Engineer Mobile App Distribution",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "description": "About Us: At Sauce Labs, we empower the world's top enterprises - like Walmart, Bank of America, and Indeed - to deliver quality web and mobile applications at speed. Our industry-leading platform ensures continuous quality across the SDLC, using AI-powered analytics to identify key quality signals from development through production. With our unified solution, teams can release and innovate with confidence, knowing their apps will always look, function, and perform exactly as they should. Back…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Sauce Labs",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Gala Intelligence"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "We're looking for an entrepreneurial, passionate, and driven Data Engineer to join Startup Gala Intelligence backed by Navneet Tech Venture situated in Ahmedabad . As we're building our technology platform from scratch, you'll have the unique opportunity to shape our technology vision, architecture, and engineering culture right from the ground up. You’ll directly contribute to foundational development and establish best practices, while eventually building and contributing to our engineering t…",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Data Engineer - Mobile & Web Scrapping",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzA5MjQ0OCIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.BjNJ8bHpL2gKmoWHyB7kLmEQHRR2l-o4WGyuUZb1tSA",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553092448?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=0685ED44A4B3EE28C247CAB1E3250DE611C15442",
+            "id": "5553092448",
+            "created": "2025-12-24T00:01:08Z"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "RapidBrains"
+            },
+            "description": "Job Title: Senior Mobile App Development Engineer (iOS) Experience: 5 Years Location: Remote Contract duration: 3-6 Months Shift timings: Vietnam business hours (9:00 AM – 6:00 PM) We are seeking an experienced Senior Mobile App Development Engineer (iOS) to join our team and lead the development of advanced smartphone-based digital biomarker capture solutions. This role focuses on owning and optimizing the low-level iPhone sensor capture stack to enable consistent, high-quality facial, ocular,…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Senior Mobile App Development Engineer (iOS)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "contract_type": "contract",
+            "id": "5555203390",
+            "created": "2025-12-25T13:43:41Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5555203390?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=FAE1D381D646A7A5829109D9A0642380BE738897",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMzM5MCIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.fT9bpBJP8bCWNrm9swCMBIgzy_SUbPNzM3pCaq9qDtY"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTM0Mjg3NTAzIn0.2jVwPpSmiw0uFHCCISEKWHpYH-FS0C2ze4qFuqReAcs",
+            "redirect_url": "https://www.adzuna.in/land/ad/5534287503?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=7BE863D4BB50CC94D714E40AF6FFC1117E00BCAE",
+            "created": "2025-12-09T09:06:21Z",
+            "id": "5534287503",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Mobile App Reverse Engineer - API Specialist",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "We are seeking a skilled and resourceful developer with expertise in reverse engineering mobile applications and their network traffic. The ideal candidate will analyze undocumented APIs, implement secure bypasses, and develop robust data extraction solutions. You'll have the autonomy to select your preferred tools and programming languages based on your technical strengths. Responsibilities: Intercept and analyze mobile app traffic using tools like Burp Suite, Charles Proxy, or Wireshark to id…",
+            "company": {
+                "display_name": "S2T AI - AI-Powered Investigations",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2MzE2OTY4In0.6s7glBFjaBkGbPIrhzcjz0GpY6p-QKa6IICH8rvwsoo",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-18T02:42:43Z",
+            "id": "5546316968",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546316968?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=076A3DE919B3DD496B9AABEB2A1BF9E04A6E76CC",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "Senior Engineer - Mobile Core Capacity Validation",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "About Us: Tejas Networks is a global broadband, optical and wireless networking company, with a focus on technology, innovation and R&D. We design and manufacture high-performance wireline and wireless networking products for telecommunications service providers, internet service providers, utilities, defence and government entities in over 75 countries. Tejas has an extensive portfolio of leading-edge telecom products for building end-to-end telecom networks based on the latest technologies an…",
+            "company": {
+                "display_name": "Tejas Networks",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About SwanSat Group SwanSat Group stands at the intersection of deep technology, precision intelligence, and social impact, uniting three powerful verticals to transform how nations, businesses, and communities make decisions. At our core is SwanSat, a leader in satellite and geospatial intelligence. We harness cutting-edge SAR, optical, and thermal data, enhanced with advanced AI/ML algorithms, to deliver unmatched insights for agriculture, disaster management, defense, and climate resilience.…",
+            "company": {
+                "display_name": "Swan Corp Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ5NDk3OTI2In0.CUoRsMto1EIAII83UGaL9BbsXxv21pzGCy_DZB_r_fo",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549497926?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C99D2166C179A9890A6640630B3DF6267B41AF7E",
+            "created": "2025-12-20T09:02:00Z",
+            "id": "5549497926",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "title": "Mobile UX-Logic Engineer (Decision Flows)"
+        },
+        {
+            "created": "2025-11-30T09:51:25Z",
+            "id": "5519970526",
+            "redirect_url": "https://www.adzuna.in/land/ad/5519970526?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C29275252D575365E33347CA1EACD0229D157CD4",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTE5OTcwNTI2In0.3268R7i3MeAroyAQ-jI2s9ccSfmQLYSiSxyfvBm7zG8",
+            "longitude": 72.84415,
+            "title": "Mobile Device Management (MDM) Engineer",
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "latitude": 19.00821,
+            "description": "Mobile Device Management (MDM) Engineer Location: Mumbai Job Description Intune Lead Job Summary: Were looking for a skilled MDM Engineer to design, implement, and support enterprise mobile and endpoint device strategies using Microsoft Intune and SCCM. You\\'ll be responsible for device lifecycle management, policy enforcement, software distribution, and compliance monitoring, ensuring secure and streamlined operations across desktops, laptops, and mobile devices. Key Responsibilities: Administ…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "ITC Infotech",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "Location : WTC Kharadi Pune / Onsite Type : Full-time Experience : 3-7 years Key Responsibilities. Collaborate closely with business teams and stakeholders to gather, analyze, and translate business requirements into technical solutions. Administer and manage Samsung Knox Manage , Knox E-FOTA , and Knox Mobile Enrollment (KME) portals. Configure, deploy, and manage Android (Samsung) devices using MDM / EMM platforms such as Microsoft Intune, VMware Workspace ONE, MobileIron, and Samsung Knox Ma…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Zimetrics",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "id": "5553115954",
+            "created": "2025-12-24T00:08:14Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553115954?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=834A999436A1AB06403206C5EEE67BF4477E8782",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzExNTk1NCIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.TtwMtwCIwP5ikCp4SGo-zgLSkaQoiCZHaPE21-UjY68",
+            "longitude": 73.84735,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "Mobile Device Management (MDM) Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra"
+            },
+            "latitude": 18.5062
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5434982897?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C6600BADA01FBAC83F8A597EF321122A9025BCCA",
+            "created": "2025-10-07T09:47:35Z",
+            "id": "5434982897",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NDM0OTgyODk3In0.BhGK42nfW5sMmVy30SACF7_E1P-9-64cDttt9LBkqBk",
+            "title": "Mobile and Web QA Engineer (BANGALORE)",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "description": "o Please apply if you are willing to work at our Bangalore office o Be part of our team operating in stealth mode before our product launch in October o An attractive compensation based on professional background and skills. o Accommodation and meals will be taken care during your stay. o Join us now and be part of our exciting 4-day trip to Thailand (or another destination) following our first launch! Note: o Before applying, please read the job description thoroughly and ensure it aligns with…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Zuchiz"
+            }
+        },
+        {
+            "title": "Senior DevOps Engineer I [T500-21635]",
+            "latitude": 17.40275,
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5519970575?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=DDBD9D3CF7B609AEE7AC25C27B2D1E69E86344C7",
+            "id": "5519970575",
+            "created": "2025-11-30T09:51:26Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTk3MDU3NSIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.MRxuvGhmFtUR8fW3QhJTWlDwYjSScaMhWfrq3rFiLys",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 78.50806,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Marriott Tech Accelerator"
+            },
+            "description": "About Marriott: Marriott Tech Accelerator is part of Marriott International, a global leader in hospitality. Marriott International, Inc. is a leading American multinational company that operates a vast array of lodging brands, including hotels and residential properties. It consists of over 30 well-known brands and nearly 8,900 properties situated in 141 countries and territories. Role Title: DevOps Engineer, Mobile Position Summary: The Mobile DevOps Engineer (iOS & Android) is a key member o…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "RRVL One Tech is seeking an exceptional Lead React Native Architect/Engineer to spearhead the architecture, design, and development of advanced React Native features and drive the integration of RN into our large-scale native mobile applications. This is a technical leadership role requiring deep expertise in both RN and native ecosystems. The primary focus of this role is to architect and lead a large-scale migration toward React Native, ensuring technical excellence, performance, and scalabil…",
+            "company": {
+                "display_name": "Reliance Retail",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2NjE1MjY5In0.8L35kSmo7BeKDu9sYoOCsTDeUueJS9Ze11n_jQ_j9nY",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546615269?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=73120689879F46204393F25A20E628AB5E9F3786",
+            "id": "5546615269",
+            "created": "2025-12-18T08:46:38Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "React Native Developer with Android/iOS"
+        },
+        {
+            "company": {
+                "display_name": "Apprido Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Please only apply if you can join within a month. About the Company Apprido Solutions is a fast-growing software development company helping startups and enterprises transform ideas into scalable digital products. We specialise in web and mobile application development, cloud solutions, AI tools across industries. We are a team of passionate engineers, designers, and product thinkers focused on building technology that solves real customer problems and drives business growth.  Our Vision: To em…",
+            "latitude": 29.9154,
+            "location": {
+                "display_name": "Sri Ganganagar, Rajasthan",
+                "area": [
+                    "India",
+                    "Rajasthan",
+                    "Sri Ganganagar"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Team Lead / Senior Developer (React Native)",
+            "longitude": 73.86585,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NDQ5NTE1ODA5In0.Qd10Qwc5CPSH2Jwp9_q4ZWhvSn3qDfpKtHK7jlqQ2js",
+            "id": "5449515809",
+            "created": "2025-10-16T07:35:34Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5449515809?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6398C0B7D2EC96AAD315F32651304A51636D8548"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTU1MjAxNzI1In0.Rz2uUmgFaRLGkT4JcZUpTXrnKqssOODNkIs5Nb7T40A",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5555201725?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=CE0665D4C4D9FED8172047760436E5031082BCA3",
+            "created": "2025-12-25T13:39:26Z",
+            "id": "5555201725",
+            "contract_type": "contract",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "title": "Physiological Signal Processing Engineer (rPPG / Mobile Biosensing)",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Title: Senior Signal Processing Engineer Experience: 5 years Location: Remote Contract duration: 3-6 Months Shift timings: Vietnam business hours (9:00 AM – 6:00 PM) Job Summary We are hiring a Physiological Signal Processing Engineer to build and own production-grade physiological signal pipelines derived from smartphone camera video. This role focuses on extracting robust, clinically meaningful digital biomarkers under real-world conditions such as motion, lighting variability, occlusion,…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "RapidBrains"
+            }
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NDM0OTgzMDMxIn0.tbC-Eg4Ey1bDP1dIXEmqDMq0Jd8dBs-4hZZNIMF6MUg",
+            "created": "2025-10-07T09:47:54Z",
+            "id": "5434983031",
+            "redirect_url": "https://www.adzuna.in/land/ad/5434983031?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=AC256FAFCA2F6819FC77E8791AF3250102C03A2D",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "Mobile Automation/Appium Automation Test Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Responsibilities A day in the life of an Infoscion • As part of the Infosys delivery team, your primary role would be to ensure effective Design, Development, Validation and Support activities, to assure that our clients are satisfied with the high levels of service in the technology domain. • You will gather the requirements and specifications to understand the client requirements in a detailed manner and translate the same into system requirements. • You will play a key role in the overall es…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Infosys"
+            }
+        },
+        {
+            "description": "About Us: Marriott International Inc. , headquartered in Bethesda, Maryland, USA, was founded in May 1927 by J. Willard Marriott and Alice S. Marriott with a modest nine-seat A&W root beer stand. Guided by the family's leadership and core principles, Marriott International today has grown into a global hospitality giant, operating approximately 9,000 properties and over 30 leading brands in more than 140 countries and territories. Role Title: Senior Engineering Manager, Mobile Position Summary:…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Marriott Tech Accelerator"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5515698320?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=86BC402EE3D72A9CD316CF581281E196E093F210",
+            "id": "5515698320",
+            "created": "2025-11-27T09:48:32Z",
+            "longitude": 78.50806,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTE1Njk4MzIwIn0.tS8hTsb3wupbRITutAkdEaM0ohfLJXI-eUW_33m8Zvs",
+            "title": "Senior Engineering Manager [T500-21579]",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275
+        },
+        {
+            "description": "Position: Application cum Software Engineer – Autonomous Mobile Robots (AMR) Location: Pune, India Employment Type: Full-time Role Overview We are seeking a Robotics Software Engineer to design, develop, and deploy software solutions for KUKA Autonomous Mobile Robots (AMRs) in industrial automation environments. The role involves working on ROS/ROS2-based navigation stacks , sensor integration , and system commissioning for advanced material handling and intralogistics applications. Field job w…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KUKA"
+            },
+            "contract_time": "full_time",
+            "id": "5546316826",
+            "created": "2025-12-18T02:42:20Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546316826?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=095BB503047C7EDC7E28148619295999C1BF98E5",
+            "longitude": 73.84735,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2MzE2ODI2In0.nsWBYTIwhaH9IcxHEaKGjLgl9z8wj-Y08eQODlJLXWU",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "Application cum Software Engineer – Autonomous Mobile Robots (AMR)",
+            "latitude": 18.5062,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Webologix Ltd/ INC",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "description": "Job Position: Android Engineer Job Type: Full-Time Location: Hyderabad/Pune/Bangalore. Experience: 6 to 10 Years Mandatory Skills: Mobile, Android Platform, Android, Transformation Engineering Skills Required Proactive collaboration in the project team to help develop the product using your experience to help guide the team through the whole development lifecycle Hands on with Planning, estimating, contributing to the architecture, coding, development Refactoring and continuous improvements of …",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Android Developer",
+            "latitude": 18.5062,
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "created": "2025-10-18T08:46:33Z",
+            "id": "5453208260",
+            "redirect_url": "https://www.adzuna.in/land/ad/5453208260?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C0C5CCFF0AF7A0982CBD1C2F407F93E936942225",
+            "longitude": 73.84735,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1MzIwODI2MCIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.Bs8Wx58EH8GIe23EkkYhLpWPKEE0HAwK74BraizrfPc"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5546313675?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=24AE9909BA5F12171C2DDA3D3EFDCEF7B9D71BBD",
+            "id": "5546313675",
+            "created": "2025-12-18T02:36:31Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxMzY3NSIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.GQyhDvyDg8ybi1anmKB7wnZ_MjoaXahyOfYM1nwoIs8",
+            "title": "Director of Engineering",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "About Jivi Jivi is transforming primary healthcare with an AI-powered clinical agentic platform designed for 8 billion people. Our flagship product, a super health app, combines an AI doctor and longevity coach. It provides a full-stack solution covering sickness, prevention, and wellness. In just six months, 500,000 users from 170 countries have already used Jivi. The company was founded by Ankur Jain (BharatPe, WalmartLabs, Stanford), GV Sanjay Reddy (Reddy Ventures, Aragen), and Andrew Ng 's…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Jivi AI",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Eximius Ventures",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "description": "Eximius is a micro-VC which invests into early-stage startups. One of our portfolio startup iTribe is looking for \"Hustlers\", \"First Principle Thinkers\", \"Crazy and trips on creating products out of the box from scratch\", \"Outspoken\", \"unafraid of users ripping your product\". Responsibilities: Code Quality and Go live Craft clean, manageable code, maintain proper documentation and code integrity Design advanced applications in mobile which is the main user facing product Maintain quality and en…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 500000,
+            "title": "Mobile Engineer",
+            "salary_max": 2500000,
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "created": "2021-10-23T04:34:51Z",
+            "id": "2570069921",
+            "redirect_url": "https://www.adzuna.in/details/2570069921?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiIyNTcwMDY5OTIxIn0.sl-POmMUGDHd2nJIscWZaP60oeLsly0bFIO5X-lbNgM"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "latitude": 12.95703,
+            "title": "Mobile Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "longitude": 77.59837,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTY0ODk4OCIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.SXoe1ny1S_e0KFeqdhZuhkM_nK800d4PfPAz2HLqIjc",
+            "id": "4801648988",
+            "created": "2024-07-31T03:21:03Z",
+            "redirect_url": "https://www.adzuna.in/details/4801648988?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "display_name": "Crispify",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Us At Crispify - http://crispify.it/ we help to enhance the video, increase the tempo, compress the file size and share it to the world! Beta app available at https://play.google.com/store/apps/details?id=it.crispify.video We were incubated in renowned global accelerator program \"Starup-Chile\" - http://startupchile.org/word-is-out-here-are-the-105-new-suppers/ What we are looking Android app developer who is also well-versed in a framework like Parse Able to understand product requirement…"
+        },
+        {
+            "company": {
+                "display_name": "Solventum",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "description": "Thank you for your interest in joining Solventum. Solventum is a new healthcare company with a long legacy of solving big challenges that improve lives and help healthcare professionals perform at their best. At Solventum, people are at the heart of every innovation we pursue. Guided by empathy, insight, and clinical intelligence, we collaborate with the best minds in healthcare to address our customers’ toughest challenges. While we continue updating the Solventum Careers Page and applicant ma…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Mobile Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5400405681?utm_medium=api&utm_source=d58ac19b",
+            "created": "2025-09-15T23:20:01Z",
+            "id": "5400405681",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMDQwNTY4MSIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.f9jhrJ54evopDLOswzu7kczkimSOYjoPOYCvDuwFrvg"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "To be able to repair customer's mobile phone at their doorstep. To be able to perform replacement of screen, charging port, battery replacement, back panel replacement, and many other hardware related issues of the phone. Owning a private vehicle is added benefit. Travel allowance will be given on daily basis to the technician/engineer visiting doorstep. Attractive incentive program",
+            "latitude": 22.57285,
+            "location": {
+                "display_name": "Kolkata, West Bengal",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ]
+            },
+            "title": "Mobile Engineer",
+            "longitude": 88.34373,
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI0Njg2Njk5MDAzIn0.lCGx-4G0RlhsLc-BSfxDCcO9_helI_U-bQkRGzBLh7g",
+            "id": "4686699003",
+            "created": "2024-05-10T07:38:07Z",
+            "redirect_url": "https://www.adzuna.in/details/4686699003?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "company": {
+                "display_name": "CentricaSoft",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Company Description CentricaSoft is a technology-driven organization specializing in AI-powered enterprise data transformation. Through advanced AI/ML solutions, cloud-native architectures, and data modernization, we help businesses unleash the potential of their data. Our expertise spans business intelligence, analytics, data integration, governance, compliance, risk management, and DevOps operations within large-scale projects. We deliver scalable data lake solutions and petabyte-scale proces…",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "title": "Senior Mobile App Developer (iOS/Android) – Real-Time Motion & Vision AI",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNjk0OSIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.pzy9JLK5ZNN-8-F0DTn-QDrOlWaIEc6scp29otcBuRU",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546316949?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=BFE99620B413BFB8BF26C2A2A0018671E19EADE5",
+            "created": "2025-12-18T02:42:42Z",
+            "id": "5546316949"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NDk0MzM3MzM5In0.d0frgjv7b-PAgA5pRvZbxgI505NsWzGRQmpHfHYSZGk",
+            "redirect_url": "https://www.adzuna.in/details/5494337339?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 1500000,
+            "title": "QA Mobile Engineer",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 78.50806,
+            "id": "5494337339",
+            "created": "2025-11-13T22:27:12Z",
+            "latitude": 17.40275,
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "contract_type": "permanent",
+            "salary_min": 600000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Job Title: QA Mobile Engineer Job Location: Hyderabad Job Type: Full-time Experience Required: Total 2 Yrs Company: Voxvalley Technologies Company Profile: Voxvalley stands at the forefront of Cloud communication technology, offering advanced solutions that empower different businesses worldwide to connect, communicate, and collaborate with unparalleled efficiency and reliability Immediate Joiner Preferred : We are seeking candidates who are available to join immediately. Job Description: We ar…",
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "voxvalley technologies pvt ltd"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Senior Engineer Oracle EPM - ARCS and Transaction Matching About the Role: As part of our Global ERP Engineering team, you will help drive the next generation of finance transformation. In this role, you will design and deliver solutions across ARCS (Account Reconciliation Cloud Service) and Transaction Matching, supporting automated reconciliations, compliance, and global financial reporting accuracy. You will combine functional expertise with technical build skills (configuration, reporting, …",
+            "company": {
+                "display_name": "Talent500 INC",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1MzkzNzU4NzQyIn0.A9matqX6NGl6byFGOB1Afj5RDUM6F_6sZGNwzTUOO-c",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/land/ad/5393758742?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=EE000F298B5DE43130191E59B962C509DFD35B59",
+            "id": "5393758742",
+            "created": "2025-09-11T10:01:23Z",
+            "latitude": 17.40275,
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana"
+            },
+            "title": "Senior Engineer Oracle EPM - ARCS and Transaction Matching"
+        },
+        {
+            "location": {
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 28.56579,
+            "title": "Senior Mobile Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "longitude": 77.3225,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTI2NDgwNzM4In0.IyAZflLXcaxqbLKb54MMHo7FumfJKAgVg2bPJXOT1hE",
+            "redirect_url": "https://www.adzuna.in/details/5526480738?utm_medium=api&utm_source=d58ac19b",
+            "id": "5526480738",
+            "created": "2025-12-04T01:03:11Z",
+            "company": {
+                "display_name": "INTINERI INFOSOL PRIVATE LIMITED",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Role: We are looking for a visionary and highly experienced Principal Mobile Engineer to lead the design, architecture, and development of high-quality mobile applications across platforms. You will work at the intersection of product, design, and engineering to build world-class user experiences, influence mobile strategy, and mentor engineering teams. Key Responsibilities: Architect and lead the development of robust, scalable, and secure mobile applications (iOS and Android). Defin…"
+        },
+        {
+            "title": "Mobile Engineering Manager",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai",
+                    "Ttti Taramani"
+                ],
+                "display_name": "Ttti Taramani, Chennai"
+            },
+            "latitude": 12.986,
+            "contract_type": "permanent",
+            "created": "2025-12-23T05:47:18Z",
+            "id": "5552434517",
+            "redirect_url": "https://www.adzuna.in/details/5552434517?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MjQzNDUxNyIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.BVTIGlYT4dpdzuZiP-vQYY4mLo8zlsiQ4imGbD3hM6Q",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 80.24,
+            "company": {
+                "display_name": "FULL Creative",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "description": "We’re looking for a Mobile Engineering Manager to lead the transformation of our mobile org into a world-class, high-impact team. Our mobile apps are at the heart of how thousands of small businesses manage scheduling, communication, and daily operations — and we’re ready to invest deeply in scaling both our technology and our people. You’ll join at a pivotal moment: the foundation is set, and the next step is building a culture of excellence, ownership, and clarity. You’ll lead technical direc…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Mobile Engineer (iOS)",
+            "latitude": 17.40032,
+            "location": {
+                "display_name": "Golconda, Hyderabad",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad",
+                    "Golconda"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/details/5122873154?utm_medium=api&utm_source=d58ac19b",
+            "created": "2025-04-02T01:57:38Z",
+            "id": "5122873154",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "longitude": 78.40585,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTEyMjg3MzE1NCIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.2XTd06y24OqsJdwekvzo8QUYVUON9_1UJAhnBgqQB9Q",
+            "company": {
+                "display_name": "Loyalty Juggernaut, Inc",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "description": "Loyalty Juggernaut Inc. (LJI) is a Silicon Valley-based product company, founded by industry veterans with decades of expertise in CRM, Loyalty, and Mobile AdTech. With a global footprint spanning the USA, Europe, UAE, India, and Latin America, we are trusted partners for customer centric enterprises across diverse industries including Airlines, Airport, Retail, Hospitality, Banking, F&B, Telecom, Insurance and Ecosystem. As pioneers in next-generation loyalty and customer engagement solutions,…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5249441874?utm_medium=api&utm_source=d58ac19b",
+            "id": "5249441874",
+            "created": "2025-06-14T02:55:16Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI0OTQ0MTg3NCIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.gSEsnXH5w-H558YXaLfw6RSdYg3iU7qCHTKCW4PdDI8",
+            "longitude": 76.227524,
+            "title": "Senior Mobile Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka"
+                ],
+                "display_name": "Karnataka, India"
+            },
+            "latitude": 14.325172,
+            "description": "About Allica Bank Allica is the UK’s fastest growing company - and the fastest-growing financial technology (Fintech) firm ever. Our purpose is to help established SMEs, one of the last major underserved opportunities in Fintech. Established SMEs are the backbone of local communities - representing over a third of our economy - yet have been largely neglected both by traditional high street banks and modern fintech providers. Role Description As a Senior Mobile Engineer (Flutter), you will have…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Allica Bank"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Passion for all things Mobile and have built complex Mobile Applications with React Native for at least 2 years. Have shipped apps on either the iOS App Store or Android Play Store, and are intimately familiar with their workflows. Comfortable with jest for writing unit and integration tests / appium for end-end testing. Intuition for usability and UI design, with an ability to balance polish with the constraints of timing and scope. Curiosity to remain updated with the newest technologies and …",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Freelancer",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiIyMzIwMzgwOTIxIn0.4aCYfbiZ6PpGUbXP4lVq5lNzpT_er-H5vHHNKcW9xss",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "id": "2320380921",
+            "created": "2021-07-15T23:28:13Z",
+            "redirect_url": "https://www.adzuna.in/details/2320380921?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 2500000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "salary_min": 2000000,
+            "title": "Lead Mobile Engineer"
+        },
+        {
+            "title": "Mobile Engineer: Flutter",
+            "salary_max": 2000000,
+            "redirect_url": "https://www.adzuna.in/details/2853928186?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjg1MzkyODE4NiIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.5ksmxNO1I1eZYLoiBMwtDWrig7Mbj815i-v4kZvpm6o",
+            "salary_min": 600000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "latitude": 13.06041,
+            "created": "2022-01-30T04:34:30Z",
+            "id": "2853928186",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "longitude": 80.24963,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Multi Recruit"
+            },
+            "contract_time": "full_time",
+            "description": "Design and Build sophisticated and highly scalable products using Flutter. Translate and build designs and wireframes into high-quality responsive UI code. Proficiency in the use of Model-View-Controller (MVC) and Model-View-View Model-Controller (MVVM) which relates to designing and developing architecture. Learn and explore feasible architecture options for implementing new features. Suggest space and time-efficient Data Structures. Follow best practices while maintaining structure and compre…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiIzNDQ1MjIzODk0In0.Y-rO3iu3HduoJae_jk40p7HFXErNeZN4M0lkbofDLGw",
+            "redirect_url": "https://www.adzuna.in/details/3445223894?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 2500000,
+            "title": "Mobile Engineer (Flutter)",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Your Role Our team is looking for experienced mobile developers to lead the development of cross-platform mobile applications and be responsible for major technical decisions associated with them accountable for their successful execution. In this position on the software engineering team, you’ll have the opportunity to contribute to many client and internal-facing products. FarmSetu’s suite of products spans multiple technical domains and disciplines in software and hardware, so experience in …",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "FarmSetu",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 73.86842,
+            "created": "2022-08-31T06:56:27Z",
+            "id": "3445223894",
+            "latitude": 19.96224,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Nashik"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Nashik, Maharashtra"
+            },
+            "salary_min": 500000
+        },
+        {
+            "company": {
+                "display_name": "Assembly",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "description": "About Assembly Assembly's top priority is to make work fun, meaningful, and save you time along the way. We all have inefficiencies in our work and we believe that with automation and bringing all your work management into one place - we can accomplish that goal. Whether you're trying to complete a task, create a task, prep for a one-on-one, give someone recognition, find a document, check what your team is focusing on, or run a quick survey - Assembly has a workflow for that. Our team is now o…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Senior Mobile Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "4282894454",
+            "created": "2023-08-29T14:47:48Z",
+            "redirect_url": "https://www.adzuna.in/details/4282894454?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI0MjgyODk0NDU0In0.QTopidTR_2yzYiYOhCAnc4fKm9oLmxE2tQZ0qY5gwRs"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Loyalty Juggernaut Inc. (LJI) is a Silicon Valley-based product company, founded by industry veterans with decades of expertise in CRM, Loyalty, and Mobile AdTech. With a global footprint spanning the USA, Europe, UAE, India, and Latin America, we are trusted partners for customer centric enterprises across diverse industries including Airlines, Airport, Retail, Hospitality, Banking, F&B, Telecom, Insurance and Ecosystem. As pioneers in next-generation loyalty and customer engagement solutions,…",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Loyalty Juggernaut, Inc",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.40585,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1MTIyNzcwMDQwIn0.GOm3NZLTUtYsboX3ICY-hHAUnjSqe_jvIkuUq3skxYA",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-04-02T01:33:45Z",
+            "id": "5122770040",
+            "redirect_url": "https://www.adzuna.in/details/5122770040?utm_medium=api&utm_source=d58ac19b",
+            "location": {
+                "display_name": "Golconda, Hyderabad",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad",
+                    "Golconda"
+                ]
+            },
+            "latitude": 17.40032,
+            "title": "Mobile Engineer (Android)"
+        },
+        {
+            "company": {
+                "display_name": "PRYDAN CONSULTANCY SERVICES PRIVATE LIMITED",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Role: Senior SDET Experience Required: 8 Years Location and Timing: Ahmedabad (Mon – Fri, 10 am to 7 pm) Must Have Expertise in Automation Testing experience with Python, JavaScript, Pytest/BDD/Behave, REST API, Postman, Playwright, Selenium and Selenium Grid, Pytest framework, Jira, TestRail, and GitHub. Expertise in designing an automation framework using the Playwright framework for API and WebUI testing. Experienced in Mobile automation testing using Appium 3 yrs hands-on experience in Pyth…",
+            "salary_max": 2000000,
+            "latitude": 23.042,
+            "location": {
+                "display_name": "Ahmedabad, Gujarat",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Ahmedabad"
+                ]
+            },
+            "title": "SDET Mobile Engineer",
+            "salary_min": 2000000,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 72.59465,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2OTY5Nzg0MiIsInMiOiJlTWEyV2xqaThCR05LZkktSFBSd2J3In0.cEX__KnBq4dA1_7vvH9YryHyMMRL5if1EGTNWCXANxo",
+            "redirect_url": "https://www.adzuna.in/details/5369697842?utm_medium=api&utm_source=d58ac19b",
+            "id": "5369697842",
+            "created": "2025-08-27T04:25:55Z"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Indiabulls Securities Limited"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Job Summary We are seeking a highly experienced Flutter Architect to lead the design and development of our next-generation trading platform across mobile (iOS/Android) and web. With deep expertise in mobile engineering and strong domain knowledge in trading/fintech, you will drive architectural decisions, mentor the engineering team, and build high-performance, real-time applications used for trading, market analytics, and portfolio management. This role involves close collaboration with produ…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Flutter Architect",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTI4MDEwMzQyIn0.c9uFLlgx0LqZTtyYFkYvNqvwGnB7T_9T3EnnFk6FhN8",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5528010342?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=8E00874A59A91C9714746886D462D581A0C09B99",
+            "created": "2025-12-05T01:22:31Z",
+            "id": "5528010342"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PristineAI"
+            },
+            "description": "Mobile Application Developer (iOS  Flutter) — Mumbai or Chennai Help Build the Future of AI-Enabled Enterprises At PristineAI , you’ll help Fortune-scale enterprises talk to their systems — and build new ones — in English. Our Kai platform unifies legacy systems, databases, spreadsheets, and documents into a natural-language-driven, self-improving intelligence layer. With Kai, business users don’t just automate — they converse, create, and get things done. If you believe AI should make work rad…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Mobile Application Developer",
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 19.00821,
+            "created": "2025-11-21T08:41:36Z",
+            "id": "5506904283",
+            "redirect_url": "https://www.adzuna.in/land/ad/5506904283?se=eMa2Wlji8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=19CC42FDE279F29B03E063DFB741B7E6BD25E1E9",
+            "longitude": 72.84415,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU1hMldsamk4QkdOS2ZJLUhQUndidyIsImkiOiI1NTA2OTA0MjgzIn0.Ej3UsTVX7E32eHkfFpklr8o93pvCnpAEZ9yWTINEpzc",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        }
+    ],
+    "count": 645,
+    "mean": 1650088.08
+}

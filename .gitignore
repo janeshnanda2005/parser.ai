@@ -38,3 +38,12 @@ Thumbs.db
 # Optional cache files
 .cache/
 .next/cache/
+./backend/__pycache__/
+./backend/*.pyc
+./backend/*.pyo
+./backend/data/
+./backend/venv/
+./backend/faiss_index/
+./frontend/.expo/
+./frontend/.expo-shared/
+.expo/
