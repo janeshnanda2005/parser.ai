@@ -130,3 +130,4 @@ faiss_index/*.faiss
 faiss_index/*.pkl
 # API scripts
 data_api_adzuna.py
+test_script.ipynb
