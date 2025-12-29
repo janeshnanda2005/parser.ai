@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.env
 # C extensions
 *.so
 
@@ -130,4 +130,4 @@ faiss_index/*.faiss
 faiss_index/*.pkl
 # API scripts
 data_api_adzuna.py
-test_script.ipynb
+sample_test_script.ipynb
