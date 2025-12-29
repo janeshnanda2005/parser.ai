@@ -1,0 +1,1461 @@
+{
+    "count": 2283,
+    "results": [
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5537385595?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=30D0D00CC7B7DE1D5D4981AEA63BB506682B50D7",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Network Engineer",
+            "id": "5537385595",
+            "description": "Job description: We are looking for a Network Engineer to join our infrastructure team. In this role, you will bridge the gap between traditional hardware networking and modern cloud environments. This is an excellent opportunity for a professional with strong foundational networking skills who is eager to work with Cloud (AWS/Azure/GCP) and Network Automation (Ansible/Python/Terraform). The Rubrik Network Engineering team is responsible for architecting, building, automating, and managing our …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CloudFulcrum"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4NTU5NSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.X26bH1xdzU9IPnmjsPkxhLXxzxWZk02n7a_0g279gEE",
+            "created": "2025-12-11T09:27:45Z"
+        },
+        {
+            "latitude": 19.02,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "display_name": "Navi Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5550649315?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=C6848FA180EBA6D6181ADE255BFB40070847C2FA",
+            "created": "2025-12-21T08:16:17Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MDY0OTMxNSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.kc15kDHnWVjEk8Xzpn2Aqw3BPiDX0VN8dz-5tqP-GsM",
+            "id": "5550649315",
+            "longitude": 73.02,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "QualityKiosk Technologies"
+            },
+            "description": "Role: Network Engineer Experience: 1 to 3 years Location: Navi Mumbai Shift: Rotational Notice period: Immediate to 15 days Position Statement / Purpose: As a Network Engineer, you will be responsible for designing, implementing, and maintaining the organization's network infrastructure to ensure the smooth and secure flow of data and communication. Your role involves working with cross-functional teams to analyse network requirements, configure network devices, troubleshoot issues, and optimiz…",
+            "title": "Network Engineer"
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537381219?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=02EA9C125A2CB821CA1E51E244D183D6569D5B3D",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MTIxOSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.zdoCWs7yVSFdrFiiI9JtaV-dKk9L1H0CFtm6rR76mA4",
+            "created": "2025-12-11T09:24:55Z",
+            "id": "5537381219",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hellowork Consultants"
+            },
+            "description": "If you’re strong in C, Linux, and Networking , this opportunity is made for you! ⚙️ ✨ Role: Networking Engineer  Location: Bangalore  Experience: 5–10 Years  Notice Period: 0–15 Days  Work Mode: Hybrid  Interview Mode: Virtual  Mandatory Skill Set :  Strong experience in C Programming  Solid hands-on expertise in Linux (User Space  Internals preferred)  Good understanding of Networking Protocols & Systems  Exposure to Embedded Systems (Nice to have)",
+            "title": "Network Engineer"
+        },
+        {
+            "title": "Network Engineer",
+            "id": "5540673195",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Electronics"
+            },
+            "description": "Title of the position - Network Engineer Location - Hosur About The Business Tata Electronics Pvt. Ltd. is a prominent global player in the electronics manufacturing industry, with fast-emerging capabilities in Electronics Manufacturing Services, Semiconductor Assembly & Test, Semiconductor Foundry, and Design Services. Established in 2020 as a greenfield venture of the Tata Group, the company aims to serve global customers through integrated offerings across a trusted electronics and semicondu…",
+            "created": "2025-12-13T09:39:53Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDY3MzE5NSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.lC8wWdynTURcmgOoXhMy2fSlI7-tdWajV0xXaZVy_1s",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5540673195?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=085F6A893B8554BEFFB8DC1902BBF00F3F1B283E",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Krishnagiri"
+                ],
+                "display_name": "Krishnagiri, Tamil Nadu"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5533243860",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "longitude": 73.84735,
+            "description": "Job Title: Network Engineer Experience: 8-10 Years Location: Pune Requirements: Have hands-on experience on Palo Alto firewall as well as Panorama. Experience in installing, configuring, managing multivendor firewall. Checkpoint firewall experience would be a plus. Experience in Palo Alto firewall migration from Checkpoint and ASA. Implement best practices for Palo Alto Networks Firewall Deployment and Operations. Configuration and Management of LAN, WAN and Wireless infrastructure. Meraki Wire…",
+            "created": "2025-12-08T10:32:54Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzI0Mzg2MCIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.Je5DnuM62LqTzG_lmycknY1nurXOT-Bt_unVGOkKrXs",
+            "title": "Network Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/land/ad/5533243860?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=969243EE43C2AFEE95AE1A8D84E671932224AECF",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5519966548",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "description": "Greetings from TCS TCS is hiring for Network Engineer Experience : 4 to 9 years Location: Kolkata Mode of Drive: Virtual Date:4th Dec 2025(Thursday) Job Description: Must have: 1. Configure network devices such as routers, switches, access points and Firewalls. 2. Good understanding of SASE Product and solution 3. Upgrade, repair, and maintain computer networks. 4. Troubleshoot various network issues. 5. Contribute to Network Security policy and their enforcements. 6. Demonstrate network automa…",
+            "created": "2025-11-30T09:46:26Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTE5OTY2NTQ4In0.5w_uPhLR2WmFPs58nRSftHbm_XNSFL_VW4hvANoBq9g",
+            "title": "Network Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5519966548?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F7F39588959DDC9742D2EE822C318C589E26F91B",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5495126019?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=E7E050DB9375FB51378813DCA3AB2B1E2EFFDF73",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5495126019",
+            "description": "We’re looking for a Network Engineer to join our High-Frequency Trading (HFT) team in Gurgaon. If you’re passionate about low-latency networking and thrive in fast-paced, tech-driven environments — this could be a great fit.  Key Skills (Mandatory): Strong hands-on experience in Routing & Switching Deep understanding of Cisco / Juniper devices Proficiency in Linux environment Solid knowledge of routing protocols (BGP, OSPF, etc.) Good understanding of network security  Experience: 2–6 years  Bu…",
+            "company": {
+                "display_name": "AAA Global",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-14T10:32:56Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDk1MTI2MDE5In0.TwIOwPqhLHKUPPb6eklYK_Pi6cA13gJF7_cSffW5FbM",
+            "title": "Network Engineer"
+        },
+        {
+            "created": "2025-12-18T02:36:54Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNDA2MCIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.ufFNqNZc7hBZQbFq6xdwEfZC8PYowIMB25DUxBVIUSM",
+            "longitude": 73.1924,
+            "company": {
+                "display_name": "VikingCloud India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Network Engineer Location: India Shift Time: US hours This Position Network Engineer with 5 years of experience that has strong firewall, IP Networking and VPN skills. Candidates will be part of the VIKING CLOUD Engineering team, working on Network implementations and support on enterprise equipment. They will need experience on multiple network devices like Firewall, Switches, Routers and good customer relationship skills. Responsibilities Firewall Implementation and Support Making changes to …",
+            "id": "5546314060",
+            "title": "Network Engineer",
+            "latitude": 22.2891,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Vadodara, Gujarat",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Vadodara"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546314060?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=1D02A085EEDBF7565FD5A097992FE76533931B33",
+            "contract_type": "contract"
+        },
+        {
+            "description": "Job Title: Network Engineer (Routing & Switching) Location: Bangalore Experience: 6-10 Years Requirements: Provide Planning, Designing, Implementation, Operation and Optimization assistance to Customers around Cisco’s Enterprise technologies. Participate in design/implementation and migration, or problem resolution projects involving various enterprise technologies. Provide technical support for customers during software and hardware upgrades. Experience on Cisco products and various LAN and WA…",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5533242947",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzI0Mjk0NyIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.3tKolzWUmcppFZspNow5GR-pJKJ89Hb6zNmdgfHPkfE",
+            "created": "2025-12-08T10:31:53Z",
+            "title": "Network Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5533242947?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=CCC3295F35541A3B4FC00FD1F8EF6705B319E152",
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5529803748?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=EDE732D9514FF62A241DBE0443A8677DEDE649E5",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": 13.06041,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Network Engineer",
+            "created": "2025-12-06T01:25:09Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTI5ODAzNzQ4In0.5yc7wVFb6gVHJdaSCpxKtJ0OymTnjMEwZ1bwbQj6D20",
+            "description": "Warm greetings from Movate, Chennai  We are hiring for TAC L3_Network Engineer_Chennai_Ambit IT Park Only Immediate Joiners to 15 days notice can apply! Interested candidates Inbox your resumes to Deebathra.Abrahamgnanadass@movate.com Years: 4 - 15(Minimum 2 years Experience into TAC) Role: L3 Engineer Location: Chennai (Ambit IT Park) Job Profile : Network Engineer Shift : Flexible to work in Rotational Night Shift Work Model : Work from office Certification/Training in CCNP, Juniper Key Skill…",
+            "company": {
+                "display_name": "Movate",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 80.24963,
+            "id": "5529803748"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5517260626?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DD02CCF86EDE925AF4CD72E9381E9D8DBBE03FA7",
+            "latitude": 22.57285,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "display_name": "Kolkata, West Bengal"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Network Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTE3MjYwNjI2In0.GG9VlTExqljLO97MJnRxuz39W-4ghmXq1SJ_Pl5mWJk",
+            "created": "2025-11-28T09:40:27Z",
+            "id": "5517260626",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 88.34373,
+            "description": "Job Description – Network Engineer Location: Kolkata/ Gandhinagar Preferred Education, Skills and Experience Education Level: B.E. (Electronics & Communication or IT) / Diploma Electronics & Communication / BCA with 3-4 Years experience in Networking or Telecom. Certification : Preferred to be CCNA certified / CCNA Trained Experience: Networking knowledge / Telecom knowledge is preferred. Skills Required: • Good Communication and interpersonal skills • Experience in last mile access network and…"
+        },
+        {
+            "title": "Network Engineer",
+            "created": "2025-12-24T10:13:59Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg2NDg4NiIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.DjTt9gf3f8K4QLdrO2Qe90TTreI_Fcro46pf0LrnPQ4",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CareerXperts Consulting"
+            },
+            "description": "We are looking for a Network Engineer who can design, maintain, and support reliable network infrastructure. This role focuses on ensuring stable connectivity, network security, and performance across on-premise and/or cloud environments. You’ll work closely with IT operations, security, and application teams to keep networks running efficiently and securely. Key Responsibilities Install, configure, and maintain LAN, WAN, and wireless networks Monitor network performance and troubleshoot connec…",
+            "id": "5553864886",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553864886?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=16FD2443CB21D745997C779A828DAB140D337B2B",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            }
+        },
+        {
+            "title": "Network Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxMzk5NCIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.dIQq1SQlyVHAlQhU4xhnXxglrboOqiygEvUmHBEkyd8",
+            "created": "2025-12-18T02:36:53Z",
+            "id": "5546313994",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HCLTech"
+            },
+            "description": "Role: Network Engineer Location: PAN India Working Mode : 5 Days WFO Job Description: The Network Operations Engineer will manage, maintain, and monitor enterprise network infrastructure, ensuring high availability and optimal performance. The role focuses exclusively on core network technologies—routing, switching, wireless, WAN Key Responsibilities 1. Network Monitoring & Incident Handling Monitor network health, capacity, and performance using NOC/NMS tools. Troubleshoot and resolve L2-level…",
+            "longitude": 77.3225,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546313994?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8146AE5A65DBFD830C776BDFE2296EBB98011ED0",
+            "latitude": 28.56579,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzE0Mzk1In0.W3gvvdSBFlaaSDqVEpqXeN7EdTQX9ycsZy3sWstCDNQ",
+            "created": "2025-12-18T02:37:04Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TRDFIN Support Services Pvt Ltd"
+            },
+            "description": "Job Summary We are seeking a skilled Network Engineer / Cloud Networking Specialist to design, implement, and manage secure, scalable, and high-performance network infrastructures across on-premise and cloud environments. The ideal candidate will ensure reliable connectivity, cloud network optimization, and strong security controls. Key Responsibilities: Design, deploy, and maintain enterprise and cloud-based network architectures Manage cloud networking services (VPC/VNet, subnets, routing, ga…",
+            "id": "5546314395",
+            "title": "Network Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546314395?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=47DAFD38EF52248DBA21FC1563A573785FCBE69A",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5540673944?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=ECA85E846A232F64C4DFEF063813A2706031FDDE",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "New Delhi, Delhi",
+                "area": [
+                    "India",
+                    "Delhi",
+                    "New Delhi"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 28.62623,
+            "title": "Network Engineer",
+            "id": "5540673944",
+            "description": "TCS Hiring for Network Engineer Exp: 4 to 10 years Location: New Delhi Required Technical Skill Set LAN, WI-FI, Cisco SDWAN, Routing, Switching , Cisco WLC, Cisco ISE, Cisco DNAC, Aruba Controller & Clear pass Must Have: Co-ordinating with ISP’s Vendors for the link down/related issues Detect and respond to incidents proactively, with clear escalation procedures and communication channels. Deliver regular reports on network performance, including bandwidth utilization, latency, uptime, and avai…",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 77.21808,
+            "created": "2025-12-13T09:40:52Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQwNjczOTQ0In0.3qWjFDhObzMvsVFhAH_ZSObqw1NhUI1qsLSy5FC2riU"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5532272835?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=36CD454EB1684065FF4FDE8D4A5BEF5F47C9990F",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 13.06041,
+            "title": "Network Engineer",
+            "longitude": 80.24963,
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Role: Network Engineer Required Technical Skill Set: Routing & Switching Desired Experience Range:8-10 Yrs Location of Requirement :Chennai / Hyderabad Desired Competencies (Technical/Behavioral Competency) Must-Have CCNA(mandatory) /CCNP certification is preferred. Strong Understanding of Higher end CISCO switches and ISR routers (Nexus7K, 5K, 2K, Cisco 6500, 4500, 3750 and 2900) and Routers (4000, 7200,3800 and 2800). Should be able to handle complex Routing and Switching issues, route redist…",
+            "id": "5532272835",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjI3MjgzNSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.51tjPorrLO02rju1cur8P0qdZvLSd9uJ84ZCLwe5jV0",
+            "created": "2025-12-07T16:12:24Z"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5532095143?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=9BB3BD9A68B61657F8FC1F44521BECB83FF49FE0",
+            "salary_is_predicted": "0",
+            "id": "5532095143",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "longitude": 78.50806,
+            "description": "Role: Network Engineer Required Technical Skill Set: Routing & Switching Desired Experience Range:8-10 Yrs Location of Requirement :Chennai / Hyderabad Desired Competencies (Technical/Behavioral Competency) Must-Have CCNA(mandatory) /CCNP certification is preferred. Strong Understanding of Higher end CISCO switches and ISR routers (Nexus7K, 5K, 2K, Cisco 6500, 4500, 3750 and 2900) and Routers (4000, 7200,3800 and 2800). Should be able to handle complex Routing and Switching issues, route redist…",
+            "created": "2025-12-07T10:23:18Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTMyMDk1MTQzIn0.BYhauVOhDIWPKhqn4yi8zqYSZyElp2Xd4Q3rGYFdf0Y",
+            "title": "Network Engineer"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "display_name": "Navi Mumbai, Maharashtra"
+            },
+            "latitude": 19.02,
+            "redirect_url": "https://www.adzuna.in/land/ad/5491504081?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=81080B767A864CC3421173EDF7C5A7A7A5E7A9FE",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "longitude": 73.02,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jio"
+            },
+            "description": "About Jio Jio is a leading force in India's digital revolution, committed to building the world's largest and most advanced all-IP data network. Our international network operations team is crucial for maintaining the seamless connectivity that powers our massive user base and global enterprise clients. Join us in Singapore and be at the forefront of managing one of the world's most critical Subsea and DWDM transmission networks. Role Overview We are seeking a highly skilled and experienced Sub…",
+            "id": "5491504081",
+            "created": "2025-11-12T10:53:59Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDkxNTA0MDgxIn0.JOKun3ZS3YlT5cSWHisunK1Xr6CaDx4XhT2U9w3SkFQ",
+            "title": "Network Engineer"
+        },
+        {
+            "title": "Network Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMjUwMyIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.jFjKUV2KAUFHR7lVkYvM3jKwxot4UyH9YyqqP7FSXEk",
+            "created": "2025-12-25T13:41:39Z",
+            "id": "5555202503",
+            "description": "Dear All, We are Hiring Network Monitoring & Observability Engineer for one of our Banking client. Payroll : Quess Position : C2H ( contract to hire ) Duration : 1 Year Location : Pune Work Mode : Hybrid Interview Mode : Virtual ( 2 rounds ) Gap : we can consider only 3 months Shift Timing : 2pm to 11pm IST Exp Level : 4 to 8 Years Rel Exp : 3years Notice period : Immediate Joiner only JD : Must have skills : Network - Routing, Switching, Security - 3-8 Years Network Monitoring, SolarWinds, Net…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Quess IT Staffing"
+            },
+            "longitude": 73.84735,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5555202503?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F0ADA1F71876B95AF7E02B7CAE184D60939CF5B7",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "latitude": 18.5062,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5549496701",
+            "description": "Position: Network Security Engineer Location: Bangalore Duration: Perm Routing Switching domain Job Roles and Responsibilities: · Should be good with advanced to expert level knowledge and skills on Enterprise Networking (Routing & Switching). · Collaborate and work closely with Incident management teams & prioritize the incidents shared by them. · Join all the Bridge Lines for troubleshooting along with customer and relevant stakeholders. · Collaborate and work closely with the Project teams f…",
+            "company": {
+                "display_name": "Cygnus Professionals Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-20T09:00:22Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NDk2NzAxIn0.HYQh6BY9HjlJlLTcZggEPdqG1U1gluTOEHGXRlluPXE",
+            "title": "Network Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549496701?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=EF5A67C3540938B164DEC7382D9A565E56F826DA",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5546312733?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=EBC53AF31AE988BDF9DFC99FB6692224C48FA486",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.00821,
+            "title": "Network Engineer",
+            "id": "5546312733",
+            "company": {
+                "display_name": "Sharp Brains",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 72.84415,
+            "description": "Key Responsibilities Provide Level 2 network support for LAN, WAN, WLAN, and data center networks Troubleshoot and resolve complex network issues escalated from L1 teams Configure, monitor, and maintain routers, switches, firewalls, and wireless controllers Perform network performance analysis , capacity planning, and optimization Support routing and switching protocols (BGP, OSPF, EIGRP, VLANs, STP) Manage and troubleshoot firewalls, VPNs, and network security policies Monitor network health u…",
+            "created": "2025-12-18T02:35:34Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzEyNzMzIn0.CBq1WGaE4k34HBIH8Tp0kFZ6gHah58AqwNRPXFUOjDE"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5539009834?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=20F0288FD7A80667DA294F0C96654F379F9DD12B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM5MDA5ODM0In0.U4SsKfMaP2ZbE-e_svN0ENmPsQv0DqdJpz0DEqObvu0",
+            "created": "2025-12-12T09:49:13Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rakuten Symphony"
+            },
+            "description": "Rakuten Symphony is reimagining telecom, changing supply chain norms and disrupting outmoded thinking that threatens the industry’s pursuit of rapid innovation and growth. Based on proven modern infrastructure practices, its open interface platforms make it possible to launch and operate advanced mobile services in a fraction of the time and cost of conventional approaches, with no compromise to network quality or security. Rakuten Symphony has operations in Japan, the United States, Singapore,…",
+            "id": "5539009834",
+            "title": "Network Engineer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5525210196?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=95F59B14E271B8A46C6BC099DABDA15AB888C7C8",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.5062,
+            "title": "Network Engineer",
+            "id": "5525210196",
+            "description": "Experience 5- 8 Hands-on experience in .Net Core, ASP.Net, MVC, Angular Experience in CI/CD, GIT Experience in SQL Programming, SSIS, SQL Server Experience in application development, Complex enhancements",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 73.84735,
+            "created": "2025-12-03T09:03:45Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTI1MjEwMTk2In0.8f8xP5PEPxC43-dBZlE9R_OVGk8fkIums2NQGDz0YuE"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "description": "Experience 5- 8 Hands-on experience in .Net Core, ASP.Net, MVC, Angular Experience in CI/CD, GIT Experience in SQL Programming, SSIS, SQL Server Experience in application development, Complex enhancements",
+            "id": "5526252765",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNjI1Mjc2NSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.8aR0nFy42_RA15c1dZEmmR0dIpZwGaBwyGQSNIv8y7c",
+            "created": "2025-12-03T23:14:57Z",
+            "title": "Network Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5526252765?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=BE0CA87840C5CEBEEBCC9FC58C0659C31BB98660",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "latitude": 17.40275,
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5525210199?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6F30AEA42B4A5BBF25ABDDB967924A7D5F6920F4",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTI1MjEwMTk5In0.yaGOwAzdUAqE_OgiGr9HCWtKVpBeaCSm5ATRafrNC00",
+            "created": "2025-12-03T09:03:45Z",
+            "id": "5525210199",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Experience 5- 8 Hands-on experience in .Net Core, ASP.Net, MVC, Angular Experience in CI/CD, GIT Experience in SQL Programming, SSIS, SQL Server Experience in application development, Complex enhancements",
+            "longitude": 78.50806,
+            "title": "Network Engineer"
+        },
+        {
+            "created": "2025-12-18T02:35:38Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxMjg1NCIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.k6w-cWt3vt926fqzjrps_o88gVhIQCXDg0O4xw2uLiI",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "description": "TCS Hiring for Network- SD WAN/Switches Exp: 2 to 5 years Location: Gurgaon Required Technical Skill Set LAN, WI-FI, Cisco SDWAN, Routing, Switching, Cisco WLC, Cisco ISE, Cisco DNAC, Aruba Controller & Clear pass Must Have: Co-ordinating with ISP’s Vendors for the link down/related issues Detect and respond to incidents proactively, with clear escalation procedures and communication channels. Deliver regular reports on network performance, including bandwidth utilization, latency, uptime, and …",
+            "id": "5546312854",
+            "title": "Network Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546312854?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6E300F42C34B7F045B1D3C4E689FD1E2F5F3C3F5",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzMTA3ODIyIn0.3KaveNuIgyGzak1P-AYz0oaSMxZ2KriKLbLvQkJqdlk",
+            "created": "2025-12-24T00:07:04Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "People Prime Worldwide"
+            },
+            "longitude": 72.84415,
+            "description": "Job Description - Technology Requirements CISCO ACI:- Cisco Data Center products (Nexus 9000, Nexus 3000, Nexus 7000/5000, Cisco ACI ) – Mandatory Cisco ASR 9K (IOS XR) Cisco ASR 1K (IOS/IOS XE) Routing/Switching: BGP, OSPF, EIGRP, MST, PVST, L2 switching – Mandatory Broad technical knowledge of the R&S, Data center and its components: Applications, Network, Server and projects surrounding their planning, design, implementation, operation, and optimization. Architectural knowledge of virtualiza…",
+            "id": "5553107822",
+            "title": "Network Engineer",
+            "latitude": 19.00821,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553107822?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F34F15E499E198837A684AB137098BC7C625FA56",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "title": "Network Engineer",
+            "longitude": 80.24963,
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Experience 5- 8 Hands-on experience in .Net Core, ASP.Net, MVC, Angular Experience in CI/CD, GIT Experience in SQL Programming, SSIS, SQL Server Experience in application development, Complex enhancements",
+            "id": "5525331666",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTMzMTY2NiIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.28T-r5ideMahy08c_aoO1YVuiuGO-FyXGZLoXsfXMU4",
+            "created": "2025-12-03T11:08:57Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5525331666?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DD82682B4F36A9D275F05378AE4BD04317AFA96E",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "latitude": 13.06041
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5536064009?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F8E19E8BDD68D976D2E3CBA39365567B85914996",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5536064009",
+            "company": {
+                "display_name": "Viable Search Consultants",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "The ideal candidate will be responsible for maintaining and intermittently improving our current network configuration and infrastructure. You will design our revamped network infrastructure with the goal of maximizing our network performance. You will also provide troubleshooting and configuration support by using your strong technical skills in Linux and Windows environments and IP networking. Responsibilities Maintain, implement, and troubleshoot networks Design and support our network syste…",
+            "created": "2025-12-10T16:50:25Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NDAwOSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.fHJ-YhLHCAD7JD5W48mR4wRhWsvkPfq-K-6BeYJkIrM",
+            "title": "Network Engineer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5549496754?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=52B0330D0CCD7B9EBF68BAA77041FA2F7D56C8B4",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "display_name": "Navi Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.02,
+            "title": "Network Engineer",
+            "id": "5549496754",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tech Zone LLC"
+            },
+            "longitude": 73.02,
+            "description": "Work type : FTE Language requirement: English, Local Job description : 1 / 2 List of Activities for Network – Outsourced Personal · Create new VLANs for segmentation · Modify existing VLANs (rename, reassign ports) · Delete unused VLANs · Configure VLAN trunking between switches · Initial setup (hostname, management IP, domain name) · Configure access and trunk ports · Apply port security (MAC filtering, sticky MACs) · Enable/disable interfaces · Configure EtherChannel (port aggregation) · Back…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTQ5Njc1NCIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.ZYp1vVfoWjR8evSZvXXUlpC0lzJp-npzgmN9894XXzw",
+            "created": "2025-12-20T09:00:27Z"
+        },
+        {
+            "contract_type": "contract",
+            "redirect_url": "https://www.adzuna.in/land/ad/5555201197?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=EC8F73314A93F035C2AA0D49CC41213B70DFAE1A",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "title": "Network Engineer",
+            "id": "5555201197",
+            "company": {
+                "display_name": "People Prime Worldwide",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About Company : They balance innovation with an open, friendly culture and the backing of a long-established parent company, known for its ethical reputation. We guide customers from what’s now to what’s next by unlocking the value of their data and applications to solve their digital challenges, achieving outcomes that benefit both business and society. About Client: Our client is a global digital solutions and technology consulting company headquartered in Mumbai, India. The company generates…",
+            "longitude": 78.50806,
+            "created": "2025-12-25T13:37:39Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMTE5NyIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.ZQg_ksRVBss3LonJr_d0Kv_ZgAm3WFa0MXduglpL-ls"
+        },
+        {
+            "created": "2025-12-12T08:53:17Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM4OTM4ODIyIn0.jnUYqOgCymBbasoatKIItIPUqcggX1KTaqKMVAyWf5U",
+            "company": {
+                "display_name": "Stolt-Nielsen Digital Innovation Centre",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About the Role: As a Network Administrator, your main responsibility is to ensure the IT network operates seamlessly, efficiently, and securely. Daily, you monitor network traffic, proactively identifying, addressing, and reporting potential issues before they affect performance. When challenges arise, you act promptly, troubleshooting and resolving issues to maintain smooth and uninterrupted operations. Your responsibilities extend beyond problem-solving, including the implementation of networ…",
+            "longitude": 78.50806,
+            "id": "5538938822",
+            "title": "Network Engineer",
+            "latitude": 17.40275,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5538938822?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=84680EADB76A008ECF1CA0BDEB04822D51A00815"
+        },
+        {
+            "title": "ENTC Network Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTMzMjQzODQ0In0.G576Dc7Vydj5AFbJUdGLesRRHvYhQJyhwb95Psz6g-A",
+            "contract_time": "full_time",
+            "created": "2025-12-08T10:32:53Z",
+            "id": "5533243844",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PRAGMATA BIZCONSERV LLP"
+            },
+            "description": "Company Description We suggest you enter details here. Role Description This is a full-time on-site Network Engineer role located in Pune. The Network Engineer will be responsible for managing, monitoring, and maintaining outdoor based multiple equipment network infrastructure through servers, switches and backhaul. Key tasks include network administration, troubleshooting issues, ensuring network security, and designing and implementing network solutions to improve performance and reliability.…",
+            "longitude": 73.84735,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5533243844?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6C8947F00B56F4C93CE3439F3CA08F7F91CB0ACA",
+            "latitude": 18.5062,
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Senior Network Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODc1Njc1NyIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.3fe-pjW2kDbCTDqtwxrduzv3rg4CIUSLJiiTz4y9YwM",
+            "created": "2025-11-29T09:52:15Z",
+            "company": {
+                "display_name": "Orbia Pune",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "We are currently looking for Senior Network Engineer to join a fast growing product based Organisation in Pune. If you have strong background in design, deploy, and support enterprise-grade network solutions across data centers, cloud environments, and office sites worldwide. We'd love to hear from you. Role: Senior Network Engineer Location: Baner, Pune Relevant Experience: Preferred: Aruba Certified (ACSA/ACSP), Fortinet NSE (Level 4), Infoblox Certified Network Professional. Specific knowled…",
+            "longitude": 73.84735,
+            "id": "5518756757",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5518756757?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6C1CA9AF4E664D5365E71D58F18EA776164290F5",
+            "latitude": 18.5062,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            }
+        },
+        {
+            "created": "2025-12-13T09:39:53Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDY3MzE3OSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.THgR39v8PVfPdd3ToxwyXWALj78Q4Y7c_BPu4MQb2Ek",
+            "id": "5540673179",
+            "longitude": 72.84415,
+            "company": {
+                "display_name": "TECEZE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "We’re Hiring: L2 Network Engineer | Mumbai (On-site) Company: Teceze Position: L2 Network Engineer (Rack & Stack  Basic Python) Location: Mumbai About Teceze: Teceze is a global IT services and consulting company delivering managed services, cybersecurity, and technology staffing solutions. Operating across multiple regions, we take pride in our compliant, people-first culture that empowers performance and fosters growth. Role: We’re looking for an experienced L2 Network Engineer with strong tr…",
+            "title": "L2 Network Engineer",
+            "latitude": 19.00821,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5540673179?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6C53B6DFCB620F03B5B9C6F3AA09B5814D1C6115"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5540672444?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=BF64ACC85A992740D6BA596501658B6E6CA2952E",
+            "latitude": 22.57285,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "display_name": "Kolkata, West Bengal"
+            },
+            "title": "L2 Network Engineer",
+            "created": "2025-12-13T09:39:35Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDY3MjQ0NCIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.NzezRelMJ9W9w3XczOdVemEPQ30eILe6pdJUmYbj5C0",
+            "description": "We’re Hiring: L2 Network Engineer |Kolkata (On-site) Company: Teceze Position: L2 Network Engineer (Rack & Stack  Basic Python) Location: Kolkata About Teceze: Teceze is a global IT services and consulting company delivering managed services, cybersecurity, and technology staffing solutions. Operating across multiple regions, we take pride in our compliant, people-first culture that empowers performance and fosters growth. Role: We’re looking for an experienced L2 Network Engineer with strong t…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TECEZE"
+            },
+            "longitude": 88.34373,
+            "id": "5540672444"
+        },
+        {
+            "created": "2025-12-11T09:26:46Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MzY1MSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.ThNVvCCkspYnFVttHeIlXwfCsuEn8oYaEz4Lq9iD6S8",
+            "id": "5537383651",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TECEZE"
+            },
+            "description": "We’re Hiring: L2 Network Engineer | Chennai (On-site) Company: Teceze Position: L2 Network Engineer (Rack & Stack  Basic Python) Location: Chennai & Mumbai About Teceze: Teceze is a global IT services and consulting company delivering managed services, cybersecurity, and technology staffing solutions. Operating across multiple regions, we take pride in our compliant, people-first culture that empowers performance and fosters growth. Role: We’re looking for an experienced L2 Network Engineer wit…",
+            "longitude": 80.24963,
+            "title": "L2 Network Engineer",
+            "latitude": 13.06041,
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537383651?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=00B62EB742BAE58D3E9711868F54BE1BF054FFB3",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "description": "Dear Candidate, Greetings from TATA Consultancy Services Thank you for expressing your interest in exploring a career possibility with the TCS Family. Hiring For:- Azure Network Engineer Location: PAN India Experience: 6 to 10yrs Azure Network Engineer An Azure Network Engineer designs, implements, and manages secure and scalable network solutions in Microsoft Azure, connecting cloud and on-premises environments. Key responsibilities include configuring Azure networking services like VNets and …",
+            "longitude": 75.949555,
+            "id": "5525207505",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTI1MjA3NTA1In0.lz0VM6vBomcmS4dffpAmZdlwdn2p1h-3tQLkQSjbCok",
+            "created": "2025-12-03T09:01:09Z",
+            "title": "Azure Network Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra"
+                ],
+                "display_name": "Maharashtra, India"
+            },
+            "latitude": 19.439563,
+            "redirect_url": "https://www.adzuna.in/land/ad/5525207505?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=E042FCAB2461D64699E1537B52A7D8DD37097E6A",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Platform Network Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "description": "Role: Platform Network Engineer Experience: 6 to 10 Locations: Chennai, Kolkata, Hyderabad, Bangalore, Pune, Delhi Job Description: 4 years of experience in network engineering with a strong focus on VMware NSX-T deployment, configuration, and support. In-depth expertise in VMware NSX-T, including network, firewall, and load balancing configurations. Responsible for the NSX-T network, firewall, and load balancing configurations, directing system installation, defining, documenting, and enforcin…",
+            "id": "5550647870",
+            "created": "2025-12-21T08:12:06Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MDY0Nzg3MCIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.wdgiW7nyr90c89gN2aC7oL0IAFlvaPU6y8X2v6e8wEM",
+            "redirect_url": "https://www.adzuna.in/land/ad/5550647870?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B4FF1D4290564EEB0156CD6E668A2D8DA6853BF3",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5536065331?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=CF6F08AE0FAF721C8D4FD886A132909101ECC8D5",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-10T16:52:51Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NTMzMSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.AQRLuCPM-Tlix5xSSBm6W71A1n6FVUIO2odKLlvu_e4",
+            "description": "Job Title: Senior Cloud Network Engineer Location: Bengaluru, Karnataka, India Experience Level: 5 Years Job Summary We are seeking a skilled and experienced Senior Cloud Network Engineer to join our dynamic infrastructure team. The ideal candidate will have a proven track record of designing, implementing, and managing secure, scalable, and resilient cloud network infrastructure across a multi-cloud environment, specifically Google Cloud Platform (GCP), Amazon Web Services (AWS), and Microsoft…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "QuarkWiz"
+            },
+            "id": "5536065331",
+            "title": "Senior Network Engineer"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549496744?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A0EC850549117E2426699D52B766B58E44C42EF9",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Voice Network Engineer",
+            "created": "2025-12-20T09:00:26Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NDk2NzQ0In0.eLX2admlDSObiy48hWIPGqUTlan6C8BRBWDpiXVHt2E",
+            "id": "5549496744",
+            "description": "Hello Connections Greetings from Tekgence, We have immediate openings for one of our reputed Clients. Job Descripition: Role :Voice Network Engineer Experience :3 Yrs Work Mode :Hybrid Location :Bangalore Detailed Job description: Primary Function of Position: This position has responsibility for the deployment, support and upgrade of production Zoom Phone, Zoom Meeting, NICE infrastructure supporting worldwide locations. Test and evaluate voice and video systems for optimum performance in supp…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tekgence Inc"
+            }
+        },
+        {
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5525207639?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B91992C4B73499455741950EB07CAFA95A25E861",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5525207639",
+            "description": " We’re Hiring: SME – Network Engineer (L3)  Location: Hyderabad  Availability: Immediate Joiners / Max 15–20 Days  Experience: L3 Support – Cisco R&S OR L3 Support – Firewalls ⭐ Preferred: Multi-vendor firewall experience ☁ Added Advantage: Cloud (AWS / Azure / GCP) Calling out to all Networking Experts ! If you are currently handling L3 support on Cisco R&S or Firewalls , this opportunity is for you. Apply now and our team will reach out if your experience matches the role. Position: SME – Net…",
+            "company": {
+                "display_name": "SHI Solutions India Pvt. Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.50806,
+            "created": "2025-12-03T09:01:11Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTIwNzYzOSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.WCZENpYzZacncTFPgld3JAmAcjl00rgb6KtbPQTFMII",
+            "title": "Senior Network Engineer"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5556102698?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=20A0C3B4F32DDAA0CB425A00179B52D217D9EB7F",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Ernakulam",
+                    "Kochi"
+                ],
+                "display_name": "Kochi, Ernakulam"
+            },
+            "latitude": 9.98011,
+            "title": "Senior Network Engineer",
+            "description": "Job Summary – Senior Network Engineer Corus Infotech is seeking a highly skilled Senior Network Engineer – L3 to oversee end-to-end ISP infrastructure operations and drive technical excellence across the organisation. This role requires strong capabilities in customer coordination, solution preparation, presales support, and leading technical teams while ensuring seamless network performance in a high-pressure environment. The ideal candidate must possess deep knowledge of ISP networks , includ…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Corus Infotech"
+            },
+            "longitude": 76.24637,
+            "id": "5556102698",
+            "created": "2025-12-26T08:35:21Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NjEwMjY5OCIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.nb2o2TcAx7lI0Wq2kgt-lX60rtGapm-OXvLPjh5KG44"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5542009974?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=17336FB0C3AEE6F32BC24C9A7CCD599F397C7E1D",
+            "latitude": 23.042,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Ahmedabad"
+                ],
+                "display_name": "Ahmedabad, Gujarat"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Cisco Network Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MjAwOTk3NCIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.4uyIyAjx2RFkQSxuMHs1-2syUlaZzLMcxIRwPRZohLw",
+            "created": "2025-12-14T16:01:10Z",
+            "id": "5542009974",
+            "description": "We are seeking a highly skilled CISCO Network Engineer with a strong background in CISCO networking technologies to join our team. The ideal candidate should have extensive experience in network design, implementation, and troubleshooting, as well as a deep understanding of CISCO hardware and software.",
+            "company": {
+                "display_name": "SNDK Corp",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 72.59465
+        },
+        {
+            "title": "Senior Network Engineer",
+            "id": "5331295391",
+            "description": "Job Title: SME-Network Security (Cisco / Palo Alto / Meraki / Aruba / Fortinet / Sophos) Company: SHI | LOCUZ Location: Hyderabad Experience: 8 Years Work Mode: On-site | 24x7 Support (Rotational Shifts) Level: L3 – Managed Services Job Description: We are hiring a Senior Network Engineer (L3) to join our growing team at SHI | LOCUZ. This is a high-impact role responsible for designing, implementing, managing, and troubleshooting complex network infrastructures within a Managed Services environ…",
+            "company": {
+                "display_name": "SHI Solutions India Pvt. Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.50806,
+            "created": "2025-08-01T10:32:55Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMzMTI5NTM5MSIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.97FOq5Lby7Df6s2PUl6Y3YlvfCoG1lFRL6TxKJ8XaEg",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5331295391?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=1CC5147F1A8BBAA1A4F1FCDE65600931BDB44753",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275
+        },
+        {
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/land/ad/5546314244?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0304F01CBDFA7EE33979F9A13D94E0B30D6AD055",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5546314244",
+            "description": "Role : Network Engineer L3 Exp: 8 to 10 Location : 8 to 10 JD Detailed knowledge of the OSI model and switching technologies (STP, VLAN, IPSLA, HSRP, VRRP). Strong knowledge of networking protocols, including TCP/IP, DNS, DHCP, EIGRP, OSPF, BGP and MPLS. Demonstrates a specialist understanding of network security concepts and experience with firewalls. Hands-on experience with VPN configuration and IPsec. Proficiency in configuring and troubleshooting routers, switches, firewalls, Wireless LAN …",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 73.84735,
+            "created": "2025-12-18T02:36:59Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzE0MjQ0In0.oxtsaRz-6Cte0XPloaUqqHeng-bHkW3VIZWL_HxMD3c",
+            "title": "Network Engineer L3"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553872427?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=FDF2BA6F0C73B51AF481DE4AA90E778A2B802BC2",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Junior Network Engineer",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3MjQyNyIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.cqPAiS66vEvGRMa9CjZvY-8S8Q2wE9pFNi9DGmDG-Vk",
+            "created": "2025-12-24T10:18:23Z",
+            "description": "Job Title: Junior Network Engineer Experience: 1–3 Years Employment Type: Full-Time / Contract Location: On-site Shift Timing: 9:00 am to 6:00 pm Pay Range: 3.00lpa-3.60lpa Job Summary We are looking for a Junior Network Engineer to support daily network and IT operations. The role involves troubleshooting network and hardware issues, maintaining IT systems, ensuring the cleanliness of equipment, and managing IT inventory. Key Responsibilities A. Network & Technical Support · Install, configure…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "VM HR Solutions"
+            },
+            "id": "5553872427"
+        },
+        {
+            "title": "Lead Network Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "LTIMindtree"
+            },
+            "description": "Job description: A Network Engineer is responsible for the setup, configuration, running network deployments, buildouts. This includes but not limited to, hands on work in a datacenter lab environment, buildouts deployments, configuring network elements to pass traffic through the test setup, Configuring a traffic generator, troubleshooting issues with the baseline test setup, gathering test data, analysing the test data for root causes, and building test reports, working with stakeholders and …",
+            "longitude": 78.50806,
+            "id": "5546313932",
+            "created": "2025-12-18T02:36:47Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxMzkzMiIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0._7BqGWjJf7kT5oTq_lNREX0XmjypEqKOyenSTH0bNBw",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546313932?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5C2931459FF58437651B3C3223C5107C8B46E680",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "latitude": 17.40275
+        },
+        {
+            "latitude": 13.06041,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5537384098?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D76CC7282BE3AC6633727A6AF522F638182AFD8F",
+            "created": "2025-12-11T09:26:59Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4NDA5OCIsInMiOiJtRzRpV1ZqaThCR2pKYWJ4V3QwZURRIn0.VvxcJRBNZH7PhSY-qop5EO7XkBC7W3ajfJdymYlIK9E",
+            "description": "We’re Hiring: L1 Network Engineer | Chennai (On-site) Company: Teceze Position: Network and IT support Location: Chennai, Kolkata, Mumbai, Pune, Kochi About Teceze: Teceze is a global IT services and consulting company delivering managed services, cybersecurity, and technology staffing solutions. Operating across multiple regions, we take pride in our compliant, people-first culture that empowers performance and fosters growth. Position Overview The Service Delivery Engineer – Network Implement…",
+            "company": {
+                "display_name": "TECEZE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 80.24963,
+            "id": "5537384098",
+            "title": "L1 Network Engineer"
+        },
+        {
+            "id": "5528014915",
+            "description": "Lead- Network Engineer (Immediate to 15 Days Joiner) Experience:- 10 Yrs Location: Mumbai Working Days:- 5 (Mandatory) [Routing / Switching / Wireless / SDWAN / Cloud networking / NW Automation]Engineer Job Summary: We are looking for a skilled and strategic Lead Network & Security Engineer to architect, manage, and secure enterprise-wide network systems. This senior role demands deep technical expertise across firewalls, VPN, IPS, Zscaler cloud security, switching technologies, SD-WAN, and wir…",
+            "company": {
+                "display_name": "ITC Infotech",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 72.84415,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUc0aVdWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTI4MDE0OTE1In0.u5PK0XoWcROuq4lGLSEW6V6601niP5g3IBn7wWzuUjU",
+            "created": "2025-12-05T01:31:42Z",
+            "title": "Lead Network Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.00821,
+            "redirect_url": "https://www.adzuna.in/land/ad/5528014915?se=mG4iWVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=4FB67AE9B69894EC73E5298C52F6A8B7A8E17EA4",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        }
+    ],
+    "mean": 1209832.67,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

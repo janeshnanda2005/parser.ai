@@ -1,0 +1,1536 @@
+{
+    "mean": 1744363.64,
+    "count": 426,
+    "results": [
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546623496?se=ykq6U1ji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=678D8023B6895F42A1DB8CC11C3C074A575301C5",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NjIzNDk2In0.xS0l-D29BF5MWUAuvG7B_4XfBD7PhJGzOa1kqoqydu0",
+            "created": "2025-12-18T08:47:29Z",
+            "id": "5546623496",
+            "description": "Role - Big Data Engineer (Hadoop) Experience - 4 - 15 years Location - PAN INDIA Job description Must Have •Hadoop Ecosystem: In-depth knowledge of Hadoop, HDFS, MapReduce, Hive, Pig, HBase, and Spark. •Programming: Strong programming skills in Java, Python, or Scala. •Big Data Technologies: Experience with big data technologies, including NoSQL databases, data warehousing, and ETL tools. •Data Processing: Experience with data processing frameworks, including Hadoop, Spark, and Flink. •Communic…",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Big Data Engineer (Hadoop)"
+        },
+        {
+            "latitude": 18.5062,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5549502698?se=ykq6U1ji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=E6A60B7615F7BADB5187EC73BA2F06426CAB18F7",
+            "created": "2025-12-20T09:06:31Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NTAyNjk4In0.LALsI9cDIE4wyp9hL-PAq1r4vrRO4FoIHjA1WARkS_8",
+            "id": "5549502698",
+            "description": "About Us HG Insights is the global leader in technology intelligence, delivering actionable AI driven insights through advanced data science and scalable big data solutions. What You’ll Do: Design, build, and optimize large-scale distributed data pipelines for processing billions of unstructured documents using Databricks, Apache Spark, and cloud-native big data tools Architect and scale enterprise-grade big-data systems, including data lakes, ETL/ELT workflows, and syndication platforms for cu…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HG Insights"
+            },
+            "longitude": 73.84735,
+            "title": "Senior Data Engineer- Big Data"
+        },
+        {
+            "id": "5518763903",
+            "description": "RingCentral is seeking an experienced technical specialist to drive the support and continuous improvement of our analytics and big data platforms. The Data Operations team is dedicated to proactively transforming and building future-proof services, prioritizing robust automation and operational simplicity to support the company's rapid growth. As a key technical member, you'll tackle challenging projects, influence future platform architecture, and participate in crucial decision-making. We ex…",
+            "company": {
+                "display_name": "RingCentral",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODc2MzkwMyIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.AbG1URgo31kQnIRFDDOgghX6Y4qBvXtnuh9Cop3Kpks",
+            "created": "2025-11-29T10:04:23Z",
+            "title": "DataOps Engineer/Data-Dev-ops Engineer/Big Data SRE",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5518763903?se=ykq6U1ji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=030ADD488D41B897234781753DF355F6FE54CC59",
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553871494?se=ykq6U1ji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=4B99FE867AAAE8C7CD3B93FCBA0F104E5CD22EE5",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "TCS has been a great pioneer in feeding the fire of Techies like you. We are a global leader in the technology arena and there's nothing that can stop us from growing together. TCS Hiring for GCP Data Engineer - Big query Experience Range: - 6 to 10 Years Job Location: Hyderabad, Chennai, Bangalore Job Description: Proficiency in programming languages: Python, Java Expertise in data processing frameworks: Apache Beam (Data Flow) Active experience on GCP tools and technologies like Big Query, Da…",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5553871494",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODcxNDk0In0.QQO2Ry_oCATLPfVtbtIdxxIBR33uzsAHpCdy6aklMco",
+            "created": "2025-12-24T10:17:43Z",
+            "title": "GCP Data Engineer - Big query"
+        },
+        {
+            "title": "Site Reliability Engineer - Big Data",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTMwNTQ5NTQ3In0.nPPgZaP4iNmjSXIxAeq21QFYUQrs5GbbxC3clSozjms",
+            "created": "2025-12-06T09:29:28Z",
+            "id": "5530549547",
+            "company": {
+                "display_name": "PhonePe",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About the Role: This role is responsible for managing and maintaining complex, distributed big data ecosystems. It ensures the reliability, scalability, and security of large-scale production infrastructure. Key responsibilities include automating processes, optimizing workflows, troubleshooting production issues, and driving system improvements across multiple business verticals. Roles and Responsibilities: ● Manage, maintain, and support incremental changes to Linux/Unix environments. ● Lead …",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5530549547?se=ykq6U1ji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2CE9118FC67E388CC34A46051569A12DB6CF1BA7",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "latitude": 13.06041,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546614107?se=ykq6U1ji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=1818EA41E777DC4EA72AD3661F0B71D5FCDC3F5B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NjE0MTA3In0.Ouq08Y8I_wi_vPo5MRAwVC-eF6gYAL99XoFfqC8sqhY",
+            "created": "2025-12-18T08:46:28Z",
+            "company": {
+                "display_name": "Optum",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Software engineering is the application of engineering to the design, development, implementation, testing and maintenance of software in a systematic method. The roles in this function will cover all primary development activity across all technology functions that ensure we deliver code with high quality for our applications, products and services and to understand customer needs and to develop product roadmaps. These roles include, but are not limited to analysis, design, coding, engineering…",
+            "longitude": 80.24963,
+            "id": "5546614107",
+            "title": "Senior Software Engineer - Big Data & Scala"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5539018579?se=ykq6U1ji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=07ECA15C974A370F4D13A23D1008F9A17A03C2A6",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "GCP Big Data Engineer Location -Bangalore & Gurgaon Leadership role with 5-10 yrs experience Skills Set GCP, SQL, PySpark, ETL knowledge MUST Skills Mandatory Skills : GCP, Storage, GCP, Big Query, GCP DataProc, GCP Cloud Composer, GCP DMS, Apache airflow, Java, Python, Scala, GCP Datastream, Google Analytics Hub, GCP Workflows, GCP Dataform, GCP Data fusion, GCP Pub/Sub, ANSI-SQL,GCP Dataflow, GCP Data Flow, GCP Cloud Pub/Sub, Big Data Hadoop Ecosystem",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "LTIMindtree"
+            },
+            "id": "5539018579",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM5MDE4NTc5In0.FZdUPEX-bzx1ouJ28dQII6ECNKOKdq3tkZJ4oXlrtuw",
+            "created": "2025-12-12T09:53:27Z",
+            "title": "Data Engineer"
+        },
+        {
+            "title": "BigData and Hadoop Ecosystems E2",
+            "created": "2025-12-16T18:13:12Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ0MTkxMDY4In0.uvymW-kAftXam-F3e5ekf7AzfBICud982_78hLjw0nM",
+            "id": "5544191068",
+            "description": "Greetings from TCS TCS is currently hiring for the position of Digital : BigData and Hadoop Ecosystems E2. Role: BigData and Hadoop Ecosystems E2 Experience: 6–8 Years Location: Bangalore / Chennai / Hyderabad / Mumbai / Indore / Ahmedabad About the Role: We are seeking a skilled Big Data Engineer with expertise in Hadoop Ecosystem to join our Digital team. The candidate will be responsible for building and optimizing large-scale data processing systems and ensuring high performance and scalabi…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5544191068?se=ykq6U1ji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=67D15E2DE36169811BE24DE15E32737C5A4A201E",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5529803385?se=ykq6U1ji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=EA137E886369855E32AD23CE7559ABB9006533D4",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "latitude": 13.06041,
+            "title": "Senior Data Engineer - Scala, Spark",
+            "description": "Our NielsenIQ Technology teams are working on revamping multiple platform, a unified, global, open data ecosystem powered by Microsoft Azure. Our clients around the world rely on NielsenIQ’s data and insights to innovate and grow. As a Big Data Software Engineer, you’ll be part of a team of smart, highly skilled technologists who are passionate about learning and prototyping cutting-edge technologies. Ingestion Services is working on unifying and standardizing several varied ingestion methodolo…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NielsenIQ"
+            },
+            "longitude": 80.24963,
+            "id": "5529803385",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgwMzM4NSIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.dhdTZs7qEONOY0JDKPkxYQHD837ebUhGDmvSR3YZMjA",
+            "created": "2025-12-06T01:24:37Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "latitude": 12.95703,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5543786432?utm_medium=api&utm_source=d58ac19b",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "description": "We are a consulting company with a bunch of technology-interested and happy people! We love technology, we love design and we love quality. Our diversity makes us unique and creates an inclusive and welcoming workplace where each individual is highly valued. With us, each individual is her/himself and respects others for who they are and we believe that when a fantastic mix of people gather and share their knowledge, experiences and ideas, we can help our customers on a completely different lev…",
+            "longitude": 77.59837,
+            "company": {
+                "display_name": "Aqilea ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5543786432",
+            "created": "2025-12-16T09:03:13Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQzNzg2NDMyIn0.XXYL9rg9O3HbSjENiUeIC3vAExrZUIKDIUSizux37zw",
+            "contract_time": "full_time",
+            "title": "Big Data Engineer"
+        },
+        {
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDI0NzM0MCIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.xi778eVfbAqxTysehrMc50G1s2bdE_hytndt2n13BDE",
+            "created": "2025-11-23T15:05:07Z",
+            "description": "Responsibilities Design, develop, and implement robust Big Data solutions using technologies such as Hadoop, Spark, and NoSQL databases. Build and maintain scalable data pipelines for effective data ingestion, transformation, and analysis. Collaborate with data scientists, analysts, and cross-functional teams to understand business requirements and translate them into technical solutions. Ensure data quality and integrity through effective validation, monitoring, and troubleshooting techniques.…",
+            "company": {
+                "display_name": "RiskInsight Consulting Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5510247340",
+            "title": "Big Data Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5510247340?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 1500000,
+            "latitude": 17.40275,
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Big data Engineer",
+            "salary_min": 1000000,
+            "contract_time": "full_time",
+            "longitude": 78.50806,
+            "description": "Role Overview We are looking for two Junior-level Big Data Engineers with strong hands-on experience in AWS, Python, Apache Airflow, and Big Data technologies . The ideal candidates will design, build, and maintain scalable data pipelines and workflows in a cloud-based environment, ensuring data reliability, performance, and security. Key Responsibilities Design, develop, and maintain ETL data pipelines using Apache Airflow . Build scalable data solutions on AWS , leveraging services such as: A…",
+            "redirect_url": "https://www.adzuna.in/details/5549245450?utm_medium=api&utm_source=d58ac19b",
+            "created": "2025-12-20T03:38:52Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5MjQ1NDUwIn0.Jzkhg5nQBsglyrINMLZCUk9WjE_b-mvkIum1qhrKU6c",
+            "id": "5549245450",
+            "company": {
+                "display_name": "Zorba Consulting India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/2210353253?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "YourHRfolks"
+            },
+            "id": "2210353253",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjIxMDM1MzI1MyIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.jtPxNb-1MuGF45gTIvNcpYVDWHQWmU5rERSQaZtvi00",
+            "created": "2021-05-26T12:52:33Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_max": 3000000,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Jaipur, Rajasthan",
+                "area": [
+                    "India",
+                    "Rajasthan",
+                    "Jaipur"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 26.7441,
+            "salary_min": 750000,
+            "title": "Big Data Engineer",
+            "description": "Position: Big Data Engineer What You'll Do Punchh is seeking to hire Big Data Engineer at either a senior or tech lead level. Reporting to the Director of Big Data, he/she will play a critical role in leading Punchh’s big data innovations. By leveraging prior industrial experience in big data, he/she will help create cutting-edge data and analytics products for Punchh’s business partners. This role requires close collaborations with data, engineering, and product organizations. His/her job func…",
+            "longitude": 75.9469,
+            "contract_time": "full_time"
+        },
+        {
+            "id": "5442082882",
+            "company": {
+                "display_name": "Deqode",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Profile: Big Data Engineer (System Design) Experience: 5 years Location: Bangalore Work Mode: Hybrid About the Role We're looking for an experienced Big Data Engineer with system design expertise to architect and build scalable data pipelines and optimize big data solutions. Key Responsibilities Design, develop, and maintain data pipelines and ETL processes using Python, Hive, and Spark Architect scalable big data solutions with strong system design principles Build and optimize workflows using…",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDQyMDgyODgyIn0.h424iMlmyJuHjU4TUV80Mi-yBzmzOA1Qunf-vzSRvtg",
+            "created": "2025-10-11T06:40:57Z",
+            "title": "Big Data Engineer",
+            "salary_min": 500000,
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5442082882?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 2000000,
+            "salary_is_predicted": "0"
+        },
+        {
+            "company": {
+                "display_name": "SOT-Science of talent Acquisition consulting services Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "3675927995",
+            "created": "2022-11-10T06:31:11Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiIzNjc1OTI3OTk1In0.wszGp4CnDGaX7gekhM3LFIi75EyA5tVsTqqQC6dJkLo",
+            "redirect_url": "https://www.adzuna.in/details/3675927995?utm_medium=api&utm_source=d58ac19b",
+            "description": "Big Data Engineer:- -Expertise in building AWS Data Engineering pipelines with AWS Glue -> Athena -> Quick sight. -Experience in developing lambda functions with AWS Lambda. - Expertise with Spark/PySpark – Candidate should be hands on with PySpark code and should be able to do transformations with Spark -Should be able to code in Python and Scala. - Snowflake experience will be a plus Skills:- AWS Lambda, Spark, PySpark, Glue semantics, Python and Scala",
+            "longitude": 78.50806,
+            "contract_time": "full_time",
+            "salary_min": 400000,
+            "title": "Big Data Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 1400000,
+            "salary_is_predicted": "0"
+        },
+        {
+            "description": "Big Data Engineer: 5 yrs. Immediate Joiner Expertise in building AWS Data Engineering pipelines with AWS Glue -> Athena -> Quick sight Experience in developing lambda functions with AWS Lambda Expertise with Spark/PySpark – Candidate should be hands on with PySpark code and should be able to do transformations with Spark Should be able to code in Python and Scala. Snowflake experience will be a plus We can start keeping Hadoop and Hive requirements as good to have or understanding of is enough …",
+            "longitude": 78.50806,
+            "contract_time": "full_time",
+            "salary_min": 1200000,
+            "title": "Big Data Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_max": 2500000,
+            "salary_is_predicted": "0",
+            "id": "3812502540",
+            "company": {
+                "display_name": "SOT-Science of talent Acquisition consulting services Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2023-01-01T06:13:49Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzgxMjUwMjU0MCIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.f8WTwYgI1WyLaQfAxHyI_2of4Y0gepzU4lmECc8XLaE",
+            "redirect_url": "https://www.adzuna.in/details/3812502540?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 2800000,
+            "latitude": 17.40275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Big Data Engineer",
+            "salary_min": 1200000,
+            "contract_time": "full_time",
+            "description": "Must have : At least 4 to 7 years of relevant experience as Big Data Engineer Hands-on experience in Scala or Python Hands-on experience on major components in Hadoop Ecosystem like HDFS, Map Reduce, Hive, Impala. Strong programming experience in building applications/platform using Scala or Python. Experienced in implementing Spark RDD Transformations, actions to implement business analysis We are specialized in productizing solutions of new technology. Our vision is to build engineers with en…",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/details/4344577823?utm_medium=api&utm_source=d58ac19b",
+            "created": "2023-10-02T13:22:25Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI0MzQ0NTc3ODIzIn0.-zzW_vvIbS6IEYOSjM6nYel0YlAlEFG2ek7HcXGbVHg",
+            "id": "4344577823",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jobdost"
+            }
+        },
+        {
+            "id": 1821119711,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Clairvoyant India Private Limited"
+            },
+            "created": "2020-11-14T03:04:50Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOjE4MjExMTk3MTF9.6WnedcK2rmtGoYZ1lLYH38PbyHYGh5m2NjLT3U8MeJc",
+            "redirect_url": "https://www.adzuna.in/details/1821119711?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 73.84735,
+            "description": "ob Title/Designation: Mid / Senior Big Data Engineer Job Description: Role: Big Data Engineer Number of open positions: 5Location: PuneAt Clairvoyant, we're building a thriving big data practice to help enterprises enable and accelerate the adoption of Big data and cloud services. In the big data space, we lead and serve as innovators, troubleshooters, and enablers. Big data practice at Clairvoyant, focuses on solving our customer's business problems by delivering products designed with best in…",
+            "contract_time": "full_time",
+            "title": "Big Data Engineer",
+            "salary_min": 400000,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.5062,
+            "salary_max": 1500000,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "description": "We are looking for a Big Data Engineer with java for Chennai Location Location : Chennai Exp : 11 to 15 Years Job description Required Skill: 1. Candidate should have minimum 7 years of experience as total 2. Candidate should have minimum 4 years of experience in Big Data design and development 3. Candidate should have experience in Java, Spark, Hive & Hadoop, Python 4. Candidate should have experience in any RDBMS. Roles & Responsibility: 1. To create work plans, monitor and track the work sch…",
+            "longitude": 80.24963,
+            "contract_time": "full_time",
+            "salary_min": 1500000,
+            "title": "Big Data Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 13.06041,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_max": 3300000,
+            "salary_is_predicted": "0",
+            "id": "4819767261",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Virtusa"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI0ODE5NzY3MjYxIn0.XzIAfgvSeI916IkwiFw9B2pxMG0rNtOFJxJac2uv7Z4",
+            "created": "2024-08-10T10:59:36Z",
+            "redirect_url": "https://www.adzuna.in/details/4819767261?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "title": "Big Data Engineer",
+            "salary_min": 500000,
+            "id": "2974405038",
+            "description": "Big Data Engineer/Data Engineer What we are solving Welcome to today’s business data world where: • Unification of all customer data into one platform is a challenge • Extraction is expensive • Business users do not have the time/skill to write queries • High dependency on tech team for written queries These facts may look scary but there are solutions with real-time self-serve analytics: • Fully automated data integration from any kind of a data source into a universal schema • Analytics datab…",
+            "company": {
+                "display_name": "Propellor.ai",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiIyOTc0NDA1MDM4In0.4yTb_v1BA8_oeCwnRg3dAMm29eyXm7SPu6NarfVmdZ4",
+            "created": "2022-03-16T05:09:10Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_max": 1500000,
+            "redirect_url": "https://www.adzuna.in/details/2974405038?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "salary_max": 2000000,
+            "redirect_url": "https://www.adzuna.in/details/3193348176?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Big Data Engineer",
+            "salary_min": 600000,
+            "created": "2022-06-03T06:14:46Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE5MzM0ODE3NiIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.I9bJ-Zm8iVdf2REZQQT-RgHEH54ppObdXsRMtFouWAM",
+            "contract_time": "full_time",
+            "id": "3193348176",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BDI Plus Lab"
+            },
+            "description": "We are looking for big data engineers to join our transformational consulting team serving one of our top US clients in the financial sector. You'd get an opportunity to develop big data pipelines and convert business requirements to production grade services and products. With lesser concentration on enforcing how to do a particular task, we believe in giving people the opportunity to think out of the box and come up with their own innovative solution to problem solving. You will primarily be …"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DataMetica"
+            },
+            "id": "2956624525",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjk1NjYyNDUyNSIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.HmAUp60wwpNkg8LhZLPIpBCFdpK3YWhjtGM0DSbFHaA",
+            "created": "2022-03-09T05:09:36Z",
+            "redirect_url": "https://www.adzuna.in/details/2956624525?utm_medium=api&utm_source=d58ac19b",
+            "description": "Job Title/Designation: Big Data Engineers - Hadoop, Pig, Hive, Spark Employment Type: Full Time, Permanent Job Description: Work Location - Pune Work Experience - 2.5 to 6 Years Note - Candidates with short notice periods will be given preference. Mandatory Skills: Working knowledge and hands-on experience of Big Data / Hadoop tools and technologies. Experience of working in Pig, Hive, Flume, Sqoop, Kafka etc. Database development experience with a solid understanding of core database concepts,…",
+            "longitude": 73.84735,
+            "contract_time": "full_time",
+            "salary_min": 0,
+            "title": "Big Data Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 18.5062,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_max": 800000,
+            "contract_type": "permanent",
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/2234827727?utm_medium=api&utm_source=d58ac19b",
+            "created": "2021-06-07T11:49:27Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjIzNDgyNzcyNyIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.-rSI8ziYJsyLGUFEiasMUywQ6GhP63VM2-8zHGWTdI4",
+            "company": {
+                "display_name": "netmedscom",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "2234827727",
+            "latitude": 13.06041,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 2500000,
+            "contract_time": "full_time",
+            "longitude": 80.24963,
+            "description": "We are looking for an outstanding Big Data Engineer with experience setting up and maintaining Data Warehouse and Data Lakes for an Organization. This role would closely collaborate with the Data Science team and assist the team build and deploy machine learning and deep learning models on big data analytics platforms. Roles and Responsibilities : Develop and maintain scalable data pipelines and build out new integrations and processes required for optimal extraction, transformation, and loadin…",
+            "title": "Big Data Engineer",
+            "salary_min": 0
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 12.95703,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_max": 2280000,
+            "salary_is_predicted": "0",
+            "description": "Company Name : Sapient Title: Big Data Engineer Job Type: Full Time, Work from Office Location : Bangalore Years of Experience: 10 year 10year - Salary Open Python, Panda, ADLS, ADF, Data Bricks, PySpark and SQL. Candidate has to have relevnt 4 exp in Python. Azure Data Engineering : Azure Data Factory (ADF):Proficient level. Candidate should have experience on creating and managing data pipelines using Azure Data Factory. Should have experience in integrating Azure Data Factory with other Azur…",
+            "longitude": 77.59837,
+            "contract_time": "full_time",
+            "title": "Big Data Engineer",
+            "salary_min": 2280000,
+            "redirect_url": "https://www.adzuna.in/details/4107271107?utm_medium=api&utm_source=d58ac19b",
+            "id": "4107271107",
+            "company": {
+                "display_name": "Praveza Consultancy Private Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEwNzI3MTEwNyIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.e0m_TgFfe7sRCNy3PjmKIT3vK5s0_2XbRez5361AmlE",
+            "created": "2023-05-19T15:42:05Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5042641461?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Big Data Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA0MjY0MTQ2MSIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.uVdMkPKxNS_0hcx56SgHfNO2OZLJ_TuqNnFWqfM2P7k",
+            "created": "2025-02-08T13:35:07Z",
+            "contract_time": "full_time",
+            "description": "Role Objective: Big Data Engineer will be responsible for expanding and optimizing our data and database architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building. The Data Engineer will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architect…",
+            "company": {
+                "display_name": "Affine",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5042641461"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/3463406796?utm_medium=api&utm_source=d58ac19b",
+            "contract_type": "contract",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Big Data Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzQ2MzQwNjc5NiIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.OECqPoTf8gOMkt-FUMFdsqrKCF-dPbxv6o2TYPtqpoE",
+            "created": "2022-09-06T06:53:21Z",
+            "contract_time": "full_time",
+            "description": "What You'll Do: ● Our Infrastructure team is looking for an excellent Big Data Engineer to join a core group that designs the industry’s leading Micro-Engagement Platform. This role involves design and implementation of architectures and frameworks of big data for industry’s leading intelligent workflow automation platform. As a specialist in Ushur Engineering team, your responsibilities will be to: ● Use your in-depth understanding to architect and optimize databases and data ingestion pipelin…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ushur Technologies Pvt Ltd"
+            },
+            "id": "3463406796"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5539918933?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 28.323996,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Haryana",
+                    "Gurgaon"
+                ],
+                "display_name": "Gurgaon, Haryana"
+            },
+            "title": "Big Data Engineer",
+            "created": "2025-12-13T00:29:15Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTkxODkzMyIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.42Wl_KUWN3v4zKCrizI4_rsxjclpybidSyrR4WiGoHs",
+            "company": {
+                "display_name": "dunnhumby",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "dunnhumby is the global leader in Customer Data Science, partnering with the world’s most ambitious retailers and brands to put the customer at the heart of every decision. We combine deep insight, advanced technology, and close collaboration to help our clients grow, innovate, and deliver measurable value for their customers. dunnhumby employs nearly 2,500 experts in offices throughout Europe, Asia, Africa, and the Americas working for transformative, iconic brands such as Tesco, Coca-Cola, Ne…",
+            "longitude": 76.983738,
+            "id": "5539918933"
+        },
+        {
+            "title": "Big Data Engineer",
+            "salary_min": 900000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Gipfel & Schnell Consultings Pvt Ltd"
+            },
+            "description": "Qualifications & Experience: ▪ 2 - 4 years overall experience in ETLs, data pipeline, Data Warehouse development and database design ▪ Software solution development using Hadoop Technologies such as MapReduce, Hive, Spark, Kafka, Yarn/Mesos etc. ▪ Expert in SQL, worked on advanced SQL for at least 2 years ▪ Good development skills in Java, Python or other languages ▪ Experience with EMR, S3 ▪ Knowledge and exposure to BI applications, e.g. Tableau, Qlikview ▪ Comfortable working in an agile env…",
+            "id": "5171459144",
+            "created": "2025-05-01T04:48:14Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1MTcxNDU5MTQ0In0.vLHreeoUJ9R8sZzsoChmkU6BPnPK-ckyLEHcY5nqIts",
+            "contract_time": "full_time",
+            "salary_max": 3000000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5171459144?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI0NzEzMDc4OTQ4In0.rybTJY4e7fUtL53ZepPNkfxT2yAP0q6WHN5TDDt6ztQ",
+            "contract_time": "full_time",
+            "created": "2024-05-30T09:44:31Z",
+            "description": "Overall Experience: 6 years Relevant: 4 years Location: Initial 10 days Hyderabad after that Remote ONLY IMMEDIATE JOINERS Role Description This is a full-time remote role for a Data Engineer. The Data Engineer will be responsible for daily tasks such as data engineering, data modeling, extract transform load (ETL), data warehousing, and data analytics. Collaboration and communication with cross-functional teams will be required to ensure successful project outcomes. Qualifications SQL, Python/…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mobile Programming LLC"
+            },
+            "id": "4713078948",
+            "title": "Big Data Engineer",
+            "salary_min": 800000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 1500000,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/details/4713078948?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "salary_is_predicted": "0",
+            "salary_max": 2000000,
+            "redirect_url": "https://www.adzuna.in/details/4201304164?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 1500000,
+            "title": "Big Data Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI0MjAxMzA0MTY0In0.pja90nRgNdPzjhLI5yZdbHlYxHEDCaIztDGB0NjjWu8",
+            "contract_time": "full_time",
+            "created": "2023-07-12T14:03:44Z",
+            "id": "4201304164",
+            "description": "JD Code: SHI-LDE-01 Version: 1.0 Date of JD Creation: 27-March-2023 Position Title: Lead Data Engineer Reporting to: Technical Director Location: Bangalore Urban, India (on-site) SmartHub.ai (www.smarthub.ai) is a fast-growing Startup headquartered in Palo Alto, CA, and with offices in Seattle and Bangalore. We operate at the intersection of AI, IoT & Edge Computing. With strategic investments from leaders in infrastructure & data management, SmartHub.ai is redefining the Edge IoT space. Our “ …",
+            "company": {
+                "display_name": "SmartHub Innovation Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "salary_min": 500000,
+            "title": "Big Data Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiIyMjAyODU4NTQ3In0.b87JRu2ueqKd6b3FEf0Qc81Ev25H1d8KFmTdBcSaHTQ",
+            "contract_time": "full_time",
+            "created": "2021-05-22T12:20:49Z",
+            "company": {
+                "display_name": "Innovalus Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Hands-on programming expertise in Java OR Python Strong production experience with Spark (Minimum of 1-2 years) Experience in data pipelines using Big Data technologies (Hadoop, Spark, Kafka, etc.,) on large scale unstructured data sets Working experience and good understanding of public cloud environments (AWS OR Azure OR Google Cloud) Experience with IAM policy and role management is a plus Skills:- Big Data, Hadoop, Spark, Amazon Web Services (AWS) and kafka",
+            "id": "2202858547",
+            "salary_is_predicted": "0",
+            "salary_max": 1500000,
+            "redirect_url": "https://www.adzuna.in/details/2202858547?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "salary_max": 1800000,
+            "redirect_url": "https://www.adzuna.in/details/1977247833?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxOTc3MjQ3ODMzLCJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSJ9.iT9v8-1NyTh5J8nMSBqwz-0eq3aN4zau36u-xtrz1NI",
+            "created": "2021-02-08T04:04:56Z",
+            "contract_time": "full_time",
+            "id": 1977247833,
+            "company": {
+                "display_name": "Multi Recruit",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Expert software implementation and automated testing Promoting development standards, code reviews, mentoring, knowledge sharing Improving our Agile methodology maturity Product and feature design, scrum story writing Build, release, and deployment automation Product support & troubleshooting Who we have in mind: Demonstrated experience as a Java Should have a deep understanding of Enterprise/Distributed Architecture patterns and should be able to demonstrate the relevant usage of the same Turn…",
+            "salary_min": 800000,
+            "title": "Big Data Engineer"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/2577819383?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 3800000,
+            "salary_is_predicted": "0",
+            "id": "2577819383",
+            "description": "Company Overview: Rakuten, Inc. (TSE's first section: 4755) is the largest ecommerce company in Japan, and third largest eCommerce marketplace company worldwide. Rakuten provides a variety of consumer and business-focused services including e-commerce, e-reading, travel, banking, securities, credit card, e-money, portal and media, online marketing and professional sports. The company is expanding globally and currently has operations throughout Asia, Western Europe, and the Americas. Founded in…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "zyoin"
+            },
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiIyNTc3ODE5MzgzIn0.DnT2f3sNoA6SAYkBEZcudalxBa40Qhoeo08JyfImaIc",
+            "created": "2021-10-26T04:52:03Z",
+            "title": "Big Data Engineer",
+            "salary_min": 2000000
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_max": 3000000,
+            "redirect_url": "https://www.adzuna.in/details/1525997760?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Big Data Engineer",
+            "salary_min": 1500000,
+            "created": "2020-04-21T20:44:45Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOjE1MjU5OTc3NjB9.9E4SdyBWNrD0uWdMDlXnkZt3vIh9H-ld9mrwxjw2ZYE",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Talent Socio Bizcon LLP",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Responsibility: • Studied Computer Science, • 5 years of software development experience, • Must have experience in Elasticsearch (2 years experience is preferable), • Skills in Java, Python or Scala, • Passionate about learning big data, data mining and data analysis technologies, • Self-motivated; independent, organized and proactive; highly responsive, flexible, and adaptable when working across multiple teams, • Strong SQL skills, including query optimization are required. • Experience work…",
+            "id": 1525997760
+        },
+        {
+            "salary_min": 800000,
+            "title": "Big Data Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjg0NjAzMzk4MCIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.PEu-nyub0N1ToXvoC5rkbpwMHfbK5V26_zatcfRJVIc",
+            "created": "2022-01-27T04:53:15Z",
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Natalie Consultants"
+            },
+            "description": "Key Responsibilities : ( Data Developer Python, Spark) Exp : 2 to 9 Yrs Development of data platforms, integration frameworks, processes, and code. Develop and deliver APIs in Python or Scala for Business Intelligence applications build using a range of web languages Develop comprehensive automated tests for features via end-to-end integration tests, performance tests, acceptance tests and unit tests. Elaborate stories in a collaborative agile environment (SCRUM or Kanban) Familiarity with clou…",
+            "id": "2846033980",
+            "salary_is_predicted": "0",
+            "salary_max": 2000000,
+            "redirect_url": "https://www.adzuna.in/details/2846033980?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_max": 2500000,
+            "redirect_url": "https://www.adzuna.in/details/1155089753?utm_medium=api&utm_source=d58ac19b",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 1000000,
+            "title": "Big Data Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTU1MDg5NzUzLCJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSJ9.6klXN2YXPCL4Tvf4I4Dkuv-AJ41rJeQggqlch3RtpN4",
+            "contract_time": "full_time",
+            "created": "2019-05-17T21:02:47Z",
+            "id": 1155089753,
+            "company": {
+                "display_name": "Unbxd Software Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Good understanding of OOP with Strong Coding skills in Java. Database knowledge: good knowledge of SQL queries. Should have worked on highly distributed systems. Strong in Data Structures & Algorithms, Analytical and Problem solving skills. Hands on experience in GNU/Linux (Unix env). Able to work with minimal supervision and in a team environment. Skills: LISP/Scala/Java/C++., Linux/Unix and MapReduce"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5361554645?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1MzYxNTU0NjQ1In0.DMfBKRYTJNE84ZzTOUGRnF_dDWro20ujkMsFYzjJZIQ",
+            "created": "2025-08-21T07:51:04Z",
+            "company": {
+                "display_name": "Hirebound",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5361554645",
+            "salary_is_predicted": "0",
+            "salary_max": 3000000,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "latitude": 18.5062,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "salary_min": 1200000,
+            "title": "Big Data Engineer",
+            "contract_time": "full_time",
+            "description": "To be successful in this role, you should possess • Collaborate closely with Product Management and Engineering leadership to devise and build the right solution. • Participate in Design discussions and brainstorming sessions to select, integrate, and maintain Big Data tools and frameworks required to solve Big Data problems at scale. • Design and implement systems to cleanse, process, and analyze large data sets using distributed processing tools like Akka and Spark. • Understanding and critic…",
+            "longitude": 73.84735
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/4053031124?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 3000000,
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 100000,
+            "title": "Big Data Engineer",
+            "created": "2023-04-21T11:48:26Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDA1MzAzMTEyNCIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.d_n8jhdndqpP2nqT9ZrCeYebt4udK9S45PbtD8Pfsd4",
+            "contract_time": "full_time",
+            "description": "Job Title : Senior Data Engineer Experience: 8Yrs to 11Yrs Location: Remote Notice: Immediate or Max 1Month Role: Permanent Role Skill set: Google Cloud Platform, Big Query, Java, Python Programming Language, Airflow, Data flow, Apache Beam. Experience required: 5 years of experience in software design and development with 4 years of experience in the data engineering field is preferred. 2 years of Hands-on experience in GCP cloud data implementation suites such as Big Query, Pub Sub, Data Flow…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "RandomTrees"
+            },
+            "id": "4053031124"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDk0Njc5NTMzIn0.ChwQZNnF4sibpMlIvx90xUEEkul2FWMGJdN7LJQH1Kc",
+            "created": "2025-11-14T02:29:15Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SOT-Science of talent Acquisition consulting services Pvt Ltd"
+            },
+            "id": "5494679533",
+            "redirect_url": "https://www.adzuna.in/details/5494679533?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "longitude": 78.50806,
+            "description": "Expertise in building AWS Data Engineering pipelines with AWS Glue -> Athena -> Quick sight Experience in developing lambda functions with AWS Lambda Expertise with Spark/PySpark – Candidate should be hands on with PySpark code and should be able to do transformations with Spark Should be able to code in Python and Scala. Snowflake experience will be a plus Skills:- PySpark, Amazon Web Services (AWS), AWS Lambda, Python and Scala",
+            "title": "Big Data Engineer",
+            "salary_min": 500000,
+            "latitude": 17.40275,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_max": 1400000
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "redirect_url": "https://www.adzuna.in/details/4819317940?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Hexaware",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Description JD - HFM Developer : • 5years of strong HFM development experience • Hands on experience in FDMEE Mapping and Loads • Experience with shared services • Extensively used SmartView • Knowledge on creating Rules and Member list • Knowledge on creation of application and building metadata in HFM • Experience running Consolidations and currency translations • Python Scripting and VB Scripting (good to have) Same Posting Description for Internal and External Candidates",
+            "id": "4819317940",
+            "created": "2024-08-10T03:14:18Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI0ODE5MzE3OTQwIn0._bwGVxbopC5nWWnw1rkDWGacnamu2FAcMjyEp76f3P0",
+            "contract_time": "full_time",
+            "title": "Big Data Engineer"
+        },
+        {
+            "latitude": 19.00821,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/4686701531?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDY4NjcwMTUzMSIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.XStxg782IWiQN6cIm0T1Q6kvxD5SG51gehCzc52llu4",
+            "created": "2024-05-10T07:38:26Z",
+            "id": "4686701531",
+            "longitude": 72.84415,
+            "description": "Design and build modern Data Pipelines, Data Streams and Data Service Application Programming Interfaces (APIs). · Develops and builds out new API integrations to support continuing increases in data volume and complexity. · Have Prior Experience in Integrating External data feeds like Twitter, Facebook and 3rd party data sets into their data warehouses. · Work on a Cloud based Datawarehouse like AWS and work with transactional and unstructured data to develop interfaces for downstream reportin…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Big Data Engineer"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/4686707046?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": 19.00821,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Big Data Engineer",
+            "created": "2024-05-10T07:39:06Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI0Njg2NzA3MDQ2In0.UrAwIdq0PVqdFdSNuTiLBJquetPiSaElgDyZhdXZCps",
+            "id": "4686707046",
+            "description": "Requirement: • Hands-on experience in distributed systems and Hadoop and its Ecosystem. • 3-5 years of extensive experience of cloud-related services like compute, storage, messaging (Eg SNS, SQS). AWS experience is preferred. • Strong software development skills in at least one of Java, C/C++, Scala or Python (Preferred). • Strong knowledge on AWS Data Services - S3, RDS,Redshift,DynamoDB,AWS Glue,EMR,Lambda,etc • Good knowledge on Big Data ecosystem - PySpark, Hive, HDFS, Hbase. Strong SQL kn…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 72.84415
+        },
+        {
+            "contract_type": "contract",
+            "redirect_url": "https://www.adzuna.in/details/5540655650?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 12.95703,
+            "title": "Big Data Engineer 1",
+            "id": "5540655650",
+            "description": "We are a consulting company with a bunch of technology-interested and happy people! We love technology, we love design and we love quality. Our diversity makes us unique and creates an inclusive and welcoming workplace where each individual is highly valued. With us, each individual is her/himself and respects others for who they are and we believe that when a fantastic mix of people gather and share their knowledge, experiences and ideas, we can help our customers on a completely different lev…",
+            "company": {
+                "display_name": "Aqilea ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 77.59837,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDY1NTY1MCIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.bft8MYmn4cw47q1QIasIRBoSjFFi6J9sQ37hGsSaJJQ",
+            "contract_time": "full_time",
+            "created": "2025-12-13T08:53:54Z"
+        },
+        {
+            "title": "Big Data Engineer_6years",
+            "salary_min": 1300000,
+            "description": "Key Responsibilities: • Design and develop applications in Java, Scala and Python. • Develop solutions based on microservice architecture based on RESTful and SOAP-based APIs. • Develop ETL solutions based on Spark, Glue, EMR. • Collaborate with cross-functional teams to troubleshoot issues and optimize application behavior and performance. • Work with Data lakes in S3, Dynamodb and Relational db to manage and query data efficiently. • Independently analyze and resolve technical challenges with…",
+            "longitude": 78.50806,
+            "contract_time": "full_time",
+            "contract_type": "permanent",
+            "salary_max": 1900000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "id": "5535386390",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Zorba Consulting India"
+            },
+            "created": "2025-12-10T05:10:54Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM1Mzg2MzkwIn0.V6eatuZO1rU46n7bgoJFPg2SuV0VsUMzzG15L3Xg4_I",
+            "redirect_url": "https://www.adzuna.in/details/5535386390?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "salary_min": 800000,
+            "title": "Big Data Engineer-Release",
+            "longitude": 73.84735,
+            "description": "Dear Candidate, We are urgently looking for a Release- Big data Engineer For Pune Location. Experience : 5-8 yrs Location : Pune Skills: Big data Engineer , Release Engineer ,DevOps, Aws/Azure/GCP Cloud exp. , JD: Oversee the end-to-end release lifecycle, from planning to post-production monitoring. Coordinate with cross-functional teams (DBA, BizOps, DevOps, DNS). Partner with development teams to resolve technical challenges in deployment and automation test runs Work with shared services DBA…",
+            "contract_time": "full_time",
+            "salary_max": 1500000,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.5062,
+            "id": "5050334642",
+            "company": {
+                "display_name": "Rigel Networks Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA1MDMzNDY0MiIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.YBNi9B7gkd5asm5eCpClf0xitK6FDePM2_04aaZAdxc",
+            "created": "2025-02-15T04:23:52Z",
+            "redirect_url": "https://www.adzuna.in/details/5050334642?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "longitude": 78.50806,
+            "description": "Roles and Responsibilities Big Data Engineer  Spark Responsibilies Atleast 3 to 4 years of relevant experience as Big Data Engineer Min 1 year of relevant hands-on experience into Spark framework. Minimum 4 years of Application Development experience using any programming language like Scala/Java/Python. Hands on experience on any major components in Hadoop Ecosystem like HDFS or Map or Reduce or Hive or Impala. Strong programming experience of building applications / platforms using Scala/Java…",
+            "contract_time": "full_time",
+            "title": "Big Data Engineer  Spark",
+            "salary_min": 1400000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "salary_max": 2500000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "4344576990",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jobdost"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM0NDU3Njk5MCIsInMiOiJ5a3E2VTFqaThCR2pKYWJ4V3QwZURRIn0.rRAhCABvJdv3fJdkXAJqGOoV79M435f-nwwNEhH4b-A",
+            "created": "2023-10-02T13:22:21Z",
+            "redirect_url": "https://www.adzuna.in/details/4344576990?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5503866683?utm_medium=api&utm_source=d58ac19b",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Big Data Engineer (AWS)",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTAzODY2NjgzIn0.eNEWrrZ63iyACKVAa5kz5juUXRu9uBC2VN8QoRPTWOc",
+            "created": "2025-11-20T01:02:48Z",
+            "id": "5503866683",
+            "description": "Role : Big Data Engineer Location : Bangalore Job Type : Fulltime, Hybrid Skills : Python, Spark, SQL, Databricks, Hadoop, Hive, Spark, AWS, DSA Job Overview We are seeking a Junior Big Data Engineer specializing in AWS for a full-time role located in Bangalore Urban, Bangalore Rural, Bangalore. As a key contributor in this role, you will leverage your expertise in big data technologies to design, implement, and optimize complex data processing solutions. Your contribution will be pivotal in en…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Vidpro Consultancy Services"
+            }
+        },
+        {
+            "title": "Big Data Engineer- SCALA",
+            "id": "4282822436",
+            "description": "Big Data Engineer- SCALA Required Skills: 1. Experience in building modern and scalable REST – based microservices using Scala, preferably with Play as MVC framework. 2. Expertise with functional programming using SCALA 3. Experience in implementing RESTful web services in Scala, Java or similar languages. 4. Experience with No SQL and SQL databases. 5. Experience in information retrieval and machine learning 6. Experience/ knowledge in big data using Scala spark, ML, Kafka, and Elastic search …",
+            "longitude": 78.50806,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cogent IBS"
+            },
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI0MjgyODIyNDM2In0.gAu9zu4FtxLljRqeRauB_XEZNkMMgwY4h_czT5TO9BY",
+            "created": "2023-08-29T13:12:03Z",
+            "redirect_url": "https://www.adzuna.in/details/4282822436?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5538078873?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 18.5062,
+            "title": "Principal Big Data Engineer",
+            "description": "Come work at a place where innovation and teamwork come together to support the most exciting missions in the world! Come work at a place where innovation and teamwork come together to support the most exciting missions in the world! This is a great opportunity to be an integral part of a team building Qualys next generation Micro-Services based technology platform processing over a Billion transactions and terabytes of data per day, leverage open source technologies, and work on challenging an…",
+            "company": {
+                "display_name": "Qualys",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 73.84735,
+            "id": "5538078873",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM4MDc4ODczIn0.Gnd-On1HVBaGpOG0m_d0ceQ63053TGV0-Z5Ydx-O1C0",
+            "contract_time": "full_time",
+            "created": "2025-12-12T00:30:26Z"
+        },
+        {
+            "title": "Associate Big Data Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWtxNlUxamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTUxODg4MDU2In0.CMm2p3WhZrB0e4g4gvBgcgriVt8OShkdFH8DiD_pFs4",
+            "created": "2025-12-22T22:01:14Z",
+            "contract_time": "full_time",
+            "id": "5551888056",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "MetLife"
+            },
+            "description": "Position Summary Description and Requirements Continuing with the tradition of innovation, MetLife, as part of its Data and Analytics function, established a dedicated center for advanced analytics & research in India. DnA Hyderabad a.k.a Global Advanced analytics and Research Center (GARC) is part of larger Data and analytics organization (DnA) of MetLife focused on scaling data governance, data management, data engineering, data science/machine learning/ artificial intelligence, visualization…",
+            "longitude": 78.50806,
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.in/details/5551888056?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 17.40275,
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

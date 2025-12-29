@@ -6,7 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-
 # Distribution / packaging
 .Python
 build/
@@ -132,4 +131,3 @@ faiss_index/*.pkl
 # API scripts
 data_api_adzuna.py
 sample_test_script.ipynb
-/data_files

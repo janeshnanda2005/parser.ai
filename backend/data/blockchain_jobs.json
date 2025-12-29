@@ -1,0 +1,1501 @@
+{
+    "results": [
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5465735595?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=497EF97171052D677DEF5A84489F7CE3E6A8299A",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "GoQuant",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "SOLANA BLOCKCHAIN ENGINEER (RUST) (Paid) Role Overview Job Title: Solana Blockchain Engineer - Smart Contracts & Settlement Infrastructure Company: GoQuant Technologies Inc. Location: Remote Employment Type: Full-time Start Date: Immediate Primary Responsibilities Smart Contract Development (60%) - Design and implement Solana programs using Rust and Anchor framework - Build perpetual futures contracts with dynamic funding rates (1-second calculation, hourly payment) - Develop position managemen…",
+            "id": "5465735595",
+            "created": "2025-10-27T09:09:09Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NTczNTU5NSIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.nNzcm6zQs8ky7oh3BNAGiGupGG2G1gd_Kq3Q0h-WAp0",
+            "title": "Solana Blockchain Engineer"
+        },
+        {
+            "description": "We're seeking an experienced Blockchain Engineer to help build and scale a major financial institution-backed stable coin project. You'll be working on critical smart contract development, protocol design, and system architecture that powers our DApp. This role offers the opportunity to work on DeFi technology that bridges traditional finance with decentralized ecosystems. Responsibilities: Architect and develop high-performance smart contracts in Rust for the Solana blockchain, focusing on our…",
+            "company": {
+                "display_name": "VISEO ASIA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.50806,
+            "id": "5546592645",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjU5MjY0NSIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.1SPSvx2j0aVlsdNo4wSYqLnyvv1QngMLyYFHtYst3EA",
+            "created": "2025-12-18T08:43:53Z",
+            "title": "Blockchain Engineer - Rust/Solana",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546592645?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=4A49E7D3598D70E1A8972E6A00212883A4C63C75",
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5546580234?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=126460D11121AFE4C58796EBE97B503C63AFCADC",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "title": "Blockchain Engineer - Solidity/Ethereum",
+            "id": "5546580234",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "VISEO ASIA"
+            },
+            "description": "We're seeking an experienced Blockchain Engineer to help build and scale a major financial institution-backed stable coin project. You'll be working on critical smart contract development, protocol design, and system architecture that powers our DApp. Responsibilities: Design and implement robust smart contracts in Solidity for stablecoin protocol including minting/burning mechanisms, collateral vaults, and automated market operations. Build and integrate with price oracle systems to ensure acc…",
+            "longitude": 78.50806,
+            "created": "2025-12-18T08:42:20Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NTgwMjM0In0.6TvAVpJ6v7meFV6O26Esoys0HOMfIXSaU-vpHIfSa8Y"
+        },
+        {
+            "created": "2025-12-10T16:54:15Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM2MDY2NTE1In0.X_BHoDnRfGlKrFTJEsBZ94Li_ZwmH0S6Xfsxqv76fW0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CriticalRiver Inc."
+            },
+            "description": "CriticalRiver Inc. is a global technology consulting company specializing in Salesforce, NetSuite, and Oracle solutions. We provide consulting, implementation, integration, analytics, managed services, and quality assurance to help clients drive digital transformation and improve operational efficiency. Our expertise spans cloud, automation, and next-generation technologies such as AI/ML, IoT, RPA, and Industry 4.0. We serve a diverse range of industries, including Energy & Utilities, High Tech…",
+            "longitude": 80.59536,
+            "id": "5536066515",
+            "title": "Blockchain Security Engineer - OWASP, SAST/DAST",
+            "latitude": 16.51099,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Vijayawada, Krishna",
+                "area": [
+                    "India",
+                    "Andhra Pradesh",
+                    "Krishna",
+                    "Vijayawada"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5536066515?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A8AF92FF35022FA93D8DFBA8FA9DA5506474432E",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5537386649?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=11133CCCD1C317854059C387DA89BECA90A2616F",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "VISEO ASIA"
+            },
+            "description": "We are looking for a skilled Rust Developer with hands-on experience building on the Solana blockchain to join our growing Web3 engineering team. As a Rust Developer, you will be responsible for developing, testing, and deploying smart contracts (Solana programs) and integrating them into our decentralized applications (dApps). You will work closely with other engineers, product managers, and blockchain architects to build secure and scalable blockchain solutions. Responsibilities Design, devel…",
+            "longitude": 78.50806,
+            "id": "5537386649",
+            "created": "2025-12-11T09:28:26Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM3Mzg2NjQ5In0.Vq26SK29wRCZD_XmL9q6-N9OE3Nd6TL5oBEMO1mJZHQ",
+            "title": "Rust Developer (Solana)"
+        },
+        {
+            "title": "Rust Engineer",
+            "company": {
+                "display_name": "GoQuant",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "SOLANA BLOCKCHAIN ENGINEER (RUST) (Paid) Role Overview Job Title: Solana Blockchain Engineer - Smart Contracts & Settlement Infrastructure Company: GoQuant Technologies Inc. Location: Remote Employment Type: Full-time Start Date: Immediate Primary Responsibilities Smart Contract Development (60%) - Design and implement Solana programs using Rust and Anchor framework - Build perpetual futures contracts with dynamic funding rates (1-second calculation, hourly payment) - Develop position managemen…",
+            "id": "5520846097",
+            "contract_time": "full_time",
+            "created": "2025-12-01T11:56:12Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTIwODQ2MDk3In0.Uhcj6w4g0WXaCxqYoANUvMQD-0AuoHCrCe4kziE5VdE",
+            "redirect_url": "https://www.adzuna.in/land/ad/5520846097?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=90A8193897BB8ED949F6F9188DF51F0B2FC33A78",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5520845010?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=ED4375F228C5F59C18B9746B361EFD9C056CB358",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Blockchain Developer",
+            "id": "5520845010",
+            "company": {
+                "display_name": "GoQuant",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "SOLANA BLOCKCHAIN ENGINEER (RUST) (Paid) Role Overview Job Title: Solana Blockchain Engineer - Smart Contracts & Settlement Infrastructure Company: GoQuant Technologies Inc. Location: Remote Employment Type: Full-time Start Date: Immediate Primary Responsibilities Smart Contract Development (60%) - Design and implement Solana programs using Rust and Anchor framework - Build perpetual futures contracts with dynamic funding rates (1-second calculation, hourly payment) - Develop position managemen…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTIwODQ1MDEwIn0.D19DUIlzjfDm_j4wVOuWZiL8x001JsCzr_hCosoT4Qo",
+            "contract_time": "full_time",
+            "created": "2025-12-01T11:54:38Z"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5534288187?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=47C5F1EF2BDB022C64897E2EFDE4DD15C98D9C7A",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "title": "Blockchain Developer (HLF / Golang)",
+            "description": "Job Role: As a core backend and blockchain engineer, you will play a pivotal role in designing, building, installing, and maintaining Hyperledger Fabric networks, and later developing high-performance backend services using Golang . You will contribute to shaping our technical platform and delivering cutting-edge enterprise blockchain products. Key Responsibilities Install, configure, and manage Hyperledger Fabric network components (Orderers, Peers, CAs, Channels, Chaincodes, MSP). Develop, de…",
+            "company": {
+                "display_name": "Tanla Platforms Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.50806,
+            "id": "5534288187",
+            "created": "2025-12-09T09:07:07Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDI4ODE4NyIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.bsY5WcKD14OyxQlktzQK3AbtqHWbHm2UPX9kwamjGmA"
+        },
+        {
+            "title": "Smart Contract Developer",
+            "company": {
+                "display_name": "Qiro Finance",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About Qiro Qiro is building the infrastructure for tokenized private credit and on-chain underwriting . Our mission is to make private credit transparent, efficient, and globally accessible — bridging traditional finance with decentralized technology. We design products that power institutional-grade credit markets on-chain , combining tokenized credit structures, secure smart contracts, and compliant DeFi rails. Every day, our team works across finance, blockchain engineering, and product to b…",
+            "id": "5546316638",
+            "created": "2025-12-18T02:41:54Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzE2NjM4In0.v3I_Mc4Mhzbn7df7ZWliOvSek_zENCffcUVGvW8viwo",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546316638?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F9AF34A2E3E6D6AD82998492A4995EC008A4530B",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "latitude": 28.62523,
+            "location": {
+                "display_name": "Delhi, India",
+                "area": [
+                    "India",
+                    "Delhi"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5541823264?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D830CA9CDEB4FBB55C09EB68BB3EA4DA6338BBC7",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-14T10:24:12Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MTgyMzI2NCIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.tQkDHxkDFrewSXhnTLlpuYEPftYDwe4k8YTr5sh1iYo",
+            "id": "5541823264",
+            "longitude": 77.224601,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TRDFIN Support Services Pvt Ltd"
+            },
+            "description": "About the Role We are seeking an experienced Blockchain Engineer who can design, develop, and deploy secure, scalable, and high-performance blockchain solutions. The ideal candidate has deep knowledge of blockchain protocols, smart contract development, cryptographic foundations, distributed system architecture, and hands-on experience with modern Web3 technologies. This role involves end-to-end blockchain development — from protocol-level design to smart contract coding, network setup, securit…",
+            "title": "Blockchain Developer"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_max": 4500000,
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/2753694484?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Electron Labs",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Electron Labs is building a new protocol to make various blockchains interoperable. Our goal is to enable cross-chain contracts to connect with each other in the same way as same-chain contracts connect i.e., via function calls. We have developed a new in-house tech called Bi-Directional Light Client that allows a smart contract to independently verify whether the cross-chain transactions submitted to it are valid. We further use ZK-SNARKS to reduce the gas cost of running the light client on-c…",
+            "id": "2753694484",
+            "created": "2021-12-20T04:16:34Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiIyNzUzNjk0NDg0In0.KAu-XyFfszOczHo21WmtyTca-xYfuYrvJkvPWhiqpfw",
+            "salary_min": 2500000,
+            "title": "Blockchain Engineer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5436580360?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "latitude": 17.40275,
+            "title": "Blockchain Engineer",
+            "longitude": 78.50806,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Whitecrow"
+            },
+            "description": "About our client: With over five decades of experience, our client is recognized as a leading post-trade market infrastructure provider for the global financial services industry. Operating from multiple locations worldwide, our client, through its subsidiaries, automates, centralizes, and standardizes the processing of financial transactions—helping to mitigate risk, enhance transparency, improve performance, and drive efficiency for broker/dealers, custodian banks, and asset managers. Its dep…",
+            "id": "5436580360",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDM2NTgwMzYwIn0.IJ5zoxhxLsELN4wl60N5YiogUNbuG8U5CHNyQtJxz2o",
+            "created": "2025-10-08T07:07:39Z"
+        },
+        {
+            "contract_time": "full_time",
+            "created": "2020-03-06T09:15:53Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxNDc3MzI5MDIyLCJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSJ9.mKFkfm8amkFyQbcwb_gzoQaYMjQOgmzggg6cBuGJyO0",
+            "description": "We need an Engineer for a one time sub-contract for a project to create 1 or 2 ethereum contracts. Skills: Smart Contracts, Cryptocurrency and ethereum",
+            "company": {
+                "display_name": "Automatski Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": 1477329022,
+            "salary_min": 100000,
+            "title": "Ethereum/Blockchain Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 200000,
+            "category": {
+                "label": "Trade & Construction Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "trade-construction-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/1477329022?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Connecting Chains"
+            },
+            "id": "3466319937",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiIzNDY2MzE5OTM3In0.JU_F5DCNA4LNLZdHlGpBcTJhDx6hCrqQT5I8qRPjhkk",
+            "created": "2022-09-07T07:07:25Z",
+            "redirect_url": "https://www.adzuna.in/details/3466319937?utm_medium=api&utm_source=d58ac19b",
+            "title": "Blockchain Engineer (HLF Developer)",
+            "salary_min": 500000,
+            "longitude": 78.50806,
+            "description": "Position: Blockchain Engineer (HLF Developer) Company: A technology products company, leading digital transformation for enterprises using blockchain. It offers services in Blockchain application development, training &amp;consulting and an innovative suite of specialized products for e- Governance, Financial Services, Insurance, Sustainable Supply Chain &amp; Healthcare. Established in 2017 in Pune, Tech has raised Pre-Seed and Seed rounds through Enemtech Capital and strategic investors globa…",
+            "contract_time": "full_time",
+            "salary_max": 1500000,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "latitude": 17.40275
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAxODk5NCIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.u4ymxyrd4Ns2Yva6dgKE7ecdCDuln1QsD6v0fJyDtIw",
+            "created": "2025-12-12T09:53:35Z",
+            "company": {
+                "display_name": "UPES",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 77.946,
+            "description": "Job Description for Associate Professor Teaching & Learning Teach undergraduate and postgraduate courses in Computer Science and related specialisations (AI, ML, Data Science, Cybersecurity, Cloud Computing, etc.). Develop course materials, lesson plans, lab exercises, and assessments. Mentor and advise students on academic and career development. Ensure high-quality classroom delivery and innovative pedagogical practices. Research & Publications Conduct independent, high-quality research in co…",
+            "id": "5539018994",
+            "title": "Associate Professor - School of Computer Science",
+            "latitude": 30.3541,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Dehradun, Uttarakhand",
+                "area": [
+                    "India",
+                    "Uttarakhand",
+                    "Dehradun"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539018994?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=CF8AE17EDE8963BF7F1767C6180A885F99CE0A0B",
+            "category": {
+                "tag": "teaching-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Teaching Jobs"
+            }
+        },
+        {
+            "salary_max": 1500000,
+            "redirect_url": "https://www.adzuna.in/details/4939793175?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 600000,
+            "title": "Blockchain Backend Engineer",
+            "id": "4939793175",
+            "description": "Context for the Candidates: Blockchain engineers are tasked with building secure, scalable, and high-performance decentralized applications. This discussion focuses on how to utilize key technologies—Node.js, Rust, Go, TypeScript, Ethers.js, viem, and Hardhat—in smart contract and blockchain system development, while addressing the practical challenges that arise in such projects. Key Discussion Points: • How do you integrate Node.js, Rust, Go, and TypeScript in blockchain-backed applications? …",
+            "company": {
+                "display_name": "Matqcode",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI0OTM5NzkzMTc1In0.k6Z0k13XxKURW3RKk_RSUeZ1BpG_KLRn8JUTLMvadIg",
+            "created": "2024-11-15T11:45:13Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5374613413?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Antier Solutions Pvt. Ltd "
+            },
+            "id": "5374613413",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1Mzc0NjEzNDEzIn0.Q-WneT4XJZFRBz3QrT5X2SEKgq3RrNWIwpY-wgG2hMM",
+            "created": "2025-08-30T05:53:46Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Mohali, Punjab",
+                "area": [
+                    "India",
+                    "Punjab",
+                    "Mohali"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 30.7545,
+            "salary_max": 2500000,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Role Overview As a Blockchain Protocol Engineer , you will work on designing, implementing, and optimizing blockchain core functionalities. This role is ideal for someone passionate about distributed systems, blockchain consensus, and protocol-level problem-solving. Key Responsibilities Design, develop, and maintain blockchain protocol components (consensus, networking, storage). Work with Golang / Cosmos SDK or Rust  Parity Substrate to build scalable blockchain solutions. Implement features r…",
+            "longitude": 76.6406,
+            "contract_time": "full_time",
+            "salary_min": 1800000,
+            "title": "Blockchain Protocol Engineer"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5362853232?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 3300000,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Appsierra Group"
+            },
+            "description": "Mandatory Skills &nbsp; : &nbsp;Devops Engineer, ci/cd, Blockchain Developer, Cryptocurrency, jenkins, Devops&nbsp; Skill to Evaluate &nbsp; : &nbsp;Devops,Devops Engineer, ci/cd, Blockchain Developer, Cryptocurrency, jenkins, Devops&nbsp; Experience &nbsp; : &nbsp;10 to 15 Years&nbsp; Location &nbsp; : &nbsp;Bengaluru&nbsp; Job Description &nbsp; : &nbsp; · Designing and implementing infrastructure as code (IaC) to automate the setup, scaling, and management of IT resources.&nbsp; · Developing…",
+            "id": "5362853232",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2Mjg1MzIzMiIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.D0zzTQqWStLeK2mjDVUhGZ68eFG_Zb54jCrNcT4uZsU",
+            "contract_time": "full_time",
+            "created": "2025-08-22T03:59:35Z",
+            "title": "blockchain devops engineer",
+            "salary_min": 2800000
+        },
+        {
+            "title": "Golang Developer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AllHeart Web"
+            },
+            "longitude": 76.76094,
+            "description": "Job Title: Golang Developer Experience : Minimum 2 years in backend development (Golang preferred) Role Overview: We are building backend systems and blockchain-related applications requiring strong backend engineering, performance, scalability and reliability. We are looking for a Golang Developer to design and build REST/gRPC APIs, microservices, handle backend logic, concurrency, data persistence, and collaborate with cross-functional teams to deliver robust solutions. Key Responsibilities: …",
+            "id": "5539023129",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTM5MDIzMTI5In0.iYc75g6MMQGJKt6rg1OXYYCEBg_01kMxINuN-pkjQ8Q",
+            "created": "2025-12-12T09:55:04Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539023129?se=DoMPVVji8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=10A4E18C74BA8FCC57ED3DD1D82E40441349040D",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Chandigarh, India",
+                "area": [
+                    "India",
+                    "Chandigarh"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 30.75395
+        },
+        {
+            "created": "2025-10-24T15:07:49Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MjMzNDM4NSIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.BoMOUxgHfu_ZNzAvha0XyJrdGnC8RcBsv_8tl5hUGK0",
+            "id": "5462334385",
+            "company": {
+                "display_name": "Software Engineering Firm",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Required Skills & Experience: 4 years of experience in blockchain development (Solana preferred). Strong proficiency in Rust and the Anchor framework . Good understanding of Solana architecture , tokens (SPL), and smart contract principles. Experience building or maintaining backend systems using Node.js . Familiarity with SDK development and REST API integrations. Good knowledge of DeFi concepts (custodians, oracles, liquidity, etc.). Ability to work independently and start contributing quickl…",
+            "longitude": 77.3225,
+            "title": "[DT] : Blockchain Backend Engineer",
+            "latitude": 28.56579,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5462334385?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "id": "5274165852",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deqode"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1Mjc0MTY1ODUyIn0.gkO34IZwhRbWjhWjHQxyPWGEcWFhCOvkK8vzM5W792c",
+            "created": "2025-06-29T05:07:59Z",
+            "redirect_url": "https://www.adzuna.in/details/5274165852?utm_medium=api&utm_source=d58ac19b",
+            "salary_min": 600000,
+            "title": "Blockchain Data & ML Engineer",
+            "longitude": 75.9035,
+            "description": "About Us Alfred Capital - Alfred Capital is a next-generation on-chain proprietary quantitative trading technology provider, pioneering fully autonomous algorithmic systems that reshape trading and capital allocation in decentralized finance. As a sister company of Deqode — a 400 person blockchain innovation powerhouse — we operate at the cutting edge of quant research, distributed infrastructure, and high-frequency execution. What We Build Alpha Discovery via On‑Chain Intelligence — Developing…",
+            "contract_time": "full_time",
+            "salary_max": 1200000,
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Madhya Pradesh",
+                    "Indore"
+                ],
+                "display_name": "Indore, Madhya Pradesh",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 22.66215
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5548266919?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Senior Software Engineer - Blockchain",
+            "company": {
+                "display_name": "Wells Fargo",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About this role: Wells Fargo is seeking a Senior Software Engineer In this role, you will:  Lead moderately complex initiatives and deliverables within technical domain environments  Contribute to large scale planning of strategies  Design, code, test, debug, and document for projects and programs associated with technology domain, including upgrades and deployments  Review moderately complex technical challenges that require an in-depth evaluation of technologies and procedures  Resolve modera…",
+            "id": "5548266919",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODI2NjkxOSIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.4pwLjEADViRDfpXYka46IScV_VgNxA0G44ASqbWFqQc",
+            "created": "2025-12-19T11:39:14Z"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5548768439?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5548768439",
+            "description": "About this role: Wells Fargo is seeking a Senior Software Engineer In this role, you will: Lead moderately complex initiatives and deliverables within technical domain environments Contribute to large scale planning of strategies Design, code, test, debug, and document for projects and programs associated with technology domain, including upgrades and deployments Review moderately complex technical challenges that require an in-depth evaluation of technologies and procedures Resolve moderately …",
+            "company": {
+                "display_name": "Wells Fargo Bank",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ4NzY4NDM5In0.taKUNY9SArHxbLl8TyEa_M2HI5Q4Z7fOCOue87eiVEc",
+            "created": "2025-12-20T00:10:11Z",
+            "title": "Senior Software Engineer - Blockchain"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5545505851?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Senior Software Engineer - Blockchain",
+            "contract_time": "full_time",
+            "created": "2025-12-17T14:32:30Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ1NTA1ODUxIn0.YJi0PL__HGpT_d0k25HesLgjesYiDt2pyQRH2_EGGXU",
+            "id": "5545505851",
+            "description": "About this role: Wells Fargo is seeking a Senior Software Engineer In this role, you will: Lead moderately complex initiatives and deliverables within technical domain environments Contribute to large scale planning of strategies Design, code, test, debug, and document for projects and programs associated with technology domain, including upgrades and deployments Review moderately complex technical challenges that require an in-depth evaluation of technologies and procedures Resolve moderately …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "WELLS FARGO BANK"
+            }
+        },
+        {
+            "title": "Fullstack Developer",
+            "salary_min": 400000,
+            "contract_time": "full_time",
+            "created": "2019-06-05T21:12:18Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOjExNzE1MDg1NDd9.hy3igNaaPgmZ2VBYMS0nji5Z5wkXh7V_UVaCKUfHqGs",
+            "id": 1171508547,
+            "company": {
+                "display_name": "altDex",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "This role involves learning of new skills using the functional knowledge and experience on core full stack developments like node.js. Our organization's work will involved working on cross linked techstack and Lot of API integrations. Hence person should have worked on integrations and well versed with API in integrations. Person on the Job will be trained on core blockchain tech stack as we are core blockchain engineering company. Skills: Javascript, NodeJS (Node.js), LAMP Stack, Angular (2) a…",
+            "salary_is_predicted": "0",
+            "salary_max": 900000,
+            "redirect_url": "https://www.adzuna.in/details/1171508547?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Delhi, India",
+                "area": [
+                    "India",
+                    "Delhi"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_max": 3000000,
+            "redirect_url": "https://www.adzuna.in/details/2212687570?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "id": "2212687570",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "VMware Software India Pvt. Ltd"
+            },
+            "description": "Exciting opportunity for a MTS 3 i n our Blockchain Engineering team. You will be working with a team of engineers dedicated to making the VMware Blockchain Platform the dominant Enterprise Blockchain solution. At VMware, we are building an Enterprise Blockchain with innovation, enterprise-grade capability, and solutions that will power blockchain in every market sector. You will work with a team of talented and supportive individuals from across the world as well as members of the academic com…",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiIyMjEyNjg3NTcwIn0.HepIl6kasy4OlCYiFNHhEmoJ9MF9xHujtduiBdld_RA",
+            "created": "2021-05-27T12:20:24Z",
+            "title": "Member of Technical Staff C++",
+            "salary_min": 1000000
+        },
+        {
+            "title": "Lead Software Engineer - Java Full Stack",
+            "id": "5485075010",
+            "description": "Description We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Lead Software Engineer at JPMorgan Chase within the Blockchain Engineering team, you will design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You will be responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business object…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JPMorganChase"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDg1MDc1MDEwIn0.X14ClIjGYe3ShVaJnmA-z3OaOu30_GRZmiUrcgBRG4E",
+            "contract_time": "full_time",
+            "created": "2025-11-07T16:17:17Z",
+            "redirect_url": "https://www.adzuna.in/details/5485075010?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_min": 200000,
+            "title": "React Native Developer",
+            "contract_time": "full_time",
+            "created": "2025-03-22T04:31:06Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTEwNTQyMDUwMiIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.ppaOdmG1eM60FYGHS3OvvS2v7tw330SpcXsm0MSpX5Q",
+            "id": "5105420502",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NeoGenCode Technologies Pvt Ltd"
+            },
+            "description": "Job Title : React Native Developer Experience : 3 Years Location : Gurgaon Working Days : 6 Days (Monday to Saturday) Job Summary : We are looking for a skilled React Native Developer with experience in converting Figma designs into high-performance mobile applications. The ideal candidate should have some exposure to Blockchain/Web3 technologies and be capable of converting mobile applications into SDKs . Key Responsibilities : ✅ Develop and maintain React Native applications. ✅ Convert Figma …",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 600000,
+            "redirect_url": "https://www.adzuna.in/details/5105420502?utm_medium=api&utm_source=d58ac19b",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5329697172?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Hired Recruiters",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Technical Recruiter We are a small recruiting firm based out of Philadelphia, Pennsylvania. We are in the start-up phase and looking to expand and grow. We are looking for committed, hardworking people Someone who is willing to put in the time and effort to help us grow We are open to people from any part of the world willing to work in United States time zones (Either PST or EST). Team players who work well with others Respectful and focused on creating a great candidate experience Qualificati…",
+            "id": "5329697172",
+            "contract_time": "full_time",
+            "created": "2025-07-31T17:02:24Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1MzI5Njk3MTcyIn0.irL1EpVk82DFSv9NDEndsNVlD_vOs0nwn9_iRGDygfE",
+            "title": "Recruiter"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5282550215?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI4MjU1MDIxNSIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.IJ3Ph0OKzrvdfXBcD4Ei0lTI0HvX2mFCItCEFuk8hOU",
+            "created": "2025-07-04T03:28:27Z",
+            "id": "5282550215",
+            "company": {
+                "display_name": "Deqode",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_max": 1200000,
+            "latitude": 22.66215,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Madhya Pradesh",
+                    "Indore"
+                ],
+                "display_name": "Indore, Madhya Pradesh"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Blockchain Data and ML Engineer",
+            "salary_min": 600000,
+            "contract_time": "full_time",
+            "longitude": 75.9035,
+            "description": "About Us Alfred Capital - Alfred Capital is a next-generation on-chain proprietary quantitative trading technology provider, pioneering fully autonomous algorithmic systems that reshape trading and capital allocation in decentralized finance. As a sister company of Deqode — a 400 person blockchain innovation powerhouse — we operate at the cutting edge of quant research, distributed infrastructure, and high-frequency execution. What We Build Alpha Discovery via On‑Chain Intelligence — Developing…"
+        },
+        {
+            "id": "4514376006",
+            "company": {
+                "display_name": "Qrata",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Responsibilities Work with large and complex blockchain data sets and derive investment relevant metrics in close partnership with financial analysts and blockchain engineers. Apply knowledge of statistics, programming, data modeling, simulation, and advanced mathematics to recognize patterns, identify opportunities, pose business questions, and make valuable discoveries leading to the development of fundamental metrics needed to evaluate various crypto assets. Build a strong understanding of e…",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDUxNDM3NjAwNiIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.4eLSVmTLF9sWzWZbdYcQwK3MK019T6ms2uIYDAZyaEc",
+            "created": "2024-01-07T15:07:42Z",
+            "salary_min": 2000000,
+            "title": "Data Scientist",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_max": 3500000,
+            "redirect_url": "https://www.adzuna.in/details/4514376006?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_max": 1500000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/2388845601?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 0,
+            "title": "Blockchain Developer",
+            "id": "2388845601",
+            "description": "We are building a privacy-enabled permissioned blockchain network. We require a blockchain engineer to help us bootstrap the network using Consensys Hyperledger Besu / GoQuorum as well as build an application to demonstrate the privacy features of such a network . As a developer you'll be responsible for building production level software for the Indian government. You should be self motivated, and be able to proactively push from the start to finish of this project. Furthermore, you must be ab…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Verismart"
+            },
+            "contract_time": "full_time",
+            "created": "2021-08-17T21:57:39Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjM4ODg0NTYwMSIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.l41rRgNww0_4s-awbDQf16EcLv6GkRq7p54gdc3V0jk"
+        },
+        {
+            "latitude": 28.56579,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_max": 1300000,
+            "contract_time": "full_time",
+            "longitude": 77.3225,
+            "description": "Job Title: QA Engineer – Blockchain / Web3 / DApps Location: Noida (Onsite) Experience: 3 Years About the Role We are looking for a detail-oriented QA Engineer with hands-on experience in Blockchain, Web3 Wallets, and Decentralized Applications (DApps) . The ideal candidate will ensure the reliability, performance, and security of blockchain-based products through both manual and automated testing. Key Responsibilities Design, develop, and execute test cases for Blockchain applications, Web3 Wa…",
+            "salary_min": 700000,
+            "title": "QA Tester",
+            "redirect_url": "https://www.adzuna.in/details/5416720109?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDE2NzIwMTA5In0.e9SQmMzsDzsMACTNyBQg0v7kRKpQduM3RtpaRX9mPic",
+            "created": "2025-09-27T07:19:39Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NeoGenCode Technologies Pvt Ltd"
+            },
+            "id": "5416720109"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 500000,
+            "latitude": 22.66215,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Madhya Pradesh",
+                    "Indore"
+                ],
+                "display_name": "Indore, Madhya Pradesh"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "MERN Stack  Web3 Developer",
+            "salary_min": 300000,
+            "contract_time": "full_time",
+            "longitude": 75.9035,
+            "description": "Role Overview We're seeking a MERN Stack Developer with experience in Web3 development to join our team. The ideal candidate will be comfortable building full-stack applications, integrating smart contracts, and working in a fast-paced startup environment. Responsibilities Develop and maintain full-stack applications using MongoDB, Express.js, React.js, and Node.js Integrate smart contracts and blockchain functionality using Web3.js, Ethers.js , or similar libraries Collaborate with product man…",
+            "redirect_url": "https://www.adzuna.in/details/5247440964?utm_medium=api&utm_source=d58ac19b",
+            "created": "2025-06-13T05:20:56Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1MjQ3NDQwOTY0In0.Ekg1WtiXXZEsFzMs5HMOIMDztNOeDHV7LlxeMTj7ejA",
+            "id": "5247440964",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deqode"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "salary_max": 1500000,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/2449398912?utm_medium=api&utm_source=d58ac19b",
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 800000,
+            "title": "Blockchain Developer",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiIyNDQ5Mzk4OTEyIn0.rz1mfrrXsZ77n7TYpRXPqlNG3w09YieETsoY8UPLulA",
+            "created": "2021-09-11T02:17:24Z",
+            "id": "2449398912",
+            "description": "At Olegacy, we build applications connecting people to Web3. Our office is in Bengaluru and Dubai. We are expanding to our Dubai office and would love to invite all individuals who are passionate about the blockchain space to apply. We are currently seeking a Blockchain Engineer to help develop and build a decentralized finance application. The ideal candidate is a self-inspired individual who is passionate about blockchain technologies and disrupting current potential financial norm. Responsib…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FaceX"
+            }
+        },
+        {
+            "created": "2025-11-26T04:50:09Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTEzODY1NDE4In0.PsMucUaDi3B48OdkicaEbN6lZy8NE9rjs_ATbgS7qug",
+            "id": "5513865418",
+            "description": "Job Title : React.js  Web3 Developer Experience : 2 Years Location : Gurgaon, Sector 48 (Work From Office) Working Days : 6 Days Employment Type : Full-Time, Permanent Job Summary : We are seeking a talented React.js  Web3 Developer to join our fast-growing engineering team. The ideal candidate should have strong front-end development skills along with hands-on experience in blockchain/Web3 integrations. Mandatory Skills : React.js, JavaScript/TypeScript, Web3.js/Ethers.js, Wallet Integrations,…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NeoGenCode Technologies Pvt Ltd"
+            },
+            "title": "React.js  Web3 Developer",
+            "salary_min": 400000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "salary_max": 600000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5513865418?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "contract_time": "full_time",
+            "longitude": 77.3225,
+            "description": "Job Title : QA Engineer – Web3/Blockchain Experience : 3 Years Location : Noida Sector 18 Job Type : Full Time Job Summary : We are seeking a skilled QA Engineer with hands-on experience in testing Blockchain/Web3 projects such as wallets, DApps, and related decentralized applications. The ideal candidate should be detail-oriented, proactive, and passionate about ensuring the quality and reliability of Web3 solutions. Mandatory Skills : QA testing of Web3 wallets, DApps, smart contracts, blockc…",
+            "title": "QA Engineer â Web3/Blockchain",
+            "salary_min": 500000,
+            "latitude": 28.56579,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_max": 1000000,
+            "created": "2025-09-23T07:13:39Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxMTQ2OTUyMSIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.fRaNGyeHLrX6KPMMUL61yt_6GImd5PYfOmCBeUXhT1M",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NeoGenCode Technologies Pvt Ltd"
+            },
+            "id": "5411469521",
+            "redirect_url": "https://www.adzuna.in/details/5411469521?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/2107316578?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 1400000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "System Developer - Go",
+            "salary_min": 0,
+            "id": 2107316578,
+            "description": "Job Description Develop p2p infrastructure systems to support blockchain interoperability Improve engineering standards, tooling, and processes Coding with concurrency, efficiency and scalability as primary motive Rigor on Unit testing, coverage and best practices Document systems, build runbooks, and automate those processes Being hands on by writing, testing, and deploying high-performance networking code. Required qualifications 1 years of experience in Golang, Strong knowledge of Go program…",
+            "company": {
+                "display_name": "Hugobyte AI Labs",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoyMTA3MzE2NTc4LCJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSJ9.WjI5NrZXADB5p_gd2nAD2uKOaWP5Pt2Gt9Yhu_bSxXo",
+            "contract_time": "full_time",
+            "created": "2021-04-09T05:37:08Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5549942800?utm_medium=api&utm_source=d58ac19b",
+            "created": "2025-12-20T23:52:23Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTk0MjgwMCIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.t5N3KayU_KLUC1hwENG9-7lANg_VZVpo438orX3QNqc",
+            "description": "BitGo is the leading infrastructure provider of digital asset solutions, delivering custody, wallets, staking, trading, financing, and settlement services from regulated cold storage. Since our founding in 2013, we have focused on enabling our clients to securely navigate the digital asset space. With a global presence and multiple Trust companies, BitGo serves thousands of institutions, including many of the industry's top brands, exchanges, and platforms, and millions of retail investors worl…",
+            "company": {
+                "display_name": "BitGo",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5549942800",
+            "title": "Quality Assurance Engineer - II"
+        },
+        {
+            "title": "Automotive Systems Diagnostic and troubleshooting Engineer",
+            "contract_time": "full_time",
+            "created": "2025-12-16T01:53:58Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQzNDY1NzE3In0.SVCMtu_mRFbitCWFTYgZC95xmzArdlhm0zcemy6swWA",
+            "description": "Job Description 1. Strong hands-on experience in OEM workshops, particularly in diagnostics and repair. 2. Proficiency with OEM diagnostic tools. 3. Understanding of vehicle communication protocols. 4. Extensive experience in OTX authoring using Grade-X. 5. Solid knowledge of vehicle systems from a diagnostics and repair perspective. 6. Minimum of 3 years experience in an OEM workshop or in developing diagnostic content using OTX. 7. Collaborate with OEM software teams and global technical expe…",
+            "company": {
+                "display_name": "Cyient",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5543465717",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5543465717?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5484058019?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Core Java - Senior Engineer",
+            "id": "5484058019",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Iris Software"
+            },
+            "description": "Job Description About Us Data & Analytics, Cloud, DevOps, Data & MLOps, Quality Engineering, and Business Automation. Must have skills: Core Java, API, Spring boot Docker, Kubernetes Good SQL Server Kafka (or similar) is highly desirable Security Vulnerability Nice to have skills: Addition Skills are ETL SOAP APIs , Psv File Mandatory Competencies Programming Language - Java - Core Java (java 8) Beh - Communication Middleware - Java Middleware - Springboot Middleware - Message Oriented Middlewa…",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NDA1ODAxOSIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.DQWOSsKtiSEdr2DDPiMZSI1ZHOUnS4TrQb0CzSlHJjc",
+            "created": "2025-11-06T21:34:55Z"
+        },
+        {
+            "company": {
+                "display_name": "Build Unified API for crypto trading",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "4823324505",
+            "created": "2024-08-13T11:08:35Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgyMzMyNDUwNSIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.InZcesZshdiUCoaWMkZsj8yt2T4Ind5tpb7e-B2vC3k",
+            "redirect_url": "https://www.adzuna.in/details/4823324505?utm_medium=api&utm_source=d58ac19b",
+            "description": "Astra Technologies Inc is a US-based startup with a wholly-owned subsidiary in Chennai, India. We are building cryptocurrency trading infrastructure for financial institutions and other businesses. We are seeking candidates with the following skills: 1. Strong software engineering skills 2. Proficiency in the Rust programming language 3. Familiarity with blockchain technology 4. Excellent communication skills. We are seeking candidates with varying levels of experience, from developers to senio…",
+            "longitude": 80.24963,
+            "contract_time": "full_time",
+            "salary_min": 2000000,
+            "title": "Senior Software Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "latitude": 13.06041,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 5000000,
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5484058008?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Iris Software"
+            },
+            "description": "Job Description Database design and architecture using KDB/q and knowledge of python or C++/Java with minimum of 2 years of experience. Equities Algorithmic trading stack, transaction data and FIX protocol. market, transaction and reference data for various products like Equities, FX, Futures, FX, Indices, options etc. Different market data vendors API and experience working with their data. High capacity/low latency infrastructure like solace. Software development, build and deployment managem…",
+            "id": "5484058008",
+            "contract_time": "full_time",
+            "created": "2025-11-06T21:34:55Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDg0MDU4MDA4In0.wHcpXnCCCDvfpo1FXjySv8m149au43CE3q9laycR1z8",
+            "title": "KDB Python - Senior Engineer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/1563909169?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxNTYzOTA5MTY5LCJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSJ9.IfUzF5dmTarQ1yg5eRPKsclw2ZZcw2vkcKUOIkezrmA",
+            "created": "2020-06-04T21:11:12Z",
+            "company": {
+                "display_name": "Indium Software",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": 1563909169,
+            "latitude": 13.06041,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_max": 1000000,
+            "contract_time": "full_time",
+            "longitude": 80.24963,
+            "description": "Indium Software is a technology solutions company committed to delivering exceptional, customer-centric solutions across Big Data Engineering & Analytics, Blockchain Development, Independent QA and Gaming. Our Digital Solutions focus on offering Big Data Engineering, Advanced Analytics, Blockchain Development, and Product Development services. Our Big Data Solutions team also has expertise in Cloud environments on AWS, Google Cloud, Microsoft Azure, and integration with Real-time data managemen…",
+            "title": "Lead ReactJs Developer",
+            "salary_min": 700000
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 1600000,
+            "redirect_url": "https://www.adzuna.in/details/4978820206?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2024-12-15T13:07:12Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI0OTc4ODIwMjA2In0.q7RXE6YMOxUmT9oBE0Ae5Sqh-ovbNWV0W_UcudAQqRQ",
+            "company": {
+                "display_name": "NeoGenCode Technologies Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Title : QA Automation Lead Engineer – Network Security & Blockchain/Web3.js Location : Gurgaon & Bangalore, India (On-site) Job Type : Full-time Working Days : 6 Days (Monday to Saturday) Role Overview : As a QA Automation Lead Engineer – Network Security & Blockchain/Web3.js , you will define and implement advanced quality assurance and security testing strategies tailored for Blockchain applications. This role involves leading a team, collaborating with cross-functional teams, and ensurin…",
+            "id": "4978820206",
+            "title": "QA Automation Lead Engineer â Network Security & Blockchain/Web3.js",
+            "salary_min": 400000
+        },
+        {
+            "title": "Angular AWS - Senior Engineer",
+            "id": "5499540775",
+            "description": "Job Description Key Responsibilities: Develop responsive web applications using Angular. Integrate front-end applications with AWS backend services. Collaborate with UX/UI designers and backend developers in Agile teams. Develop and maintain responsive web applications using Angular framework. Create engaging and interactive web interfaces using HTML, CSS, and JavaScript Optimize web performance and ensure cross-browser compatibility Integrate APIs and backend systems to enable seamless data fl…",
+            "company": {
+                "display_name": "Iris Software",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "created": "2025-11-17T00:29:13Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NDk5NTQwNzc1In0.ghDEjPowdc3A7yDA3UaiTKP-_7Ki_4JsRyl2zSxGnlI",
+            "redirect_url": "https://www.adzuna.in/details/5499540775?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5543466137?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Java - Senior Engineer",
+            "description": "Job Description Design and implement scalable data processing solutions usingApache SparkandJava. Develop and maintain high-performance backend services and APIs. Collaborate with data scientists, analysts, and other engineers to understand data requirements. Optimize Spark jobs for performance and cost-efficiency. Ensure code quality through unit testing, integration testing, and code reviews. Work with large-scale datasets in distributed environments (e.g., Hadoop, AWS EMR, Databricks). Monit…",
+            "company": {
+                "display_name": "Iris Software",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5543466137",
+            "created": "2025-12-16T01:54:03Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MzQ2NjEzNyIsInMiOiJEb01QVlZqaThCR2pKYWJ4V3QwZURRIn0.BQZ4KP320TiiPPhLlQuqvxQSJJG2BcqsDaIs9R0AAHI"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/4205183826?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 1500000,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Blockchain Developer",
+            "salary_min": 400000,
+            "description": "We are looking for a Blockchain Developer with a focus on scaling best practices, reducing engineer toil, and ensuring reliability and stability of the NST Blockchain Platform. This engineer will also work with all engineers to understand pain points and find a balance in the “now” vs the “future”, while also proposing foundational Blockchain. This individual will need to take into consideration performance, reliability, stability, and developer happiness to ensure that we are providing a world…",
+            "company": {
+                "display_name": "Reed & Willow Talent Advisory Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "4205183826",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI0MjA1MTgzODI2In0.J46iWHtaemWi7ZoejQ6ITKcEOk2V0XXVeTE9szU55lo",
+            "created": "2023-07-14T14:02:09Z"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5543466012?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "created": "2025-12-16T01:54:01Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQzNDY2MDEyIn0.bvFLz5f531gBPXmrCA0N78DMotJR-uaBArGePrKZVas",
+            "id": "5543466012",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Indus Valley Partners"
+            },
+            "description": "Job Description Experience- 2-3 years Skills: SQL, C# Job Description Design, optimize, and debug complex SQL queries and stored procedures. Assist in analyzing escalated issues using MySQL or MSSQL along with application/server logs to help identify patterns or root causes before engaging development teams. Reproduce reported issues in test environments, examine logs, and use SQL queries to retrieve and interpret data relevant to issues/queries Develop custom code required during the developme…",
+            "title": "Engineer"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5543465382?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "id": "5543465382",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Apple"
+            },
+            "longitude": 78.50806,
+            "description": "Job Description - As a member of this team you will be responsible for design, implementation and operation of distributed and scalable services and data applications. - You will be creative in developing the right tools and metrics to ensure the success of platform and features. - You will help tune and solve issues and have an eye for quality and correctness in all you do. - As a great teammate, you wil contribute to a collaborative work environment where we support and guide each other to de…",
+            "contract_time": "full_time",
+            "created": "2025-12-16T01:53:55Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRG9NUFZWamk4QkdqSmFieFd0MGVEUSIsImkiOiI1NTQzNDY1MzgyIn0.LBAke5aDmd82t6ojXc2zwge9vUx_1xdLL6Sd_ltxfyU",
+            "title": "Software Development Engineer - Apple Ads"
+        }
+    ],
+    "count": 73,
+    "mean": 1454000,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}
