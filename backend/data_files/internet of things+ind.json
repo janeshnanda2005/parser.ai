@@ -1,0 +1,533 @@
+{
+    "mean": 1066666.67,
+    "results": [
+        {
+            "title": "Internet of Things Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjYwMDAwMSIsInMiOiJnRkRBdjlEbThCR2pKYWJ4V3QwZURRIn0.KoJBaux7veHFfh8MOVd8wAM5SKonOdeG-eP6BNOkqzc",
+            "created": "2025-12-18T08:44:59Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ZENNER India"
+            },
+            "description": "At ZENNER Aquamet India we are shaping the utility landscape of India and neighbouring countries by offering cutting edge metering solutions. Our metering solutions are getting digital and smarter. To strengthen our talent pool, we are looking for a IoT Engineer who can contribute to the journey. If you are passionate on learning and contributing to the emerging smart solutions, this may be a perfect opportunity for you. We are looking forward to speaking you. Key Highlights Position: IoT Engin…",
+            "longitude": 77.30309,
+            "id": "5546600001",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546600001?se=gFDAv9Dm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=FE9D705D23D7D9302D37F408198DC263568521F0",
+            "latitude": 28.38221,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Haryana",
+                    "Faridabad"
+                ],
+                "display_name": "Faridabad, Haryana"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5546314470?se=gFDAv9Dm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B7F31BE7814EA35B5169D49660FBA737AD35BF4F",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Internet of Things Engineer",
+            "id": "5546314470",
+            "description": "Job Summary: We are seeking a skilled IoT Engineer to design, develop, deploy, and maintain end-to-end Internet of Things (IoT) solutions. The ideal candidate will work across embedded devices, cloud platforms, and data pipelines to deliver scalable, secure, and reliable IoT systems. Key Responsibilities: Design and develop end-to-end IoT solutions (device, gateway, cloud, and application layers) Develop and maintain firmware for IoT devices using Embedded C/C++ or Python Integrate sensors, act…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TRDFIN Support Services Pvt Ltd"
+            },
+            "created": "2025-12-18T02:37:07Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0ZEQXY5RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzE0NDcwIn0.YsQOI7B5RHoCUDjCsWaKjDviOXH8CExsgOdDjB1B6nE"
+        },
+        {
+            "title": "Senior Internet of Things Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0ZEQXY5RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTM3Mzg2MDA2In0.5-BRWu0D7oKYXdPB92OWiPSCC6TL5yTk071aFc2Oznc",
+            "created": "2025-12-11T09:28:02Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TIGI HR"
+            },
+            "description": "Title: IOT Developer Location: Remote Experience: 4 years Responsibilities : 1. Design, develop, and maintain IoT solutions using Rust programming language. 2. Collaborate with cross-functional teams to define, design, and implement IoT products and features. 3. Work on IoT platforms, protocols, and technologies such as MQTT, CoAP, and LoRaWAN. 4. Develop and integrate Machine Learning (ML) models to enable intelligent IoT applications. 5. Contribute to the development of Python and C++ codebas…",
+            "id": "5537386006",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537386006?se=gFDAv9Dm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=E201490EB9951AF47072B11B278CE0E9F75A7288",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5555950711?se=gFDAv9Dm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2DAD34B339A1D32AB2263ED405760661EFD0A532",
+            "created": "2025-12-26T01:54:09Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0ZEQXY5RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU1OTUwNzExIn0.CYlTlIVsaZlALnHqWJFiZd3ez3w5SzHd_RUr9tONRNA",
+            "description": "KEY RESPONSIBILITIES The current opening is for Embedded Engineer, wherein the member is responsible for designing, developing and maintaining embedded hardware and firmware, ensuring device connectivity and coordinating with production and backend teams for IoT integration. Roles & Responsibilities :- 1. Design embedded systems from concept to production, including schematics, PCB layout and board bring-up. 2. Develop FreeRTOS-based firmware using FSM architecture for robust and maintainable s…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Coulomb LiTech Private Limited"
+            },
+            "id": "5555950711",
+            "title": "Senior Internet of Things Engineer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5493307205?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Servilink Systems Limited"
+            },
+            "id": "5493307205",
+            "created": "2025-11-13T16:34:01Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MzMwNzIwNSIsInMiOiJnRkRBdjlEbThCR2pKYWJ4V3QwZURRIn0.22264eXO8KvqERn-X8d1gP2NN8rQPKoUivFTThYTTYA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Vadodara, Gujarat",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Vadodara"
+                ]
+            },
+            "latitude": 22.2891,
+            "salary_max": 360000,
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "longitude": 73.1924,
+            "description": "SERVILINK SYSTEMS LIMITED is hiring an IoT Engineer. Job Title – JR. IOT ENGINEER (OT) Reports To - CTO & Director Qualifications: BE – IC /EC/ELECTRICAL Location: Vadodara Experience - 2-3 Years Job Overview Responsibilities We are looking to hire a Jr. Engineer IoT. Must know about IoT and OT. Must know about Rockwell Platform → Other Platform knowledge will add additional advantage. Knowing Industrial equipment (PLC/DCS/SCADA/Sensors/Etc) Hands-on experience in PLC/DCS programming and its wo…",
+            "contract_time": "full_time",
+            "salary_min": 240000,
+            "title": "Internet Of Things Engineer"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5478672109?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 22.2891,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Vadodara, Gujarat",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Vadodara"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Internet Of Things Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0ZEQXY5RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDc4NjcyMTA5In0.k2Fnkx9FTULPln4WfdhCi9xMgqiPsR_CjeNuna-KdAU",
+            "created": "2025-11-04T01:51:43Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SERVILINK SYSTEMS LIMITED"
+            },
+            "longitude": 73.1924,
+            "description": "SERVILINK SYSTEMS LIMITED is hiring an IoT Engineer. Job Title JR. IOT ENGINEER (OT) Reports To - CTO & Director Qualifications: BE IC /EC/ELECTRICAL Location: Vadodara Experience - 2-3 Years Job Overview Responsibilities We are looking to hire a Jr. Engineer IoT. Must know about IoT and OT. Must know about Rockwell Platform Other Platform knowledge will add additional advantage. Knowing Industrial equipment (PLC/DCS/SCADA/Sensors/Etc) Hands-on experience in PLC/DCS programming and its working …",
+            "id": "5478672109"
+        },
+        {
+            "title": "Assistant/Associate/ Professor - Computer Science Engineering (CSE)",
+            "created": "2025-12-10T16:50:06Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2Mzc1MiIsInMiOiJnRkRBdjlEbThCR2pKYWJ4V3QwZURRIn0.3UsJhFueQ3sw9xrjTXcdXerxTUP8Cgteg5lfG1nlfWo",
+            "id": "5536063752",
+            "company": {
+                "display_name": "K.R. Mangalam University",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Faculty Openings – Department of Computer Science & Engineering Positions: Assistant Professor / Associate Professor / Professor Location: KR Mangalam University , Sohna Road, Gurugram About the Opportunity KR Mangalam University invites qualified, passionate, and research-driven academicians to join our Department of Computer Science & Engineering . We seek dynamic educators and researchers committed to academic excellence, innovation, and student success. Key Responsibilities Teach undergradu…",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5536063752?se=gFDAv9Dm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=98D3061FA3842022EFF493BFA364E3AF34095D99",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ziplr Technology"
+            },
+            "description": "Brief: As an Internet of Things Engineer in the team, you will develop new enterprise and consumer products. Responsibilities and Role: Understand business requirements and design Researches new technologies and incorporates them into new systems and products. Tests, integrate, troubleshoots, and debugs products. Responsible for architecture and implementation of critical components. Work to improve the efficiency and functionality of current systems and products. Required Qualifications: B.Tec…",
+            "id": "4801663544",
+            "created": "2024-07-31T03:21:56Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0ZEQXY5RG04QkdqSmFieFd0MGVEUSIsImkiOiI0ODAxNjYzNTQ0In0.g6k1G4t5kmoJtFfAxIDsWDdMyNXshIbGZDymsb4U6go",
+            "title": "Internet of Things (IoT) Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/details/4801663544?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Assistant Professor/Associate Professor- CSE",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NzI5NzM4NyIsInMiOiJnRkRBdjlEbThCR2pKYWJ4V3QwZURRIn0.xOTmsZlQLeCw8-89Wztrf1BXALmCslhMxLkpUgDIg0M",
+            "created": "2025-12-27T22:06:27Z",
+            "id": "5557297387",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CHANDIGARH UNIVERSITY"
+            },
+            "description": "Job Title: Assistant Professor / Associate Professor– Computer Science & Engineering Location: Chandigarh University, Gharuan, Mohali, Punjab, India Qualifications (Mandatory): B.Tech in Computer Science or relevant discipline from a recognized university M.Tech in Computer Science or related specialization Ph.D. in Computer Science / Computer Engineering / Information Technology (awarded or submitted as per UGC norms) Strong academic and research credentials as per UGC/AICTE norms Experience: …",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "teaching-jobs",
+                "label": "Teaching Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5557297387?se=gFDAv9Dm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3455F93F94A7FA116ED4A1EDB13590CBA36C8928",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546312354?se=gFDAv9Dm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DBAC413666E534D031EBC7A7B69C62868F4D990B",
+            "category": {
+                "tag": "teaching-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Teaching Jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "Job Title: Assistant Professor / Associate Professor – Computer Science School: Presidency School of Engineering Reports to: Dean / Head of Department Location: Presidency University, Bengaluru Position Summary The faculty member will be responsible for delivering high-quality teaching, conducting impactful research, mentoring students, and contributing to the academic and institutional growth of the university. The role involves active participation in curriculum development, innovative pedago…",
+            "company": {
+                "display_name": "Presidency University Bangalore",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5546312354",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxMjM1NCIsInMiOiJnRkRBdjlEbThCR2pKYWJ4V3QwZURRIn0.9BtFuuZhMJ1Xji1k01xp1tpo5pYEJ8yBHtSMYcpIcsI",
+            "created": "2025-12-18T02:35:11Z",
+            "title": "Assistant /Associate /Professor of Computer Science"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5438474533?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "title": "Technical Operations Engineer, Corporate Internet of Things",
+            "id": "5438474533",
+            "description": "Technical Operations Engineer, Corporate Internet of Things _corporate_fare_ Google _place_ Hyderabad, Telangana, India Mid Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area. Minimum qualifications:  BA/BS degree or equivalent practical experience.  2 years of experience as a Support or Operations Engineer.  Experience as a Subject Matter Expert in the Windows, Linux OS Platforms, IT and Networking …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Google"
+            },
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0ZEQXY5RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDM4NDc0NTMzIn0.QXSgIIXau1RmHJCXOLYtEKoJleysa1kx5Uoj5JLcvi8",
+            "created": "2025-10-09T11:32:23Z"
+        },
+        {
+            "title": "Technical Operations Engineer, Corporate Internet of Things",
+            "longitude": 78.50806,
+            "company": {
+                "display_name": "Google",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Minimum qualifications: BA/BS degree or equivalent practical experience. 2 years of experience as a Support or Operations Engineer. Experience as a Subject Matter Expert in the Windows, Linux OS Platforms, IT and Networking Hardware and Software concepts. Preferred qualifications: Experience in IT Operations, Windows, gLinux, Project Management and Technical Support Operations. Experience in Plx Scripts, Technical Writing and Network Diagnostics. Experience in Plx Scripts, Technical Writing and…",
+            "id": "5440751426",
+            "created": "2025-10-10T14:51:10Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0ZEQXY5RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDQwNzUxNDI2In0.He1Mh_SzM2fLN1w3O6g4tK3hh1OqGKrgRHrR5Cb_oxU",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5440751426?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 2000000,
+            "category": {
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sales Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/2974405208?utm_medium=api&utm_source=d58ac19b",
+            "created": "2022-03-16T05:09:16Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjk3NDQwNTIwOCIsInMiOiJnRkRBdjlEbThCR2pKYWJ4V3QwZURRIn0.obu8isnFqkVQ-7avcbqIMl72fYVw8XplG6fMrLR4TQc",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tinymesh India"
+            },
+            "description": "The selected candidate will act as primary interface to the customer for technical support on our products and services to achieve our goal of converting design wins to Provides First level tech support at system level to RnD teams across all Actively and consistently seeks new customers within associated focus markets. Visits customers and potential customers to develop relationships, follow up on leads, set grower trials, close sales opportunities, and provide technical information. Meets est…",
+            "id": "2974405208",
+            "salary_min": 0,
+            "title": "Technical Sales Manager"
+        },
+        {
+            "category": {
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sales Jobs"
+            },
+            "salary_max": 2500000,
+            "redirect_url": "https://www.adzuna.in/details/3468839851?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 1000000,
+            "title": "Pre- Sales Manager",
+            "id": "3468839851",
+            "description": "Job Title: Pre-Sales Manager Role Purpose: As a presales manager, you will work closely across various verticals such as product development, engineering, sales and marketing, and project teams/customer relations to understand internal product and service capabilities. Build marketing and sales collaterals showcasing the company’s offerings and capabilities Role will also include understanding the customer’s needs and building suitable solutions, working closely with engineering, delivery, and …",
+            "company": {
+                "display_name": "Petrus Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "created": "2022-09-08T06:47:29Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0ZEQXY5RG04QkdqSmFieFd0MGVEUSIsImkiOiIzNDY4ODM5ODUxIn0.4tu24TRmWYq0RR-DiMEHI-IsRGxqLxju-7Yee9lCDME"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sharma Enterprises.."
+            },
+            "description": "Job Description You are being offered a position as an Assistant/Associate Professor specializing in Internet of Things (IoT) at BML Munjal University in Gurugram, India. As part of the School of Engineering, your main responsibilities will include delivering high-quality teaching, engaging in research activities, supervising students, and collaborating with industry partners in the field of IoT. - Deliver high-quality teaching at undergraduate and postgraduate levels in IoT and related enginee…",
+            "longitude": 76.542624,
+            "id": "5543465806",
+            "created": "2025-12-16T01:53:59Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0ZEQXY5RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQzNDY1ODA2In0.gQiRTCqHXKPnYRSyCLTXb0cPJUN0KjoGJGRcJBDJBmQ",
+            "title": "Assistant Professor- IoT",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Haryana"
+                ],
+                "display_name": "Haryana, India"
+            },
+            "latitude": 29.215022,
+            "redirect_url": "https://www.adzuna.in/details/5543465806?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "teaching-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Teaching Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5443730498?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0ZEQXY5RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDQzNzMwNDk4In0.dICVu4xT5HHIt9i6oQ7DMFtQSOxQq3Vyr84VXSv0emA",
+            "created": "2025-10-12T06:41:13Z",
+            "id": "5443730498",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Geotrackers MRM Pvt Ltd"
+            },
+            "latitude": 28.62523,
+            "location": {
+                "area": [
+                    "India",
+                    "Delhi"
+                ],
+                "display_name": "Delhi, India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_max": 450000,
+            "contract_time": "full_time",
+            "description": "Company Profile Geotrackers Mobile Resource Management Pvt. Ltd. Geotrackers is a technology company offering end to end telematics solutions that help organisations manage their field resources more effectively, be they vehicles, assets or personnel. We provide GPS based vehicle tracking solutions and mobile solutions for field force management. Our solutions have gained in popularity owing to the multiple benefits that they offer, starting with increase in productivity of the field resources,…",
+            "longitude": 77.224601,
+            "title": "Customer Support Officer",
+            "salary_min": 250000
+        },
+        {
+            "salary_max": 1500000,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 13.06041,
+            "title": "Finacle Customization",
+            "salary_min": 1500000,
+            "description": "Position : Finacle Customization Years of Experience : 2-5 Years Location : Customization – Chennai/Mumbai/Hyderabad Mode : WFO Budget – Upto 15 Lakhs Role Finacle Customisation Job Profile  Experience in Finacle customisation in Finacle 10.x  Should be capable of analysing customization Requirement  Should be well versed in Finacle customisation using Finacle tools  Good knowledge in Finacle tables of all Modules  Should have knowledge in connect 24 and FI  Should have worked in most of the co…",
+            "longitude": 80.24963,
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/3992729764?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "display_name": "Praveza Consultancy Private Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "3992729764",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzk5MjcyOTc2NCIsInMiOiJnRkRBdjlEbThCR2pKYWJ4V3QwZURRIn0.hDyyzz1R2zVm_upCq7OkFXf80EnxB-_yH5dsIPZGUeY",
+            "created": "2023-03-22T08:35:00Z"
+        },
+        {
+            "title": "Finacle Migration",
+            "salary_min": 1500000,
+            "longitude": 80.24963,
+            "description": "Position : Finacle Migration Years of Experience : 2-5 Years Location : Customization – Mumbai/Hyderabad Mode : WFO Budget – Upto 15 Lakhs Role Finacle Migration Job Profile  Should be led the Onsite Finacle Migration Team for 2-3 projects  Experience in Finacle Migration from 7.x to 10.x  Experience in Finacle Migration from Legacy to 10.x  Good knowledge in Finacle tables of all Modules  Experience in Finacle upload formats in Finacle Migration  Field Mapping for Finacle Upload Formats  Writi…",
+            "contract_time": "full_time",
+            "salary_max": 1500000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "latitude": 13.06041,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Praveza Consultancy Private Limited"
+            },
+            "id": "3995161456",
+            "created": "2023-03-23T08:37:15Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzk5NTE2MTQ1NiIsInMiOiJnRkRBdjlEbThCR2pKYWJ4V3QwZURRIn0.S42EYMYJk35fKN3vqJHWqyjoNsDBBxvooT57ua1KwAY",
+            "redirect_url": "https://www.adzuna.in/details/3995161456?utm_medium=api&utm_source=d58ac19b"
+        }
+    ],
+    "count": 18,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

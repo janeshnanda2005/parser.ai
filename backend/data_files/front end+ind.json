@@ -1,0 +1,1468 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 1395353.33,
+    "count": 587,
+    "results": [
+        {
+            "contract_time": "full_time",
+            "id": "5432267252",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5432267252?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=5CD220BA67F15FDF08262AA0759FAB42F67CED86",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NDMyMjY3MjUyIn0.Y22ZRYgazS8eieKXiD1Q0GaD69MB58lTpQsMFW3yXaY",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "created": "2025-10-05T09:29:17Z",
+            "title": "Front-End Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "neuroGrid"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "Front-End Engineer Location: Bengaluru, India (Residency Road, In-Office, Full-Time) Reports to: Engineering Manager, Bengaluru About neuroGrid neuroGrid is a well-funded startup building a next-generation SaaS platform to accelerate the development of modern, low-cost power plants and AI infrastructure—including data centers, solar, wind, battery storage, nuclear, and transmission. Energy is the world’s largest and most critical industry—and it’s undergoing a once-in-a-century transformation d…"
+        },
+        {
+            "location": {
+                "area": [
+                    "India",
+                    "Delhi"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Delhi, India"
+            },
+            "longitude": 77.224601,
+            "created": "2025-12-19T08:58:57Z",
+            "title": "Senior Front End Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Vichara Technologies"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "description": "We are seeking a Front-End Software Engineer to design, develop, and maintain high-quality, scalable user interfaces for modern web applications. This role partners closely with product managers, designers, and backend engineers to deliver intuitive, performant, and accessible digital experiences. Responsibilities Core Front-End Engineering Develop responsive, user-centric web applications using modern JavaScript frameworks Translate UX/UI designs and product requirements into high-quality, reu…",
+            "id": "5548137507",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 28.62523,
+            "redirect_url": "https://www.adzuna.in/land/ad/5548137507?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=5297EF1EDD7DC67320E9C6F58A277A5B960E2CFF",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEzNzUwNyIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.492a6r9Sm6u1HSESqwSz7MK4TX5tzMi9Vh5j2eTDYwY"
+        },
+        {
+            "id": "5484694380",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NDY5NDM4MCIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.ypY8nqEHMTQQDSEtITiPPqSNzDXpD9_GWt-UmTN0MPY",
+            "redirect_url": "https://www.adzuna.in/land/ad/5484694380?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=102DBEBEE779150F02C01A9D205885A6D909EC93",
+            "title": "Sr. Front End Engineer - React",
+            "created": "2025-11-07T09:08:36Z",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "At InRhythm, You Will Design, develop, and test web applications as well as work with fellow Software Engineers to navigate the discussion and strategy in re-architecting existing web platforms Identifying pitfalls ahead of time, raising concerns, and managing expectations with all stakeholders Define and break out epics/features for others, while maintaining a sense of the whole picture Work in a cross-functional agile team to deliver working software incrementally Help with the Web Practice's…",
+            "company": {
+                "display_name": "InRhythm",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Lead Front End Engineer (Flutter)",
+            "created": "2025-12-30T10:26:43Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HDFC Bank"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Job Purpose · Understand the requirement in detail and perform engineering tasks on integrating APIs, Microservices and other related UI related activities. Ability to develop multiple dashboards with multiple filter criteria Job Responsibilities · Responsible for integrating API’s and meeting quality and timeliness goals. · Ensure adequate documentation included in code for future maintainability · Continuously develop self in line with improvements / changes in backend technology Total Yrs of…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5559715061",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5559715061?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=40852D376D7AEBAA2623C5A9DBA3BE9A10A1B828",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTU5NzE1MDYxIn0.dH-Rho0Gx9njbAhrKDt62QBkJNVWKJbuSSQsUCX_oOM"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5486492218",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5486492218?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=17B5012D057CC5232C099270F6AC1894495940B7",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NDg2NDkyMjE4In0.THyUJaMzMpRH3NDWdYZ0ZezMg2rBrjGi-xML2rClKMI",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Front-End Engineer (Junior & Mid-Level)",
+            "created": "2025-11-08T10:00:53Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "IRISS, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Company Overview: IRISS, Inc. is a leading innovator in the field of advanced technological solutions, providing cutting-edge products and services to enhance safety, reliability, and efficiency of assets across various industries. Our commitment to pushing boundaries and delivering exceptional solutions has positioned us as a trusted partner for clients seeking top-tier technical expertise in Condition Based Monitoring. About the Product: Join our team working on an enterprise-grade asset mana…"
+        },
+        {
+            "latitude": 18.5062,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5482782540",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NDgyNzgyNTQwIn0.HhaSPyNDXJ2VxOg-4tRVQc60csxMIJYwe0YBbQxSj8Q",
+            "redirect_url": "https://www.adzuna.in/land/ad/5482782540?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=A5C9D859F98AC5C0D988E90604B6FA36BDE50F52",
+            "title": "Sr. Front End Engineer (React.JS)",
+            "longitude": 73.84735,
+            "created": "2025-11-06T03:05:00Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "description": "Please note: This is an on site position in Kharadi, Pune. Timings: 6 PM - 3 AM Remote/Hybrid options are not available Notice Period - Immediate joiners or those with a maximum notice period of 30 days are preferred. We’re a fast-growing AI startup with a fast-paced, ambitious culture. Our team often works long hours (at times 12 hours a day, 6 days a week), similar to other high-growth tech companies. If you thrive in this kind of environment, we’d love to hear from you! About Jeeva.AI Jeeva …",
+            "company": {
+                "display_name": "Jeeva AI",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Checkpoint Systems"
+            },
+            "description": "SUMMARY We are seeking a Front-End Developer to join our R&D team in building and enhancing our SaaS-based Enterprise Inventory Management Solution. The ideal candidate will have strong expertise in modern front-end technologies and frameworks, delivering responsive, high-performing, and scalable user interfaces for enterprise applications deployed on the cloud. MAIN RESPONSIBILITIES Participate in the full Software Development Life Cycle (SDLC) — from requirements analysis and design to develo…",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "created": "2025-12-06T01:34:05Z",
+            "title": "Software Engineer,Front-End, React",
+            "redirect_url": "https://www.adzuna.in/land/ad/5529812723?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=7102276771BBB44AB1ACDF53262FFCB882015FCC",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI5ODEyNzIzIn0.vfennPI9XniBRyWUOYJaXAx4yQKiW-qVeUjs2x7EafY",
+            "id": "5529812723",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Senior Software Engineer - Front End Developer",
+            "created": "2025-11-26T09:46:26Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "description": "Job Description About the Role: We are looking for a skilled and passionate Frontend Software Development Engineer (SDE) to join our dynamic engineering team. The ideal candidate has 3–7 years of experience building responsive, high-performance web applications using modern JavaScript frameworks. Responsibilities: Develop, test, and maintain scalable, user-facing web applications Collaborate with Product Managers, Designers, and Backend Engineers to implement features and UI enhancements Write …",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "display_name": "apna",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5514208595",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDIwODU5NSIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.ffHFi5yCLUP24CPHKbe2G_ZG5oH-HR75_167wMlAIrc",
+            "redirect_url": "https://www.adzuna.in/land/ad/5514208595?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=935D1FC3DFEBF5E7E0B2778E0B334CBC4384359C"
+        },
+        {
+            "contract_type": "contract",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5548137319",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548137319?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=6F7B12889F0D9512AF253B984E4EAD6D56E3E060",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEzNzMxOSIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.B6Y0YwHf19F-6m3HFgnpDGAd12tdwzS3Ho87cmZEwZo",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "created": "2025-12-19T08:58:55Z",
+            "title": "Sr WordPress Developer",
+            "company": {
+                "display_name": "TWO95 International, Inc",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "description": "Job Title: Sr Wordpress developer Location: 100% Remote Work Type: 6months contract to hire Salary: Market Job Brief: We are looking for a highly skilled Front-End Engineer to join our team and act as the primary developer for web projects built on WordPress and Elementor, hosted on WP Engine. This role blends deep WordPress expertise with modern front-end engineering practices, ensuring our site is fast, scalable, accessible, and beautifully crafted. The ideal candidate is both a creative prob…"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5555200981?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=48F2FA60D8A6E0018363AD8BFC5BB6D950C82904",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTU1MjAwOTgxIn0.Mg8OgnWHBCX3uxPvfdhEBwWxms1USMzIgmWlUh8lBEo",
+            "id": "5555200981",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Neuron ERP Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "description": "Role: Front End Engineer – India (Reporting to US Product Lead) Location: India (Remote / Hybrid, with overlap to US time zones) About NeuronERP NeuronERP is redefining how enterprises run their operations by combining Oracle ERP systems with cutting-edge AI/ML automation. We are an early-stage, high-velocity team building a category-defining product, and we are looking for front end engineers in India who can turn complex enterprise workflows into simple, intuitive, and performant user experie…",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Frontend Engineer",
+            "created": "2025-12-25T13:36:00Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjU2OTIyMiIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.eBYY5Bg8zXX19n5DMEs7DmfES3zNdKknnBZhLTOIAlU",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546569222?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=44E289194B8490481943C42E48D18200B74E0F6C",
+            "id": "5546569222",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Engineer / Senior Engineer - Frontend Location - Gurgaon Role Summary As a Front-End Engineer/Lead Front-End Engineer, you will be responsible for defining and implementing the architecture of our frontend applications, ensuring high performance, scalability, and a seamless user experience. You will lead the initiative to split Magento modules into microservices and micro-frontends, implementing best practices for internationalization and localization. Your focus will be on achieving page load …",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Workforce247"
+            },
+            "title": "Frontend Developer",
+            "created": "2025-12-18T08:40:30Z",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            }
+        },
+        {
+            "latitude": 13.06041,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5530552750",
+            "redirect_url": "https://www.adzuna.in/land/ad/5530552750?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=3CB6D1B7246DDDDEA50CD3338C782E029843EECF",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1Mjc1MCIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.hf9e_oOuqGgzBUiPcivupPftKZy_QtU17rr4Q2c0oiE",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "title": "PIPELINE - LEADER",
+            "longitude": 80.24963,
+            "created": "2025-12-06T09:40:53Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tecnicas Reunidas"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "energy-oil-gas-jobs",
+                "label": "Energy, Oil & Gas Jobs"
+            },
+            "description": "We are looking for a Leader Pipeline ENGINEER with minumun >15 years of proven experience in Engineering & Project, Management, Distribution Gas/Oil Pipelines, Greenfield, Brownfield Piping/Pipeline design and detailed Engineering for Oil & Gas for Conceptual Studies, Front End Engineering design (FEED) and Detail Engineering. Key Responsibilities: - • Perform Onshore Pipeline in compliance with ASME B31.4, ASME B31.8, and ASME B31.12 standards. • Review and apply Site Topographical Survey draw…"
+        },
+        {
+            "description": "Role: UX/UI Designer (Mid/Senior/Lead) Location: Mumbai/Bangalore Experience: 4 years Platforms: Mobile and Web Skills Required: Mandatory: User Experience design (UX) and User Interface design (UI). Additional Skills (at least 1): Design-strategy/Business-analysis, UX research, Art/Illustration/Graphic-design, Motion/interaction design, Front-end engineering (HTML/ReactJS/React Native), or UX writing More Details: The role will involve creating and iterating digital products along with the var…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Kotak Mahindra Bank"
+            },
+            "title": "UX/UI Designer (Mid/Senior/Lead)",
+            "created": "2025-12-30T10:27:27Z",
+            "longitude": 72.84415,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTU5NzE2ODYwIn0.JEgtnQuoP3c6vCiMza9cJ_uStBpnu7cLqhMk4JHq5k4",
+            "redirect_url": "https://www.adzuna.in/land/ad/5559716860?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=96E155B7DB225936C8A38F9072C52E82E75825DE",
+            "latitude": 19.00821,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5559716860"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5482781912?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=966A8996BB7B87A1E99ECF9F30609568FFEF2746",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NDgyNzgxOTEyIn0.CVoMOkXTJQegXurtkzQzShQvBSudoIyx6wuZllxwJkk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5482781912",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Electronics"
+            },
+            "description": "Tata Electronics Pvt. Ltd. is a prominent global player in the electronics manufacturing industry, with fast-emerging capabilities in Electronics Manufacturing Services, Semiconductor Assembly & Test, Semiconductor Foundry, and Design Services. Established in 2020 as a greenfield venture of the Tata Group, the company aims to serve global customers through integrated offerings across a trusted electronics and semiconductor value chain. Job Summary We are seeking an Experienced Intrinsic FEOL (F…",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "created": "2025-11-06T03:04:55Z",
+            "title": "Intrinsic Reliability Engineer - FEOL (Front End of Line)"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "created": "2025-12-12T09:51:04Z",
+            "title": "Art Director- Interactive",
+            "category": {
+                "label": "Creative & Design Jobs",
+                "tag": "creative-design-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "AGS - American Gaming Systems",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Overview Reporting to the Studio Manager, the Art Director will be responsible for the artistic vision and visual direction of the online first games developed within the interactive team, ensuring that the graphics support the context of the gameplay. This position will also play a large role in working to port successful land-based content to the online space. Finally, the position is responsible for managing, training, providing leadership and work direction for Artists, Animators, and G…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5539014103",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539014103?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=3214466D62D8E35D5C721DD73496612E8FEBAFC7",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAxNDEwMyIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.lIp9M5Q7t1faeP-U3pRcgeb9G_DJiOXkpcX5hia5YSc"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5557295829?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=10580CEA0EF3C922B72F5B341729E80FA6F7C6FF",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTU3Mjk1ODI5In0.f5I1LGaWGl2vtPWw2lHb5vwY8mzeZWMhqqzviozP_Ao",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5557295829",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Neuron ERP Solutions"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "description": "Role: Back End Engineer – India (Reporting to US Product Lead) Location: India (Remote / Hybrid, with overlap to US time zones) About NeuronERP NeuronERP is redefining how enterprises run their operations by combining Oracle ERP systems with cutting-edge AI/ML automation. We are an early-stage, high-velocity team building a category-defining product, and we are looking for front end engineers in India who can turn complex enterprise workflows into simple, intuitive, and performant user experien…",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "created": "2025-12-27T22:03:45Z",
+            "title": "Backend Engineer"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5539014000",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539014000?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=4F6B9E14A2121F75D0F15E1D2B83D1173EB9A08A",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTM5MDE0MDAwIn0.qIIpJ4dw6_mJ29OXcWGtE-8xgI-fX6WsIZgEMV00LBE",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Senior Animator- Interactive",
+            "created": "2025-12-12T09:51:02Z",
+            "category": {
+                "tag": "creative-design-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Creative & Design Jobs"
+            },
+            "company": {
+                "display_name": "AGS - American Gaming Systems",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Overview The Senior Animator- Interactive will join our team-oriented group of people in the Interactive Game Development Department. The ideal candidate will work with a group of Artists, Engineers, and Game Designers to create both online first content and port AGS’ proven land content to online. Responsibilities Exercise of discretion and independent judgement with respect to matters of significance. Create graphic compositions/layouts, logos, symbol text illustrations, menus, UI and but…"
+        },
+        {
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ]
+            },
+            "longitude": 80.24963,
+            "created": "2025-12-19T08:55:10Z",
+            "title": "Pipeline Engineer",
+            "category": {
+                "label": "Energy, Oil & Gas Jobs",
+                "tag": "energy-oil-gas-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tecnicas Reunidas"
+            },
+            "description": "Técnicas Reunidas is a world-leading international general contractor engaged in the engineering and construction of industrial facilities in the fields of Oil & Gas, Petrochemicals, Power Generation, Energy Transition, Infrastructures and industries, etc. Tecnicas Reunidas has worked and built all over the world, in 60 countries of the 5 continents. Professionals with relevant design experience in the industry sectors of Oil & Gas, Refinery, Power Plant, and Petrochemical and having good knowl…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5548128742",
+            "salary_is_predicted": "0",
+            "latitude": 13.06041,
+            "redirect_url": "https://www.adzuna.in/land/ad/5548128742?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=6F986231A5287F057AE727F940D65465B5D69742",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEyODc0MiIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.no8SkGqGNHwUm1HjNt8ykWGGaSDb3YymLpuSLkluqKU"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5539002107",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAwMjEwNyIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.WPL165yCl_o-yhdc9GxVb732cHW3ysNyDoZZiANfwug",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539002107?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=C0BA1C7F4943B0AEF544E8BF3D89B7AA585CA174",
+            "title": "Animator I- Interactive",
+            "created": "2025-12-12T09:45:46Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "description": "Job Overview The Animator I will join our team-oriented group of people in the Interactive Game Development Department. The ideal candidate will work with a group of Artists, Engineers, and Game Designers to create both online first content and port AGS’ proven land content to online. Responsibilities Create graphic compositions/layouts, motion graphic animations, marketing content, menus, UI and button templates Brainstorm and conceptualize ideas (including producing quick concepts/storyboards…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AGS - American Gaming Systems"
+            },
+            "category": {
+                "label": "Creative & Design Jobs",
+                "tag": "creative-design-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5517264953?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=FC53DE42D9DEF27923285E9134CEA95A6F1C8B5D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTE3MjY0OTUzIn0.z0_zKaNcSlIxklOVTSquT3sO7jlBgSin3Km4FHM0Uk0",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5517264953",
+            "latitude": 13.06041,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Modulus Housing"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "manufacturing-jobs",
+                "label": "Manufacturing Jobs"
+            },
+            "description": "Job Title: Project Design Lead – (Modular Construction) Location: IITM Research Park, Chennai Department: Engineering  Operations Type: Full-Time, Onsite Join a Team Engineering the Future of Construction: Modular Building Technology (MBT) About Us We are revolutionising construction through Modular Building Technology (MBT) — where factory-born precision meets the simplicity of LEGO-like on-site assembly. Our mission is to create intuitive, resilient, scalable spaces built with the speed and c…",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 80.24963,
+            "created": "2025-11-28T09:43:13Z",
+            "title": "Project Design Lead – (Modular Construction)"
+        },
+        {
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana"
+            },
+            "longitude": 78.50806,
+            "created": "2026-01-01T08:39:16Z",
+            "title": "React Developer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "display_name": "Nemetschek Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Energy Context Front-end engineer who builds our Energy Management System (EMS), an interoperable, Energy Management B2B SaaS that centralises energy operations to quickly make and communicate energy-related decisions. Through our platform, energy professionals measure, understand, optimise and report energy use, costs and emissions avoiding managing buildings manually and individually. Some of the challenges we tackle involve data visualizations, interacting with the internal APIs, extensible …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5561942220",
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5561942220?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=D91B0FAB13BC3845FFCE48EBE91F84C1F4D53AB4",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTYxOTQyMjIwIn0.09lpWEpRHdMqTT8rrtRKJKV3-2AXnoJiXNlppAH_soM"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5556103346?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=3CDD612AE0EF2B1CBB9E1931A4B915181F102CEB",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NjEwMzM0NiIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.PbJf_hjRkd3_Z1peGAF-aukYJioHh5sjGU9kadEAQ3s",
+            "latitude": 17.40275,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5556103346",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Accelyst, LLC"
+            },
+            "description": "About Accelyst is an innovative AI consultancy that leverages a unique catalog of industry-specific AI agents and leading-edge platforms to deliver secure, scalable, and ROI-optimized solutions. We combine deep industry knowledge with advanced technical expertise to rapidly deploy AI-driven capabilities that augment and automate workflows for employees, customers, prospects, and investors. Why Accelyst? Join Accelyst to be part of a dynamic team that leverages AI-driven technology to make a pos…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "title": "Senior UI/UX Engineer (Designer  Front-End Developer)",
+            "created": "2025-12-26T08:38:06Z",
+            "longitude": 78.50806
+        },
+        {
+            "id": "2946430224",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiIyOTQ2NDMwMjI0In0.0AdcVvJpSo9TjccVUAamcNwNKfqBbPiPyBPMDJY0FNI",
+            "salary_min": 600000,
+            "redirect_url": "https://www.adzuna.in/details/2946430224?utm_medium=api&utm_source=d58ac19b",
+            "created": "2022-03-05T05:06:24Z",
+            "title": "Front End Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "description": "We are looking for a front end engineer who has good knowledge of angular and react. Knowledge of fintech will be an advantage. Skills:- AngularJS (1.x), Javascript, NodeJS (Node.js) and React.js",
+            "salary_max": 900000,
+            "company": {
+                "display_name": "Ezysplits",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "title": "Front End Engineer",
+            "created": "2025-11-17T23:12:35Z",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "description": "About SAIGroup SAIGroup is a private investment firm that has committed $1 billion to incubate and scale revolutionary AI-powered enterprise software application companies. Our portfolio, a testament to our success, comprises rapidly growing AI companies that collectively cater to over 2,000 major global customers, approaching $800 million in annual revenue, and employing a global workforce of over 4,000 individuals. SAIGroup invests in new ventures based on breakthrough AI-based products that …",
+            "company": {
+                "display_name": "JazzX AI",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5500618894",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMDYxODg5NCIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.rtJkzu_yA0-AC_2jMuCIWl_p8x-Qe7AUnV_G9xUPMP0",
+            "redirect_url": "https://www.adzuna.in/details/5500618894?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "created": "2025-06-27T05:53:23Z",
+            "longitude": 72.8467,
+            "title": "Front End Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai",
+                    "Nagardas Road"
+                ],
+                "display_name": "Nagardas Road, Mumbai"
+            },
+            "description": "Job Description: If you are interested to be part of a dynamic social startup that works towards serving the common good and will not just change India for the better but also make “giving back” more inclusive and fun, then Impact Guru is the right place for you. The role is a full time role based out of our Mumbai office. Job Responsibilities: At Least 3 years experience as a Front End Engineer. Strong coding experience of Java Script, with knowledge of how to structure large Java Script appli…",
+            "company": {
+                "display_name": "Impact Guru",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5270468244",
+            "salary_is_predicted": "0",
+            "latitude": 19.11645,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1MjcwNDY4MjQ0In0.SD1pGJ5FKst_PYexlwNtmsfKsZTNTQ5JzavRE7yPvzk",
+            "redirect_url": "https://www.adzuna.in/details/5270468244?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "description": "We're Genskill an ed-tech startup looking to change the way engineering education is taking place in India and the world. If you feel that your B.Tech degree was a waste, this is your chance to get revenge. Our company is run by industry veterans (members of the Python Software Foundation, MBA from UC Berkeley) and we're really crushing it. We're looking for a front end developer for our company to help with creating a slick modern web front end. The job requires experience with the javascript …",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Lycaeum",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Front End Engineer",
+            "longitude": 75.81366,
+            "created": "2024-07-31T03:11:58Z",
+            "location": {
+                "display_name": "Kozhikode, Kerala",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Kozhikode"
+                ]
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI0ODAxNTEyMzQxIn0.kEoZTJa0rrmfGUB9Mp0f4gRQtaoHEx3z9f4iLLaIuT4",
+            "redirect_url": "https://www.adzuna.in/details/4801512341?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 11.16223,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "4801512341",
+            "contract_time": "full_time"
+        },
+        {
+            "title": "Front-end Engineer",
+            "description": "As front-end engineer, you’ll be responsible for end-to-end development of products and services that align with business objectives. Work Culture Grow your skills, experiment with cutting edge technologies and tools An environment that encourages creative thinking and limits red tape Collaborate with fellow engineers, product management, clients and end users Execute responsibilities effectively and honestly Skills and Experience Minimum 5 years of javascript development experience In-depth un…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": 1860248218,
+            "redirect_url": "https://www.adzuna.in/details/1860248218?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 73.84735,
+            "created": "2020-12-04T03:39:08Z",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Eloquent Studio Private Limited"
+            },
+            "salary_max": 800000,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "latitude": 18.5062,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOjE4NjAyNDgyMTh9.rGaQNqxDMxhDZvNAUrElFsQgmnzw0UzjovFpeD9Of7E",
+            "salary_min": 0
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "created": "2019-06-05T21:12:10Z",
+            "title": "Front End Engineer",
+            "salary_max": 800000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Full Throttle Labs"
+            },
+            "description": "FullThrottle Labs is looking for a Senior Front End Engineer who is passionate about React and building high quality user experiences. We believe in ownership and are looking for people driven to continuously ship new, impactful features and capabilities for our users. You'll be responsible for: - Architecting and building simple and easy to use UIs in React - Working with product and design to creatively solve complex problems - Driving conversations for conceptualising new interfaces and solu…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": 1171507636,
+            "redirect_url": "https://www.adzuna.in/details/1171507636?utm_medium=api&utm_source=d58ac19b",
+            "salary_min": 400000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTcxNTA3NjM2LCJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSJ9.ABLu6w7uMMlYM9Ng7lbSfHJv7gxL4xmKIlHu8qKQDmE"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "4801393032",
+            "latitude": 19.00821,
+            "redirect_url": "https://www.adzuna.in/details/4801393032?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTM5MzAzMiIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.FI5AY08N5jWFAcGoNcJ8SMgNhTejPz-uA3qV6pS6r8c",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "created": "2024-07-31T03:02:14Z",
+            "longitude": 72.84415,
+            "title": "Front-end engineer",
+            "company": {
+                "display_name": "cleartrip",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "description": "We are an online travel company looking for HTML, CSS & Javascript fanatics who are also design enthusiasts. Why does a travel company need front-end engineers you ask? Well, because we like designing and developing all our products in-house to ensure what we call front-end goodness. Our suite of travel products attempts to change the way individuals and businesses buy travel and how airlines, hotels and agents sell it. We aim for our products to be exceptionally designed, super-responsive and …"
+        },
+        {
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5540067021",
+            "redirect_url": "https://www.adzuna.in/details/5540067021?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDA2NzAyMSIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.XpZUfjpSIqynCD0Ttv-AP_2cVvYw6_nFBWqLFpYgbfk",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "created": "2025-12-13T00:48:17Z",
+            "title": "Front End Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ahead"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "description": "AHEAD builds platforms for digital business. By weaving together advances in cloud infrastructure, automation and analytics, and software delivery, we help enterprises deliver on the promise of digital transformation. At AHEAD, we prioritize creating a culture of belonging, where all perspectives and voices are represented, valued, respected, and heard. We create spaces to empower everyone to speak up, make change, and drive the culture at AHEAD. We are an equal opportunity employer, and do not…"
+        },
+        {
+            "company": {
+                "display_name": "Engazify",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 600000,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "longitude": 73.84735,
+            "created": "2019-06-05T21:12:28Z",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOjExNzE1MDk2NjN9.NZLDpIRRqNyuTx9cnXMmiMIgbqga5qwS9LHHqMmJ_QE",
+            "salary_min": 300000,
+            "latitude": 18.5062,
+            "contract_time": "full_time",
+            "description": "We are looking for a talented front-end web engineer who is passionate about technology & user experience and wants to build world class products. You will be joining Engazify's core team and working along side the founders. As part of this profile, you will lead the design and development of our bot, website, and the web application product while working alongside other front-end and back-end engineers. If you have the attitude & high energy level along with an unmatched passion to build great…",
+            "title": "Front-End Engineer",
+            "redirect_url": "https://www.adzuna.in/details/1171509663?utm_medium=api&utm_source=d58ac19b",
+            "id": 1171509663,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": 1171507860,
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTcxNTA3ODYwLCJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSJ9.VxB1SbXdTsuPLyoIA1BBaVrHips2hU946oDZ5yzJAwU",
+            "redirect_url": "https://www.adzuna.in/details/1171507860?utm_medium=api&utm_source=d58ac19b",
+            "salary_min": 1500000,
+            "title": "Front End Engineer",
+            "created": "2019-06-05T21:12:12Z",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "description": "At NerdWallet, we are passionate about building delightful user experiences and creating consumer products that impact millions of users. We are looking for talented Senior Front End Engineers who will help us innovate and shape our products and services as we expand into new verticals. Our engineers are dedicated to changing how consumers interact with their finances and work in partnership with product owners and designers to evolve our product into a clean and seamless experience. Along with…",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_max": 4000000,
+            "company": {
+                "display_name": "NerdWallet",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjAyMDQ2NiIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.WrGazrlrG8ZKrSUuZN9iGopqX8NAw7303Mm6Qmt29LI",
+            "salary_min": 500000,
+            "redirect_url": "https://www.adzuna.in/details/4992020466?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "4992020466",
+            "contract_time": "full_time",
+            "description": "Hiring For Front-End Engineer - I / II / III Radical is a platform connecting data, medicine and people  through machine learning, and usable, performant products. Software has never been the strong suit of the medical industry  and we are changing that. We believe that the same sophistication and performance that powers our daily needs through millions of consumer applications  be it your grocery, your food delivery or your movie tickets  when applied to healthcare, has a massive potential to …",
+            "salary_max": 1000000,
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Radical HealthTech"
+            },
+            "created": "2024-12-30T12:10:36Z",
+            "title": "Front End Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Delhi"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Delhi, India"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5527581051?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI3NTgxMDUxIn0.xIKAaxF7TNL8fM7XlRTWYqXeUixHGKglk_6FEigElo0",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5527581051",
+            "latitude": 18.503,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Signify"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "Job Title Front End Engineer Job Description We’re looking for Frontend Developer with expertise in Angular 18 team in Pune. Working for Signify – Horticulture Business unit in signify means being creative and adaptive. Our culture of continuous learning and commitment to diversity and inclusion creates an environment that allows you to build your skills and career. Together, we’re transforming our industry. As the world leader in lighting, we’re constantly ahead of the curve. Through our leade…",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune",
+                    "Koregaon Park"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Koregaon Park, Pune"
+            },
+            "longitude": 74.1577,
+            "created": "2025-12-04T22:55:23Z",
+            "title": "Front End Engineer"
+        },
+        {
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Front End Engineer",
+            "created": "2019-06-05T21:12:17Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_max": 3000000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rippling.com"
+            },
+            "description": "Rippling is a Y-Combinator company with an engineering center in Bangalore. We are revolutionizing the HR industry by creating a platform of a seamless experience between companies and employees. We are building our core team in Bangalore and looking for skilled engineers to join us. Most of our engineering team comes from strong technical companies like Google, WalmartLabs, Facebook, Directi, and Microsoft, have had their own startup in the past. Purpose & Impact of your role: You will be resp…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": 1171508415,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/1171508415?utm_medium=api&utm_source=d58ac19b",
+            "salary_min": 1500000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOjExNzE1MDg0MTV9.3qfsLyJlYMfdvBc1wxAzQ5JWaqEWcGEgQYMSOI3_VMU"
+        },
+        {
+            "created": "2024-07-31T03:21:46Z",
+            "longitude": 72.59465,
+            "title": "Front End Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Ahmedabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ahmedabad, Gujarat"
+            },
+            "description": "We are looking to hire more Front-End Developers right now. If you’re a talented Front-End Developer, a self-starter interested in solving real-world problems, we may be the perfect place for you to come and do the best work of your life. We are pushing the boundaries of problem-solving and modern user interaction to transform an extremely complex industry making it simpler, human, more efficient and transparent. You will be joining us on the ground floor so this is a high impact opportunity. Y…",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Shipmnts"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "4801660801",
+            "salary_is_predicted": "0",
+            "latitude": 23.042,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTY2MDgwMSIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.df8-76fI0_ZlF867qe0RJlUsKeIRGwypyWvMm5C8Tmo",
+            "redirect_url": "https://www.adzuna.in/details/4801660801?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "title": "Front-end Engineer",
+            "created": "2025-08-16T17:21:59Z",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "About doola doola is a dynamic company committed to simplifying the complexities of business formation, payment setup, compliance, taxes, and more. We empower entrepreneurs and businesses of all sizes to navigate the intricate landscape of financial and regulatory requirements with ease, allowing them to focus on what truly matters - building and growing their ventures. About the Role Do you remember the thrill and further delight that you got from solving your first problems by programming a s…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "doola"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5355220451",
+            "contract_type": "contract",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1MzU1MjIwNDUxIn0.gEFZAjA5vVJ1rBIeWXnwJ4GoVx9wz1AM-6codCvDud8",
+            "redirect_url": "https://www.adzuna.in/details/5355220451?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "title": "Front End Engineer",
+            "created": "2024-07-31T03:03:46Z",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Position Overview The front end developer will work in a team environment in the design and execution of web and mobile products. We are looking for a self-starter who is excited to lean and improve his skill set in the ever-evolving medium of the web. Ideal candidate is a creative thinker with experience in user experience definition and user interface design. Responsibilities Collaborating with our designers & developers to make highly quality products on the Web Working with the peer develop…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "display_name": "Zimply",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "4801413537",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTQxMzUzNyIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.Fix2vl4lM0g0Xp-byRTBHDKIaeaGlP0jyjau60SpPwI",
+            "redirect_url": "https://www.adzuna.in/details/4801413537?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5549503111?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=B8CB67E47D4909FC660C062B9008C58F52790D6D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTUwMzExMSIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.P5A7qSxLrtarGaNp0IsySzU49MqYpr9mKSt7UU7L_Mk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5549503111",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Snapmint",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "description": "About Snapmint Snapmint is on a mission of democratising no/low-cost instalment purchases for next 200 Mn Indians. Of the 300 million credit eligible consumers in India, less than 30 Mn actively use credit cards. Snapmint is reinventing credit for the next 200 Mn consumers by providing them freedom to buy what they want and pay for them in instalments without a credit card. In a short period of time Snapmint has reached over a million consumers in 2200 cities and has powered over 2000 crores wo…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Senior Software Engineer III",
+            "created": "2025-12-20T09:06:42Z"
+        },
+        {
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5559712534",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5559712534?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=BC0A37965A03F9660BCF8B1CD455AAAD7F929DFA",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1OTcxMjUzNCIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.OWWGzupwsGA7YubcaU5ctY3iHVwo_VW62lHKIYNGqFY",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "created": "2025-12-30T10:25:21Z",
+            "title": "Frontend Developer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Adapts"
+            },
+            "description": "About the Role Define information architecture and navigation structure; standardize layout, theming, typography, spacing, and responsive breakpoints. We’re looking for a UX-focused Front-End Engineer to own the coherence of our Next.js SaaS platform from information architecture and navigation to visual design tokens and component libraries. You’ll work across engineering to define scalable patterns and deliver production-grade UI built with React, Next.js, and TypeScript. Expect fast build–me…"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5530551286",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MTI4NiIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.9ICghFJ7FwaepHbzwTTbdehtbZUBwYLRe88Y_MkVWPE",
+            "redirect_url": "https://www.adzuna.in/land/ad/5530551286?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=52D72C44F19374006FE0202DB3FE7BD784E4AD3A",
+            "title": "Principal Engineer (RoR)",
+            "created": "2025-12-06T09:35:44Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "description": "Xurrent Principal Engineer Mission of the position Xurrent, Inc. (“Xurrent”) designates a Principal Engineer. The Principal Engineer at Xurrent will be a key contributor to the development of our cutting-edge web application. Leveraging your expertise in Ruby on Rails, you will lead the design, development, and deployment of high-quality software solutions. Reporting to the CTO, your mission will be to drive technical excellence, mentor junior engineers, and collaborate with cross-functional te…",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "display_name": "Xurrent",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5538486468?se=ds8uyNDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=88F2F475A378D5DE0F6C774E993E485215E00B37",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTM4NDg2NDY4In0.pOFv5FYVw-tLWUUYayPKNLm78lA2Iu3jC4DNOp9Z-d4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5538486468",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Zenduty"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "Brand Design Manager Mission of the Position Xurrent, Inc. (“Xurrent”) is hiring a Brand Visual Designer. The Brand Visual Designer will play a key role in defining and elevating the visual identity of the Xurrent brand. Your mission is to build and maintain a cohesive, modern, and scalable brand system that strengthens Xurrent’s presence across product, marketing, and employer branding touchpoints. Reporting to the Head of Marketing - India, you will craft visuals that communicate clarity, tru…",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Brand Design Manager",
+            "created": "2025-12-12T02:12:19Z"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "display_name": "Mitti Labs",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About Mitti Labs: Mitti Labs is a climate-tech startup dedicated to transforming the rice industry by supporting smallholder farmers in adopting sustainable practices. Our mission is to bring AI and satellite technology into traditional rice farming, reducing methane emissions while improving farmer livelihoods. Backed by NASA-supported science and a strong ecosystem of partners, we work with global corporations to help them achieve their net-zero goals through verified, high-quality carbon cre…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "created": "2025-11-05T04:21:31Z",
+            "title": "Senior Front-End Engineer",
+            "redirect_url": "https://www.adzuna.in/details/5481203984?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MTIwMzk4NCIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.X6_nAPwwrq_pg5u55DE29AvwEwZ5x7BFB-JDT2npo54",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5481203984"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ISS STOXX"
+            },
+            "description": "Let’s be BrilliantTogether ISS STOXX is actively hiring a Senior Front End Engineer for Mumbai (Goregaon East) location. Overview: Join our dynamic Data Products team as a Senior Front-End Engineer , where you'll play a key role in building and maintaining ISS DataDesk —a cutting-edge screening and analytics platform for environmental, social, and governance (ESG) data. You’ll collaborate with cross-functional teams to deliver high-impact software using modern technologies and development pract…",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "longitude": 72.84415,
+            "created": "2025-12-13T00:39:16Z",
+            "title": "Senior Front-End Engineer",
+            "redirect_url": "https://www.adzuna.in/details/5539999640?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTk5OTY0MCIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.amKmmFvPknys-TDpxVy-a5J1OuJXIJjrnyMJ641G5VY",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5539999640",
+            "latitude": 19.00821
+        },
+        {
+            "description": "Rejolut is one of the award-winning fastest-growing emerging tech company which is working on leading technology like Blockchian, ML & AI, Complex mobile & web apps, IoT etc. The ideal candidate will be responsible for developing highly scalable and secure code. Responsibilities:- -Able to take the Extreme Ownership of modules/product/projects -Can handle calls with the client & customer to know their feedback -Build pixel-perfect, buttery smooth UIs across both mobile platforms. - Maintain pro…",
+            "title": "Lead Front-end Engineer",
+            "redirect_url": "https://www.adzuna.in/details/2684338367?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "2684338367",
+            "salary_max": 1600000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rejolut"
+            },
+            "location": {
+                "display_name": "Navi Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ]
+            },
+            "created": "2021-11-27T02:42:01Z",
+            "longitude": 73.02,
+            "salary_min": 400000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjY4NDMzODM2NyIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.8UWXeOXzeYWC6WnI8GBHt_lBkEYeNATgphgkxato5fw",
+            "contract_time": "full_time",
+            "latitude": 19.02
+        },
+        {
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "longitude": 80.24963,
+            "created": "2024-12-14T13:06:52Z",
+            "title": "Junior Front-end Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Koolioai"
+            },
+            "description": "About koolio.ai Website : www.koolio.ai koolio Inc. is a cutting-edge Silicon Valley startup dedicated to transforming how stories are told through audio. Our mission is to democratize audio content creation by empowering individuals and businesses to effortlessly produce high-quality, professional-grade content. Leveraging AI and intuitive web-based tools, koolio.ai enables creators to craft, edit, and distribute audio content—from storytelling to educational materials, brand marketing, and be…",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "4977629260",
+            "latitude": 13.06041,
+            "redirect_url": "https://www.adzuna.in/details/4977629260?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI0OTc3NjI5MjYwIn0.WDoWt5jDGOcG8txIiCMrBt805n5gFk-FFZ0UypHwFJM"
+        },
+        {
+            "description": "Description The Role & Responsibilities Design, develop, test, deploy, maintain and improve software in the area of Distributed side. Manage individual project priorities, deadlines and deliverable. You will work closely with other technology teams and internal end users to deliver solutions that drive a variety of trade businesses. Optimize application for maximum performance, scalability and high availability. Ensure the technical feasibility of UI/UX designs. Turn design mock-ups into great …",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "display_name": "Photon Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Front-end Engineer - India",
+            "created": "2024-11-11T17:19:06Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkzNDM5NDU1NiIsInMiOiJkczh1eU5EbThCR3RmWjF0Yk5PLVNBIn0.x4znvayzbprxC_X0PlQ-W35gh39egFjG5q8w9_2KvwQ",
+            "redirect_url": "https://www.adzuna.in/details/4934394556?utm_medium=api&utm_source=d58ac19b",
+            "id": "4934394556",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Senior Front End Engineer",
+            "description": "About Freespace (a.k.a. Workplace Fabric) Workplace Fabric develops solutions that makes workplaces intelligent. Our solutions help increase productivity of office workers while helping to lower the cost of real estate. Our Flagship product Freespace is installed in over 40 cities around the world and serves over 30,000 people every day. Starting with the first deployment in March 2016 we have rapidly grown with our solution being rolled out globally while continuing to stay cash positive. With…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": 2140097002,
+            "redirect_url": "https://www.adzuna.in/details/2140097002?utm_medium=api&utm_source=d58ac19b",
+            "created": "2021-04-25T11:35:58Z",
+            "longitude": 72.84415,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "salary_max": 1200000,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "display_name": "Workplace Fabric Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "latitude": 19.00821,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOjIxNDAwOTcwMDJ9.w_gHlZ-VgBaXcRWPeaaSzDo3EEGl_BBn5jQYi7fBPW8",
+            "salary_min": 700000
+        },
+        {
+            "created": "2020-04-22T20:40:55Z",
+            "longitude": 80.24963,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "salary_max": 1800000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Intelizest Consulting"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": 13.06041,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOjE1MjY5ODY0NDN9.fKzxScyX9mpQYX7Ot89-VhrNHIY9DYD2n6B-hsj_7Jk",
+            "salary_min": 1100000,
+            "title": "Sr Front End Engineers",
+            "description": "MS or BS in Computer Science or equivalent 9 years (or more) experience shipping quality code 4 years’ experience with leading frontend frameworks like Angular 1 to 8 or ReactJS, etc. Experience on Ionic Framework, Cardova Experience contributing front-end code to a publicly available, consumer-focused web application. Solid experience and understanding of HTML5, CSS3, and Javascript (vanilla JS and popular libraries like Underscore.js and jQuery) Experience with REST-based API Skills:- Angular…",
+            "id": 1526986443,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/1526986443?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5326564006?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5326564006",
+            "salary_is_predicted": "0",
+            "description": "Senior Front-End Developer Work Setup: Full-Time Work Location: Remote or Hybrid (Mumbai, India) Salary - INR 20-36 LPA About Stamina.io: Stamina.io is a fully-bootstrapped, AI-powered sales engagement and marketing automation platform built specifically for digital agencies. We integrate lead generation, CRM, and outreach tools into a unified platform that empowers agencies to scale efficiently. As we continue to grow, we’re looking for passionate team members who thrive in fast-paced, innovat…",
+            "title": "Senior Front End Engineer",
+            "salary_min": 2000000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZHM4dXlORG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1MzI2NTY0MDA2In0.IvMy99Jm-WSAOhWwMYsE4jMMRIkBbEIKzgKPx7aqkJE",
+            "contract_time": "full_time",
+            "latitude": 19.00821,
+            "salary_max": 3600000,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "display_name": "Stamina Hire",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "longitude": 72.84415,
+            "created": "2025-07-29T17:09:25Z"
+        }
+    ]
+}

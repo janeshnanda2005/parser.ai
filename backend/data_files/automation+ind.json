@@ -1,0 +1,1454 @@
+{
+    "mean": 1253882.45,
+    "count": 4206,
+    "results": [
+        {
+            "company": {
+                "display_name": "Best Infosystems Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "description": "MDM_ Automation engineer_Full-Time_Bangalore/Pune/Navi Mumbai/Noida/Hyderabad/Chennai Job Title: MDM_ Automation engineer Job Type: Full-Time Location: Bangalore/Pune/Navi Mumbai/Noida/Hyderabad/Chennai Experience: 8-10 years Job Description: Basic Skill Sets : • Core Java • Selenium • Basic knowledge of bBot Framework We are seeking a skilled Automation Engineer with expertise in Java and Selenium to join our team. The ideal candidate should have a strong background in developing and maintaini…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Automation Engineer",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5510937284?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=15B4DCB8EB6B89B840504CACFC6FB62DA6F9044C",
+            "created": "2025-11-24T07:14:18Z",
+            "id": "5510937284",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTEwOTM3Mjg0In0.0W-hnDS7GdHYiYKkwvmUQ5KhGOvwbSrli8_m8XwoTaM",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "company": {
+                "display_name": "QualityKiosk Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Hi, we are looking for automation engineer with 1 to 5 yrs of experience in Katalon. Location :Mumbai work from office. If interested, please send your resume at manish.ahirwar-qkct@qualitykiosk.com Regards, Manish Ahirwar 9167376688",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Automation Engineer",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5539006327?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=5935980C291DD34C4CE284A90D5B97CFFA963242",
+            "id": "5539006327",
+            "created": "2025-12-12T09:48:21Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM5MDA2MzI3In0.nkn1MmbcfHT2370OqTFU32Z0Ngbv9qYpAaoV9s07sAY",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Immediate Hiring – Automation Test Engineer  Work Location: Madurai  Interview Mode: Face-to-Face in Chennai  Interview Date: 13th December  Employment Type: Full-time  Experience Required: 5 years Role Overview We are seeking an experienced Automation Test Engineer with strong expertise in Playwright , Selenium , and REST Assured . The ideal candidate will design and implement robust automation frameworks for web and API testing, ensuring high-quality software delivery. Key Responsibilities De…",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "HCLTech",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 78.1158,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM3MzgxOTg0In0.65SjLeC3RR7Gf82CQmbKmO2dD2n0YXO42X5gzuYYeDI",
+            "id": "5537381984",
+            "created": "2025-12-11T09:26:05Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537381984?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9DC2FA3E77A2D5E742A280DDDD8CE772BB09055F",
+            "latitude": 9.91051,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Madurai"
+                ],
+                "display_name": "Madurai, Tamil Nadu"
+            },
+            "title": "Automation Engineer"
+        },
+        {
+            "created": "2025-12-07T10:24:52Z",
+            "id": "5532101091",
+            "redirect_url": "https://www.adzuna.in/land/ad/5532101091?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4B25C1F0FACA5E591CB4862EED3B5D4D3678176D",
+            "longitude": 72.84415,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTMyMTAxMDkxIn0.zu1GHcsEveRpmBNB1kUXBAmsxNJAA0mSkAAyCyvrv20",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Automation Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "latitude": 19.00821,
+            "description": "Hi, Looking for Automation Engineer Location: Mumbai work from office. Notice period Immediate to 15 days. Skills : Playwright Mandatory Java- Mandatory Selenium Mandatory. Below is the Job Description: Collaborates with project stakeholders (e.g., Developers, product managers, and business analysts) Design & Execute test cases for a complete feature or functionality Performs automation for the application features tested Creates Test Data for the required automation scripts Maintains test exec…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "QualityKiosk Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "latitude": 18.5062,
+            "title": "Automation Engineer",
+            "longitude": 73.84735,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI4MDEzMDMxIn0.ICa2iwocCi-npAlrvy_8-P5nPV0JvPkNkZYqtcS2ERk",
+            "created": "2025-12-05T01:29:03Z",
+            "id": "5528013031",
+            "redirect_url": "https://www.adzuna.in/land/ad/5528013031?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=20213CCF3D18E1B32C973F6AE6B0A93C5D2BB346",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Persistent Systems",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "About Position: We are looking for an experienced Playwright automation engineer who can Develop and maintain automated test scripts using Playwright for web applications. Role: Automation Engineer Location: Pune/Mumbai Experience: 5 to 8 years Job Type: Full Time Employment What You'll Do: Develop and maintain automated test scripts using Playwright for web applications. Collaborate with QA, development, and product teams to ensure quality standards. Integrate automation scripts into CI/CD pip…"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5561942348?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=1BC46C10C82F43D5977D9212106753CEE0F9824E",
+            "created": "2026-01-01T08:39:19Z",
+            "id": "5561942348",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0MjM0OCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.OFAMp2Xd24kxh1qmI4olPUZSPuLNpviS33TF3Y5GJg4",
+            "title": "Automation Engineer",
+            "contract_type": "permanent",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "description": "Important Note (Please Read Before Applying)  Do NOT apply if: You have less than 4 years of PLC & Automation Engineer experience. You do not have hands-on HMI / SCADA experience. You are on a notice period longer than 15 days. You are looking for remote only (role is hybrid in Bangalore ). You are a fresher or from unrelated backgrounds (e.g., Java-only, Testing-only, Support). ✅ Apply ONLY if you meet ALL criteria above. Random / irrelevant applications will not be processed. Job Title: PLC &…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "People Prime Worldwide",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Brace Infotech Private Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Now Hiring: Junior Automation Engineers (4-6 Years Experience) Work Locations : Hyderabad | Work Mode: Hybrid About the Role: We are seeking an experienced Automation Tester to join our quality assurance team. The ideal candidate will have a strong background in automation testing with Selenium , along with hands-on experience in API testing and SQL . This position offers an excellent opportunity to work on high-impact projects in a collaborative environment. Key Responsibilities: Design, devel…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Automation Engineer",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5553869538?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=54D535549606B8266A1EC1B9122973D076A66407",
+            "id": "5553869538",
+            "created": "2025-12-24T10:16:21Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTUzODY5NTM4In0.kemrNBR8WOTQGsWaioyDNpbBBu9t2lvRAY_YrJf622Q",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "longitude": 78.50806
+        },
+        {
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Role: QA Automation Engineer Python/java ) Desired Experience Range: 06 - 8 yrs Location of Requirement: Chennai We are currently planning to do a Walk-In Interview on 20 th December 2025 (Saturday) at TCS Chennai. Date – 20 th December 2025 (Saturday) Venue - Tata Consultancy Services Limited, 415/21-24, Old Mahabalipuram Road, Kumaran Nagar, Sholinganallur, Chennai, Tamil Nadu, 600119 Job Description: Must Have Experience: API Testing, testing automation frameworks, SQL, Python, Shell scripti…",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ]
+            },
+            "latitude": 13.06041,
+            "title": "Automation Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2NTY0MzUyIn0.NvWashVEeFdoIoI_xXkmp7kPP96EUNtczzt8dVwmFoo",
+            "longitude": 80.24963,
+            "redirect_url": "https://www.adzuna.in/land/ad/5546564352?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4890800266DF2459227D5545366B376A01C62BFE",
+            "created": "2025-12-18T08:39:39Z",
+            "id": "5546564352"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Solo Work Inc"
+            },
+            "contract_time": "full_time",
+            "description": "Company Description Solo Work Inc. is pioneering an agentic operating system where digital staff independently perform tasks such as reading, reasoning, coordinating, and executing work across modern business systems. Unlike traditional assistants or rule-based automation, Solo’s agents adapt to user intent , take action across interconnected workflows, learn how to use tools independently , and coordinate with each other to execute work end-to-end . These agents operate with contextual awarene…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Automation Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "created": "2025-12-22T12:13:30Z",
+            "id": "5551666150",
+            "redirect_url": "https://www.adzuna.in/land/ad/5551666150?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=10E3505860364C99AFCED9C485D279843E7CD37D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MTY2NjE1MCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.d9ifoFPnouLL9pQwRHcnbluhYnT1l6ePla7QCP1Glms",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "description": "About the Role: We are seeking a highly skilled Python Automation Test Engineer to join our Quality Engineering team. The ideal candidate will have hands-on experience in designing, developing, and executing automated test scripts for web and API applications. This role requires a strong foundation in Python, a good understanding of testing frameworks, and a passion for ensuring software quality through automation. Key Responsibilities: Design, develop, and maintain automated test scripts using…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "RightRev"
+            },
+            "id": "5544189050",
+            "created": "2025-12-16T18:11:34Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5544189050?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=81104E5F0D580B7B68BE88ECF47A1F12BDD81BAC",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ0MTg5MDUwIn0.tsAT5AufTsvoRfoYYO8hpYgUSjAmuOc-Y0bTiOu3t9c",
+            "longitude": 80.24963,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "title": "Automation Engineer",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 13.06041
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Eximietas Design: Eximietas Design is a leading technology consulting and solutions development firm specializing in Chip design, Firmware & Embedded Software development, Cloud Computing, Cybersecurity, and AI/ML domains. Our success is anchored in the unparalleled expertise of our engineering leadership team, who have collectively taped out over 100 chips and released countless software solutions for renowned tech giants like Google, Cisco, Microsoft, Oracle, Uber, Broadcom, and Sun. Wi…",
+            "company": {
+                "display_name": "Eximietas Design",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MjI1OCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.FQpFDFhtFF8qf8MpblxPR-hgAIof64v0sK-Ef5X2x6Q",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537382258?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C05E8F567536924051626B3D5545B349C0FB49EE",
+            "id": "5537382258",
+            "created": "2025-12-11T09:26:20Z",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Automation Engineer"
+        },
+        {
+            "description": "Good-day, We have immediate opportunity for Playwrite testing. Job Role: Playwrite testing Job Location: Synechron ( Bengaluru) Experience- 7 to 12 years Notice : Immediate joiner . About Company: At Synechron, we believe in the power of digital to transform businesses for the better. Our global consulting firm combines creativity and innovative technology to deliver industry-leading digital solutions. Synechron’s progressive technologies and optimization strategies span end-to-end Artificial I…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Synechron"
+            },
+            "id": "5495124937",
+            "created": "2025-11-14T10:32:00Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5495124937?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=2770A5CAA53A5E134F1D82C645A4FF255B7D84BF",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDk1MTI0OTM3In0.uoXH8fImjcDW0b7p3NE2I4psFflCHkVyaIWM5bI0FLQ",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "Automation Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "description": "Engineer – Automation, Bangalore (On-Site) ENNOVI Mobility Solutions India Pvt Ltd 89A, Hosur Road | Electronics City | Bangalore | INDIA 560100 About Company At Ennovi we harness the power of two megatrends - electrification and AI - to help industries innovate at speed, operate smarter, and achieve sustainable growth. By combining these transformative forces with our global reach and best talent, we empower our customers to lead their markets and drive sustainable progress. From automotive to…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "ENNOVI",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5529804133",
+            "created": "2025-12-06T01:25:45Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5529804133?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=09FDA360C6516F4CD0AF9F10E80EF865247D6BBD",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI5ODA0MTMzIn0.FQ1dhxDSKNQfTjZs2FzotENZnTrjz23vpuGrjHY9wS4",
+            "title": "Automation Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MTgyNDM4MiIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.7e8fphfyBVOwdyxXY9ZNvDQvnOwptPwYix4rchXYCa8",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/land/ad/5541824382?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=59134CE178341F966C46BD8167226757F18B6056",
+            "created": "2025-12-14T10:27:28Z",
+            "id": "5541824382",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "title": "Automation Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "TCS is Hiring For Automation testing - Playwright Experience: 5 - 10 Location: Hyderabad Role : Playwright Enginee Skill : - Playwright automation framework - TypeScript programming - BDD frameworks (Cucumber or TestNG) (Interview Mode : Walk in Drive! -Date : 20-Dec-25(Saturday) Time : 9:30 AM - 1:00 PM Address :TCS - Hyderabad Tata Consultancy Services Synergy Park C9X3FH8, TCS Synergy park, Indian Immunologicals Colony, Gachibowli, Hyderabad, Telangana 500032 On- Venue SPOC - Vajapeyajula Ai…",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": " Hiring: Python Tester (2.8 – 3.5 Years Experience)  Location: Hyderabad | Hybrid  Notice Period: Immediate Joiners Preferred  Budget: Up to 12 LPA   Experience: 2.8 – 3.5 Years  Job Description – Python Tester We are looking for a skilled Python Tester with strong hands-on experience in Python-based testing. The ideal candidate should have minimum 1 years of relevant experience in Python testing , along with a solid understanding of test automation, scripting, and quality assurance practices. …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Brace Infotech Private Ltd"
+            },
+            "created": "2025-12-10T16:50:50Z",
+            "id": "5536064271",
+            "redirect_url": "https://www.adzuna.in/land/ad/5536064271?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=8BA3E7C6EED103211DE115BDF7D565B033D5DF90",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NDI3MSIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.EXZfRKiNIT4VNBjl1WUDg7k72QkyJR3VJf60NyPrD5I",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 78.50806,
+            "title": "Automation Engineer",
+            "latitude": 17.40275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "latitude": 17.40275,
+            "title": "Automation Engineer",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDkzMTA5NzM3In0.Au9r9fq6selJ_2-bWm0dmEjo--4JNaVGLAel3Eq7oTg",
+            "redirect_url": "https://www.adzuna.in/land/ad/5493109737?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=07140011B7940CE4AF7218A11359122E91F98DF0",
+            "created": "2025-11-13T11:08:26Z",
+            "id": "5493109737",
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Dear Technology Specialist, Greetings from Tata Consultancy Services! Thank you for your interest in exploring career opportunities with TCS. We are pleased to invite you to our Walk-in Drive for the position of Automation Testing scheduled on 6th Dec 2025 (Saturday). Skills: Automation testing, Selenium, Java Experience range 4 to 10 years Mode of interview - Face to face / In-person Interview Location: Chennai, Bangalore, Hyderabad, Kolkata. Date: 6th Dec 25 Time: 9AM-12:30 PM Job Description…"
+        },
+        {
+            "description": "This role will be in Automation group to support Global Operations Process Automation & deliver industry-leading solutions with speed and efficiency, while actively supporting the resilient and profitable growth. Eligibility Criteria: Years of Experience: Minimum 7 to 10 years Job Experience : Experience in Solution Design & development with Robotic Process Automation (RPA) Educational : BE/BTech or MTech: Computer Science Engineering or Engineering in similar stream from leading institutes. Pr…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Innover Digital"
+            },
+            "created": "2025-12-27T22:08:10Z",
+            "id": "5557298722",
+            "redirect_url": "https://www.adzuna.in/land/ad/5557298722?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=7A8DE4A6BBE68F92A5739DF8633D23E094121244",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NzI5ODcyMiIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.sQ34OfLIma_YuPowgzP0RI7Bf-tUtVuzGr0bS7YwQ-4",
+            "title": "Automation Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            }
+        },
+        {
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "latitude": 17.40275,
+            "title": "Automation Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjU5MzUyOSIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.RG3LbNLg9rkpuaNp6oW7sx07pDexe0gTgPXPFxP1vjg",
+            "id": "5546593529",
+            "created": "2025-12-18T08:44:03Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546593529?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4F54D1E785F70C91754C2D873D1264DC7931B85C",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Company Job Tittle: Automation Tosca About the Role Desired Experience Range: 7-10 years Location of Requirement: chennai / Hyderabad walk-in drive. 20th dec 25 Responsibilities Should have hands on experience in developing the automation playbooks in Ansible and terraform. Should have good understanding of IT Infrastructure /DC practice background – (Includes any 3 of Wintel/AD/Linux/VMware/Storage/backup/Database/network) Should have worked on Integration of Ansible with Service now…"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5548138794?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=7A9086EF82C05B52FC16263D442C019C2BFEA94E",
+            "id": "5548138794",
+            "created": "2025-12-19T08:59:44Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTM4Nzk0In0.nIrT8kOf0o7U6DOGxm16jMXonifmMWzfgeZsohdtSAs",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 73.84735,
+            "title": "Automation Engineer",
+            "latitude": 18.5062,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra"
+            },
+            "description": "Dear Candidate, Greetings from TATA CONSULTANCY SERVICES LIMITED Thank you for exploring career opportunities with Asia's largest IT company. Exciting  Job Opportunities for  Experienced Professionals Required Skill Experience- Automation Testing Experience Range 05Yrs to 10Yrs. Interview Location  Anywhere in India Work Location  Hyderabad Pune Bhubaneswar Date of Interview – 22nd December 2025 (Monday) Job Description- Minimum 4 years of Java / Selenium Automation Extensive experience working…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            }
+        },
+        {
+            "title": "Automation Engineer",
+            "contract_type": "contract",
+            "latitude": 13.06041,
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5548137546?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6111B492CEA88DFF6D843C5A77A49A6D7C4D2D8D",
+            "created": "2025-12-19T08:58:58Z",
+            "id": "5548137546",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTM3NTQ2In0.RRFJXsOoydal7Z8_rjwuQf88rQSAZQYnxcqkkbU7krg",
+            "longitude": 80.24963,
+            "company": {
+                "display_name": "Themesoft Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Title: Automation Tester Location: India- Remote Duration: Contract Job Description: QA tester with backend experience is responsible for ensuring the quality, performance, and security of a software application's server-side logic, APIs, and databases . This role involves testing beyond the user interface to validate data integrity, system functionality, and reliable data exchange between services. Key Responsibilities API Testing : Design, develop, and execute test cases for RESTful and G…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-12-11T09:26:28Z",
+            "id": "5537382510",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537382510?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4EF4A6B3CB747B387A016DA616D57A7B2333032B",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MjUxMCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.sYWml8DCbrDM7ZDPJD_hHvaJxiNHHbB3yVRxw9rV5T8",
+            "title": "Automation Engineer",
+            "latitude": 17.40275,
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Over 5 years proven experience as a Software Developer in Test, designing, implementing and recording test results through automation in large-scale data intensive platforms Strong experience in test case design, performing automation testing using python frameworks Proficiency in QA and Test Automation suites and technologies C# .NET,Selenium) Significant experience of MS-SQL or PostgreSQL, including data analysis, setup and execution of test scripts (e.g. Liquibase, Flyway) Proficiency in (C#…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mphasis"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Company Description Emrell Technologies Private Limited is a leading provider of engineering and software solutions specializing in industrial automation, custody transfer metering, instrumentation, electrical systems, and plant data reporting and analysis. Role Description Reviews Client's technical documentation and requirements. Defines engineering requirements. Prepares the technical documentation for instrumentation and systems requisitions and performs the technical evaluations. Optimizes…",
+            "company": {
+                "display_name": "Emrell Technologies Private Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 73.1924,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQwNjcyMTY1In0.V1BJj_FzvFJxdK5siGSrvRdDg8tO93KdWpk0PbRbs9I",
+            "created": "2025-12-13T09:39:15Z",
+            "id": "5540672165",
+            "redirect_url": "https://www.adzuna.in/land/ad/5540672165?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=13760D19724D5FF36F748645E7627548701CE12A",
+            "latitude": 22.2891,
+            "location": {
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Vadodara"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Vadodara, Gujarat"
+            },
+            "title": "Automation Engineer"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "TCS Hiring for Playwright Engineer Role  TCS presents an excellent opportunity for Playwright Engineer Role: Playwright Engineer Desired Experience Range: 6-8 years Location: Hyderbad/Chennai/Bangalore/Delhi/Pune Mode of Interview : Virtual Date: 24-12-2025 (Wednesday) Desired Competencies: (Technical/Behavioural Competency) Primary Skills: Playwright automation framework - TypeScript programming BDD frameworks (Cucumber or TestNG) - Web technologies (HTML, CSS, JavaScript) CI/CD tools (Jenkins…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "longitude": 78.50806,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ5NDk3NTkxIn0.2HQnvy8Yur_y5ged5Y5la9cQucKxWe2sJOgl1S1xJ8U",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549497591?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C7EF742C8E2DA9163693BEF56519849CE8887682",
+            "id": "5549497591",
+            "created": "2025-12-20T09:01:40Z",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "title": "Automation Engineer"
+        },
+        {
+            "title": "Automation Engineer",
+            "location": {
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 28.56579,
+            "created": "2025-12-24T00:06:39Z",
+            "id": "5553106308",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553106308?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C4CDA66B860E5E64603AC41BE9592CED2FA1E93A",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 77.3225,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzEwNjMwOCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.V_O022SdLe6XWxkDnmnF2qtGj6w55MS2XpwN_jJ2Y3I",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Round The Clock Technologies"
+            },
+            "description": "Automation Tester (0–2 Years Experience) Automate quality, accelerate delivery. We are hiring entry-level Automation Testers to join our QA team and support the creation of robust, scalable, and efficient test scripts for enterprise-grade applications. Key Responsibilities Assist in designing and developing automated test scripts using tools like Selenium, TestNG, or Playwright Execute automation test cases and report results accurately Collaborate with developers and manual testers to identify…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Automation Engineer",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5553862960",
+            "created": "2025-12-24T10:12:10Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553862960?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=80EDEC66534E4ABDCC8E0486EB6D83BD3E605EB3",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTUzODYyOTYwIn0.MGgWt-_Ln5AKsBAFIjSWb6GhiujqghUGTMJZhExxRyk",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ValueLabs"
+            },
+            "description": "A four-year degree, preferably in Computer Science, MIS, Mathematics, Engineering, or other related field. At least 3-5 years of software testing and/or software development. Experience with the software tools and techniques used in automated testing (Java, Selenium, Web driver, Test NG ). Real time Experience in Automation Frameworks and usage of the same. Experience in writing SQL Queries and Backend Testing. Experience in Web services & API testing using Rest OR SOAP UI. Knowledge on Cloud T…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Automation Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMTQxNSIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.6RpxNvXoIqnDrC6Kq3XNuf-WTn_ZZiHLf8xol2GB4MA",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-25T13:37:50Z",
+            "id": "5555201415",
+            "redirect_url": "https://www.adzuna.in/land/ad/5555201415?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9B5870204DF4CF7D57DA033FB902B19945B4B79F",
+            "company": {
+                "display_name": "PCBL Chemical",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Role Purpose: Drive process automation and digital transformation by building, enhancing, and maintaining SharePoint portals, Power Apps, and workflows, ensuring system uptime, security, and compliance. Key Responsibilities: Build and deploy new SharePoint portals, Power Apps, and workflows Enhance existing SharePoint and Power Platform solutions Ensure system uptime and SLA adherence Strengthen security controls and governance Maintain technical documentation and version control Education: B.T…"
+        },
+        {
+            "created": "2025-12-24T10:18:30Z",
+            "id": "5553872678",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553872678?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=E7EC3F2100BE795AC296A5A20CA15EFFBDA38834",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3MjY3OCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.3KVH31NHHxmWSUT-68V9XNChf5T6sCn-lIynuwieIkA",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 78.50806,
+            "title": "Automation Engineer",
+            "latitude": 17.40275,
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana"
+            },
+            "description": "Job Location - Hyderabad Mode of employment - Hybrid Exp - 4 years & 4 years into Selenium java & Api Testing & sql Notice period - Immediate to 15 days Interview Mode -2nd level is In-person Roles & responsibilities: Developing and maintaining automated test scripts using testing frameworks and tools Identifying and prioritizing test cases for automation Executing automated test cases and analyzing results Collaborating with developers and QA teams to improve test coverage and efficiency Parti…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Brace Infotech Private Ltd"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5539007028?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=B5956DC29048F20D8BFC73C2AA2646EE5BA5093E",
+            "created": "2025-12-12T09:48:30Z",
+            "id": "5539007028",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "longitude": 73.02,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM5MDA3MDI4In0.7LfRssRzKkGycnmcnwMmtBb8kR8fpNiaajMmnDG3KTA",
+            "title": "Automation Engineer (Site)",
+            "location": {
+                "display_name": "Navi Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ]
+            },
+            "latitude": 19.02,
+            "description": "Job Opportunity: Automation Engineer Location : PAN India Site Company : SFC Environmental Technologies Limited SFC Environmental Technologies Ltd. delivers advanced solutions in wastewater treatment and recycling. Our C-Tech package offers complete design, engineering, equipment supply, and automation, supported by technologies like MBR, MABR, fibre disc filters, UF membranes, and CCRO. Headquartered in Navi Mumbai with offices in Europe, we also run a 200,000 sq. ft. manufacturing facility in…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "SFC Environmental Technologies Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sensiple"
+            },
+            "description": "Job Title: Sr. Automation Test Engineer Location : Chennai (Sipcot IT Park, Siruseri ) Mode of Work : WFO – Overlapping shift (Hybrid/Remote/Onsite) QA Automation Engineer / SDET – Job Description We are seeking a QA Automation Engineer (SDET) to design, develop, and maintain high-quality automated testing solutions across our UI, API, and mobile platforms. The ideal candidate is passionate about quality, experienced in Python-based automation frameworks, and comfortable working in a fast-paced…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Sr. Automation Engineer",
+            "latitude": 13.06041,
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5555200677?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=DD1CA8764E1CF5EADF681D8E7B948EF07256773F",
+            "id": "5555200677",
+            "created": "2025-12-25T13:35:49Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMDY3NyIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.QasY8d1RWpt1YOd3SlHsb8YOsEM2PSpePfxEN1yMRek",
+            "longitude": 80.24963
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Title: GitHub Automation Engineer Experience: 7–9 Years Location: Bengaluru, Hyderabad, Chennai, Kochi, Trivandrum, Kolkata, Pune, Noida, Gurgaon Role Overview:- We are looking for a highly skilled GitHub Automation Engineer to design, build, and optimize enterprise-grade automation frameworks across GitHub platforms. This role focuses on automating repository and pipeline migrations, ensuring CI/CD continuity, and building scalable integration workflows. The ideal candidate has deep hands-…",
+            "company": {
+                "display_name": "UST",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MTYxNiIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.pU3FT-pK5iZYgXwuPaQdpQOZA-tD3ntBabh0XJBzcw0",
+            "id": "5530551616",
+            "created": "2025-12-06T09:36:38Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5530551616?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=A4181B64EC5EB8275D64569E310A8161B5A86910",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "GitHub Automation Engineer"
+        },
+        {
+            "description": "Job Summary: We are seeking a highly skilled Automation Engineer with expertise in data validation and quality assurance. The role involves designing, developing, and maintaining automated test solutions to ensure data integrity, quality, and consistency across multiple systems. The ideal candidate will be proficient in scripting languages and automation frameworks, with strong analytical and troubleshooting skills to identify and resolve data anomalies effectively. Key Responsibilities: Design…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Recruin",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5529810755?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=0B0DC7365AD9EE0C447D50AD30B4CC0F86831011",
+            "created": "2025-12-06T01:32:12Z",
+            "id": "5529810755",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI5ODEwNzU1In0.Iz4le_tOyz6SzQUIOnaCRCc4ez2gk8qjxIZ4xGpcNIM",
+            "longitude": 73.84735,
+            "title": "Python Automation Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "latitude": 18.5062
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1MzIyNzE3NjM4In0.BPEIh4EyYYk5MWPGIhJKBaVJExhp04TMx5BR-qD_RLo",
+            "longitude": 73.84735,
+            "redirect_url": "https://www.adzuna.in/land/ad/5322717638?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6AAF7030DB0522EB019ABCDCC2982243B72C8783",
+            "id": "5322717638",
+            "created": "2025-07-26T08:45:40Z",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "latitude": 18.5062,
+            "title": "Tosca Automation Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Title: Tosca Automation Engineer Location: Pune Experience: 6 years Job Summary: We are looking for a skilled Tosca Automation Engineer with over 6 years of experience in designing, developing, and maintaining automated test scripts using Tricentis Tosca. The ideal candidate will be responsible for ensuring the quality of complex ente rprise applications by integrating test automation into the CI/CD pipeline and collaborating with QA, development, and DevOps teams. Key Responsibilities: • D…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Webologix Ltd/ INC"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTYxOTQyMzEzIn0.CpyuazMcMlvahnDCJKtktLSupaWzzN2rQb_IhgqgRvk",
+            "redirect_url": "https://www.adzuna.in/land/ad/5561942313?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=EEE0B1B89E6240D3BFA83770DC5A436176A4F48A",
+            "id": "5561942313",
+            "created": "2026-01-01T08:39:18Z",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Infrastructure Automation Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Greetings from TCS  Job Title : Infrastructure Automation Engineer Job Location : Bengaluru Experience required : 8-12 Years Job Description: Must Haves: · Strong hands-on experience with Python scripting (automation, data parsing, file handling, APIs). · Hands-on experience with Ansible (playbooks, roles, variables, templates, handlers). · Good understanding of infrastructure concepts: servers, OS, networking basics (DNS, IP, ports), and storage. · Experience with Linux system administration. …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5553108128?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=45D4E6479A377F3702F8C45686543D5383EEFE81",
+            "id": "5553108128",
+            "created": "2025-12-24T00:07:08Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzEwODEyOCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.bvZBs78zrhDn8hkn4pAR1oHArANGsH1TYgANINLia1Y",
+            "title": "QA Automation Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Hi All we are hiring QA Automation Engineer's for Bangalore Location. Work Experience : 6 Years - 9 Years Work Location : Bangalore - Hybrid Model - 3 Days from office weekly. NP : Immediate - 15 Days JD : Mandatory Skills : Automation Testing API Testing Protractor Framework • Automation experience with SOAPUI/ POSTMAN PRO/ REST ASSURED/ etc using XML/ JSON. • Strong experience in UI/ UX testing, Selenium Automation and Protractor framework First-hand experience in Developing the automated Pro…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ACL Digital"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5558820301?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=40B17FD19523BD2EC34489F43604A3C99FBA85F7",
+            "created": "2025-12-29T10:12:32Z",
+            "id": "5558820301",
+            "longitude": 78.50806,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODgyMDMwMSIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.g4TGg0ol3m2QF91k7jsvl6mr4AUJFrRWkNT4LrFq1Ww",
+            "title": "Network Automation Engineer",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "latitude": 17.40275,
+            "description": "TCS hiring Role: Network Automation engineer Location: Hyderabad experience: 8-12 Must Have: Strong hands-on experience in Ansible Solid understanding of network infrastructure and protocols (TCP/IP, VLANs, routing, switching, ACLs, SNMP, Syslog, etc.). Proven experience in network device automation (Cisco, Juniper, F5, etc.). Knowledge of Ansible Network Collections and Modules such as: • ansible.netcommon • cisco.ios, cisco.nxos, junipernetworks.junos, f5networks.f5_modules, etc. Experience w…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "Senior Automation Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ0MTg5MTQ1In0.33jTYzCo2UkRm-ljrY6av7JgvqHaJm83LixJ1N0U3-I",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5544189145?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=92138764C42D0614D957EEA98BFCE73FD7C1B73B",
+            "id": "5544189145",
+            "created": "2025-12-16T18:11:37Z",
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Palo Alto Networks"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We believe collaboration thrives in person. Th…"
+        },
+        {
+            "id": "5534283630",
+            "created": "2025-12-09T09:02:48Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5534283630?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=FD2007C0BF79D2E29CD0DD894F9EB127A2DDDBF5",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM0MjgzNjMwIn0.IhLLZpGpxfxz-z_lrRyrZ8lbXCDohVFkL7to8c4k4Jc",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "title": "Industrial Automation Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "description": "Job Description: We are seeking an experienced Industrial Automation Engineer to join our team to provide exceptional client support. The ideal candidate will possess a strong background in PLC logic and SCADA development, with the ability to work independently on projects while collaborating effectively with team members. Key Responsibilities: 1. Develop and implement PLC logic and SCADA systems according to project specifications and P&ID diagrams. 2. Write process logic based on control narr…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "SII Group India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "id": "5529805466",
+            "created": "2025-12-06T01:27:26Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5529805466?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=83E7E51964DE47D9648FE604C936C316962BE64B",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI5ODA1NDY2In0.EPgunnf2YBup5ey8t2Pemj2J_liMxZOd3-10qM6OEsk",
+            "longitude": 73.84735,
+            "title": "Python automation engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "latitude": 18.5062,
+            "description": "Must Have • Bachelor's degree in Electrical Engineering, or a related field (or equivalent work experience). • 3-5 years experience as a Python Automation Engineer or similar role with exposure to Pandas. • Strong understanding of statistical principles • Strong understanding of software testing principles, methodologies, and best practices. • Good programming/scripting skills for python automation. • Strong Power BI skillset • Excellent analytical and problem-solving abilities. • Strong attent…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ACL Digital"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5560711747?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=0E058C678F8D0D33EE02724255C880D5F98E9BFC",
+            "id": "5560711747",
+            "created": "2025-12-31T10:34:42Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTYwNzExNzQ3In0.eFd1QgeAn93FoOiT9UqNyzg0_1Y6162s63oB-6fUC6I",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 80.24963,
+            "title": "Senior Automation Engineer",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 13.06041,
+            "description": "Experience: 8 - 12 yrs Notice Period: Immediate to 1-week joiners. Mandatory skills: ETL QA – Python Frameworks, SQL, BFSI Mode of Interview: Virtual Location: Bangalore, Chennai, Hyderabad Work Preference: Shift Time: 2 PM IST till 11 PM IST About the Role: We are seeking an expert ETL Automation Engineer with deep expertise in Python-based automation framework development, strong ETL testing experience, and advanced SQL skills. The ideal candidate will design scalable data testing frameworks,…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "frenzoft"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Role: Test Automation Engineer Experience range: 5-10 Years Location: Bangalore/Pune/Hyderabad/Kochi NOTE: Relevant experience in Test Automation must be 5 years and Need Immediate Joiners Job description: Key Responsibilities: Design, develop, and execute automation scripts using Selenium C# and POM framework. Expertise in programming languages like Python & API Automation. Good understanding on testing process - from user story analysis till closure and signoff. Lead automation efforts and me…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTUzMDkxNzQzIn0.XkSeQ9OBCWW_HTPwRT9uULxRBvd0SdVHHujRTsrgli4",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553091743?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9988D9BAA0BEC4D3143A75E59315994B85F334A3",
+            "created": "2025-12-23T23:58:00Z",
+            "id": "5553091743",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Test Automation Engineer"
+        },
+        {
+            "description": "Company Description Attribuer B.V. is Netherlands based company, with location in Jaipur, India, This position is open for remote location but with a priority for candidates who can join our office in Jaipur , Rajasthan and later on in Eindhoven, Netherlands . Role Description This is a full-time on-site role for a Senior Test Automation Engineer for our client located in the Eindhoven Area. Responsibilities include designing, developing, and executing test plans, test cases, and test scripts f…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Attribuer B.V.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/land/ad/5561943188?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=009674F7AB1E88DFC77C3EB4EC033DA283755840",
+            "created": "2026-01-01T08:40:21Z",
+            "id": "5561943188",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0MzE4OCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.auUzmOToH9ttuyKVX_z-Tp0SbfeZ4C-3JRi_2u8L2vw",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "SeniorTest Automation Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ALTEN India"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "As a Test Automation Engineer in the automotive cluster domain, you will be responsible for developing, maintaining, and executing automated test cases for Cluster Body and Cluster General functionalities. You will ensure the reliability and performance of instrument clusters through efficient automation, HIL validation, and close collaboration with cross-functional teams to deliver high-quality ECU software. Key Responsibilities: Develop and execute automated test cases using ECU-TEST tool. Un…",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Test Automation Engineer",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjEwNTM0OCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.-c8HOTOQxCRO08KY-7Lxuti7zmrE9MIIGCiOdIuhRw8",
+            "created": "2025-12-07T10:26:51Z",
+            "id": "5532105348",
+            "redirect_url": "https://www.adzuna.in/land/ad/5532105348?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=7416E607B9F64D2D5B7D1DB1D76270C42A6DDA80"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5546564906?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=5D33B615DA780EC5B7910BF663AA718364FFC376",
+            "created": "2025-12-18T08:39:48Z",
+            "id": "5546564906",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2NTY0OTA2In0.FtsLDG0sTtFSE-iIZentsc8YqtwQR9IL0SGrTVTX1W8",
+            "title": "Security Automation Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Job Overview : We are looking for a highly skilled Security Automation Engineer to embed security across the CI/CD pipeline and automate security controls within cloud and containerized environments. The ideal candidate will have strong experience in DevOps, cloud infrastructure, and security automation to ensure secure, scalable, and compliant application delivery. Key Responsibilities: Integrate security practices into CI/CD pipelines (DevSecOps). Automate security testing including SAST, DAS…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TRDFIN Support Services Pvt Ltd"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Innovation Technology By Design"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "AI Automation Engineer Department: AI By Design Reports to: Program Manager Work Model: Work from Office (WFO) – Noida Shift: 8:00 AM – 5:00 PM EST Be Part of IT By Design’s AI Revolution: Join our growing AI Automation team in India and be at the forefront of innovation. If you’re passionate about AI, automation, and building intelligent solutions that redefine the way IT and technology functions globally, this is your opportunity to make a real impact and shape the future. Must-Haves: 3 years…",
+            "location": {
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 28.56579,
+            "title": "AI Automation Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDYyMDQ2NjM1In0.5Qbcfi7B03FAdCsqTgOuXc2McCKLiB-_anFcJPZ1ag0",
+            "longitude": 77.3225,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-10-24T10:00:57Z",
+            "id": "5462046635",
+            "redirect_url": "https://www.adzuna.in/land/ad/5462046635?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=40EBB92C6260D4F73DC151FC574EAC20072EC945"
+        },
+        {
+            "title": "Test Automation Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5539006940",
+            "created": "2025-12-12T09:48:29Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539006940?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=614F236BDA57097467D6BDD1C6AF8F986C772A7C",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAwNjk0MCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.IXa1HW2WlAryHn5yXLghmugUZhDSr_bZiPgKWZyWjb0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "display_name": "PwC India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Experience: 2–7 years Location: Mumbai / Gurgaon / Bangalore (flexible) Department: Testing & Quality Engineering Key words marked in red. About the role We’re hiring a hands-on Test Automation Engineer who understands modern automated testing across UI, API/back-end, performance, security and critically - testing of LLM-driven/agentic automations and conversational agents. This person will build, run and own automated test suites end-to-end, validate agent behaviors, and work with product & en…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Genesis Global"
+            },
+            "contract_time": "full_time",
+            "description": "Senior Quality Engineer (Automation) – Fintech Location: Bangalore | Employment Type: Full-time | Experience: 8–12 Years About the Role We’re looking for a Senior Quality Engineer with strong automation testing experience across API and Web UI for fintech products. You’ll work with modern tools like REST Assured, Playwright, and Cucumber , and help adopt AI-powered testing tools to improve quality and speed. What You’ll Do Automate backend API tests using REST Assured Automate web UI tests usin…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Senior Automation Engineer",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "id": "5548126370",
+            "created": "2025-12-19T08:54:24Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548126370?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=42570E5CD7206055BF0D8FAE93AF597335B5A804",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTI2MzcwIn0.-Al-XOSGpqg6V_ci6lzvsXe0SBE_FdHeS_oiVIQj0sg"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Team Accedo is a great place to work - it’s as simple as that. We are all about diversity and inclusion. We have Musicians, Skiers, Video Game Heroes, Foosball Champions, Chefs, Wine Connoisseurs and every other variety of people. We have Family people, Single people, Happy people. You will find a friend here and you can bring your friends along! We are also passionate about technology and building fantastic software products. We are experts and leaders in the realm of video streaming…",
+            "company": {
+                "display_name": "Accedo.tv",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 77.3225,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1OTcxNjc2MyIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.443hbwN0eKtFSgOn9KN03Rp5O4nX0W7X8CnD8pvMtww",
+            "id": "5559716763",
+            "created": "2025-12-30T10:27:11Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5559716763?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=8946993BB1E6B34DB357B37E390EFF245A1F2DD0",
+            "latitude": 28.56579,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad"
+            },
+            "title": "Senior Automation Engineer"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaEtnOHp0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2NTgzODkwIn0.TGux5tpIp_ZcKLcqE2AbjJYpkgbx0hF6n9nhhWmxzpI",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546583890?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9C31193DB82E0B58CDCAC012BDD8DEB7E4F6BC23",
+            "id": "5546583890",
+            "created": "2025-12-18T08:42:55Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Operations Automation Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": " Operations Automation Engineer (Clinical Ops  HIPAA Macro Bots) – Wellnite  Location: Remote Type: Full-time Why? We’re scaling our clinical operations rapidly, and we need an automation expert who can transform repetitive, error-prone workflows into reliable, auditable, and HIPAA-compliant automations. You’ll build “macro bots” and AI-assisted systems that handle data entry, page crawling, and intelligent form-filling across clinical ops flows, delivering step-change improvements (10x product…",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Wellnite",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "display_name": "XpertDox India Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Technology stack/environment Python AWS  Azure SAS Windows Qualifications Strong Python programming skills with at least two years of hands-on experience in the automation of tasks & GUI (using Selenium or other known shadow DOM) Familiarity with Windows and Linux fundamentals PyAutoGUI Experience Strong skills in debugging and troubleshooting Selenium skills Scale-up mindset Able to multitask and handle completing priority tasks Passion for coding and tackling complex tasks Familiarity with da…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Python Automation Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad"
+            },
+            "latitude": 28.56579,
+            "id": "5448276998",
+            "created": "2025-10-15T17:16:13Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5448276998?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=42AD66B09A296C322D35CD25F8B0149FBBA702E3",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0ODI3Njk5OCIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.LNI_Y_7RIqbycM3b89j-1fzLupvjtRTa4g0UA4diIrY",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 77.3225
+        },
+        {
+            "created": "2025-12-05T01:25:49Z",
+            "id": "5528011612",
+            "redirect_url": "https://www.adzuna.in/land/ad/5528011612?se=hKg8ztDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=35E2CB5E51D4382E273E0FCA04FA3C70DD88D010",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODAxMTYxMiIsInMiOiJoS2c4enREbThCR05LZkktSFBSd2J3In0.S_x3p5jDiMP2fmEAdqrm_puxoTp-kaBDhq71vRLnk3A",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Soar Automation Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "About the Company We are a leading organization in the cybersecurity sector, dedicated to protecting our clients' digital assets and ensuring their safety in an ever-evolving threat landscape. Our mission is to provide innovative security solutions while fostering a culture of collaboration, integrity, and continuous improvement. About the Role The role requires a skilled cybersecurity professional with experience in Security Operations Center (SOC) environments or as a SOAR Engineer. The ideal…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Barracuda",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

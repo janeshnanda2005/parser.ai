@@ -1,0 +1,1458 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 5156,
+    "results": [
+        {
+            "longitude": 76.24637,
+            "company": {
+                "display_name": "Talentgigs",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Summary We are looking for an experienced Automation Test Engineer with strong expertise in performance and load testing using JMeter . The candidate will be responsible for designing, developing, and executing automated test scripts to ensure application quality, performance, and scalability in a fast-paced environment. Key Responsibilities Design, develop, and maintain automation test scripts for web applications Perform performance, load, stress, and endurance testing using Apache JMeter…",
+            "id": "5561943238",
+            "created": "2026-01-01T08:40:21Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYxOTQzMjM4In0.UnN0GTb97vbHZW30KEiHYAc74DwGD6ly9mRptS4nr1Y",
+            "title": "Test Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Ernakulam",
+                    "Kochi"
+                ],
+                "display_name": "Kochi, Ernakulam",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 9.98011,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5561943238?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=7A36159954951741074ACF66031B40C1C3A7CB2A",
+            "contract_type": "contract",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Test Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTI1MjA3NTk3In0.KU2WwC7JsuoaleulSG6kLvvujMMHY77OdFo46FQkqpU",
+            "created": "2025-12-03T09:01:11Z",
+            "id": "5525207597",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mobileum"
+            },
+            "description": "“Contract Period: 6 months, extendable depending on business requirements.” Position: Test Engineer – Quality Roles & Responsibility: • Telecom Knowledge • Protocols: Diameter, SS7, SIP, GTP, LTE/VoLTE, TCP/IP, GSM, SCCP, TCAP, MAP. • Familiarity with Roaming, Policy and Charging, CoS, S6a, S5, and S8 interfaces • Familiarity with 2G/3G/4G/5G call flows and 3GPP specs. Tools & Technologies • Testing Tools: SIPp, Seagull, Robot Framework. • Protocol Tools: EAST • Scripting: Python, Shell • Datab…",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5525207597?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=023FBFAA1E5A243370A312604CB620771660D99F",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Test Engineer",
+            "created": "2025-11-15T06:51:18Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5Njk0NTQ1MiIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.2UnY0nB9iMsB_efd-U-bLagII84g07Y2hIasDQEwuVY",
+            "description": "SUMMARY Under limited supervision designs, develops and maintains test procedures, tester hardware and software for electronic circuit board production. TECHNICAL MANAGEMENT RESPONSIBILITIES Review circuit board designs for testability requirements Support manufacturing with failure analysis, tester debugging, reduction of intermittent failures and downtime of test equipment. Prepare recommendations for testing and documentation of procedures to be used from the product design phase through to …",
+            "company": {
+                "display_name": "Jabil",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 73.84735,
+            "id": "5496945452",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5496945452?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=EB6635E4154DF8219A7FAC495F0418330D0FBF98",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 18.5062,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "created": "2025-12-24T00:01:09Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzMDkyNDUzIn0.W3hwltse31dEo1_IcAfgoo4BDdmx6_Xt6I0doVTxp3I",
+            "description": "Job Title: Test Automation Engineer – Playwright (Java) Employment Type: Permanent Location: Pune / Hyderabad / Bangalore Experience: 5 Years Job Description We are looking for a skilled Test Automation Engineer with strong experience in Playwright to join our team . The ideal candidate will be responsible for building and maintaining reliable automation solutions for modern web applications and working closely with cross-functional teams to ensure high-quality software delivery. Key Responsibi…",
+            "company": {
+                "display_name": "Hellowork Consultants",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5553092453",
+            "title": "Test Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553092453?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=1E4FA204A31E9BCBB6B325572291C38A28ED2AD1",
+            "contract_type": "permanent"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5459731666?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3B34DA7E7CB7F55EF08CCCB57DA510A4FACC5FF2",
+            "latitude": 8.38159,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Thiruvananthapuram, Kerala",
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Thiruvananthapuram"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Test Engineer",
+            "created": "2025-10-23T01:13:44Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1OTczMTY2NiIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.Kgymy45LBhDYTGBQuI2EH9NgR5hKDoMElGqnqddV8nE",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "dSPACE"
+            },
+            "description": "Identifier: INST-TE-TL Location: Trivandrum For our office in Trivandrum, dSPACE is looking for creative and motivated professionals. You will work on exciting and technologically cutting-edge product development projects in the areas of code generation. We are offering a position as a Test Engineer for the software testing of a product solution that operates within a model-based development environment using MATLAB®, Simulink®, and Stateflow®. As part of the test team, you will be actively inv…",
+            "longitude": 77.0037,
+            "id": "5459731666"
+        },
+        {
+            "latitude": 18.5062,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5536062168?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6421EF679FE6F2244F94EDD22F4E330A03B42891",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "created": "2025-12-10T16:47:21Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTM2MDYyMTY4In0.Ejavr9YVgm2v0d3LBOEnpvH2obGzBuA09QqhMkh5u_A",
+            "description": " We’re Hiring – Electrical / EV Testing Engineer  Experience Required: 3–9 Years Qualification: B.Tech/BE  Industry: Construction Equipment / Off-Highway / Automotive (EV/Hybrid) If you’re passionate about Electric / Hybrid Vehicle technology, High Voltage Systems, and Machine Testing , this opportunity is for you!  Key Responsibilities: Electric Machine Build for EV / Hybrid platforms Machine endurance testing with focus on electrical architecture DVPSOR-based Electrical & Electronics validati…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mount Talent Consulting Pvt Ltd."
+            },
+            "longitude": 73.84735,
+            "id": "5536062168",
+            "title": "Test Engineer"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539014399?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=513D72737EEF171D898DE6B53F9585A0055EA187",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Test Engineer",
+            "created": "2025-12-12T09:51:11Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAxNDM5OSIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.hbtzVjYdgh-0xtvtms4tZQDt_7CeafOTuVCiC0P_YwQ",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rekise Marine"
+            },
+            "description": "About Rekise Marine Rekise Marine is building autonomous ships and submarines that operate in the world's most hostile environments. We're executing India's flagship autonomous submarine project, the Jalkapi XLAUV — on order from the Indian Navy. This is an unmanned submarine weighing over 20 tons that can travel 5,000 kilometers autonomously and operate in the ocean for 30 days at a time. We're creating some of the largest autonomous robots in the world, machines with direct impact on the glob…",
+            "id": "5539014399"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5561949899?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D2BE84EBE5A1A119963F9419A18E9B006B31AAFD",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Gujarat"
+                ],
+                "display_name": "Gujarat, India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 22.385318,
+            "title": "Test Engineer",
+            "id": "5561949899",
+            "description": "Job Title: LabView Engineer (Testing/Developer) 3 Years Gujarat Jamnagar Responsibilities: Hold a valid LabVIEW Certification and develop/maintain test software using LabVIEW, applying common architectures such as QMH, DQMH, and AMC. Design and execute test plans, perform functional testing, and support system integration. Communicate with test instruments and devices via Serial, USB, and TCP; work with CAN and HTTP communication protocols. Operate and remotely control common test instruments, …",
+            "company": {
+                "display_name": "APTO SOLUTIONS - EXECUTIVE SEARCH & CONSULTANTS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 72.365866,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0OTg5OSIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.zGYW0cCrvtKAkUZz3nAjwlGVGzFHU85Fk-nDjSyCquU",
+            "created": "2026-01-01T08:42:09Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 13.06041,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5539009576?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5C87E546328A362BC16DB079D749A4EBBE859402",
+            "salary_is_predicted": "0",
+            "description": "Job Title Technical Architect Experience 6–8 Years Role Overview Skilled AI Test Automation Engineer with 6–8 years of experience to lead intelligent test generation initiatives using AI tools like AugmentCode. The ideal candidate will have a strong background in UI testing, combined with hands-on experience in leveraging AI to automate test case creation, script generation, and defect analysis. Key Responsibilities Use AI tools (e.g., AugmentCode, Co-pilot, Amazon Q) to analyze requirement doc…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hexaware Technologies"
+            },
+            "longitude": 80.24963,
+            "id": "5539009576",
+            "created": "2025-12-12T09:49:02Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAwOTU3NiIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.jcfjFbc-jnBXttBANPb_uo_bMNt3Ep_aCGbiXD2COrc",
+            "title": "Test Engineer"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU1MjAxNjY4In0.sppXrPpSZR7g1yxPizS1vNpJ-RBS5TC1ryHE8a2sX9s",
+            "created": "2025-12-25T13:39:21Z",
+            "description": "Key responsibilities Design, develop and maintain test automation frameworks and scripts for Pega applications. Create and execute functional, regression, integration and API test cases; own defect life cycle. Collaborate with developers and business SMEs to review requirements, acceptance criteria and testability. Build and run CI/CD integrated test suites; analyze test results and provide actionable reports. Mentor junior testers and contribute to test process improvements and automation cove…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Perficient India"
+            },
+            "id": "5555201668",
+            "title": "Test Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5555201668?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=10B2D58C8D42B3DEDAADE5A52ACC9ECBEB99074D"
+        },
+        {
+            "description": " Job Opening: API Tester (2–3 Years) | Gurugram We’re hiring API Testers with 2–3 years of experience for an immediate requirement in Gurugram. If you have strong hands-on experience in API testing using Postman or Rest Assured and a solid understanding of REST/SOAP APIs, we’d love to connect with you!  Key Responsibilities: Perform API testing using Postman / Rest Assured Validate REST and SOAP APIs using JSON / XML formats Execute functional, regression, and integration testing Identify, repo…",
+            "company": {
+                "display_name": "AQM Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5553106170",
+            "created": "2025-12-24T00:06:37Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzEwNjE3MCIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.9ysAXfPwkGQmHw5_X0u9xx8CkuNaNNIaw-2srwcq3vo",
+            "title": "Test Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553106170?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=42A4AD04D2306D5618790F75E6AC0BBC5F0A1BD0",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0"
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546313244?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3ED941F96A107155AFB80434C073C8EE484A5877",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzEzMjQ0In0.-_y3S5GZooJWqLuOFCRmhrgK4H7_rnJSAozPEFOZwJU",
+            "created": "2025-12-18T02:36:06Z",
+            "id": "5546313244",
+            "description": "AdTech Quality Engineer – OTT Platforms Location: Bangalore | Experience: 3–8 Years | Join: 0–30 Days Key Skills: *Hand-on OTT testing on Roku, Android, iOS, tvOS, Web, Smart TVs, PS5, Xbox *Good understanding on Streaming, playback controls, audio/video sync, adaptive bitrate *Strong in Backend API Calls validation using Postman, Charles Proxy, ADB, SQL *Automation experience for running regression cycles using Java, Selenium, Appium, RestAssured *Strong in building test suites for Regression …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "LTIMindtree"
+            },
+            "title": "Test Engineer"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546316056?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A7DBCD353BDDFA52B3B893A325EDE8B3AF906A6D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNjA1NiIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.OzHrFK_DpVZCrdRI0fwIiy3qKOb5RsuuF3-w3fcaeeQ",
+            "created": "2025-12-18T02:40:11Z",
+            "id": "5546316056",
+            "description": "Tech Lead / Staff Engineer – SDET (OTT Platforms) Location: Bangalore | Experience: 8 –13 Years | Join: 0–60 Days Key Skills: Design and develop robust Test Automation Frameworks for OTT platforms using Java, Appium, Selenium, and RESTAssured . Tools & Technologies: Proficiency in Maven, TestNG, Jenkins, Git . Core Java: Strong understanding of OOPS concepts and Page Object Model (POM) . Integration & Collaboration: Exposure to integration frameworks and third-party tools for efficient collabor…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "LTIMindtree"
+            },
+            "title": "Test Engineer"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549497574?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=1739D5BA102C96309789A20DD6C2C6F092AD33A4",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5549497574",
+            "description": "Job Responsibilities & Skills Experience : 6 Years Has a strong understanding of testing concepts. Has strong experience with manual testing on application - both backend and frontend. Should be well versed in preparing test plan and test case documents. Should have experience with all kinds of testing such as SIT, Regression, acceptance and performance. Should have experience with test automation using selenium or cucumber. Has strong experience in Linux commands and bash scripting. AWS cloud …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Satwic Inc"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTQ5NzU3NCIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.uZS2Z68WgbyCS0fGGaRP8KNjUqWhne7xOi0ZHLHOpjw",
+            "created": "2025-12-20T09:01:39Z",
+            "title": "Test Engineer"
+        },
+        {
+            "title": "Testing Engineer",
+            "created": "2025-12-24T10:12:10Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg2Mjk2NCIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.3DsApec56uaI6ui4DOXPyWIgPRbRD510B3ho1mR61CM",
+            "id": "5553862964",
+            "company": {
+                "display_name": "Unistal Global",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "We are currently looking for “Detail-Oriented QA Manual Tester” for Noida Location. About Us With more than 250 people, 50 products, 5000 channels, 5 million satisfied customers and presence in 35 countries, Unistal (www.unistal.com) has achieved the unique distinction of being the only company covering the aspects in the field of Geographic Information Systems, Oil & Gas sector, Data Security, Data care & Data recovery products and services. Qualifications:- • Bachelor's degree in Computer Sci…",
+            "longitude": 77.3225,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553862964?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D31D63D5E9DFAB9102C36E06DF1C306B7D76193A",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": 28.56579,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5550649800?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=E5CFA56A401A73D9D9DF888C532C58ECC30ECE90",
+            "created": "2025-12-21T08:17:14Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTUwNjQ5ODAwIn0.IxYpZIzWiUmr-foOvKrXD1qHOUVGDE5HX8Rira_ODLE",
+            "id": "5550649800",
+            "description": " Hiring: API Tester  Experience: 2–3 Years  Location: Mumbai/Gurugram ⏱ Joining: Immediate  Employment Type: Full-time We are looking for a skilled API Tester with 2–3 years of hands-on experience to join our team immediately. Educational Qualification: Engineering graduates from any stream are eligible.  How to Apply: Send your resume to sanskruti.bhalerao@aqmtechnologies.com or DM me directly.  Key Requirements: ✔ 2–3 years of experience in API Testing/Manual Testing ✔ Strong understanding of…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AQM Technologies"
+            },
+            "title": "Test Engineer"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5529803556?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=702E28F34B9C03A364FCC6EE169A4C39F52A1C5D",
+            "salary_is_predicted": "0",
+            "description": "Salesforce Test Engineer (6–10 Years Experience) Location: Hyderabad Experience: 6–10 years We are looking for an experienced Salesforce Test Engineer with strong expertise in functional and automation testing across Salesforce platforms. Key Responsibilities: Design, develop, and execute detailed test plans and test cases for complex Salesforce applications and integrations. Develop and maintain automated test scripts using Selenium, CRT, or similar frameworks to ensure strong regression cover…",
+            "company": {
+                "display_name": "Charter Global",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.50806,
+            "id": "5529803556",
+            "created": "2025-12-06T01:24:47Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgwMzU1NiIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.bpR0De2QyMBF5SdPYP0ARaVTUqmB8pyHMAK3zx7BZWI",
+            "title": "Salesforce Test Engineer"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5560712423?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=7078B5A70CCA2820DD8037470CE837861103C709",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "title": "Performance Test Engineer",
+            "description": "Senior Performance Test Engineer (8-12 Years) We are seeking a seasoned Sr. Performance Test Engineer to lead our performance engineering efforts. The ideal candidate will possess deep expertise in identifying system bottlenecks and ensuring high-scale reliability within cloud-native, distributed environments. Core Responsibilities Scripting & Execution: Design and maintain advanced performance test suites using JMeter , leveraging Java, Groovy, or BeanShell for custom logic. Comprehensive Test…",
+            "company": {
+                "display_name": "TIGI HR",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.50806,
+            "id": "5560712423",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYwNzEyNDIzIn0.Xad1qBLu33wDIVV-7jc0KILTa3RPXe9NdmPPYgfIy_c",
+            "created": "2025-12-31T10:35:57Z"
+        },
+        {
+            "title": "Test Engineering Manager",
+            "id": "5553092351",
+            "description": "The Test Manager is responsible for planning, implementing, and overseeing all testing activities to ensure product quality and compliance with industry standards. This role involves managing a team of test engineers, developing test strategies, and collaborating with design, production, and quality teams to deliver reliable electronic products What you’ll own (mission) Lead and scale the Test Engineering function for board & system-level production to ensure first-pass yield, reliability, and …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jabil"
+            },
+            "longitude": 73.84735,
+            "created": "2025-12-24T00:00:59Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzA5MjM1MSIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.tKZmHMgjYnwsk0LHGuN5POBgnhUMhtPGk7XXnL_yCC4",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553092351?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=53641EFDB5011FBDE095A91A767D7446E1CC28A9",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.5062
+        },
+        {
+            "title": "Testing Engineer - Bangalore",
+            "description": "We are looking for a mid to senior level (3 years) candidate in the Software Testing Engineering Lead role. The role will primarily involve end to end testing of Algorithmic trading software, large tick data sets, trading and market connectivity. You will be part of the Development team and work closely with developers and project stakeholders to deliver cutting-edge quality products to meet the Firm’s trading needs. A successful candidate will be an individual contributor who is passionate in …",
+            "company": {
+                "display_name": "Quantitative Brokers",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5540672519",
+            "created": "2025-12-13T09:39:40Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQwNjcyNTE5In0._an7y-OFaeXAIoeSvmnUPIDXN1bKkJkFD05IZWxkCM0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5540672519?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=7EA746BF60BF88EF6BB9D8A16CBACCA447FA6906",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NDk2Njg0In0.Qk4tX4nbHOdpGsq2uIsm0cm5R2cILlopQ8fxO0WkPHQ",
+            "created": "2025-12-20T09:00:22Z",
+            "id": "5549496684",
+            "company": {
+                "display_name": "Dexian India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 80.24963,
+            "description": "Job Title: Senior Performance Test Engineer Job Summary: We are seeking a 8 Senior Performance Test Engineer to join our dynamic team. The ideal candidate will have extensive experience with performance testing , particularly using the Micro Focus LoadRunner tool. This role involves working closely with cross-functional teams to ensure the scalability, reliability, and performance of our financial transaction clearing systems, APIs, and microservices. Key Responsibilities: Performance Testing S…",
+            "title": "Performance Test Engineer",
+            "latitude": 13.06041,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549496684?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D8C5E2D443784341EE2AD8A5EE1880FC589DE2BA",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5550647800?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=72F298E6EEB2D88D3C384A585B6C51442383E740",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "title": "Compliance Test Engineer",
+            "id": "5550647800",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ValueLabs"
+            },
+            "description": "Position: Compliance Test Engineer (Payment Screening) Experience: 4-10 Years Skillset: Payment Screening, Fircosoft, Swift Payments Work Location: Hyderabad Job Description: Strong banking / Payments Domain Knowledge. Experience in Payment Screening tools (Preferred Fircosoft) Knowledge in message formats like MT103, MT202, MX (ISO20022 pacs.008, pacs.009) Good to have SQL knowledge. API testing knowledge using Postman is mandatory. Should have experience in SIT / UAT testing. Knowledge of tes…",
+            "longitude": 78.50806,
+            "created": "2025-12-21T08:12:05Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MDY0NzgwMCIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.vHoaH95UNZM6yRe_PhtKRxjGZf3b9Wd5XRbsIZhkeJc"
+        },
+        {
+            "id": "5540674883",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Persistent Systems"
+            },
+            "description": "About Position: We are seeking an experienced Performance Test Engineer with strong expertise in performance testing tools and cloud environments. The ideal candidate will have hands-on experience in designing, executing, and analyzing performance tests to ensure application scalability, reliability, and stability. Role: Performance Test Engineer Location: Bangalore Experience: 5 to 10 years Job Type: Full Time Employment What You'll Do: Design and implement performance test strategies for web …",
+            "created": "2025-12-13T09:42:15Z",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQwNjc0ODgzIn0.4mcdnxvtoTmw8BgA9wpoE4CyB-hovUWsLIOFjzGVag8",
+            "title": "Performance Test Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5540674883?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B06C296248B8A79BB8CF965D5C56443FDEFF6E24",
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NTY1NTkwIn0.K3HIOnZC76U0KOCEK8fDSc2Mofe6QNEJeLrh4QobjYM",
+            "created": "2025-12-18T08:40:00Z",
+            "id": "5546565590",
+            "company": {
+                "display_name": "L&T Technology Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "HiL Testing Engineer: Test Execution: Perform HIL-based functional and integration testing for automotive ECUs (e.g., Powertrain, ADAS, Body Control). Execute automated and manual test cases on HIL benches. Test Development: Assist in creating and maintaining test scripts using tools such as dSPACE , Vector CANoe , or NI VeriStand . Any one is mandatory. Support model-in-the-loop (MIL) and software-in-the-loop (SIL) test transitions to HIL. System Setup & Maintenance: Configure HIL systems, inc…",
+            "title": "HIL Testing Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546565590?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=71BDCB41046144612C9A760C6E119C250913E731",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "latitude": 13.06041,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5560710479?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D798A34D166CF21B0A3917695BADEFFA08A76FA7",
+            "created": "2025-12-31T10:33:40Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYwNzEwNDc5In0.u9Kh190NV4OcvETW4wbWXGdx8a0UJYbOhMuXinsass4",
+            "longitude": 80.24963,
+            "company": {
+                "display_name": "Dexian India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Summary: We are seeking a 8 Senior Performance Test Engineer to join our dynamic team. The ideal candidate will have extensive experience with performance testing , particularly using the Micro Focus LoadRunner tool. This role involves working closely with cross-functional teams to ensure the scalability, reliability, and performance of our financial transaction clearing systems, APIs, and microservices. Key Responsibilities: Performance Testing Strategy: Develop and implement performance t…",
+            "id": "5560710479",
+            "title": "Performance Test Engineer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5490081130?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=29484346605EC014F06F0A7F8775FDB5DE21B6F5",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Thiruvananthapuram, Kerala",
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Thiruvananthapuram"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 8.38159,
+            "title": "Senior Test Engineer",
+            "id": "5490081130",
+            "longitude": 77.0037,
+            "company": {
+                "display_name": "dSPACE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Identifier: INST-STE-LIC Location: Trivandrum For our office in Trivandrum, dSPACE is looking for creative and motivated professionals. You will work on exciting and technologically cutting-edge product development projects. We are offering a position as a Senior Test Engineer to test our products. As part of the AGILE team, you will take responsibility for implementation, execution and documentation of test procedures, test cases from product requirements. In doing so, you can expect a variety…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MDA4MTEzMCIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.ezArdKYQ_GmCsApF5zP2CTK98gNC3sVl6HCk5B1LAvA",
+            "created": "2025-11-11T09:00:24Z"
+        },
+        {
+            "company": {
+                "display_name": "PalTech",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Data Warehouse (DWH) / ETL Test Engineer Overview: We are seeking a highly motivated and skilled Data Warehouse (DWH) / ETL Test Engineer with 3 to 6 years of experience to join our data team. The successful candidate will be responsible for ensuring the accuracy, completeness, and integrity of data flowing through our Extract, Transform, Load (ETL) pipelines and residing in our enterprise Data Warehouse. This role requires expertise in complex SQL queries, a strong understanding of dimensional…",
+            "longitude": 78.50806,
+            "id": "5502706022",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTAyNzA2MDIyIn0.WIA_QEG21BXDnz6OzlILP7tzR3Rpg8TWft8vOfMR8mM",
+            "created": "2025-11-19T08:10:28Z",
+            "title": "ETL Test Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5502706022?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5C382FDC7DD1B34511A5EF9A5DC62B0E61E4FD40",
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553097716?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=CB54B3201D6537F73899EFFA3756BEC6586B04DA",
+            "created": "2025-12-24T00:04:11Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzA5NzcxNiIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.PvVZ_bZdK_0ND4IF-0VHFkgoYRTdoqpq6RE7zgzDilM",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hellowork Consultants"
+            },
+            "description": "We’re Hiring | Associate II – Semiconductor Product Validation (Hardware Testing) Location: Bangalore Experience: 3 – 5 Years Notice Period: 15 – 30 Days Job Description We are looking for a skilled Hardware Testing Engineer with experience in semiconductor and system-level validation. Must-Have Skills Hardware Testing – 3 years Windows OS – 3 years Linux – 3 years Basic Automation/Scripting – 1 year Test Equipment: Oscilloscope, DAQ, DMM Additional Requirements Diploma/B.E. with 3 years of sys…",
+            "id": "5553097716",
+            "title": "Hardware Test Engineer"
+        },
+        {
+            "created": "2025-12-31T10:33:29Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcxMDIwOSIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.mv00H2UL8uyOc15QL_7mfk-w0XrFBsskvYAeNgPL9Y4",
+            "id": "5560710209",
+            "longitude": 78.50806,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ingrain Systems"
+            },
+            "description": "Job Title : Senior Performance Test Engineer Location : Hyderabad Remote Key Responsibilities Must have hands on experience in Supply chain & Retail applications. • Strategy and Design: Design, develop, and execute comprehensive performance test strategies and plans for our entire platform, including web, mobile, and API services. Required Skills and Qualifications - • Experience: 7-9 years of dedicated experience in Performance Engineering and Testing. • Technical Breadth: Proven expertise in …",
+            "title": "Performance Test Engineer",
+            "latitude": 17.40275,
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5560710209?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D5C9819BECE78A28D3D2E197F165C8F7B05DF867"
+        },
+        {
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNTk5MSIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.gDZGKGaQC2uMPhqy4C66SSXRDnbrbkxORBopV_jfZhc",
+            "created": "2025-12-18T02:40:08Z",
+            "id": "5546315991",
+            "description": "Greetings from TCS TCS has been a great pioneer in feeding the fire of young Techies like you. We are a global leader in the technology arena and there’s nothing that can stop us from growing together. Your role is of key importance, as it lays down the foundation for the entire project. Position: Software Test Engineer (SDET) Job Location: Bangalore, Hyderabad, Pune, Kochi Experience: 5Years Required Skills : Java, Selenium Automation, API testing , Rest Assured Must Have: Selenium, TestNG, My…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "title": "Software Test Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546315991?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=413EF2535E749F5819D61E4A52A6D9394933C465",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "created": "2025-10-17T08:43:35Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1MTE4NTU2MyIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.W7ZKf-4f-6JoHOjGei14MSP8oRHwYRWZwdMKu8Sc9js",
+            "id": "5451185563",
+            "description": "Greetings from Tata Consultancy Services Required Experience: 5 Years Location: Bangalore You will be responsible for translating user stories and acceptance criteria into robust test cases using tools such as ATF, Tosca, and other performance testing frameworks. This role plays a critical part in ensuring that complex software implementations are functional, reliable, and optimised for performance across ServiceNow modules including ITSM, CMDB, and integrations. Minimum 3 years of experience i…",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "ServiceNow Test Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5451185563?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0ADFD54693E387BA7C79823F3F8EBEAB949CC59B"
+        },
+        {
+            "longitude": 77.0037,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "dSPACE"
+            },
+            "description": "Identifier: INST-LTE-TL Location: Trivandrum For our office in Trivandrum, dSPACE is looking for creative and motivated professionals. You will work on exciting and technologically cutting-edge product development projects in the areas of code generation. We are offering a position as a Lead Test Engineer for the software testing of a product solution that operates within a model-based development environment using MATLAB®, Simulink®, and Stateflow®. As part of the test team, you will lead the …",
+            "id": "5459732573",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDU5NzMyNTczIn0.8j1TOyexAdQir5yriQJQj4ne8KgN39zkG-RialtdUdo",
+            "created": "2025-10-23T01:15:45Z",
+            "title": "Lead Test Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Thiruvananthapuram, Kerala",
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Thiruvananthapuram"
+                ]
+            },
+            "latitude": 8.38159,
+            "redirect_url": "https://www.adzuna.in/land/ad/5459732573?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=917A5502DDF8EC65E6AB2F77CAA19B2DA4059158",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546315631?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=4368871EF2629C6E9330128942D5F9869FA059E8",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": 28.62623,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Delhi",
+                    "New Delhi"
+                ],
+                "display_name": "New Delhi, Delhi",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Software Test Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzE1NjMxIn0.txgHltKVR6vYBsvgF0GGxOkkL2aE3tE2DxLJFAahoG0",
+            "created": "2025-12-18T02:39:08Z",
+            "description": "Position:Testing Engineer Job Description Interact with Business Analysis and Development teams to develop a strong understanding of the project and testing objectives Responsible for Web-based testing for high-traffic, high-recognition client websites Responsible for handling complex quality assurance and test environment problems and issues Responsible for creation and execution of test scripts and test data for module/integration/system testing. Participate in troubleshooting and triggering …",
+            "company": {
+                "display_name": "Belzabar Software Design India Private Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 77.21808,
+            "id": "5546315631"
+        },
+        {
+            "latitude": 17.40275,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5560712120?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=50D654E73F9CD7FE33FF4791CCA98134D1A7B649",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYwNzEyMTIwIn0.7DQgwA7oW-XQXGSxY0LSaJafgL7IY5b9Qd9UbwMEFJU",
+            "created": "2025-12-31T10:35:32Z",
+            "description": "Job Description: We are looking for a highly skilled Performance Test Engineer with over 8 years of experience to join our team. The ideal candidate will have extensive experience in performance testing and a strong ability to write and execute scripts using JMeter. Key Responsibilities: •Design, develop, and execute comprehensive performance test plans and scripts. •Write and maintain performance test scripts in JMeter, ensuring accuracy and efficiency. •Conduct load, stress, and endurance tes…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TIGI HR"
+            },
+            "longitude": 78.50806,
+            "id": "5560712120",
+            "title": "Performance Test Engineer"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5560708916?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8ABEEE5569FEB2ACF9AB6A9E17026DC680EE9305",
+            "salary_is_predicted": "0",
+            "id": "5560708916",
+            "description": "Position : Hardware Test Engineer Location: Bommasandra, Bangalore Role Overview: We are hiring a Hardware Test Engineer to own and drive end-to-end hardware testing, validation, and reliability for next-generation smart wearables, including smart rings, watches, and health trackers. This role focuses on ensuring electrical correctness, sensor accuracy, wireless performance, low-power behavior, manufacturability, and field reliability of highly miniaturized wearable hardware systems from protot…",
+            "company": {
+                "display_name": "Muse Wearables",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYwNzA4OTE2In0.JYaR2A_cMuK-1ZVSy1tUQug4OLz6f0RZFwkshX-bDdw",
+            "created": "2025-12-31T10:31:43Z",
+            "title": "Hardware Test Engineer"
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5536062152?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A4796BE3821137270F3DB0248000DD69A96C7263",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTM2MDYyMTUyIn0.UP50uxbjGtpQdB6bjqFc_v-Ccpk_ibQIeNhQ39RKlPQ",
+            "created": "2025-12-10T16:47:20Z",
+            "id": "5536062152",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "description": "Role: ETL Test Engineer Experience range: 7-10 years Location: Hyderabad & Bangalore NOTE: Relevant experience in ETL must 7 years Job description: Min 7 to 10 yrs of Exp in ETL Testing. 1. SQL - Expert level of knowledge in core concepts of SQL and query. 2.Lead and mentor a team of ETL testers, providing technical guidance, training, and support in ETL tools, SQL, and test automation frameworks. 3.Create and review complex test cases, test scripts, and test data for ETL processes. 4. ETL Auto…",
+            "title": "ETL Test Engineer"
+        },
+        {
+            "latitude": 17.40275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546576641?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5EEDA492E9FA294B6047E93B4A22AAD87727556C",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NTc2NjQxIn0.CdOPuSaAK1DVO6SIcc0yLav45JLau8Rfkc-6aXCtRsM",
+            "created": "2025-12-18T08:41:31Z",
+            "id": "5546576641",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ADP"
+            },
+            "longitude": 78.50806,
+            "description": "Performance Test Engineer (G3L1) Responsibilities: Able to develop performance test scripts independently, design the performance test load scenarios, analyze test results, and prepare performance test reports. Must have prior experience in testing the high complex, mission critical enterprise grade products that are targeted to be used by a million-client base. Thorough hands-on experience in performance test scripting and test executions with LoadRunner. Migrate the existing LoadRunner script…",
+            "title": "Performance Test Engineer"
+        },
+        {
+            "contract_time": "full_time",
+            "created": "2025-12-14T10:22:08Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQxODIwNjg1In0.KrszCyopkvUtFgT1BpxSYt-F1Ec2fXuK8ha8SpG1LVA",
+            "company": {
+                "display_name": "OptiSol Business Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Location: Chennai / Coimbatore / Madurai Experience: 3 – 6 Years Employment Type: Full-time (Hybrid) About the Role We’re looking for a passionate Data Engineer / Data Test Engineer to join our growing digital engineering team. In this hybrid role, you’ll design and validate modern data pipelines and warehouse systems that power analytics and business intelligence solutions across enterprises. You’ll work closely with cross-functional teams to ensure data accuracy, scalability, and quality — co…",
+            "longitude": 80.24963,
+            "id": "5541820685",
+            "title": "Data Test Engineer",
+            "latitude": 13.06041,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5541820685?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0C07D48980A98BB6234F02D97934B537874CF4E2"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5560708652?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=9E2DABA3BA37BC2E1C70C5346EE4700E51DE4009",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Manual Testing Engineer",
+            "id": "5560708652",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CashKaro.com"
+            },
+            "description": "Manual Tester – Gurgaon | Full-Time | 2 Years Experience Join India’s 1 Cashback & Rewards Ecosystem About CashKaro Group CashKaro is India’s 1 cashback & rewards platform, trusted by 25 million users . We drive more sales for Amazon, Flipkart, Myntra, Ajio, and top brands than any other paid channel — including Google and Meta. We are backed by Ratan Tata and recently raised $16M from Affle . We’ve crossed ₹300 Cr in revenue and are growing rapidly toward ₹500 Cr. Our products include: ⭐ EarnK…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcwODY1MiIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.EU8ePrJ_SoqlYRyfYqElzNrIoq1mAd15o0PhnrsykdA",
+            "contract_time": "full_time",
+            "created": "2025-12-31T10:31:33Z"
+        },
+        {
+            "title": "Software Test Engineer",
+            "id": "5549500632",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Trelleborg Group"
+            },
+            "description": "Trelleborg is a world leader in engineered polymer solutions for almost every industry on the planet. And we are where we are because our talents brought us here. By specializing in the polymer engineering that makes innovation and application possible, Trelleborg works closely with leading industry brands to accelerate their performance, drive their business forward—and along the way, shape the industry and progress that will benefit humankind in the exciting years ahead. Our people are Shapin…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTUwMDYzMiIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.4oCz_rVwjP2a-zkniEdvYcXmh4lcgp6roFY96j0Mr-s",
+            "created": "2025-12-20T09:04:38Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5549500632?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=4BE8C742BCFF7C3C2CD43ABD0EF751869B6D3881",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Software Test Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "dcs plus"
+            },
+            "description": "*Please apply only if you have relevant skills and experience* Qualifications Bachelor's or Master's degree in Computer Science or Engineering Excellent analytical and problem-solving skills, with meticulous attention to detail Strong communication and collaboration skills to effectively work with cross-functional teams. 1-3 years of experience in Software Testing, API, and Web Applications. Relentless in the pursuit of quality, excellence, and passion for software testing Strong knowledge of s…",
+            "id": "5560710974",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcxMDk3NCIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.CJpj6-24nVzGsPZAbWDfU39berS27APvANVfcemIEKA",
+            "created": "2025-12-31T10:34:09Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5560710974?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=24943B1CD18EA9B0148B48B773CBFE112307E3E5",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "title": "Senior Test Engineer",
+            "id": "5546313307",
+            "longitude": 78.50806,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "QualiZeal"
+            },
+            "description": "Job Summary: Location: Hyderabad Shift Timings: 2:00 PM – 11:00 PM; work-from-home may be permitted depending on circumstances. The role of a Software Automation Tester involves extensive software QA technical expertise to join our dynamic QA team. This role involves designing, developing, and maintaining test scripts and automation Frameworks. The ideal candidate should have strong experience in Selenium with Java along with a deep understanding of UI, API and Database automation environments.…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzEzMzA3In0.qcA8GFKcwNZuimsyyDJJ-5F5iolBoxUostURNUP_H1k",
+            "created": "2025-12-18T02:36:10Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546313307?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=22D9F8612DD6453EDA8B5F74233D51F68C51A063",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537384855?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=637A75CC05BEA3FED887B5845BC408B76FFFC8B4",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5537384855",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Beyondsoft"
+            },
+            "description": "About the Company Founded in 1995, Beyondsoft is a global IT consulting and managed services company. We help organisations modernise cloud and data platforms, adopt AI responsibly, and automate operations. We have more than 30,000 experts across the Americas, Asia, and Europe. Beyondsoft is committed to innovation and excellence in the field of technology, fostering a culture that values collaboration and creativity. About the Role The Quality Assurance Engineer will be responsible for test au…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTM3Mzg0ODU1In0.Pwf6Vq_Yrkv40uEwZ8k2stnqC-qujxML2Wlsl80RFxc",
+            "created": "2025-12-11T09:27:23Z",
+            "title": "Software Test Engineer"
+        },
+        {
+            "title": "Software Test Engineer",
+            "description": "Mandatory Criteria: Should be able to participate in the entire Functional Testing Lifecycle Performing all the below roles effectively. Should be well aware of the General Insurance Domain. Commercial Insurance(Fire, P&C, Liability, Engineering Products, Marine). Good communication skills. Strong Logical thinking. Roles and Responsibility: Create Test Scenarios & Test cases basis of BRD / FSD documentation. Creating Requirement Traceability Matrix for Tests designed. Independently drive Test p…",
+            "company": {
+                "display_name": "QualityKiosk Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 72.84415,
+            "id": "5528012018",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODAxMjAxOCIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.3x1rRFu1GHdQHUPhE_UA_wgdWEYBVtClfUdJ5agXHCA",
+            "created": "2025-12-05T01:26:28Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5528012018?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6EF5551B339991C31885F466C655A57ACE9E142C",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 19.00821
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5534288000?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=E95FC2130BB481A7900D2D38A4C92230C1AD41F4",
+            "latitude": 17.40275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Performance Test Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTM0Mjg4MDAwIn0.7mBHDLnhWPYlFMRFqeFG4HxMH9QtGs9cxaSNcXNnddI",
+            "created": "2025-12-09T09:07:00Z",
+            "id": "5534288000",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BGSF"
+            },
+            "longitude": 78.50806,
+            "description": "Overview We are looking for a Performance Test Lead with hands-on experience in Oracle C2M (Customer to Meter). This role involves leading performance testing efforts across C2M applications and coordinating closely with onsite teams in EST/CST hours. Must-Have Skills Strong performance testing experience Hands-on experience with Oracle C2M Experience leading performance testing for 2–3 C2M projects (preferred, but 1 acceptable) Proficiency in any major performance testing tool (LoadRunner, JMe…"
+        },
+        {
+            "title": "Performance Test Engineer",
+            "longitude": 72.84415,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "QualityKiosk Technologies"
+            },
+            "description": "Roles & Responsibilities: Minimum 2 to 10 years of experience in Performance Testing with JMeter. Good to have knowledge of other Performance Testing tools (LoadRunner, Gatling, k6) Analyze performance test requirements and define scenarios, workload models and KPIs. Should have/build expert level knowledge on Performance tool in context, Test Execution, analysis and Report preparation. Should have good knowledge of SDLC, Performance Test Life Cycle, Defect logging and Tracking. Sound understan…",
+            "id": "5537386559",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTM3Mzg2NTU5In0.RkGDDDQVauI-vg4fs9UxUHYlojEB17dMgM-yKJGw4SE",
+            "created": "2025-12-11T09:28:23Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5537386559?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=08C81DEFEF60BB877DE1ABC71501C90D1ACCEA61",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 19.00821
+        },
+        {
+            "title": "EMC Test Engineer",
+            "created": "2025-12-16T18:14:44Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ0MTkyMDY0In0.iJhyd1pZVjkqqE58F0mLz31wRLF4COnnxPmMKsbHL7Q",
+            "company": {
+                "display_name": "Tata Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Key Responsibilities  Plan and execute EMC Test in EMC- Lab Create reporting based on executed tests  Derive technical proposals for HW changes  Support Desing Team regarding relevant changes out of the proposals  Review and approval of EMC test plans  Develop and manage project timelines, and ensure project is executed according to agreed milestones  Create detailed tasks for team members to execute project work products, and be accountable for their delivery Formal qualifications requir…",
+            "id": "5544192064",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5544192064?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8E01F5D06752C296FEE1B65EF8CE543C0293B020",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            }
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Jaipur, Rajasthan",
+                "area": [
+                    "India",
+                    "Rajasthan",
+                    "Jaipur"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 26.7441,
+            "redirect_url": "https://www.adzuna.in/land/ad/5550648405?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=46E74E2695E4B88BFCBBB567ECD306D35838FDAD",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5550648405",
+            "longitude": 75.9469,
+            "company": {
+                "display_name": "QualityKiosk Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Education: Bachelor degree B.E Responsibilities Design, develop, and execute performance test scripts using JMeter or similar tools. Analyze test results to pinpoint performance issues and work with development teams to find solutions. Monitor application and system performance during tests and in production environments. Contribute to the overall quality assurance process, including functional and regression testing. Create clear and concise test plans, test cases, and reports. Required Skills…",
+            "created": "2025-12-21T08:14:03Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MDY0ODQwNSIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.mexHAwKaRX_be5ZUG47lBgMulR8LpiOb-13T4rDIUuo",
+            "title": "Performance Test Engineer"
+        },
+        {
+            "title": "Hardware Test Engineer",
+            "created": "2025-12-31T10:31:33Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcwODYyMiIsInMiOiJWR1hBek5EbThCR2pKYWJ4V3QwZURRIn0.c_UBZ1olEGjNHQD39umnjZP6E5P5bFeK_3vYZxgiPjk",
+            "id": "5560708622",
+            "description": "Perform product validation and verification of hardware in field or lab environment. Provide technical support for various testing activities. Prepare production test processes and test plan. New test procedures and enhance existing ones to ensure products’ reliability and usability. Prepare plans for validation methods, tools and processes for various tests. Prepare and submit reports on progress and status of all testing procedures. Analyze and resolve all hardware test issues to provide stat…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DELOPT"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5560708622?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=355A19E991BE043E65DEA7314475D268D35A9D9B",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-12-24T10:17:58Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkdYQXpORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODcxODg5In0.4gNNb174WGIc0FzG8uapk7X1--bLm9z4-o1qOUOrjmI",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Incedo Inc."
+            },
+            "longitude": 78.50806,
+            "description": "Required Skills & Qualifications 4 years of experience in ETL / Data Warehouse Testing Strong hands-on experience with SQL (complex joins, subqueries, CTEs) Solid understanding of ETL concepts and data warehousing fundamentals Experience in automation testing for ETL using Python, Java, or similar Knowledge of data validation frameworks and reusable test utilities Experience with test management and defect tracking tools (JIRA, TestRail, Zephyr) Good understanding of SDLC, STLC, and Agile metho…",
+            "id": "5553871889",
+            "title": "Senior Test Engineer",
+            "latitude": 17.40275,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553871889?se=VGXAzNDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=FEDC88C92D7DDFBB29A19F34B0C64E070819A7BC"
+        }
+    ],
+    "mean": 1245455.43
+}

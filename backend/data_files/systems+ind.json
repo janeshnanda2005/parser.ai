@@ -1,0 +1,1427 @@
+{
+    "results": [
+        {
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjU5MTY2MSIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.5VSN_3IROVuptV7T2R6-9dDqxhZ6ckChc_Y_F7ezu04",
+            "id": "5546591661",
+            "created": "2025-12-18T08:43:44Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546591661?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=AC69D0E4B8EFA1659E4797E73164284E896BD69C",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "System Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Years of Experience: 3-5 Years Location: Bangalore Essential Qualifications & Experience 3 years of experience as i.e. System Engineer / System Controls Engineer / System Architect or similar 1 years of experience in Requirements engineering 1 year of experience in supporting Quality & Test 1 year of experience in problem resolution and project management Experience of working in Continuous Integration & Deployment environment Must Skills : System Engineer , Powertrain, Rhapsody, SYSML",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Technologies"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5536065321?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C82FF0E060001134EF4F17B35D75F39E5D3C44CE",
+            "id": "5536065321",
+            "created": "2025-12-10T16:52:51Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "longitude": 73.84735,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NTMyMSIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.HuJMALVoz0FGZ1iEy1z0qdu9RjnHD0CGGAeaBWJpGxE",
+            "title": "System Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra"
+            },
+            "latitude": 18.5062,
+            "description": "Systems Engineer – Model-Based Systems Engineering (MBSE) Altair | Full-Time | Pune At Altair, we are advancing frontier technologies across advanced sensing, autonomy, precision controls, and next-generation airborne systems. Our engineering teams support high-performance solutions for unmanned helicopters, UAV/UDA platforms, and other aerospace systems. As part of our digital engineering transformation, we are strengthening our Model-Based Systems Engineering (MBSE) capabilities across multip…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Altair Infrasec"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "longitude": 73.84735,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3Mjk5NCIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.dQ3Cvm0mhf01DkAA0FkDHGKXqcF6N4OFEKs8r9w4h68",
+            "created": "2025-12-24T10:18:38Z",
+            "id": "5553872994",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553872994?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6C574FB1357BECC0AD4436A7E85A99B58FBEBE6F",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "latitude": 18.5062,
+            "title": "System Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "The ideal candidate will help build, maintain, and troubleshoot, the company's rapidly expanding infrastructure. They will work alongside other engineers to ensure highest levels of performance and ability, and manage any problems that arise. System Engineers Electro Mechanical background As devices we work are electro Mechanical Candidates who are from V&v Background mat fit here This is not req Gathering – as the product is ready – we are upgrading the product Only mechanical Only electronic …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NMD Placement Consultancy"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5561944538?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4F803DB2D94102325D4DED0FA5C88EAE94CB2094",
+            "id": "5561944538",
+            "created": "2026-01-01T08:41:06Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTYxOTQ0NTM4In0.NZgJqq0I_Nghj6OyyXJb1HYuQ2UyBdHHntL3NvHA-Ts",
+            "longitude": 85.87695,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "System Engineer",
+            "latitude": 25.96475,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Bihar",
+                    "Samastipur"
+                ],
+                "display_name": "Samastipur, Bihar"
+            },
+            "description": "Podar International Schools, Bihar region is looking for System Engineer - ICT. Location: Samastipur, Bihar Role: System Engineer - ICT Location - Samastipur, Bihar. To managing and monitoring all installed systems and infrastructure. Installing, configuring, testing and maintaining operating systems, application software and system management tools. Ensuring the highest levels of systems and infrastructure availability. Responsibilities Looking after Biometric attendance Authoring internal doc…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Podar Education Network"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEyNzg3MCIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.FAc5WPx-rfg2MoXUY-_78URZBsxfxB0wkTbY2reh77E",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "longitude": 73.84735,
+            "id": "5548127870",
+            "created": "2025-12-19T08:54:44Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548127870?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=838A710A5A9569BE624DEF8E672ED62BFA661F32",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 18.5062,
+            "title": "System Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Experience: 5-9 Years Location: Pune Notice period: Immediate to 30 Days Key Skills: Risk management, Traceability, V-model, Test protocol and plan. Electromechanical systems Job Description: System engineer with knowledge on gap assessment, remediation activities, Knowledge of handling changes and implementation. Able to understand the requirements of the standards as applicable to medical devices. Capable of independently write requirements and perform verification. Must have prior experience…",
+            "company": {
+                "display_name": "L&T Technology Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "Roles and Responsibilities: Lead the end-to-end system design of respiratory therapy devices, including hardware, firmware, and software integration. Define system-level requirements and specifications in collaboration with cross-functional teams. Evaluate the technical, regulatory, and safety implications of engineering and design change requests to ensure system integrity and compliance throughout the product lifecycle. Identify and define Critical to Safety (CTS) and Critical to Quality (CTQ…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "NMD Placement Consultancy",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5551664521",
+            "created": "2025-12-22T12:01:10Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5551664521?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C32CB65C98FAF1283AFB5054706B92E8FB558EEE",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "longitude": 75.949555,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTUxNjY0NTIxIn0._4h8-Q6PvxySXfKJcyv49Sj0703658TS5WpNMdsMhhY",
+            "title": "System Engineer",
+            "location": {
+                "display_name": "Maharashtra, India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra"
+                ]
+            },
+            "latitude": 19.439563
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Job Scope: Systems Engineer responsibilities include deploying product updates, identifying production issues and implementing integrations that meet customer needs. The position works closely with internal teams and responsible for configuration and troubleshooting of Karix products. Candidates should be familiar with Ansible or shell scripting, Ultimately, you will execute and automate operational processes fast, accurately, and securely. Job Responsibilities: Implement integrations requested…",
+            "company": {
+                "display_name": "Karix",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 73.02,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM5MDE4NTAwIn0.U9y0wCvYEhPbVi0zAv6-f5ZMtewrZ8YJMMGYWxN_X8I",
+            "id": "5539018500",
+            "created": "2025-12-12T09:53:26Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539018500?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=F388010B85D2C6865B69EA9A8B91F8BF60E12BDC",
+            "latitude": 19.02,
+            "location": {
+                "display_name": "Navi Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "System Engineer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5549498294?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=94F8D4B0B98BCCF21E3FF7A241BCC8CE7AB7F23A",
+            "id": "5549498294",
+            "created": "2025-12-20T09:02:14Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ5NDk4Mjk0In0.2ABcBJSd9mg2jZjn8flw4aK-DPKuKSwUjAvTxvOuiPk",
+            "title": "System Engineer",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "description": "Job Scope: Systems Engineer responsibilities include deploying product updates, identifying production issues and implementing integrations that meet customer needs. The position works closely with internal teams and is responsible for configuration and troubleshooting of Karix products. Candidates should be familiar with Ruby or Python, Ultimately, you will execute and automate operational processes fast, accurately, and securely. Job Location: Chennai What You'd Do? Implement integrations req…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Karix"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Who we are: We are a start-up based out of Bengaluru & Delhi NCR. We are engaged in the development of next-generation missions and technologies (NGM&T) for future warfare needs of the Indian Defense forces. It is undertaking research towards enhancing persistence and autonomy for unmanned vehicles and robotic swarms. Roles and Responsibilities: • Lead the design and development of avionics systems for ongoing and upcoming UAV platforms, focusing on mission-specific and safety-critical requirem…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NewSpace Research and Technologies"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MzY1MyIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.FhXhBkluEHC30UAKWahRbhLNci4Ahn_FpuoELIeQhGM",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "id": "5537383653",
+            "created": "2025-12-11T09:26:46Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537383653?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=DCE18F30809AD2ADC75C8CF062D8228DC39344FB",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "title": "Systems Engineer"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ValueFirst"
+            },
+            "description": "About the job This team is responsible for monitoring and maintaining the infrastructure behind ValueFirst services. They keep an eagle eye on availability and performance of our services. The team is available 24/7 to provide 2nd level technical support and resolution to problems and enquiries that customers report. They have an in-depth understanding of the products live on production servers. They work closely with engineering team to resolve all escalated cases from customer experience team…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "System Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5561945970?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=F7C6987342826366322836C6B08D2CDEEC01CB5D",
+            "id": "5561945970",
+            "created": "2026-01-01T08:41:17Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0NTk3MCIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.h9YpIAEioT666AxUtkQzyho_oW9eF4dkmN_VFDGfnIQ",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "title": "Senior System Engineer",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5528014466?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=00C8FBDCD3897FF6574CC711C77C7FF16B71C9C2",
+            "created": "2025-12-05T01:31:06Z",
+            "id": "5528014466",
+            "longitude": 78.50806,
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI4MDE0NDY2In0.lJFdrPNEN40eslccTacqbJ2prJ5uJMzZiJF8NFyd3Uo",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nextracker Inc."
+            },
+            "description": "Job Description We are seeking a skilled Senior Systems Engineer supporting the development of single axis solar trackers and other solar power plant equipment for power distribution, power conversion, inspection and maintenance. The ideal candidate is a talented engineer who demonstrates strong knowledge of systems engineering and mechanical engineering principles, analytical skills, system-level mindset, commitment to innovation, attention to details, and passion for the solar industry. This …",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "Join Fortinet, a cybersecurity pioneer with over two decades of excellence, as we continue to shape the future of cybersecurity and redefine the intersection of networking and security. At Fortinet, our mission is to safeguard people, devices, and data everywhere. We are currently seeking a dynamic Pre-Sales System Engineer to contribute to the success of our rapidly growing business. You would act as the key Systems Engineer to work closely with a sales representative in south India to handle …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Fortinet"
+            },
+            "created": "2025-12-05T01:31:48Z",
+            "id": "5528015011",
+            "redirect_url": "https://www.adzuna.in/land/ad/5528015011?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=1E5BE74CC508B5D832CBCE6C33529B22EABB8102",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODAxNTAxMSIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.6kCP54gciqDHykh548WEyQyhwaIf6lfPbsVEng3siLM",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "title": "Principal System Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5535762942?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9598FB46F19CE51F56806A07E92FF894ECF9701B",
+            "created": "2025-12-10T08:51:58Z",
+            "id": "5535762942",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM1NzYyOTQyIn0.Xmeqh6toByg6oOZ41KGCHSmyNngg9h1c7aqfDw6RQCs",
+            "title": "Principal System Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "description": "About us: We are a highly successful 190-year-old, Fortune 500 commercial property insurance company of 6,000 employees with a unique focus on science and risk engineering. Businesses worldwide trust our expertise to protect their assets, relying on our comprehensive risk assessments and robust, engineering-based insurance solutions to safeguard against fire, natural disasters, and other perils. Serving over a quarter of the Fortune 500 and major corporations globally, we deliver data-driven st…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "FM India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Associate System Engineer",
+            "latitude": 22.66215,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Madhya Pradesh",
+                    "Indore"
+                ],
+                "display_name": "Indore, Madhya Pradesh"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546983760?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=45C64E991D104A76BF03A1420D73F26BD957BDD0",
+            "id": "5546983760",
+            "created": "2025-12-18T16:41:28Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0Njk4Mzc2MCIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.o9nSwMM5vF_QhVhZ0Z5SlUkozREjitxtUrjg-_qk_zs",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "longitude": 75.9035,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "American Chase"
+            },
+            "description": "Job Description Job Role - Associate System Engineer Shift - Night Shift (Immediate Joiner) Cab Facility - F- ✓ / M- X Compensation - INR 3.21 LPA Shift Time: 6:30 PM - 3:30 AM IST (US Shift) - (M-F) Location: WINWAY WORLD OFFICES, Vijay Nagar, Indore, M.P. Experience - Freshers are welcome to apply! {2024,2025 & 2026 Batch} American Chase is looking for a passionate and motivated Associate System Engineer to join our dynamic team in Indore. Website: www.americanchase.com Key Responsibilities: …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ITC Infotech"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Job Opportunity at ITC Infotech  Location: Bangalore / PAN India Experience Required: 8Years Job Type: Full-Time Budget : Max 30 lacs only Notice period: Immediate to 30 days only. Job Title Position : Systems Engineer Experience: 8 years of work experience as System Engineer Bachelor’s degree in information technology or related field Good communication – spoken and written Skills (Mandatory) : Windows Server and AD Administration Azure Stack HCI Rubrik Microsoft M365 (Intune, Arc, Security) M…",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Senior System Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MTY3OSIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.ev5QcOUHh4cO0NGtdhe7kMwf_84jtM3nYIr42NVaPrs",
+            "created": "2025-12-06T09:36:47Z",
+            "id": "5530551679",
+            "redirect_url": "https://www.adzuna.in/land/ad/5530551679?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9042E6835C785DA6D6095F9215A6B9435BFDDC0E"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Role Overview and Responsibilities: Dhruva Space is seeking a highly skilled and motivated Space Systems Engineer to join our innovative team and contribute to pioneering projects in satellite systems and space exploration. As a cutting-edge space technology company, Dhruva Space specializes in developing next-generation satellite solutions that meet the evolving needs of the space industry. The Space Systems Engineer will play a crucial role in the design, development, and implementation of sa…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Dhruva Space"
+            },
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NjEwMjYyMCIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.ZTe79FP0jjj5OzoGjbQd6YfodmNKQd1XMCNrTjahNOA",
+            "longitude": 78.50806,
+            "id": "5556102620",
+            "created": "2025-12-26T08:35:16Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5556102620?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=58A0B8BD7BCF0A0EC6A3A6164725D80773AD5849",
+            "latitude": 17.40275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "title": "Space Systems Engineer"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "SYSTEMS ENGINEER Education: Bachelor’s or master’s degree in mechanical, Mechatronics, Electrical, or Electronics Engineering. Experience: 10 years of automotive enggineering experience. We are seeking a System Engineer to lead the design, integration, and validation of components for 2-wheelers and combining mechanical precision, electronic control, and embedded software. The role requires hands-on experience in mechatronic system architecture, requirements engineering, and cross-disciplinary …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexteer Automotive - India Technical Center"
+            },
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTQ5NjYzMCIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.Cr3qxTPu_OXvZn4YJn0UblCVAB3R50BTtXJFbZbtbh8",
+            "created": "2025-12-20T09:00:20Z",
+            "id": "5549496630",
+            "redirect_url": "https://www.adzuna.in/land/ad/5549496630?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=2E46830E095745ECF093023A925BBC5540CBF1E1",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "SYSTEMS ENGINEER - Automotive"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Killis Bird LLP"
+            },
+            "contract_time": "full_time",
+            "description": "Job Description – Embedded Systems Engineer (0–2 Years) Company Name: KILLIS BIRD Location: Krishnagiri, Tamil Nadu-635115. (Near Krishnagar medical college) Experience: 0–2 Years Employment Type: Full-Time About the Role We are looking for a motivated Embedded Systems Engineer to join our engineering team and contribute to the design, development, and validation of embedded firmware and systems. The role involves hands-on work with microcontrollers, low-level driver development, communication …",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Embedded System Engineer",
+            "location": {
+                "display_name": "Krishnagiri, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Krishnagiri"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5558017175?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=A366AC315A01D581EA3038A31EF28AADA15F68DD",
+            "created": "2025-12-28T10:08:41Z",
+            "id": "5558017175",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODAxNzE3NSIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.rM3cwPARt2y1h_mTJpWOnbR3Nk1XlQVa9fJ4U52zM34",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU3Mjk2Mjk1In0.xUpvnTslNak6TufvJ9mv_ZjaSSjMKwUmkPocxUuScK0",
+            "created": "2025-12-27T22:04:59Z",
+            "id": "5557296295",
+            "redirect_url": "https://www.adzuna.in/land/ad/5557296295?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=992AC195BF80F1EA5D0ECA5DEAA6078D6098D4FD",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Specialist Systems Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Role Title: Specialist Systems Engineer Work Location – Bengaluru (Availability to work in all SG GSC offices as per need) Hybrid Model – weekly 3-4 days working from office Organization Overview Société Générale is one of the leading European financial services groups. Based on a diversified and integrated banking model, the Group combines financial strength and proven expertise in innovation with a strategy of sustainable growth, aiming to be the trusted partner for its clients, committed to …",
+            "company": {
+                "display_name": "Societe Generale Global Solution Centre",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "About Mitsogo | Hexnode Mitsogo is a global organization that highly values the contributions of each employee. Our ability to attract top talent is a testament to our commitment to fostering a sense of belonging for everyone. We recognize the rapid evolution of technology and society that impacts our industry, and we prioritize equipping our employees with diverse opportunities and empowering them with a wide range of skills. Hexnode, the Enterprise software division of Mitsogo Inc., was found…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hexnode"
+            },
+            "created": "2025-07-26T08:47:23Z",
+            "id": "5322721693",
+            "redirect_url": "https://www.adzuna.in/land/ad/5322721693?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=85295AB0CFF46C9E4710F59B55A026C0E700FDBF",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMyMjcyMTY5MyIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.TQhcEau27uilOxUgrUFc07M3GKKkjvoUl0m8fSPyPyM",
+            "title": "Endpoint System Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "title": "Salesforce System Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5529807263?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C839C4D9C24A66575030AFC1E6F11B348F900166",
+            "created": "2025-12-06T01:28:38Z",
+            "id": "5529807263",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgwNzI2MyIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.1NpZjSxolTzbMEtPKXAlmRSJ7rYZV9jytl0UPwpnZf8",
+            "company": {
+                "display_name": "Deltek",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Shift Timings : 6 pm to 3 am IST Position Responsibilities : We’re looking for a Salesforce System Engineer I–II who thrives in a fast-paced, collaborative environment and can work independently with minimal supervision. This role is ideal for someone who enjoys solving technical challenges, optimizing systems, and communicating clearly across global teams. What You’ll Do Analyze and remediate Salesforce data storage issues (e.g., large task/email records, audit log cleanup) to control data foo…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNjUzMyIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.9bGRCPlE4zGqC9ZZFq5OkiC9ZL3s6wWVHd2dC2Ih5pU",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546316533?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=1F802EDCAF0F5283E243C7CDEC2105F9C19DD436",
+            "id": "5546316533",
+            "created": "2025-12-18T02:41:29Z",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Embedded Systems Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Summary : We are looking for a skilled Embedded Systems Engineer to design, develop, test, and maintain embedded software and hardware solutions. The ideal candidate will work closely with hardware engineers, firmware developers, and product teams to deliver reliable, real-time embedded systems for production use. Key Responsibilities: Design, develop, and debug embedded software for microcontrollers and embedded platforms Develop firmware using C / C++ for real-time and bare-metal systems …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TRDFIN Support Services Pvt Ltd"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Karix"
+            },
+            "description": "Job Scope: Systems Engineer responsibilities include deploying product updates, identifying production issues and implementing integrations that meet customer needs. The position works closely with internal teams and responsible for configuration and troubleshooting of Karix products. Candidates should be familiar with Ansible or shell scripting, Ultimately, you will execute and automate operational processes fast, accurately, and securely. Job Responsibilities: Implement integrations requested…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Systems Engineer III",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Navi Mumbai, Maharashtra"
+            },
+            "latitude": 19.02,
+            "redirect_url": "https://www.adzuna.in/land/ad/5537381990?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=75B3F3B33AB0601D7D05D53ACA265293ADE808A8",
+            "id": "5537381990",
+            "created": "2025-12-11T09:26:05Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM3MzgxOTkwIn0.7a-5jdOZaccY9xbzN5q9LTIAOeq861V38JiMPahxMGI",
+            "longitude": 73.02
+        },
+        {
+            "latitude": 19.02,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Navi Mumbai, Maharashtra"
+            },
+            "title": "Senior System Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MTQ1MiIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.842E5XT0-xcjBWpbEm3LJrtwPwKh_uw6XJc4z7H-6tw",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 73.02,
+            "created": "2025-12-11T09:25:16Z",
+            "id": "5537381452",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537381452?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=94DC7832F5ABE1442C27C03C7ECD858D0FBE9552",
+            "company": {
+                "display_name": "Karix",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Role : Sr System engg Location : Navi Mumbai ( 5 days WFO) Job Scope: Systems Engineer responsibilities include deploying product updates, identifying production issues and implementing integrations that meet customer needs. The position works closely with internal teams and responsible for configuration and troubleshooting of Karix products. Candidates should be familiar with Ansible or shell scripting, Ultimately, you will execute and automate operational processes fast, accurately, and secur…"
+        },
+        {
+            "description": "Job Title: UAV System Engineer Experience: 1–3 Years Location: Mumbai, India Work Mode: 6 Days, Work from Office Key Responsibilities Integrate systems and subsystems for multirotor, fixed-wing, and hybrid/VTOL UAVs. Collaborate with product development teams to drive design optimization. Conduct flight tests as per test plans and document observations. Perform root cause analysis and troubleshoot technical issues. Analyze flight data and extract actionable insights. Develop and maintain SOPs, …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Unilactic Enterprises",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5546315781",
+            "created": "2025-12-18T02:39:52Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546315781?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6F3978343DA85A376D0D48ED8A1FABA19C44229F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2MzE1NzgxIn0.5vfygPF5AdordGftiiGPu0sVPe8CdRcIBoW4QoAyVGs",
+            "longitude": 72.84415,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "title": "UAV System Engineer",
+            "latitude": 19.00821,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5528013683?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=90FA36662B9E4DD11169769FB4D8D788EA846516",
+            "created": "2025-12-05T01:30:14Z",
+            "id": "5528013683",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI4MDEzNjgzIn0.phkyucmGYUfwD_BcrvnnQJdtXQgWCDsp3eARMtH-Y-4",
+            "title": "Manufacturing Systems Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "ABOUT THE COMPANY: Tata Electronics Private Limited (TEPL), a wholly owned subsidiary of Tata Sons, is a greenfield initiative focused on building India’s first AI-enabled, state-of-the-art semiconductor foundry . The facility will manufacture advanced semiconductor devices including power management ICs, display driver ICs, MCUs, and high-performance logic—addressing the rising global demand across automotive, computing, wireless communication, data storage, and AI markets. As part of the Tata…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Electronics"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjYwMTAwNCIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.1xN1NHYq8WjPuxqCusOizsYfZqA0vhhOahDhttcuyKY",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546601004?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=93DED3DAAE722DA7F665A7DD279570E997123D83",
+            "id": "5546601004",
+            "created": "2025-12-18T08:45:09Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Lead System Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Role Purpose(s) The Lead Systems Engineer is responsible for the overall planning, implementation, and maintenance of an organization's technology infrastructure. This role involves managing hardware, software, networks, and security to ensure systems are reliable, secure, and scalable. Required Skills: 7 to 12 Years of Experience Middleware Application Servers: Websphere Application Server6.x, 7.x, 8.x.9.0, Tomcat. Operating Systems: UNIX,Linux,Windows. Cloud:Azure,AWS,GCP, Networking Good to …",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CrimsonLogic"
+            }
+        },
+        {
+            "title": "System Engineering Manager",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5548127134",
+            "created": "2025-12-19T08:54:35Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548127134?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C5C719CE4D0626735FCE554128BF5AC04EF491BB",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEyNzEzNCIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.eCOrsjMMwriyGqbd6zkUSaTwT8MgFKbJGZdbYVrC5V8",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Exicom"
+            },
+            "description": "Role Summary We are looking for a detail-oriented and technically skilled to support the design, sizing, and implementation of power systems for telecom tower sites. The ideal candidate will assist in engineering tasks involving energy systems such as diesel generators (DG), solar power, battery storage, hybrid solutions, and remote monitoring integration. This role involves working under the guidance of Senior Managers to deliver efficient, reliable, and cost-effective energy solutions for tel…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "description": "Number of Positions:- 2 Experience:- 4-10 yrs Qualification:- B.E in Electronics / Electronics & Telecommunication Package:- 8 -12 LPA 1. Perform system integration, validation, and troubleshooting of electronic systems. 2. Strong knowledge of electronic systems, control units, and embedded hardware. 3. Prepare system specifications, ensuring components are compatible and meet performance requirements. 4. Troubleshoot issues in the system design or integration phase and resolve any discrepancie…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Paras Defence & Space Technologies Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5504534637?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=566F4D2D7CF751D6280C1E729325EDDAE52CCC7F",
+            "id": "5504534637",
+            "created": "2025-11-20T08:20:14Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTA0NTM0NjM3In0.JhriJVhVs60N0MaX5zED6gpS-8b_QMDdNVW08-LKcsQ",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "longitude": 73.02,
+            "title": "Electronic System Engineer",
+            "location": {
+                "display_name": "Navi Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 19.02
+        },
+        {
+            "description": "About the Company At McLaren Strategic Solutions, Services Company we don’t just consult— we catalyze transformation. We are a boutique strategy firm with a bold vision: to solve complex challenges with clarity, precision, and purpose. Our clients range from global enterprises to mission-driven startups, and our impact is felt across industries however mostly in BFSI domain. We're looking for driven, curious, and strategic minds who are ready to accelerate their careers and make a real-world di…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "McLaren Strategic Solutions ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5530553107?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=A521512E892C11C5BD9A683A2787ACEB016033BF",
+            "id": "5530553107",
+            "created": "2025-12-06T09:42:13Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTMwNTUzMTA3In0.nUNDTgUE3kwSctxiR8k7gdPVhBIg1GI7R0lgv3qET08",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Senior System Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5549501327?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=3FC6EB72DD3CD0E7B28B730ACF4903D559DD485E",
+            "id": "5549501327",
+            "created": "2025-12-20T09:05:14Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTUwMTMyNyIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.EzLIn_MC-Ir-bUcCv7tE00ODDPsjWc0YxmULEX2eLNY",
+            "title": "Linux System Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Linux / Ubuntu Usage (Mandatory) You must be comfortable using Ubuntu Desktop as your primary or secondary OS, including: File Manager Desktop navigation, window switching, and settings Understanding of basic file paths and user directorieS Open-source Application Experience (Required). You should know how to perform common tasks in:Chrome, VLC Media Player, LibreOffice Writer / Calc / Impress, GIMP, Thunderbird, VS Code",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Delta System & Software, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Electrical System Design and Development: Lead the overall architecture, technical solution design, and detailed design of high-voltage electrical systems (e.g., BDU, MSD, high-voltage wiring harness, pre-charge/main circuit) and low-voltage control systems for lithium-ion power battery packs (PACK). Responsible for designing electrical schematics, wiring harness diagrams (2D/3D),and electrical component layout drawings, as well as completing component selection, calculations, and design specif…",
+            "company": {
+                "display_name": "Gotion Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQwNjY5NjI1In0.OMH7ZV2pmBwDn6633AbWglabHlMOpgx3xYJabQUzJNw",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5540669625?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=E67476CAA13BCB6D8DA6F244E1400A4E4149064B",
+            "id": "5540669625",
+            "created": "2025-12-13T09:38:36Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Electrical System Engineer"
+        },
+        {
+            "description": "We are hiring for Active Directory/ System Engineer lead Shift Timings: 6.30PM to 3AM. Notice period: Immediate to 60 days Chennai, Bangalore, Mumbai, Hyderabad, Pune, Noida 8 to 12 Years of Exp KEY RESPONSIBILITIES System Engineer lead which focusses on exchange, exchange online, AD as primary skills and has concepts of networking and security practices. Candidate should be able to design and build solution architecture. Shift Timings: 6.30PM to 3AM",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "LTIMindtree",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5553092443?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=840854AAAFE8F871C06F339BA85A207D8664DE0C",
+            "created": "2025-12-24T00:01:08Z",
+            "id": "5553092443",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzA5MjQ0MyIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.-IYDUMtYc1tWnCvi9K3mNKpD-W1C4bsn-GK18mCqINU",
+            "title": "Senior Lead System Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Onward Technologies Limited"
+            },
+            "description": "Title - Embedded System Engineer - Telematics Location - Pune Roles and Responsibilities: Experienced System Design Engineer with 7 years in the Automotive Embedded Telematics Domain Cloud interfaces, AWS IoT Services Strong expertise in: Requirement Engineering and Tech profile creation Software Architecture Development Verification & Validation (V&V) Proficiency in Embedded C programming Hands-on experience with tools like Visio Professional for creating network and boundary diagrams, design,…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Embedded System Engineer - Telematics",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "latitude": 18.5062,
+            "created": "2025-12-18T08:46:37Z",
+            "id": "5546615138",
+            "redirect_url": "https://www.adzuna.in/land/ad/5546615138?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=19F034A5092D65E547BED3874EF56274743B5EF7",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2NjE1MTM4In0.ZOgTvguHRO9UNOuXlTLigG72k6m3x4kAJFZ346is1GU",
+            "longitude": 73.84735
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "contract_type": "permanent",
+            "title": "Mainframe Developer - Systems Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU5NzI1NTY5In0.z986a2us5K8WivcfqCDH3Y63MPe4ehSW0HapqNEbiS0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-12-30T10:30:21Z",
+            "id": "5559725569",
+            "redirect_url": "https://www.adzuna.in/land/ad/5559725569?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=D13D0DAB74C18BD4C7E5233F4FE4098728BD5157",
+            "company": {
+                "display_name": "AutoZone",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About AutoZone: AutoZone is the nation's leading retailer and a leading distributor of automotive replacement parts and accessories with more than 6,000 stores in the US, Puerto Rico, Mexico, and Brazil. Each store carries an extensive line of cars, sport utility vehicles, vans, and light trucks, including new and remanufactured hard parts, maintenance items, and accessories. We also sell automotive diagnostic and repair software through ALLDATA, diagnostic and repair information through ALLDAT…"
+        },
+        {
+            "description": "Senior System Engineer -SASE Location: Mumbai Description About Us Versa Networks, Inc. is a leading vendor of next-generation Software Defined solutions and architectures, called Unified-SASE (Secure Access Service Edge). Versa is providing an end-to-end solution that both simplifies and secures the WAN/branch office network as well as securing connectivity for remote users. The Goal Of Versa Networks Is To Provide Unprecedented Business Advantages Through a Software-based Approach That Allows…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Versa Networks",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546315255?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=207F301AC32A5A64389C223F3D25A52B539AF355",
+            "id": "5546315255",
+            "created": "2025-12-18T02:38:25Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNTI1NSIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.CvdRS0ByB0G4w6__JPscg-dunFBrTdze7hj5CjU_dkg",
+            "longitude": 72.84415,
+            "title": "Senior System Engineer(SASE)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "latitude": 19.00821
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Versa Networks"
+            },
+            "description": "Senior System Engineer -SASE Location: Bengaluru Description About Us Versa Networks, Inc. is a leading vendor of next-generation Software Defined solutions and architectures, called Unified-SASE (Secure Access Service Edge). Versa is providing an end-to-end solution that both simplifies and secures the WAN/branch office network as well as securing connectivity for remote users. The Goal Of Versa Networks Is To Provide Unprecedented Business Advantages Through a Software-based Approach That All…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Senior System Engineer -SASE",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "created": "2025-12-19T08:54:34Z",
+            "id": "5548127089",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548127089?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=5F6FBC545F308FC77067A7EB1CE46340E041CA26",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTI3MDg5In0.dA7xFa0JTgm3MAHjY2-m3F7lWEeQIhqos2np83h9oAg"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI4MDEwNTc0In0.oUjgkCbfl63Bug4Ug9-BiVHO3Z0qwxBw9OVUFLXk_0Y",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "created": "2025-12-05T01:22:52Z",
+            "id": "5528010574",
+            "redirect_url": "https://www.adzuna.in/land/ad/5528010574?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=8B9B853CD3B6E005C68BF6550389BA7C3CF0D1BB",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "Lead Software System Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Join the Charge. Create the Future. At Ultraviolette, we're more than a company—we’re a movement. A movement that's pushing the boundaries of what's possible in electric mobility. From engineering India’s Fastest Motorcycle to designing The World’s Most Advanced Electric Scooter, we thrive on innovation, audacity, and the relentless pursuit of performance. We’re a diverse team of trailblazers, engineers, designers, creatives and visionaries—united by a shared obsession: to craft machines that a…",
+            "company": {
+                "display_name": "Ultraviolette Automotive",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "id": "5537384156",
+            "created": "2025-12-11T09:27:01Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5537384156?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=FD62D8739AC4C25FB6C86749479E43D2A7DBB6ED",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM3Mzg0MTU2In0.nMnPA_r_RjxFApZ_h7wKrLexSBnpV0FbXCmEWi_rR1s",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Senior IT Systems Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "description": "About the Job – Senior Infrastructure Engineer The Senior Infrastructure Engineer will play a pivotal role in the deployment, support, and maintenance of Synamedia applications and products within cloud environments and at customer sites. This position requires enthusiasm, a strong technical foundation, excellent problem-solving skills, and the ability to effectively communicate with both technical and non-technical stakeholders. Key Responsibilities: Collaborate with architects, developers, an…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Synamedia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Senior Staff Systems Engineer",
+            "latitude": 17.40275,
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5546592665?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=DC417949FC8E27C6290D8ACAF1EC6EB2EB9F3D58",
+            "created": "2025-12-18T08:43:53Z",
+            "id": "5546592665",
+            "longitude": 78.50806,
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjU5MjY2NSIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.DydpEQUYw8csOGU9CYWqSvLv5mY2gIVEocVzaP3e_Nw",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Olympus Corporation"
+            },
+            "description": "Provide project and technical leadership as it relates to Systems to cross functional teams including external partners for projects through conceptualization, development, product registration and commercialization. Establish and foster strong collaborative relationships with internal and external design/development partners, manufacturing partners and service providers. Provide critique and design guidance to ensure proper implementation and traceability of design outputs as compared to desig…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Reliance Industries Limited"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Position : GIS Engineer Experience (Yrs): 2 to 4 Education : Graduate in any discipline or Diploma in Engineering, BE, B. Tech, M. Sc, MA, M. Tech in Geology, Geography, Civil, Remote sensing, GIS, Geoinformatics. Software Skill : AutoCAD*, ArcGIS*, ArcGIS Pro*, Arc Scene, MS-Office Working Experience Creation, update of data in File GDB, GDB Data capture using Satellite image Editing/updating in version Geodatabase Geo-processing Tool & output interpretation GIS data conflation Historical data…",
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "latitude": 19.00821,
+            "title": "Geographic Information Systems Engineer",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MTU1Nzg2OSIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.rBuVE7iE32fTqIywpdSNWz3yUtYMDFuUrIYrD4Bkg0o",
+            "longitude": 72.84415,
+            "redirect_url": "https://www.adzuna.in/land/ad/5541557869?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=DB9181A1DC7A908257BE5E2B586EF30E18033FEC",
+            "id": "5541557869",
+            "created": "2025-12-14T01:59:28Z"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM5MDAzMTc1In0.2Zd3Yljpm1Gr_-IPEZbpIjBO3Y66vsAw4rWEvwD1JIY",
+            "redirect_url": "https://www.adzuna.in/land/ad/5539003175?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4813B9EC6DB4D6D12E42B80616D9BC5C8FDBBE3C",
+            "created": "2025-12-12T09:46:56Z",
+            "id": "5539003175",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "System Engineer – Monitoring & Operations",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "About Us: At FYERS , our mission is \"to Empower New-age Traders & Investors with the best-in-class technology and platform\". We are a bootstrapped company led by our founders who are extremely passionate about creating best-in-class value to our diverse customers, employees, and communities. If you are passionate, creative and would like to grow with us in this journey, then please apply with your latest profile which will help us review fitment and connect. We are looking for a Ticketing Syste…",
+            "company": {
+                "display_name": "FYERS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "Experience with digital solutions in process automation, such as SCADA, PLC, and industrial communication protocols like Modbus, OPC UA Knowledge on the programming languages (Functional Block, Structure Text) for DCS configuration and control. Configuration, Runtime and diagnostic of the Eco Structure Foxboro DCS Configuration of HMI Strong understanding of system interactions and integration testing methodologies. Knowledge on security Testing Experience with debugging tools and troubleshooti…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IPSTEC"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5548126289?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6FAF7483413EEEEF2CB247C016FD61F573AFC0C1",
+            "created": "2025-12-19T08:54:22Z",
+            "id": "5548126289",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEyNjI4OSIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.vgnNsUzm1wi6FNBM_s6T4nN4-QCckKkQf6MyKgT30b0",
+            "longitude": 78.50806,
+            "title": "Distributed Control System Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana"
+            },
+            "latitude": 17.40275
+        },
+        {
+            "title": "Building Management Systems Engineer",
+            "latitude": 22.50935,
+            "location": {
+                "display_name": "Jamnagar, Gujarat",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Jamnagar"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5548132801",
+            "created": "2025-12-19T08:56:44Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5548132801?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=32809423525C4CBA5887C8776CE5F3899E6ABC31",
+            "longitude": 70.11485,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTMyODAxIn0.L0g3gWyZ3GMKO-Mv1pzh_DuFcOly_AYoqDY7qwECnck",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Jio Platforms Limited ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Description - BMS SME Qualification BE/B. Tech in Instrumentation/Electronics/Telecommunication/ Computers Key Responsibilities Operations Excellence To manage DC facilities at a location/region and maintain 100% uptime. Risk management and mitigation, corrective and preventative maintenance of critical BMS / FAS / Fire Suppression infrastructure ensuring infrastructure is Up and Running 24x7. Infrastructure related state of art tech / practices that creates competitive differentiators. BMS…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "description": "Job Description Texas Instruments is seeking an experienced Systems Engineer to join our Power Systems team in Bangalore, focused on system architecture and product definition for AC-DC and isolated DC-DC power controller products. In this role, you will own system-level architecture, modeling, and technical tradeoff analysis that guides silicon design decisions from early concept through product release. You will work closely with design, validation, and product line teams to define robust, sc…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Texas Instruments"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzA5NzY1NCIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.hICAscQkcxrFIGtuTmef6AsbLjYxPzM6h8jXaRJpeEk",
+            "created": "2025-12-24T00:04:08Z",
+            "id": "5553097654",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553097654?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9124224A063E05F7D7D8874056D45B26194701FE",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Systems Engineer, Power Systems (Architecture Focus)"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Electronics"
+            },
+            "contract_time": "full_time",
+            "description": "Bulk & Specialty Gas Systems Engineer  Location : Dholera, Gujarat  Work Week : 6 Days  Full-time, On-site We are hiring a Bulk & Specialty Gas Systems Engineer for our semiconductor project. In this role, you will be the system owner for Bulk & Specialty Gas Dispense Systems (GDS) , ensuring safe, reliable, and efficient operations. Key Responsibilities Operate, maintain, and troubleshoot Bulk & Specialty Gas Systems. Inspect equipment such as valves, filters, gas cabinets, VMBs, VMPs . Ensure…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Bulk & Specialty Gas Systems Engineer",
+            "location": {
+                "display_name": "Dholka, Ahmedabad",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Ahmedabad",
+                    "Dholka"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 22.5762,
+            "created": "2025-12-24T10:12:31Z",
+            "id": "5553863497",
+            "redirect_url": "https://www.adzuna.in/land/ad/5553863497?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=1B21C672516148BF1B22352B7747E9A7D3065FD1",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "longitude": 72.39349,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg2MzQ5NyIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.Yq0nX-DfXl0aHqNCnqLOgAw6_3fmDcfQtzFySFF6wF0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MTQ4NyIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.pIJGfy7jNpWEkbxWy_LsgLutnZ7lsKYBIZ5huX4GYhs",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5537381487?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=79014A82EEB9AA485AEB19321F6041E3E77DD467",
+            "id": "5537381487",
+            "created": "2025-12-11T09:25:17Z",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Principal System Engineer [T500-21753]",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About us: We are a highly successful 190-year-old, Fortune 500 commercial property insurance company of 6,000 employees with a unique focus on science and risk engineering. Businesses worldwide trust our expertise to protect their assets, relying on our comprehensive risk assessments and robust, engineering-based insurance solutions to safeguard against fire, natural disasters, and other perils. Serving over a quarter of the Fortune 500 and major corporations globally, we deliver data-driven st…",
+            "company": {
+                "display_name": "FM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Taggd"
+            },
+            "description": "EDUCATIONAL QUALIFICATION & EXPERIENCE: B.E. / B.Tech / M.Tech in Mechanical / Automobile / Electrical / Electronic Engineering. Minimum 5 years of experience JOB ROLE: System engineering of Hybrid Powertrain System. Simulation Model development for estimation of CO2, EV range, Vehicle performance etc. with Hybrid Powertrain system. JOB RESPONSIBILITIES: Design and develop simulation models for Hybrid Powertrain system (including vehicle dynamic) using specialized simulation software (e.g., MAT…",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Powertrain System engineering & Simulation development",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5525209086?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=3ABF2A3DC9FD229292E92423147FDCF95F958B97",
+            "created": "2025-12-03T09:02:33Z",
+            "id": "5525209086",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI1MjA5MDg2In0.f4b7V3lbVWyIpXilN_bdGTG8Z-uaTx2suFnDHt8xug0"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODAxNTUzMSIsInMiOiJicW9SMGREbThCR05LZkktSFBSd2J3In0.NQZTWCeFJVXvX7TmqpcFFeRGMVO2LBfkg1G76Nt1q74",
+            "redirect_url": "https://www.adzuna.in/land/ad/5558015531?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=0CAFEFF7629F4424201DF6140B36DA5692AB877F",
+            "id": "5558015531",
+            "created": "2025-12-28T10:03:40Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Founding Backend & AI Systems Engineer",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About AMOGHA AI At Amogha AI, we are building Jamun, India’s first voice-led conversational AI app specifically for mental health, therapy, and emotional well-being. Our mission is to provide a supportive, empathetic listener in your pocket, 24/7. We are creating a next-generation product that understands user context, provides therapy-grade support, and guarantees 100% safety and privacy—a truly specialized application far beyond a generic ChatGPT experience. THE OPPORTUNITY We are nearing com…",
+            "contract_time": "part_time",
+            "company": {
+                "display_name": "Amogha AI",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "About Us: At FYERS , our mission is \"to Empower New-age Traders & Investors with the best-in-class technology and platform\". We are a bootstrapped company led by our founders who are extremely passionate about creating best-in-class value to our diverse customers, employees, and communities. If you are passionate, creative and would like to grow with us in this journey, then please apply with your latest profile which will help us review fitment and connect. Role Overview: You will act as the k…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FYERS"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5539003089?se=bqoR0dDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=B52974B4EFE1E9A010CFAF1D56B2C8F0F5C773C2",
+            "created": "2025-12-12T09:46:50Z",
+            "id": "5539003089",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYnFvUjBkRG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM5MDAzMDg5In0.lNoTp1Q6hP2xjL8X39T9P50-wIeGWJiwGJWEyRSgse4",
+            "title": "Senior System Engineer – Zoho Implementation",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            }
+        }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 1533291.72,
+    "count": 8328
+}
