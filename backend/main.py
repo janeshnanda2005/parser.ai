@@ -151,8 +151,12 @@ def create_app():
 
     return app
 
+# Create app instance for gunicorn
+app = create_app()
+
+# Initialize RAG when module loads
+print("Initializing RAG system...")
+initialize_rag()
+
 if __name__ == '__main__':
-    print("Initializing RAG system...")
-    initialize_rag()
-    app = create_app()
     app.run(debug=True, port=5000)

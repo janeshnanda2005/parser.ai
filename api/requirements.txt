@@ -7,5 +7,3 @@ langchain-huggingface>=0.0.1
 langchain-community>=0.0.20
 faiss-cpu>=1.7.4
 sentence-transformers>=2.2.0
-jq>=1.6.0
-gunicorn>=21.0.0
