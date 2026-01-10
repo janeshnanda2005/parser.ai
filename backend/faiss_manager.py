@@ -111,7 +111,6 @@ def get_or_create_vectorstore(force_recreate=False):
     Returns:
         FAISS vectorstore instance
     """
-    # Always load from existing faiss_index
     return load_vectorstore()
 
 
