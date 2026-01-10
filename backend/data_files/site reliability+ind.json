@@ -1,76 +1,17 @@
 {
-    "mean": 1713418.37,
-    "count": 921,
+    "mean": 1596250,
+    "count": 250,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
     "results": [
         {
-            "longitude": 73.84735,
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Futran Solutions"
-            },
-            "description": " Site Reliability Engineer (kafka)  Pune (Hybrid) |  4  Years  About the Role Fulcrum Digital is looking for a Site Reliability Engineer (SRE) to ensure reliability, scalability, and performance of enterprise platforms. You will work across the full service lifecycle, automate operations, and support highly available, event-driven systems. ️ Responsibilities Own service reliability from design to production Monitor system health, availability, and performance Automate operations and improve sys…",
-            "id": "5555202537",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU1MjAyNTM3In0.cvkB_4KAtIDLRjViyKkBRH25_GGvTxR1hok5RCRJbJw",
-            "created": "2025-12-25T13:41:40Z",
-            "title": "Site Reliability Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Pune, Maharashtra",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 18.5062,
-            "redirect_url": "https://www.adzuna.in/land/ad/5555202537?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=099752F046CCBB2D5AC6830ACED2C07F87743B43",
+            "created": "2026-01-10T10:15:56Z",
             "category": {
-                "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
                 "label": "IT Jobs"
             },
-            "salary_is_predicted": "0"
-        },
-        {
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5555200991?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=CC958C18DF6F0E7A2D5BABF8F33F092690ADD1C7",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Site Reliability Engineer",
-            "created": "2025-12-25T13:36:05Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMDk5MSIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.JgROhUu-EXqS_kDPmJt4H8hwhWbnLJkvSBGKpz4weAA",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "BayOne Solutions"
-            },
-            "description": "Required Qualifications Bachelor’s degree in Computer Science, Engineering, or equivalent practical experience. Strong experience in Site Reliability Engineering (SRE), DevOps, or Cloud Engineering roles. Hands-on experience managing AWS cloud environments. Proven experience with CI/CD pipeline development and automation. Experience creating and managing pipelines using GitHub Actions and CloudBees CDRO. Proficiency in scripting and programming using Python Strong hands-on experience with Infra…",
-            "id": "5555200991"
-        },
-        {
-            "id": "5539006971",
+            "id": "5577396699",
             "longitude": 72.84415,
-            "company": {
-                "display_name": "Insight Global",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Site Reliability Engineer Location : Mumbai, India - working onsite 1x a week Salary : 22-25 LPA Target Start Date : January 2026 Join our dynamic and highly collaborative agile team, where you'll play a pivotal role in ensuring the reliability, scalability, and efficiency of our premier InsurTech solution. Our platform enables clients to obtain quotes and issue policies within minutes, featuring automatic document creation, electronic signing, and efficient data collection. As a Site Reliabili…",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAwNjk3MSIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.tcM1q26_3_xxEMys2F1ku9-OMeZjC6TcnCG0bh0k-Jk",
-            "created": "2025-12-12T09:48:29Z",
-            "title": "Site Reliability Engineer",
             "location": {
                 "display_name": "Mumbai, Maharashtra",
                 "area": [
@@ -80,86 +21,34 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
+            "title": "Associate Staff Engineer, Devops",
+            "description": "Job Description Requirement: Experience: 5 years Strong experience in DevOps or Site Reliability Engineering (SRE) roles. Strong knowledge of Docker, Kubernetes, Terraform, and CI/CD pipelines. Hands-on experience with AWS, Azure, or other cloud platforms. Familiarity with GPU infrastructure and ML workloads is a plus. Good understanding of monitoring and logging systems (Prometheus, Grafana). Ability to collaborate with ML teams for optimized inference and deployment. Strong troubleshooting an…",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzM5NjY5OSIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.BkAUiNHPXEM38l4LWcq7hWz0EFknoKjWplL5o-uxLw4",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nagarro"
+            },
             "latitude": 19.00821,
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5539006971?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=35910B1445C98637098278F4FCB55589D0910EF2",
-            "salary_is_predicted": "0"
-        },
-        {
-            "title": "Site Reliability Engineer",
-            "created": "2025-12-11T09:25:59Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MTkxNCIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.OnKvzklvw2y9K3Ypm7axQnFgYHKKtNl0esSLsN700Sk",
-            "id": "5537381914",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Proglite"
-            },
-            "longitude": 80.24963,
-            "description": "We have the following requirements for the Site Reliability Engineer role Skill Set: AWS: EC2, Networking, Storage, autoscaling, CloudWatch, SSM, management (patching/upgrades/security) of OS(windows/Linux) in EC2 GCP: GKE/Compute, Networking, storage, Cloud Monitoring, management (patching/upgrades/security) of OS(windows/Linux) in compute SRE Practices: SLO/SLI, 99.99% uptime, Terraform/Ansible. Nutanix AOS/Prism: Cluster management, HA, backup, hardware replacement Though Nutanix if preferre…",
             "salary_is_predicted": "0",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5537381914?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=BC682DD5818DA9ABF61D116B95CDB68A1E322DDE",
-            "latitude": 13.06041,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Chennai, Tamil Nadu",
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job"
+            "redirect_url": "https://www.adzuna.in/details/5577396699?utm_medium=api&utm_source=d58ac19b"
         },
         {
-            "created": "2025-12-20T09:01:50Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NDk3NzE1In0.tWIsAkkOqbE_zl13TKTDt18L1JUqKKEOEdh7j6UvR_0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "TECEZE"
-            },
-            "longitude": 80.24963,
-            "description": "Job Title: Site Reliability Engineer (SRE) – Core IT Infrastructure Location: Chennai/ pune/ bangalore Company: Teceze About Teceze Teceze is a global IT services and consulting organization delivering innovative, scalable, and secure technology solutions. We specialize in infrastructure services, cloud transformation, DevOps, and managed services, helping enterprises achieve operational excellence and digital resilience. Job Summary Teceze is looking for a highly skilled Site Reliability Engin…",
-            "id": "5549497715",
-            "title": "Site Reliability Engineer",
-            "latitude": 13.06041,
             "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Chennai, Tamil Nadu",
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5549497715?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2FB5FF0CE7EC055328C957F1FAA9764BB3625A3C"
-        },
-        {
-            "id": "5549496806",
-            "description": "Job Title: Site Reliability Engineer (SRE) – Core IT Infrastructure Location: Chennai/ pune/ bangalore Company: Teceze About Teceze Teceze is a global IT services and consulting organization delivering innovative, scalable, and secure technology solutions. We specialize in infrastructure services, cloud transformation, DevOps, and managed services, helping enterprises achieve operational excellence and digital resilience. Job Summary Teceze is looking for a highly skilled Site Reliability Engin…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjcyMTAwIn0._N7Ewx8faWLsS_wWjB1jFJyK4ZGZpJTbdgznEgAcnmo",
             "company": {
-                "display_name": "TECEZE",
+                "display_name": "Oracle",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NDk2ODA2In0.gTahD-C-YVJMQtd0GZdG0rrs3Zdd2bQm7fjZQDVbkl8",
-            "created": "2025-12-20T09:00:29Z",
-            "title": "Site Reliability Engineer",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577272100?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=ACA9FF17BB7027C761FAB3916628617BF81E1D04",
+            "created": "2026-01-10T08:32:47Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "id": "5577272100",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Bangalore, Karnataka",
@@ -169,111 +58,136 @@
                     "Bangalore"
                 ]
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "redirect_url": "https://www.adzuna.in/land/ad/5549496806?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=9FBFF119927730755454857E362306D49DC6D824",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "salary_is_predicted": "0"
+            "title": "Site Reliability Developer 3",
+            "description": "Job Description Our Team - Building off our Cloud momentum, Oracle has formed a new organization - Oracle Health Data, Analytics Platform. This team will focus on product development and product strategy for Oracle Health, while building out a complete platform supporting modernized, automated healthcare. This is a net new line of business, constructed with an entrepreneurial spirit that promotes an energetic and creative environment. We are unencumbered and will need your contribution to make …"
         },
         {
-            "title": "Site Reliability Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYxOTQ5OTAzIn0.1MracrocyGFrb5fnt1y3yBTlnM13dFeZ3P7UPLtkjJ0",
-            "created": "2026-01-01T08:42:09Z",
-            "id": "5561949903",
-            "longitude": 78.50806,
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Infosys BPM"
-            },
-            "description": "Role-Site Reliability Engineer-SRE Experience-10years Location-Hyderabad Education-BTECH Required Skills and Experience: Proficiency in one or more programming languages: Java, Python, Unix Shell, PowerShell , or equivalent. Expertise in distributed systems is mandatory. Experience in building software and systems to manage platform infrastructure and applications. Ability to provide primary operational support and engineering for multiple large-scale distributed software applications. 10 years…",
-            "salary_is_predicted": "0",
             "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5561949903?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F7219A495BDB9EBE543B824C5FB91F8F90AFD4A8",
-            "latitude": 17.40275,
+            "created": "2026-01-10T08:32:47Z",
+            "id": "5577272108",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
-                    "Telangana",
-                    "Hyderabad"
+                    "Karnataka",
+                    "Bangalore"
                 ],
-                "display_name": "Hyderabad, Telangana"
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "__CLASS__": "Adzuna::API::Response::Job"
-        },
-        {
-            "id": "5560709702",
+            "description": "Job Description Our Team - Building off our Cloud momentum, Oracle has formed a new organization - Oracle Health Data, Analytics Platform. This team will focus on product development and product strategy for Oracle Health, while building out a complete platform supporting modernized, automated healthcare. This is a net new line of business, constructed with an entrepreneurial spirit that promotes an energetic and creative environment. We are unencumbered and will need your contribution to make …",
+            "title": "Site Reliability Developer 3",
             "company": {
-                "display_name": "Yarikul Infotech",
+                "display_name": "Oracle",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "description": "We’re looking for a Site Reliability Engineer (SRE) to ensure the reliability, scalability, and performance of our ERP platform. Key Responsibilities Own production reliability, monitoring, and alerting. Run incidents, postmortems, and reduce manual work. Maintain hybrid infra (AWS  Hetzner) with Pulumi  Ansible. Define SLIs/SLOs and use error budgets to guide deploys. What we’re looking for Must-have 2 years of experience in SRE / DevOps / infrastructure roles with real production ownership. S…",
-            "longitude": 74.95627,
-            "created": "2025-12-31T10:32:59Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYwNzA5NzAyIn0.dEilA6kPNyNJoXV1KocyxOKj5-Ay0VNhakP6cByu1RI",
-            "title": "Site Reliability Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Jammu and Kashmir",
-                    "Srinagar"
-                ],
-                "display_name": "Srinagar, Jammu and Kashmir"
-            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjcyMTA4In0.U95BtePRhIWQuZCD_x4_qvWA02Sfce_pqz2mc0F3Mxc",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 34.08783,
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5560709702?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=530F0D4206D55C9612F32B6B9D7C7FE9E4BCD5FD",
-            "salary_is_predicted": "0"
-        },
-        {
-            "title": "Site Reliability Engineer",
-            "company": {
-                "display_name": "CES",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Are you passionate about building scalable, reliable, and automated cloud infrastructure? We’re looking for an experienced Site Reliability Engineer (SRE) to join our team and drive operational excellence across our platforms. Key Responsibilities Design, implement, and manage AWS infrastructure at scale (EC2, S3, ELB, Lambda, ECS, Route 53, SQS, CloudWatch). Develop and maintain Infrastructure as Code (IaC) using Terraform , CDK, and DSC tools. Automate deployments and workflows for containeri…",
-            "id": "5537385804",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4NTgwNCIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.zx5-hhjC1e0LKfnLaI7AqG3barqgBtUiZA_53a1xXlM",
-            "created": "2025-12-11T09:27:48Z",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5537385804?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=37D25752020CEEA6FF9D0747D22C87698B9D3683",
             "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577272108?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=AA4EF42CFAB50365EB9F35C9A5D3BE6F1DF07CBA"
+        },
+        {
+            "company": {
+                "display_name": "Mastercard",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjYxNzE4In0.ZxwqQ7cpyqZ3eDFzIbg9Yb35VOqL8fghO6Er_2sn7OA",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261718?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=E7894577FE7D86A537ABEEF40069C04A47D32C8A",
+            "salary_is_predicted": "0",
+            "latitude": 18.5062,
+            "id": "5577261718",
+            "longitude": 73.84735,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T08:26:48Z",
+            "description": "Our Purpose _Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we're helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest po…",
+            "title": "BizOps Engineer II",
             "location": {
-                "display_name": "India",
+                "display_name": "Pune, Maharashtra",
                 "area": [
-                    "India"
+                    "India",
+                    "Maharashtra",
+                    "Pune"
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             }
         },
         {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NTg3NzE2In0.kXwFf7_etIvdSzjR43iJnOKXTbSZvE43Qb-5nnizA5w",
-            "created": "2025-12-18T08:43:18Z",
-            "id": "5546587716",
-            "description": "Hiring  About AndorTech AndorTech is a global IT services and consulting firm founded in 2009, headquartered in Bangalore. The company specializes in software engineering, AI-enabled IT services, application support, analytics, and test automation . With a presence across India, the USA, Europe, and the UAE, AndorTech partners with Global Capability Centers (GCCs) and Fortune 500 clients to deliver innovation through high-performance engineering and managed teams.  J ob Description – Site Relia…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjYxNzA4In0.hqh87Nkp4mnuRl_ApyuwxTttqP1hrOOjN9FzsZYw0Vc",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Andor Tech"
+                "display_name": "Mastercard"
             },
-            "title": "Site Reliability Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261708?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=A30F7458EB87D1E1ABEF9DC792A80FB2374E25EE",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2026-01-10T08:26:47Z",
+            "id": "5577261708",
+            "longitude": 73.84735,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Our Purpose _Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we're helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest po…",
+            "title": "Manager, BizOps"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261573?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=1BC97498B4DAE3CCDCC4D61E52AFC4D1010FA130",
+            "salary_is_predicted": "0",
+            "latitude": 12.95703,
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjYxNTczIn0.mG5b4n2JLVlCEEHsnzOxogItIFjQKP5at7arUz5NUss",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Introduction A career in IBM Software means you'll be part of a team that transforms our customer's challenges into industry-leading solutions. We are an infinitely curious team, always seeking new possibilities, and dedicated to creating the world's leading AI-powered, cloud-native software solutions. Our renowned legacy creates endless global opportunities for our network of IBMers. We are a team of deep product experts, ensuring exceptional client experiences, with a focus on delivery, excel…",
+            "title": "Senior Site Reliability Engineer - HashiCorp Network, Infrastructure Services",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 77.59837,
+            "id": "5577261573",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T08:26:33Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256985?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=99B82D3F81B7CEBED744F68D9EC13B14D85A1757",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjU2OTg1In0.vuL0Rno4pIL9akKhu6zWB6QO9x8-7BgLum66ldTqRuw",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Chevron Corporation"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -283,134 +197,203 @@
                 ],
                 "display_name": "Bangalore, Karnataka"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5546587716?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2616CC920ACAD5FDB5AC21B1B88D6C336A9DB272"
-        },
-        {
-            "created": "2025-12-20T09:01:04Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NDk3MzU2In0.jQ4r92h_qU_BasjX_y2C05b19Ibdf9LK1jAAugBSk1o",
-            "company": {
-                "display_name": "ACL Digital",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 72.59465,
-            "description": "Job Description : - Continuous monitoring of system performance and identify potential issues before they impact users. - Experience working with Industry leading monitoring tools. - Respond to incidents related to monitoring systems, troubleshooting Level 1 issues and resolving issues promptly. - Analyze monitoring data to identify trends, anomalies, to identify potential issues. - Cross-collaboration with development and platform teams to enhance application performance and reliability. - Par…",
-            "id": "5549497356",
+            "description": "Total Number of Openings 1 About the position: We are seeking a T-shaped dynamic Lead Site Reliability Engineer to lead and provide end-to-end solution support for our digital platforms and help us achieve higher returns and lower carbon goals. Key responsibilities: Drive reliability and systemic improvements across the subsurface tool set to support a more secure, reliable, scalable and performant environment for Chevron. Key Responsibilities (day-to-day tasks, learning and development opportu…",
             "title": "Site Reliability Engineer",
-            "latitude": 23.042,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Gujarat",
-                    "Ahmedabad"
-                ],
-                "display_name": "Ahmedabad, Gujarat"
-            },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5549497356?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F62DCB9B6ECB118FFAAE71DB5300C5BB2A76F10D",
             "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs",
-                "label": "IT Jobs"
-            }
-        },
-        {
-            "title": "Site Reliability Engineer",
-            "created": "2025-12-25T13:39:26Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU1MjAxNzM4In0.mRdgY1xU6Bvjnb1Nl4xuXxZlG4keO5He4RzZXFXLAbY",
-            "longitude": 80.24963,
-            "company": {
-                "display_name": "TECEZE",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": " We’re Hiring: Site Reliability Engineer | Chennai, Bangalore, Pune  Location: Chennai, Bangalore, Pune  Skills: Private Cloud Experience (Mandatory) VMware vRealize Suite / Cloud Foundation Open stack Open Shift Experience: 10 years SOW: Looking for Private Cloud Experience Infrastructure Reliability & Operations • Design, implement, and maintain highly available and fault-tolerant infrastructure • Ensure reliability, performance, scalability, and security of core IT systems • Monitor system h…",
-            "id": "5555201738",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5555201738?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=51F9D3C4619351380F2207F4E947B3AF90C337F3",
-            "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
                 "label": "IT Jobs"
             },
-            "latitude": 13.06041,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ],
-                "display_name": "Chennai, Tamil Nadu",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
+            "created": "2026-01-10T08:16:52Z",
+            "id": "5577256985"
         },
         {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 17.40275,
             "category": {
                 "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5468853921?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=84DC594E24686272F2237F9952DA96E7647F5174",
-            "salary_is_predicted": "0",
-            "longitude": 78.50806,
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Inspire Brands Hyderabad Support Center"
-            },
-            "description": "About Inspire Brands: Inspire Brands is disrupting the restaurant industry through digital transformation and operational efficiencies. The companys technology hub, Inspire Brands Hyderabad Support Center, India, will lead technology innovation and product development for the organization and its portfolio of distinct brands. The Inspire Brands Hyderabad Support Center will focus on developing new capabilities in data science, data analytics, eCommerce, automation, cloud computing, and informat…",
-            "id": "5468853921",
-            "created": "2025-10-29T06:57:46Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2ODg1MzkyMSIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.JNZvBkfWLpHkWJivmHsmFsZCmA4fvY1ov0Y2wUBLdQw",
-            "title": "Site Reliability Engineer"
-        },
-        {
-            "description": "About the role We are seeking an experienced Site Reliability Engineer to join our team at, a leader in blockchain technology and solutions. The ideal candidate will have a strong background in infrastructure management and a deep understanding of blockchain ecosystems. You will be responsible for designing, implementing, and maintaining the foundational infrastructure that supports our blockchain platforms, ensuring high availability, scalability, and security. Your expertise in AWS cloud tech…",
-            "company": {
-                "display_name": "Integrated Personnel Services Limited",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "id": "5556102537",
-            "created": "2025-12-26T08:34:55Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NjEwMjUzNyIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.dt_w7PqxFPDG5S5PETV6hIgCX2KzX4GLERWb1RBGmy8",
-            "title": "Site Reliability Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2026-01-10T08:16:26Z",
+            "id": "5577256727",
             "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
                 ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
+                "display_name": "Bangalore, Karnataka"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5556102537?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0DD8799EFCB80125FC1BD7BB8C4FD850BE473D32",
+            "description": "Job Requisition ID  25WD93104 Position Overview Become part of the team responsible for developing the core infrastructure that drives Autodesk's cloud services. You will be working on CloudOS, our cutting-edge Continuous Deployment (CD) platform, which is widely utilized by our internal cloud engineering teams. As a crucial element of the Platform Services and Emerging Technologies team, CloudOS streamlines and standardises the provisioning and management of front-end, back-end, and infrastruc…",
+            "title": "Principal Site Reliability Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1NjcyNyIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.0Ye6lQjD0taw4bMnL3e8WRndLq9B5xNsDaVCUBTUFi8",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Autodesk"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256727?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=D87E64BECFFA66487422DD64FC2ABC55CDBB63D7"
+        },
+        {
+            "longitude": 78.50806,
+            "id": "5577256650",
+            "created": "2026-01-10T08:16:09Z",
             "category": {
-                "label": "IT Jobs",
                 "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
             },
+            "title": "Telecom Sytems Engineer, Amazon Connect, Amazon Connect",
+            "description": "Description As part of the AWS Applied AI Solutions organization, we have a vision to provide business applications, leveraging Amazon's unique experience and expertise, that are used by millions of companies worldwide to manage day-to-day operations. We will accomplish this by accelerating our customers' businesses through delivery of intuitive and differentiated technology solutions that solve enduring business challenges. We blend vision with curiosity and Amazon's real-world experience to b…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjU2NjUwIn0.wDYtQakngHFcyzkQlgIuhl7teeXJbIe65tgqjWChwys",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256650?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=0005C10B6B886F43B179C29EC5DE61BF02BB21DD",
+            "latitude": 17.40275,
             "salary_is_predicted": "0"
         },
         {
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256554?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=01B4544A65C3D84402CD5D44BE92554B90605DDF",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1NjU1NCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.oAwTIYljCoAYOj0RRifFpbM8P3FTtMjX3zARFZ3hsyc",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Akamai Technologies, Inc."
+            },
+            "title": "Senior Site Reliability Engineer",
+            "description": "Do you like collaborating across teams to solve complex problems? Do you enjoy solving large scale distributed systems problems? Join the Mapping SRE team The Mapping SRE team manages availability, reliability, performance, and change processes for Akamai's mapping system. This system routes trillions of daily client requests, controlling global traffic at tens of terabits per second. The team establishes KPIs, enhances measurements, develops monitoring tools, and resolves intricate production …",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577256554",
+            "created": "2026-01-10T08:15:47Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5577211807?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Cotiviti",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjExODA3In0.00NX_HelIejOvsP7EijbeXws897wtsUyfwgczs3bjHc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Edifecs/Cotiviti you’ll be joining the Engineering team responsible for the design & implementation of a multi-tenant SaaS (Software-as-a-Service) platform that is transforming healthcare space. As a member of the engineering team, your primary responsibility will be design and implementation for Edifecs/Cotiviti’s payer and provider solutions. Your ability to autonomously & proactively drive all aspects of development is a critical requirement. We primarily work with Java-based solutions an…",
+            "title": "Software Engineer",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577211807",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T07:13:43Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576952414?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Njk1MjQxNCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.EveYqUIHbhirQ6vMLXgeGKObTI8p8eOGDydNJftisE0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nagarro"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Requirement: Experience: 5 years Strong experience in DevOps or Site Reliability Engineering (SRE) roles. Strong knowledge of Docker, Kubernetes, Terraform, and CI/CD pipelines. Hands-on experience with AWS, Azure, or other cloud platforms. Familiarity with GPU infrastructure and ML workloads is a plus. Good understanding of monitoring and logging systems (Prometheus, Grafana). Ability to collaborate with ML teams for optimized inference and deployment. Strong troubleshooting an…",
+            "title": "Associate Staff Engineer, Devops",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576952414",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T04:21:53Z"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T04:21:53Z",
+            "longitude": 73.84735,
+            "id": "5576952399",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "description": "Job Description As a Senior Site Reliability Engineer, youʼll help drive our infrastructure forward — designing resilient systems, optimizing performance, and automating at scale. Youʼll be part of a team that takes pride in owning foundational services used across the company. Design, maintain, and evolve our infrastructure, primarily on Google Cloud Platform, with components on AWS and OVH (bare metal). Improve and standardize our CI/CD pipelines, monitoring, and observability stack. Develop …",
+            "title": "Senior Site Reliability Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2OTUyMzk5In0.vK9fI3JpJu1rfMju_FFmHxWp_CXUJze1L8VO0X2mYNg",
+            "company": {
+                "display_name": "NielsenIQ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/details/5576952399?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "company": {
+                "display_name": "Entain India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Njk1MjIyNCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.vxSQ1HEL7BIWg4T4y6abN3DwqH2Nyt-ITYvXRLiQ-hI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/details/5576952224?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T04:21:52Z",
+            "id": "5576952224",
+            "longitude": 78.50806,
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Hyderabad, Telangana",
@@ -420,147 +403,591 @@
                     "Hyderabad"
                 ]
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 17.40275,
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5536065997?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=48E683B285FA0F3097B94A60DD9C00B2A76B4543",
-            "salary_is_predicted": "0",
-            "id": "5536065997",
-            "longitude": 78.50806,
-            "company": {
-                "display_name": "ValueMomentum",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "About the Role We are seeking an experienced Site Reliability / Azure DevOps Engineer with Dynatrace Experience to join our engineering team and contribute to scalable CI/CD practices, infrastructure automation, and cloud operations. The ideal candidate will have deep expertise in Azure DevOps, Infrastructure as Code (IaC), Azure services, and modern DevOps practices. Key Responsibilities Design and maintain CI/CD pipelines using Azure DevOps. Implement Infrastructure as Code using tools like A…",
-            "created": "2025-12-10T16:53:47Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NTk5NyIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.CBpqATqrPk_Zae-GTuI8d12NPZyIDVa28U7xeECwKnU",
-            "title": "Site Reliability Engineer"
+            "description": "Job Description We are seeking a talented and motivated SRE Tech Lead to join our dynamic team. In this role, you will execute a range of site reliability activities, ensuring optimal service performance, reliability, and availability. You will collaborate with cross-functional engineering teams to develop scalable, fault-tolerant, and cost-effective cloud services. If you are passionate about site reliability engineering and ready to make a significant impact, we would love to hear from you!",
+            "title": "Tech Lead - SRE"
         },
         {
-            "title": "Site Reliability Engineer",
-            "description": "About Media.net : Media.net is a leading, global ad tech company that focuses on creating the most transparent and efficient path for advertiser budgets to become publisher revenue. Our proprietary contextual technology is at the forefront of enhancing Programmatic buying, the latest industry standard in ad buying for digital platforms. The Media.net platform powers major global publishers and ad-tech businesses at scale across ad formats like display, video, mobile, native, as well as search. …",
-            "company": {
-                "display_name": "Media.net",
-                "__CLASS__": "Adzuna::API::Response::Company"
+            "longitude": 78.50806,
+            "id": "5576952203",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "id": "5510941470",
-            "created": "2025-11-24T07:20:26Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDk0MTQ3MCIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.ja3X7PoUW3VoW5sW3PH-rZJQgq8dgiPFV_YnyBhWl1I",
-            "redirect_url": "https://www.adzuna.in/land/ad/5510941470?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DDCC50D902336C7295D46F835B04C7727D8036E7",
+            "created": "2026-01-10T04:21:52Z",
+            "description": "Job Description We are seeking a talented and motivated SRE Manager to join our dynamic team. In this role, you will execute a range of site reliability activities, ensuring optimal service performance, reliability, and availability. You will collaborate with cross-functional engineering teams to develop scalable, fault-tolerant, and cost-effective cloud services. If you are passionate about site reliability engineering and ready to make a significant impact, we would love to hear from you! Key…",
+            "title": "SRE Manager",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Entain India"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Njk1MjIwMyIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.DtCwzQoqhgb7fNCQ7XJnMtY4uABjUpKxkIwG73n24RE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576952203?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576792121?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 13.06041,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CoreStack"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NzkyMTIxIn0.kKxDT_SbVLXcfiDspgXLpuLaVZ0DL5Hl27PRTiBGzZU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Summary: As a Site Reliability Engineer you are expected to take ownership of platform reliability, monitoring, logging, incident response, and operational excellence. This role requires strong accountability, calm decision-making during incidents, and the ability to fix and restore systems under pressure. Key Responsibilities Reliability & Operations: Own availability, performance, and reliability of production systems Participate in on-call rotations and lead incident resolution Perform r…",
+            "title": "Site Reliability Engineer (SRE)",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576792121",
+            "longitude": 80.24963,
             "category": {
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs"
             },
-            "salary_is_predicted": "0",
+            "created": "2026-01-10T02:23:52Z"
+        },
+        {
+            "id": "5576590596",
+            "longitude": 77.59837,
+            "created": "2026-01-10T00:49:55Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "title": "Lead Site Reliability Engineer, Network Assurance Data Platform",
+            "description": "Meet the Team Cisco ThousandEyes is a Digital Assurance platform that empowers organizations to deliver flawless digital experiences across every network - even the ones they don’t own. Powered by AI and an unmatched set of cloud, internet and enterprise network telemetry data, ThousandEyes enables IT teams to proactively detect, diagnose, and remediate issues - before they impact end- user experiences. ThousandEyes is deeply integrated across the entire Cisco technology portfolio and beyond, h…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
             "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU5MDU5NiIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.FLZtvMoUmkJHKkUjlM3f1ORsBDXtzH__-3L7HVJuTa0",
+            "company": {
+                "display_name": "Cisco Systems",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576590596?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 12.95703,
+            "salary_is_predicted": "0"
+        },
+        {
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T00:44:15Z",
+            "id": "5576549640",
+            "longitude": 76.93365,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Trivandrum, Thiruvananthapuram",
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Thiruvananthapuram",
+                    "Trivandrum"
+                ]
+            },
+            "description": "Who are we? At Finastra, we are a dynamic global provider of open finance software solutions, dedicated to expanding access to financial services. Our innovative applications span Lending, Payments, Treasury and Capital Markets, and Universal Banking. Proudly serving over 8,000 customers, including 45 of the world's top 50 banks, we aim to boost financial inclusion for all. Join us and be part of a vibrant company that embraces diverse perspectives, and is committed to doing well by doing good.…",
+            "title": "Senior DevOps Cloud Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTQ5NjQwIn0.UK7Yb2nNnX1pLOJ7Z_SRWqEe7t5arpjENEH0LK587Yw",
+            "company": {
+                "display_name": "Finastra Technology",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 8.49239,
+            "redirect_url": "https://www.adzuna.in/details/5576549640?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "company": {
+                "display_name": "Cisco Systems",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU0NDYxOCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.MJaoEIwKHJloxVNUnTlE9JbyrXB2hMLLJNc5SQOiZTQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 12.95703,
+            "redirect_url": "https://www.adzuna.in/details/5576544618?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:43:33Z",
+            "id": "5576544618",
+            "longitude": 77.59837,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "description": "Meet the Team As a Site Reliability Engineering (SRE) Technical Leader on the Intersight Team you will play a key role in ensuring the reliability, scalability, and security of our cloud platforms. The broader team is composed of experienced engineers who value innovation and accountability. You will represent the Intersight SRE team, working in a dynamic environment, tackling challenges with creativity, providing technical leadership in defining and delivering on the team's technical roadmap. …",
+            "title": "Intersight Site Reliability Engineer | Cloud |CI/CD | Linux | 10-14 Years |Bangalore"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjUzODU1NCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.zbBR725sMJ6jOxdAG99G1NuSktNl-zxiaYFtT8J7KVQ",
+            "company": {
+                "display_name": "Poshmark India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576538554?utm_medium=api&utm_source=d58ac19b",
+            "created": "2026-01-10T00:42:32Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "id": "5576538554",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "title": "Staff Site Reliability Engineer I",
+            "description": "Confidence can sometimes hold us back from applying for a job. Here’s a secret: there's no such thing as a \"perfect\" candidate. Poshmark is looking for exceptional people who want to make a positive impact through their work and help create an organization where everyone can thrive. So whatever background you bring with you, please apply if this role would make you excited to come to work every day. Job Description: We’re looking for an experienced Site Reliability Engineer to fill the mission-…"
+        },
+        {
             "location": {
                 "area": [
                     "India"
                 ],
                 "display_name": "India",
                 "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "As a Observability Engineer under Site Reliability Engineering Team, you will be a crucial part of the team responsible for the availability, performance, and scalability of our cloud platform. You will blend software engineering and systems administration expertise to build and run large-scale, distributed, fault-tolerant systems. Your mission is to ensure our services are reliable and efficient through automation, robust monitoring, and proactive incident response. You will work closely with …",
+            "title": "Site Reliability Engineer III - India",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:41:12Z",
+            "id": "5576530952",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576530952?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Chicago Mercantile Exchange"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTMwOTUyIn0.G6r21oyJC_VHfbXinyY-3n_lrbz11ajK-i1-3eOcAg0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576526784?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Maersk",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTI2Nzg0In0.v9lN0YW6ms0ymbB4IJErGCI1vulr992f7ueNdYQnsFs",
+            "title": "Senior Java Engineer (Code, System design)",
+            "description": "About the Role We are looking for a Senior Software Engineer with strong development experience and a design-thinking approach to problem-solving. The ideal candidate is passionate about building scalable, user-centric solutions and has a solid foundation in software engineering principles. Knowledge of automation, DevOps, and Site Reliability Engineering (SRE) is a strong plus. Key Responsibilities Hands-on Development • Design, develop, and maintain high-quality software applications. • Write…",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576526784",
+            "created": "2026-01-10T00:40:27Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
             }
         },
         {
-            "title": "Site Reliability Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjUyNjcwMiIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.wfVZuLksfKf9-n5nVOgj3o18EMPaMFCUWP5UD74OMgA",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Reflections Info Systems"
+                "display_name": "Amazon"
             },
-            "longitude": 76.272999,
-            "description": "We are looking for 2years experienced candidates for this role. Job Location: Cochin/Trivandrum Responsibilities include: Implement and maintain observability and monitoring solutions using New Relic and Grafana. Ensure application and infrastructure reliability by applying core SRE principles — including availability, performance, scalability, and incident management. Manage and optimize Kubernetes clusters, containerized workloads, and Helm deployments. Automate infrastructure provisioning an…",
-            "id": "5558016367",
-            "created": "2025-12-28T10:05:42Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODAxNjM2NyIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.XUuIpQiBz5_Lw4cXD8yp-d_iVPeMa3_SMf-zO3gk0Og",
-            "redirect_url": "https://www.adzuna.in/land/ad/5558016367?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=E5B804BDEB7E568F0B909A39B0B4602132386305",
+            "redirect_url": "https://www.adzuna.in/details/5576526702?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "id": "5576526702",
+            "created": "2026-01-10T00:40:26Z",
+            "contract_time": "full_time",
             "category": {
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs"
             },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Telecom Sytems Engineer, Amazon Connect, Amazon Connect",
+            "description": "As part of the AWS Applied AI Solutions organization, we have a vision to provide business applications, leveraging Amazon’s unique experience and expertise, that are used by millions of companies worldwide to manage day-to-day operations. We will accomplish this by accelerating our customers’ businesses through delivery of intuitive and differentiated technology solutions that solve enduring business challenges. We blend vision with curiosity and Amazon’s real-world experience to build opinion…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            }
+        },
+        {
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
-                    "Kerala"
+                    "Tamil Nadu",
+                    "Chennai"
                 ],
-                "display_name": "Kerala, India"
+                "display_name": "Chennai, Tamil Nadu"
             },
-            "latitude": 10.368486
-        },
-        {
-            "location": {
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Mumbai"
-                ],
-                "display_name": "Mumbai, Maharashtra",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 19.00821,
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5557297814?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8ADA5AB99DD9AB08037BEEF7FEDA87B0C966FC86",
-            "salary_is_predicted": "0",
-            "id": "5557297814",
-            "longitude": 72.84415,
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "TalentOnLease"
-            },
-            "description": "Experience: Minimum of 6 years in a technical role, with 2 years leading an SRE, DevOps, or highly-available operations team. Technical Stack: Proficient in cloud platforms (AWS, Azure, or GCP), containerization (Kubernetes/Docker), and Infrastructure as Code (Terraform, Ansible, or Puppet). Coding/Scripting: Strong programming or scripting skills in at least one language (e.g., Python, Go, Java) for automation and tooling development. System Knowledge: Deep understanding of Linux/Unix fundamen…",
-            "created": "2025-12-27T22:06:44Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NzI5NzgxNCIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.bVnKY0JFEn3MgEbzOYl2E9EqustKJBazf-GUsQGqZNQ",
-            "title": "Site Reliability Engineer"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODcxMjg1In0.UuhXIbt90yNBTdoZxnYtWqBW6Ijkya0FfWTxYp_Q1xo",
-            "created": "2025-12-24T10:17:35Z",
-            "description": "TechOps Engineer Experience: 2 years Focus: Reliability, Automation using Python & Shell/Bash, Production Support Location: Onsite – Hyderabad, India Shift: Rotational shifts (Day/Night) – 24/7 coverage Duration: 6 months with possibility for extension Start: Immediate We’re looking for a TechOps Engineer to help keep our production systems stable, reliable, and running smoothly. You’ll work closely with engineering teams, automate operational work, and support live systems in a cloud environme…",
-            "company": {
-                "display_name": "Biblioso",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "id": "5553871285",
-            "title": "Site Reliability Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "salary_is_predicted": "0",
+            "description": "About Poshmark Poshmark is a leading fashion resale marketplace powered by a vibrant, highly engaged community of buyers and sellers and real-time social experiences. Designed to make online selling fun, more social and easier than ever, Poshmark empowers its sellers to turn their closet into a thriving business and share their style with the world. Since its founding in 2011, Poshmark has grown its community to over 130 million users and generated over $10 billion in GMV, helping sellers reali…",
+            "title": "Senior Site Reliability Engineer",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs",
                 "label": "IT Jobs"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5553871285?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F7AB8F4C04049A266778C43D6FB87CFDD6E45FF4",
-            "contract_type": "contract"
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:38:08Z",
+            "id": "5576510878",
+            "longitude": 80.24963,
+            "salary_is_predicted": "0",
+            "latitude": 13.06041,
+            "redirect_url": "https://www.adzuna.in/details/5576510878?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjUxMDg3OCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.ggwZlKenG9eXmgzELNPF8JLXd_hurGRBNa2q98XCUDY",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Poshmark"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
         },
         {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576472377?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQ3MjM3NyIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.MU_a3LjSnF3z-2Ae-8GPMu-H5erpjvL2YTo9iPXJy00",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Candescent"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Software Dev Ops Engineer II - Cloud Platform",
+            "description": "Candescent is the leading cloud-based digital banking solutions provider for financial institutions. We are transforming digital banking with intelligent, cloud-powered solutions that connect account opening, digital banking, and branch experiences for financial institutions. Our advanced technology and developer tools enable seamless, differentiated customer journeys that elevate trust, service, and innovation. Success here requires flexibility in a fast-paced environment, a client-first minds…",
+            "created": "2026-01-10T00:33:59Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5576472377"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576422415?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NDIyNDE1In0.ftafwOOFYLsHdwB658ARTTsXZyA4e9EwEDGi5z1qYe4",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Liberty Wireless Technologies"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "description": "Founded in 2014, Circles is a global technology company reimagining the telco industry with its innovative SaaS platform, empowering telco operators worldwide to effortlessly launch innovative digital brands or refresh existing ones, accelerating their transformation into techcos. Today, Circles partners with leading telco operators across multiple countries and continents, including KDDI Corporation, Etisalat Group (e&), AT&T, and Telkomsel, creating blueprints for future telco and digital exp…",
+            "title": "Software Engineer II, Application SRE",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:30:09Z",
+            "id": "5576422415"
+        },
+        {
+            "id": "5576420237",
+            "created": "2026-01-10T00:29:56Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "title": "Site Reliability Engineer II (SRE) - Guidewire Cloud Platform (Application)",
+            "description": "Summary At Guidewire, we deliver the software that Property and Casualty (P&C) insurance companies rely on to protect their customers during crises, natural disasters, accidents, and cyber risks. Our core applications enable insurers to sell and underwrite policies, settle claims, and bill their customers. We also offer a suite of innovative products for data management, digital portals, and predictive analytics. Hundreds of insurers worldwide use Guidewire's products, running on our cutting-ed…",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQyMDIzNyIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.rPpdWC27vaqiip80sHt_GEMXaCCt5ZVmrF3zbgue4Q4",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Guidewire"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576420237?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576417836?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deutsche Bank"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQxNzgzNiIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.x0w8XTEz3jfkV4ivgURyF_8x3AfOqKgKE0tIxKHJmW4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description: Job Title: Lead Site Reliability Engineer, AVP Location: Pune, India Role Description At DB, we’re capturing the opportunities of tomorrow. You can be part of fast growing fintech, client-committed, making an impact on small- & large-scale businesses communities around the world. Join us on our journey, and you can shape our transformation by working side by side with industry thought leaders and gaining new and diverse perspectives. You can share ideas and be yourself, whilst …",
+            "title": "Lead Site Reliability Engineer, AVP",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576417836",
+            "contract_time": "full_time",
             "category": {
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5536062308?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=978402F9D6EC39CD802F4A3972BFEDDAFDEF85B0",
+            "created": "2026-01-10T00:29:42Z"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "description": "Harness is led by technologist and entrepreneur Jyoti Bansal, founder of AppDynamics (acquired by Cisco for $3.7B). The company has raised ~$570M in Series E venture funding, is valued at $5.5B, and backed by top investors including Goldman Sachs, Menlo Ventures, IVP, Google Ventures, J.P. Morgan, Capital One Ventures, Citi Ventures, ServiceNow, Splunk Ventures and more. Harness is building the industry’s leading AI-powered software delivery platform, enabling teams worldwide to build, test, an…",
+            "title": "Senior Software Engineer - Pipeline",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_type": "contract",
+            "created": "2026-01-10T00:27:23Z",
+            "id": "5576384434",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576384434?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM4NDQzNCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.7mpOryEXRajnMYCSkXdXNiWhyvAxuvzM9UE79FH8h_U",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Harness"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Senior Manager, FIEET Engineer",
+            "description": "ROLE SUMMARY We are seeking an experienced Software Engineering leader to collaborate and partner across high-performing, cross-functional software engineering teams. In this role, you will drive technical excellence, set technical direction, create space for innovation, and model the ownership behaviors that define our engineering culture. This Senior Manager role encompasses multi-team initiatives with high impact to the organizational and its strategic goals. You’ll influence multiple teams,…",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576383251",
+            "created": "2026-01-10T00:27:19Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576383251?utm_medium=api&utm_source=d58ac19b",
             "salary_is_predicted": "0",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM4MzI1MSIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.pPk7v6VsEYreVoK7GEOm1vjOabB6S9aNh-WrxN2fX7I",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Pfizer"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2Mzc0MzE0In0.VlzlPjCiQyxMIP9TMuFcCL1PnfUmqtefO02DCc1Nklw",
+            "company": {
+                "display_name": "Ouro",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "latitude": 28.56579,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576374314?utm_medium=api&utm_source=d58ac19b",
+            "created": "2026-01-10T00:26:41Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "longitude": 77.3225,
+            "id": "5576374314",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ]
+            },
+            "title": "Senior DevOps Engineer",
+            "description": "About the Company: Ouro is a global, vertically-integrated financial services and technology company dedicated to the delivery of innovative financial empowerment solutions to consumers worldwide. Ouro’s financial products and services span prepaid, debit, cross-border payments, and loyalty solutions for consumers and enterprise partners. Ouro's flagship product Netspend provides prepaid and debit account solutions that connect customers with secure, convenient access to global payment networks…"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576373067?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM3MzA2NyIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.QPx1zu6VrwQ7wPX10n90Oh858Rgnq-AaZNQvhJ6FOVc",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Eli Lilly and Company"
+            },
+            "title": "Associate Director - Data Analytics Services",
+            "description": "At Lilly, we unite caring with discovery to make life better for people around the world. We are a global healthcare leader headquartered in Indianapolis, Indiana. Our employees around the world work to discover and bring life-changing medicines to those who need them, improve the understanding and management of disease, and give back to our communities through philanthropy and volunteerism. We give our best effort to our work, and we put people first. We’re looking for people who are determine…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5576373067",
+            "created": "2026-01-10T00:26:36Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "title": "Principal Site Reliability Developer",
+            "description": "Description Solve complex problems related to infrastructure cloud services and build automation to prevent problem recurrence. Design, write, and deploy software to improve the availability, scalability, and efficiency of Oracle products and services. Design and develop designs, architectures, standards, and methods for large-scale distributed systems. Facilitate service capacity planning and demand forecasting, software performance analysis, and system tuning. Responsibilities Work with Site …",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576361013",
+            "created": "2026-01-10T00:25:46Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576361013?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Oracle",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM2MTAxMyIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.vYPs0cmm97yW69FDF_DUC7fiqrXfxRAUVHA8Wo5d9lA"
+        },
+        {
+            "title": "Senior Site Reliability Engineer (SRE)",
+            "description": "There are NO limits to your career: come shape the future and be part of a truly unique global culture at OutSystems! About the role Site Reliability Engineering (SRE) is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals of SRE are to create scalable and highly reliable systems. Our SREs ensure our production systems' reliability, performance, and scalability while enabling rapid development and deployment o…",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576340421",
+            "created": "2026-01-10T00:24:12Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576340421?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM0MDQyMSIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0._Y985JRuJm4pPKt4DE3X-MI2PV8MycFqiPcAIBfeqpk",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outsystems India"
+            }
+        },
+        {
+            "latitude": 28.56579,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576310349?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ouro"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MzEwMzQ5In0.w5Lk6D5VjvMjHeD3bwBSoR64OhDLXwf0_mq2my0vYf4",
             "location": {
                 "area": [
                     "India",
@@ -571,295 +998,93 @@
                 "display_name": "Noida, Ghaziabad",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "latitude": 28.56579,
-            "title": "Site Reliability Engineer",
-            "longitude": 77.3225,
-            "company": {
-                "display_name": "Mumba Technologies, Inc.",
-                "__CLASS__": "Adzuna::API::Response::Company"
+            "title": "Observability Response and Reliability Technician",
+            "description": "About the Company: Ouro is a global, vertically-integrated financial services and technology company dedicated to the delivery of innovative financial empowerment solutions to consumers worldwide. Ouro’s financial products and services span prepaid, debit, cross-border payments, and loyalty solutions for consumers and enterprise partners. Ouro's flagship product Netspend provides prepaid and debit account solutions that connect customers with secure, convenient access to global payment networks…",
+            "created": "2026-01-10T00:22:04Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
             },
-            "description": "Job Title: DevOps Infrastructure Engineer Job Type: Full Time Location: Noida 62 Shift Timing: Night Shift Role Overview: We are seeking an experienced DevOps Infrastructure Engineer with deep technical expertise in multi cloud infrastructure automation, distributed system design, and secure, high availability environments. This role will own delivery of resilient platform services across Azure, AWS, GCP, and OCI, with strong emphasis on IaC, Kubernetes, pipelines, and observability engineering…",
-            "id": "5536062308",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2MjMwOCIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.Ya9cknAtyaAdJIllhajO3eXqM5UPuhvoym2IxfRONms",
             "contract_time": "full_time",
-            "created": "2025-12-10T16:47:28Z"
+            "id": "5576310349",
+            "longitude": 77.3225
         },
         {
-            "title": "Site Reliability Engineer",
-            "created": "2025-12-13T09:40:42Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDY3Mzg5NyIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.LmFkRiVZte2dx4fXhonmtEhMMKWES6MTTzYwYwU3XAU",
-            "description": "Role: Reliability Engineer Join our DevOps teams to ensure the dependability, scalability, and performance of enterprise-scale applications and platforms.  Key Responsibilities Reliability & Scalability: Ensure systems availability, stability, security, and performance. DevOps Collaboration: Work in shared responsibility with application and platform teams. Reliability Processes: Drive root cause analysis, systems validation, performance tuning, and capacity management. Incident Response: Dedic…",
-            "company": {
-                "display_name": "Birlasoft",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 78.50806,
-            "id": "5540673897",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5540673897?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F08D254CB0161230841BD286EC805677C8754F40",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "latitude": 17.40275,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Hyderabad, Telangana",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
-        },
-        {
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5553863551?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=7F5340579E092950B1E5E018DE87FFFA32AC9267",
-            "salary_is_predicted": "0",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ],
-                "display_name": "Pune, Maharashtra"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 18.5062,
-            "title": "Site Reliability Engineer",
-            "id": "5553863551",
-            "company": {
-                "display_name": "IntraEdge",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Sr. Softwre Engineer - SRE Supoort Experience: 5 years Location: Pune (Hybrid) Shifts: Night Shifts We are seeking a skilled and proactive Support Engineer to join our team. The Support Engineer will play a crucial role in providing Tier 2 support for our applications and infrastructure. The ideal candidate should have experience supporting applications and infrastructure in an AWS Cloud environment, possess strong troubleshooting skills, excel in incident management, and be willing to work in …",
-            "longitude": 73.84735,
-            "created": "2025-12-24T10:12:34Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODYzNTUxIn0.v2WV5g1OyOJ9lXwPL4-2q-mfQ4vSlIl6yzogWC1gSnM"
-        },
-        {
-            "description": "TCS Hiring Site Reliability Engineering Role*Site Reliability Engineering 5-8 Years Bangalore/Hyderabad Please read Job description before Applying NOTE: If the skills/profile matches and interested, please reply to this email by attaching your latest updated CV and with below few details: Name: Contact Number: Email ID: Highest Qualification in: (Eg. B.Tech/B.E./M.Tech/MCA/M.Sc./MS/BCA/B.Sc./Etc.) Current Organization Name: Total IT Experience- Location: Bangalore/Hyderabad Current CTC Expecte…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Tata Consultancy Services"
-            },
-            "id": "5559729008",
-            "created": "2025-12-30T10:31:19Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1OTcyOTAwOCIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.x2DZ3Jjghej5oMA94VBCC0Uylk8J682xGlHoozXcFTM",
-            "title": "Site Reliability Engineering Manager",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5559729008?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=CA9C121B3F089FC56E272F168FD6656A6DB2AD9E",
-            "salary_is_predicted": "0"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MTgxOTA1NCIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.PfquLZI4UlrgeUJ-zo7TzF_la9LNZB9J0rNnvnifF40",
-            "created": "2025-12-14T10:20:05Z",
-            "id": "5541819054",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "super.money"
-            },
-            "description": "Site Reliability Engineer (SRE) Level 2 Overview: A Site Reliability Engineer (SRE) Level 3 is a senior technical leadership role focused on designing, implementing, and maintaining large-scale, complex, and highly reliable systems. This role emphasizes a blend of software and systems engineering to ensure the availability, latency, performance, and capacity of critical services. SREs at this level are passionate about quality, efficiency, and reliability, and they play a crucial role in accele…",
-            "title": "Senior Site Reliability Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5541819054?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D84FB089FB7A6B579EC9ED18D50C2D4AE0AD8051"
-        },
-        {
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5549496578?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B96106AC0D9E916753146FFF588B20273EC7A9F5",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 17.40275,
-            "title": "Principal Site Reliability Engineer",
-            "company": {
-                "display_name": "IntraEdge",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Job Title: Principal Site Reliability Engineer (Principal SRE) Experience: 7 Years Location: Hyderabad Employment Type: Full-Time About the Role We are seeking an experienced Principal Site Reliability Engineer (SRE) to provide technical leadership and strategic direction for reliability, scalability, and operational excellence across our technology platforms. This role combines deep technical expertise, people leadership, and operational strategy , and serves as a key bridge between SRE teams …",
-            "longitude": 78.50806,
-            "id": "5549496578",
-            "contract_time": "full_time",
-            "created": "2025-12-20T09:00:18Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NDk2NTc4In0.m0LRFd3Hnc1pOB-Kdj1edqgsIktJsU5RithMtZtk4VQ"
-        },
-        {
-            "description": "As a Site Reliability Engineer , your role is to provide reliability engineering services through observability and performance engineering techniques. Using monitoring and performance tools to deliver detailed feedback to product owners and development teams. You will partner with Product Owners to define service level objectives and develop service level indicators. Collaborate with cross-functional teams to design, build, automate, and maintain scalable infrastructure. Your responsibilities …",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Quest Diagnostics"
-            },
-            "longitude": 78.50806,
-            "id": "5537384981",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4NDk4MSIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.S4OaTeawVPzXpnOjCnSQoWqHuRM4iH2T62hl8EpHE9Y",
-            "created": "2025-12-11T09:27:31Z",
-            "title": "Site Reliability Engineer II",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Hyderabad, Telangana",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 17.40275,
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5537384981?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2267FBAB3ACC169548C83EA695368E887E1921FC",
-            "salary_is_predicted": "0"
-        },
-        {
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5546314005?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F82A5811FC7A739DE1D98DD6CCC31EB83E1C90B6",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
-            },
-            "title": "Senior Site Reliability Engineer",
-            "description": "Join Vertex Agility — a high-performance, remote-first consultancy building resilient, cloud-native platforms at scale. We’re looking for a Senior Site Reliability Engineer (India) with a strong engineering mindset and passion for reliability. The Mission Ensure reliability, scalability, and performance of SaaS platforms Apply SRE principles: CI/CD, error budgets, blameless postmortems Automate infrastructure, deployments, security, and operations Build observability: SLIs, SLOs, monitoring & a…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Vertex Agility"
-            },
-            "id": "5546314005",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzE0MDA1In0.-ZS9i-_ONCzM_D79S2jQNakjx_wErAYXyi9k2Vu8Nc8",
-            "created": "2025-12-18T02:36:54Z"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5549496596?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3D10CE74700CAC0F00ECBF10274F83162B9E432B",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "salary_is_predicted": "0",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Senior Site Reliability Engineer",
-            "id": "5549496596",
-            "description": "We are looking for an experienced Senior Site Reliability Engineer (SRE) to ensure the reliability, scalability, and performance of our production systems. The ideal candidate will have strong troubleshooting skills, hands-on experience with messaging queues , in-memory queues , Kubernetes , and deployment automation , along with expertise in Infrastructure as Code and microservices architecture . Key Responsibilities Application Troubleshooting: Diagnose and resolve complex application issues …",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Karix"
-            },
-            "created": "2025-12-20T09:00:19Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NDk2NTk2In0.6YXSnVEjpOYj-EfrfKU_Ig1h9VBYYoUCBLH0P8xVMi0"
-        },
-        {
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5556102566?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6572CD67E7A3B84ED5B196E0D47CCC7A9DC12360",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "created": "2025-12-26T08:35:00Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU2MTAyNTY2In0.AHAPwCjRwIagjtHrXVPnyokrFiQSddM1Y052a7iPr0M",
-            "id": "5556102566",
-            "description": "Role : SRE(Site Reliability Engineer) Location : Pan India Skills Good to Have: - Kubernetes - Understanding of ETSI MANO Architecture - Experience in creating VNFD and NSD packages - Working with Java apps, Rancher, Kubernetes, and Helm - Experience building and managing Kafka, Zookeeper and Consul clusters. - Experience deploying and maintaining Hadoop, Airflow, Geode, and related components. - Load Balancing configuration and management Eg. F5. - Familiar with Central Auth, LDAP - Experience…",
-            "company": {
-                "display_name": "Tata Consultancy Services",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "title": "SRE(Site Reliability Engineer)"
-        },
-        {
-            "title": "Site Reliability Engineering Manager",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM1ODE2OTYzOCIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.ORqOrBIIjof7TosjzkPjN7AZkFtxG3JBeba4jnWp89A",
-            "created": "2025-08-19T07:04:00Z",
-            "description": "Good-day, We have immediate opportunity for Senior Site Reliability Engineer. Job Role: Senior Site Reliability Engineer Job Location: Synechron ( Bengaluru/ Pune) Experience- 10 to 15 years Notice : Immediate Joiner About Company: At Synechron, we believe in the power of digital to transform businesses for the better. Our global consulting firm combines creativity and innovative technology to deliver industry-leading digital solutions. Synechron’s progressive technologies and optimization stra…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Synechron"
-            },
-            "id": "5358169638",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5358169638?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0E93B8617158EEFF2C0DE8D38136437A4E52945B",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
+            "id": "5576306205",
             "contract_type": "permanent",
+            "created": "2026-01-10T00:21:44Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "title": "Senior Site Reliability Support Engineer",
+            "description": "REMOTE - Hyderabad, India What is Equisoft? Equisoft is a global provider of digital solutions for insurance and investment, recognized by over 250 of the world's leading financial institutions. We offer a comprehensive ecosystem of scalable solutions that help our customers meet all the challenges brought about by this era of digital transformation, thanks to our business needs-driven approach, industry knowledge, cutting-edge technologies and experts. With its business-driven approach, in-dep…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
             "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjMwNjIwNSIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.de8UjSdPcgsqS24ZO7Xpu2CwzGVmKCigwhW2fPw0Ny4",
+            "company": {
+                "display_name": "Equisoft",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576306205?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576289622?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Ticketmaster India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjI4OTYyMiIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.thA15yTHdgXFP6Oos3qnyJB2D9oQcsQ2ZSDHJpincuU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Summary: Location: India Division:Engineer 3 - Abuse Line manager: Senior Engineering Manager - Site Reliability Engineering Contract Terms: Permanent THE TEAM As the Abuse Operations Engineering Lead, you'll be part of a mission critical team protecting the Ticketmaster platforms from abusive entities or those who deploy abusive digital behaviours designed to circumvent our controls that protect fair access to tickets. Abuse Operations is a centrally managed command and control centre for …",
+            "title": "Engineer 3",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5576289622",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_type": "contract",
+            "created": "2026-01-10T00:20:10Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Zamp"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MjgwOTE2In0.9rtEHraoh9FhA1gBxuIHnUCw46Pg7PD8ei3pdHtXZYk",
+            "redirect_url": "https://www.adzuna.in/details/5576280916?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "id": "5576280916",
+            "created": "2026-01-10T00:19:24Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "title": "Site Reliability Engineer",
+            "description": "About Zamp: Mission - Zamp is not a company, we’re a humanity catalyst . We’re on a mission to enable people to move at the speed of thought. This decade, we’re focused on building digital employees for the future of work, unlocking human creativity at a scale the world has never seen. We work with 50 top global organizations and banks (including DoorDash, Uber, and Stripe) with billions in revenue. We raised a $22M seed round in 2022 from Sequoia Capital, Dara Khosrowshahi (CEO, Uber), Tony Xu…",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -871,24 +1096,94 @@
             }
         },
         {
-            "title": "Senior Site Reliability Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODAxMjg2MCIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.bGBkFNdvkCQxGZJZVmJ9VEHhVheXgDzgOY5RGlcAHBQ",
-            "created": "2025-12-05T01:28:52Z",
-            "description": "We’re looking for an experienced Site Reliability Engineer to fill the mission-critical role of ensuring that our complex, web-scale systems are healthy, monitored, automated, and designed to scale. You will use your background as an operations generalist to work closely with our development teams from the early stages of design all the way through identifying and resolving production issues. The ideal candidate will be passionate about an operations role that involves deep knowledge of both th…",
+            "created": "2026-01-10T00:19:17Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "id": "5576279726",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Site Reliability Engineer",
+            "description": "Who We Are At Kyndryl, we design, build, manage and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward – always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our customers and our communities. The Role Join us as a Site Reliability Engineer (SRE) and embark on an exciting journey of ensuring reliability, resiliency, and innovation in our informa…",
+            "__CLASS__": "Adzuna::API::Response::Job",
             "company": {
-                "display_name": "Poshmark",
+                "display_name": "Kyndryl",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "longitude": 80.24963,
-            "id": "5528012860",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2Mjc5NzI2In0.bVpts6-zpw2EtLFEjjEdbEWD8hV7Cn7RJeTU2FXK0O4",
             "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576279726?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Circles Life Asia Technology Pte.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjIzODA3OCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.SozSdqXIpQOx3rYkX9VsyLlvWWT21KM_ifmd7GisfMY",
+            "redirect_url": "https://www.adzuna.in/details/5576238078?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "id": "5576238078",
+            "created": "2026-01-10T00:15:33Z",
             "category": {
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5528012860?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=99A2C7B3624FE385355FD0BF180BAF893ED710F7",
+            "contract_time": "full_time",
+            "title": "Staff Software Engineer, SRE",
+            "description": "Founded in 2014, Circles is a global technology company reimagining the telco industry with its innovative SaaS platform, empowering telco operators worldwide to effortlessly launch innovative digital brands or refresh existing ones, accelerating their transformation into techcos. Today, Circles partners with leading telco operators across multiple countries and continents, including KDDI Corporation, Etisalat Group (e&), AT&T, and Telkomsel, creating blueprints for future telco and digital exp…",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Poshmark India"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MjE5NzMwIn0.rWO8F1iuWIVH2izSAyONSbJ5nm0eWn3jw3XyhKdW3W0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576219730?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "id": "5576219730",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2026-01-10T00:14:16Z",
+            "description": "Confidence can sometimes hold us back from applying for a job. Here’s a secret: there's no such thing as a \"perfect\" candidate. Poshmark is looking for exceptional people who want to make a positive impact through their work and help create an organization where everyone can thrive. So whatever background you bring with you, please apply if this role would make you excited to come to work every day. Job Description: We’re looking for an experienced Site Reliability Engineer to fill the mission-…",
+            "title": "Senior Site Reliability Engineer",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
             "latitude": 13.06041,
+            "redirect_url": "https://www.adzuna.in/details/5576184326?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Poshmark"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjE4NDMyNiIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.S0za8dlXXIlXWAt5JxrZu7Lr8caFazQ7pW7eCl22OfM",
             "__CLASS__": "Adzuna::API::Response::Job",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
@@ -898,552 +1193,251 @@
                     "Chennai"
                 ],
                 "display_name": "Chennai, Tamil Nadu"
-            }
+            },
+            "description": "About Poshmark Poshmark is a leading fashion resale marketplace powered by a vibrant, highly engaged community of buyers and sellers and real-time social experiences. Designed to make online selling fun, more social and easier than ever, Poshmark empowers its sellers to turn their closet into a thriving business and share their style with the world. Since its founding in 2011, Poshmark has grown its community to over 130 million users and generated over $10 billion in GMV, helping sellers reali…",
+            "title": "Senior Software Engineer II, Site Reliability",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T00:11:05Z",
+            "longitude": 80.24963,
+            "id": "5576184326"
         },
         {
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2026-01-10T00:11:00Z",
+            "id": "5576183685",
+            "longitude": 80.24963,
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Chennai, Tamil Nadu",
                 "area": [
                     "India",
                     "Tamil Nadu",
                     "Chennai"
-                ]
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 13.06041,
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5528006944?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=42256DAE55737314EA26DB30B10F8223E7AFC13C",
-            "salary_is_predicted": "0",
-            "id": "5528006944",
-            "longitude": 80.24963,
+            "description": "About Poshmark Poshmark is a leading fashion resale marketplace powered by a vibrant, highly engaged community of buyers and sellers and real-time social experiences. Designed to make online selling fun, more social and easier than ever, Poshmark empowers its sellers to turn their closet into a thriving business and share their style with the world. Since its founding in 2011, Poshmark has grown its community to over 130 million users and generated over $10 billion in GMV, helping sellers reali…",
+            "title": "Software Engineer II, Site Reliabilty",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MTgzNjg1In0.bAzvx53Q2IXIDH_RhSzeNFPiphP1rv126o63BqfgpCU",
             "company": {
                 "display_name": "Poshmark",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "description": "We’re looking for an experienced Site Reliability Engineer to fill the mission-critical role of ensuring that our complex, web-scale systems are healthy, monitored, automated, and designed to scale. You will use your background as an operations generalist to work closely with our development teams from the early stages of design all the way through identifying and resolving production issues. The ideal candidate will be passionate about an operations role that involves deep knowledge of both th…",
-            "created": "2025-12-05T01:17:31Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTI4MDA2OTQ0In0.6VG0iDddLeRiOybsB427DwuwgTIjO0Sn7bUcmve5YRk",
-            "title": "Staff Site Reliability Engineer"
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 13.06041,
+            "redirect_url": "https://www.adzuna.in/details/5576183685?utm_medium=api&utm_source=d58ac19b"
         },
         {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0MjA0MSIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.YnOlAPwppaP38atEejiZDqDBB8UqHEXztJS7-vm3_hY",
-            "created": "2026-01-01T08:39:03Z",
-            "id": "5561942041",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Jase HR Solutions"
-            },
-            "description": "How will you make an impact? Act as part of a team of SRE’s that act as the ‘gatekeepers’ of production and actively manage the work backlog and develop reliability improvements. Lead investigations into root cause outages, performance, and cost issues. Lead initiatives to develop the automation of low-value tasks balanced against project delivery demands. You will provide technical leadership and to wider Cloud Operations and Support teams along with providing oversight to the products and ser…",
-            "longitude": 73.84735,
-            "title": "Cloud Site Reliability Engineer",
-            "latitude": 18.5062,
+            "description": "Who We Are At Kyndryl, we design, build, manage and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward – always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our customers and our communities. The Role Are you passionate about delivering exceptional service and revolutionizing the world of technology? We have an incredible opportunity for a tale…",
+            "title": "Delivery Management Japanese language",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5576169368",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T00:09:29Z",
+            "redirect_url": "https://www.adzuna.in/details/5576169368?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MTY5MzY4In0.pFNY_ja1bLYdei2D3rbi97AQohlk0YA80fIgXcGKGyA",
+            "company": {
+                "display_name": "Kyndryl",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad",
+                    "Kanchanbagh"
+                ],
+                "display_name": "Kanchanbagh, Hyderabad"
+            },
+            "title": "Senior/Lead Technical/Production/Application/L3 Support Engineer",
+            "description": "Job titles: Senior/Lead Technical Support Engineer Senior/Lead Production Support Engineer Senior/Lead Application Support Engineer Level 3 Support Engineer Experience: 5-10 years Role Overview: T his role is responsible for troubleshooting and resolving production incidents. This role acts as a bridge between the support and development teams, handling technical investigations, applying quick fixes, and escalating critical issues. By managing and resolving incidents effectively, this role allo…",
+            "created": "2026-01-09T17:48:14Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "longitude": 78.49323,
+            "id": "5575721385",
+            "latitude": 17.34908,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5575721385?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Openprise"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTcyMTM4NSIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.UtCtNqeGY3Jk3uXj9JnQviDQ74l_v7-K0ZZ2UI79vKM"
+        },
+        {
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-09T16:48:10Z",
+            "id": "5575669094",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Through proprietary software and AI, along with a focus on customer delight, Sleek makes the back-office easy for micro SMEs. We give Entrepreneurs time back to focus on what they love doing - growing their business and being with customers. With a surging number of Entrepreneurs globally, we are innovating in a highly lucrative space. We operate 3 business segments: Corporate Secretary : Automating the company incorporation, secretarial, filing, Nominee Director, mailroom and immigration proce…",
+            "title": "Principal SRE Engineer",
+            "company": {
+                "display_name": "Sleek",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTY2OTA5NCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.5Peb6jTNbY3ldiZ1K-Flg70fOYYNrDZnEvbwehZHG_Y",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5575669094?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "id": "5575477620",
+            "created": "2026-01-09T11:09:15Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "DevOps Engineer - 8 Years",
+            "description": "Job Title: Senior DevOps Engineer Experience: 8 Years Joining: Immediate Joiner Location: Bangalore (Onsite/Hybrid – as applicable) Job Description: We are looking for a highly experienced Senior DevOps Engineer with 8 years of hands-on experience to join our team immediately. The ideal candidate will be responsible for designing, implementing, and managing scalable, secure, and highly available infrastructure. Key Responsibilities: Design, build, and maintain CI/CD pipelines for application de…",
+            "salary_min": 2000000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTQ3NzYyMCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.mB_a1igMGb5X3uZxXLCDfB9yrsPfuCvFFNl6RHZHKi0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Euphoric Thought Technologies"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5575477620?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 2500000,
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2026-01-09T08:34:40Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "id": "5575174531",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Senior Member of Technical Staff",
+            "description": "Job Description Oracle Cloud Infrastructure (OCI) Search Service with OpenSearch is an insight engine offered as an Oracle managed service. Without any downtime, Oracle automates patching, updating, upgrading, backing up, and resizing the service. Customers can store, search, and analyze large volumes of data quickly and see results in near real time. We are looking for a highly skilled Senior Software Developer to join our team of talented engineers. As an ideal candidate, you will have strong…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc1MTc0NTMxIn0.pgAi88S5kKCUUDINDtlWOLEppZWtHsxAWvoVgMbfq3U",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Oracle"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575174531?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=B22C45964F5116BF2DD637DB53D1A26901E2EAB2"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Oracle"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicXZDMVktUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc1MTc0MjQ5In0.orJEFQqzwpc_OktMPuet5Fvx0jjcp8mdGkGkWWYcCKU",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575174249?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=79195E7508E890E8342F6D961A70AA625BFD9294",
+            "salary_is_predicted": "0",
+            "id": "5575174249",
+            "created": "2026-01-09T08:34:26Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "title": "Principal Site Reliability Developer",
+            "description": "Job Description Solve complex problems related to infrastructure cloud services and build automation to prevent problem recurrence. Design, write, and deploy software to improve the availability, scalability, and efficiency of Oracle products and services. Design and develop designs, architectures, standards, and methods for large-scale distributed systems. Facilitate service capacity planning and demand forecasting, software performance analysis, and system tuning. Responsibilities Work with S…",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "id": "5575173650",
+            "longitude": 73.84735,
+            "created": "2026-01-09T08:33:34Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "title": "Lead BizOps Engineer",
+            "description": "Our Purpose _Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we're helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest po…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
                 "area": [
                     "India",
                     "Maharashtra",
                     "Pune"
-                ],
-                "display_name": "Pune, Maharashtra"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5561942041?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8A00021A15B70C11B414153662F9D19711925ED9"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODAxNjUyNyIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.yIxy8nMiP9aP9zZYXCeoa7ij1LVlRwPvrudY719mQc4",
-            "created": "2025-12-28T10:06:04Z",
-            "description": "Position Summary: We are looking for a Senior Site Reliability Engineer (SRE) with deep expertise in observability, cloud-native infrastructure, and large-scale distributed systems. This role is highly hands-on and focuses on designing, building, and operating reliable, observable, and scalable platforms running on Kubernetes, with a strong preference for Google Cloud Platform (GCP) and AWS. Job Responsibilities : Design, implement, and operate highly available and resilient Kubernetes-based sy…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Saarthee"
-            },
-            "id": "5558016527",
-            "title": "Senior Site Reliability Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "salary_is_predicted": "0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5558016527?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=AE3E74DCC9361DB112C5D3BB2478B3B1475FC8CF"
-        },
-        {
-            "title": "Senior Site Reliability Engineer",
-            "created": "2025-12-19T08:54:29Z",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEyNjY0MiIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.laWq9IGqSkfqbm_DjSK-eAw-_tuxGMYsnVLtStosyOU",
-            "id": "5548126642",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "BayOne Solutions"
-            },
-            "description": "Role: Site Reliability Engineering (SRE) Location: Bangalore (Hybrid) Duration: Full Time This is a senior role with development skills. Must have strong CI/CD pipelines experience. The expected deliverables for this Role are: 1. Development and Management of CI/CD and IaC Pipelines: o Build, enhance, and maintain automated pipelines to support infrastructure deployment and maintenance for CX platforms. 2. AWS Environment Management: o Ensure stability, scalability, and compliance of AWS enviro…",
-            "salary_is_predicted": "0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5548126642?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=7B8FEC7EC5630FC909960654DF818020BF6D0455",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job"
-        },
-        {
-            "created": "2025-12-18T08:43:18Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NTg3NjQ1In0.85g4hoIeTDvb8hcjPOpaqNMTMakQzBntLCZ2GIE3ej0",
-            "id": "5546587645",
-            "description": "Role Overview We are looking for an experienced Senior Site Reliability Engineer (SRE) to ensure the reliability, scalability, and performance of our production systems. The ideal candidate will have strong troubleshooting skills, hands-on experience with messaging queues , in-memory queues , Kubernetes , and deployment automation , along with expertise in Infrastructure as Code and microservices architecture . Key Responsibilities Application Troubleshooting: Diagnose and resolve complex appli…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Karix"
-            },
-            "title": "Site Reliability Engineer (CPaaS)",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546587645?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=BD096F66BC993922B89EE56DF6893E477881526E",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            }
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQwNjc0OTU4In0.yiNI8xEvmw7Ppf_hSJHHLWmzLvYK0NtoQroUIH_JjHc",
-            "created": "2025-12-13T09:42:23Z",
-            "description": "Cvent is looking for a Manager, Site Reliability Engineering to help us scale our systems and ensure stability, reliability and performance and rapid deployments of our platform. We build teams that are inclusive, collaborative, and have a strong sense of ownership for the things they build. If you have a passion and track record for solving problems; moreover, have strong leadership skills, this is a great fit for you. As Manager, SRE you will demonstrate both emerging and current technologies…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Cvent"
-            },
-            "id": "5540674958",
-            "title": "Manager, Site Reliability Engineering",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
-            },
-            "salary_is_predicted": "0",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5540674958?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=343B360A7D29BEAA6D6E68D6D6DA5563D8C6905B"
-        },
-        {
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "redirect_url": "https://www.adzuna.in/land/ad/5536064058?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8AAA4033AA2672BF1C24E44C714E8510C921F96E",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "salary_is_predicted": "0",
-            "id": "5536064058",
-            "company": {
-                "display_name": "Cvent",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Cvent is looking for a Principal Site Reliability Engineer to help us scale our systems and ensure stability, reliability and performance and rapid deployments of our platform. We build teams that are inclusive, collaborative, and have a strong sense of ownership for the things they build. If you have a passion and track record for solving problems; moreover, have strong leadership skills, this is a great fit for you. As a Principal Engineer, you will demonstrate both emerging and current techn…",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NDA1OCIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.K3lqJ7LXXLcQrp2cYWEkQ2RDzWmNVdhH_ycb-l_8kUI",
-            "created": "2025-12-10T16:50:29Z",
-            "title": "Principal Site Reliability Engineer"
-        },
-        {
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "redirect_url": "https://www.adzuna.in/land/ad/5496948336?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F57D3B030C47F92ED1D430574DDFA595E66602C2",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "salary_is_predicted": "0",
-            "id": "5496948336",
-            "description": "Be part of something revolutionary At o9 Solutions, our mission is clear: be the Most Valuable Platform (MVP) for enterprises. With our AI-driven platform — the o9 Digital Brain — we integrate global enterprises’ siloed planning capabilities, helping them capture millions and, in some cases, billions of dollars in value leakage. But our impact doesn’t stop there. Businesses that plan better and faster also reduce waste, which drives better outcomes for the planet, too. We're on the lookout for …",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "o9 Solutions, Inc."
-            },
-            "created": "2025-11-15T06:54:21Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5Njk0ODMzNiIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.G_2zxpIbjT0nTmDtCFwqag5WNkZ8DY7H-fG2df66I2U",
-            "title": "Senior Site Reliability Engineer"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU1MjAxMzQ3In0.gC7LfcZqSSUmfqlCOfU92h87p01rqH13dqb1F16kslc",
-            "created": "2025-12-25T13:37:45Z",
-            "description": "About Groww We are a passionate group of people focused on making financial services accessible to every Indian through a multi-product platform. Each day, we help millions of customers take charge of their financial journey. Customer obsession is in our DNA. Every product, every design, every algorithm down to the tiniest detail is executed keeping the customers’ needs and convenience in mind. Our people are our greatest strength. Everyone at Groww is driven by ownership, customer-centricity, …",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Groww"
-            },
-            "id": "5555201347",
-            "title": "Site Reliability Engineer -3",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5555201347?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=1F16082FC06857942A253F73AB3CBE780C85C5E5"
-        },
-        {
-            "title": "Lead Site Reliability Engineer",
-            "created": "2025-11-18T08:59:14Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTI1ODY5NiIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.H7KCqCu9fthn3SI8KLQOgv-QFB0VpvarPapLPJqyRLU",
-            "id": "5501258696",
-            "description": "About Media.net: Media.net is a leading, global ad tech company that focuses on creating the most transparent and efficient path for advertising budgets to become publisher revenue. Our proprietary contextual technology is at the forefront of enhancing Programmatic buying, the latest industry standard in ad buying for digital platforms. The Media.net platform powers major global publishers and ad-tech businesses at scale across ad formats like display, video, mobile, native, as well as search. …",
-            "company": {
-                "display_name": "Media.net",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5501258696?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=165654FD525DBBE16B7F31503B92257B30058208",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job"
-        },
-        {
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5501262921?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6757E2D15D5A5A42A57A2AED0C4C38D89A156E71",
-            "latitude": 19.00821,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Mumbai, Maharashtra",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Mumbai"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Lead Site Reliability Engineer",
-            "created": "2025-11-18T09:01:24Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTI2MjkyMSIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.-b9AS6J7HySmZZPgPH7z1lM9B5FFDCe66gjTdx1_CcA",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Media.net"
-            },
-            "description": "About Media.net: Media.net is a leading, global ad tech company that focuses on creating the most transparent and efficient path for advertising budgets to become publisher revenue. Our proprietary contextual technology is at the forefront of enhancing Programmatic buying, the latest industry standard in ad buying for digital platforms. The Media.net platform powers major global publishers and ad-tech businesses at scale across ad formats like display, video, mobile, native, as well as search. …",
-            "longitude": 72.84415,
-            "id": "5501262921"
-        },
-        {
-            "salary_is_predicted": "0",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5549502904?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0F7EC13E1ACD130E9312C91E86D20C13D2092A42",
-            "latitude": 17.40275,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
                 ]
             },
             "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Site Reliability Engineering Manager",
-            "created": "2025-12-20T09:06:37Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ5NTAyOTA0In0.UyHly4SmUlwv9PI_44IEaMlpVl-OJvUVWtyDLLw0f_Y",
-            "id": "5549502904",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE3MzY1MCIsInMiOiJxdkMxWS1QdDhCRzV5YUEzczNsdXV3In0.K1CkUUFLqbaeamqBz3_N-jNH19BcgbnWb5PlqSg-WWM",
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Trianz"
+                "display_name": "Mastercard",
+                "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "longitude": 78.50806,
-            "description": "About the Company Trianz believes that companies around the world face three challenges in their digital transformation journeys - shrinking ‘time to transform’ due to competition & AI, lack of digital-ready talent, and uncertain economic conditions. To help clients leapfrog over these challenges, Trianz has built IP and platforms that have transformed the adoption of the cloud, data, analytics & insights AI. Specifically, the following Trianz platforms are changing the way companies approach t…"
-        },
-        {
-            "title": "Site Reliability Engineer 2",
-            "id": "5525205375",
-            "description": "About PhonePe Limited: Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered users and a digital payments acceptance network spread across over 4 Crore (40 million) merchants. PhonePe also processes over 33 Crore (330 Million) transactions daily with an Annualized Total Payment Value (TPV) of over INR 150 lakh crore. PhonePe’s portfolio of businesses includes the distribution…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "PhonePe"
-            },
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTI1MjA1Mzc1In0.vS3eNzERlH9G7UbQKWdnc6xNSt1mLeCNs9y0aNDLWnw",
-            "created": "2025-12-03T08:59:09Z",
-            "contract_type": "contract",
-            "redirect_url": "https://www.adzuna.in/land/ad/5525205375?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F291623BCCA5FE69D3879946486911C2DCC67526",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "salary_is_predicted": "0",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job"
-        },
-        {
-            "salary_is_predicted": "0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5530553492?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D0162592090E2C5E94AF73893A885E101CD40F48",
-            "latitude": 13.06041,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Chennai, Tamil Nadu",
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Senior Site Reliability Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTMwNTUzNDkyIn0.lxhMPM_oQVgr-T2wComvfBGlYtAvsMxrQ-Gozzh66h0",
-            "created": "2025-12-06T09:44:04Z",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "QualityKiosk Technologies"
-            },
-            "description": "No of requirements- 2 Job Title: Observability Lead & Observability Engineer Experience: 3–5 Years Location: Chennai Role Overview: Implement and maintain observability solutions using Datadog to ensure system reliability, performance, and proactive monitoring across infrastructure and applications. Key Responsibilities: Monitoring & Observability: Configure Datadog APM, logs, and metrics for application and infrastructure monitoring. Implement tagging strategies for ownership and reporting. Ag…",
-            "longitude": 80.24963,
-            "id": "5530553492"
-        },
-        {
-            "created": "2025-12-31T10:31:47Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYwNzA4OTYxIn0._42QoCkiMv7zpzliaR63pYWAULlslq4p5kDOpCX89gA",
-            "id": "5560708961",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Whitefield Careers"
-            },
-            "description": "Required Skills & Expertise: Strong hands-on experience with Oracle GoldenGate setup and configuration. Proven expertise in GoldenGate performance tuning and optimization. Experience working with connectors for Oracle, SQL Server, and PostgreSQL databases. Solid understanding of database replication concepts and data consistency. Ability to analyze, troubleshoot, and resolve complex replication issues.",
-            "title": "Database Site Reliability Engineer",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5560708961?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A51AFA5A6A9331A8C3F998468EB46C8867C42DAD"
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Whitefield Careers"
-            },
-            "description": "Required Skills Proven expertise in managing and setting up open-source SQL and NoSQL databases (StarRocks, ClickHouse, Druid, Cassandra, etc.). Deep understanding of active-active architectures for high availability. Strong knowledge of database backup and restoration processes. Experience with Prometheus and Grafana for monitoring and observability. Hands-on experience with Kafka, EMR, and Kubernetes-based deployments.",
-            "id": "5560708909",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYwNzA4OTA5In0.OOsU7qIavc0bpmc_T8Wvl42PiAr_UYC2BMZmWB2n2gQ",
-            "created": "2025-12-31T10:31:43Z",
-            "title": "Database Site Reliability Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5560708909?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F7E903DD90134D8BBF1F8465F709AB9E4FA1E291",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5575173650?se=qvC1Y-Pt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=1D8EABE8D38E7C1637B39F89EE7400F2ADDD92BF",
+            "latitude": 18.5062,
             "salary_is_predicted": "0"
-        },
-        {
-            "title": "Site Reliability Engineer 3",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3NTE3MiIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.FbKYvHhE_k2UFPTLYNaWMa794VCzo-ZKWiOjzS5kg4o",
-            "created": "2025-12-24T10:19:56Z",
-            "id": "5553875172",
-            "description": "Who We Are: Wayfair leads e-commerce for all things home, driven by modern tech. We seek sharp thinkers who design scalable systems while keeping a startup mindset. Our culture values fast, data-driven innovation. The Observability team needs experienced engineers skilled in cloud-native design, legacy maintenance, and SRE best practices—plus ideas for improvement! We collaborate across Tech to ensure platforms and services are production-ready, contributing to both platform and software codeba…",
-            "company": {
-                "display_name": "Wayfair",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5553875172?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=71F6BA685D879CA11D5B60E17824391F571159AE",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job"
-        },
-        {
-            "latitude": 17.40275,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5520846119?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=30D24F1622B418CEEEE2D1058014B3CEFBC2B171",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "created": "2025-12-01T11:56:15Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDg0NjExOSIsInMiOiI2cFpmMU5EbThCR2pKYWJ4V3QwZURRIn0.mS9XU0lUJ2BhrzIcbJJAq8gybPt1zqx58v0URwaw7OU",
-            "id": "5520846119",
-            "company": {
-                "display_name": "Inspire",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "About Inspire Brands: Inspire Brands is disrupting the restaurant industry through digital transformation and operational efficiencies. The company’s technology hub, Inspire Brands Hyderabad Support Center, India, will lead technology innovation and product development for the organization and its portfolio of distinct brands. The Inspire Brands Hyderabad Support Center will focus on developing new capabilities in data science, data analytics, eCommerce, automation, cloud computing, and informa…",
-            "longitude": 78.50806,
-            "title": "Site Reliability Engineer [T500-21132]"
-        },
-        {
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5493105161?se=6pZf1NDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=EBF2556109BF9B2CD3F4145A8A5D02F5FF8AF1D3",
-            "salary_is_predicted": "0",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Staff Site Reliability Engineer (Observability)",
-            "id": "5493105161",
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …",
-            "created": "2025-11-13T11:05:09Z",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnBaZjFORG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDkzMTA1MTYxIn0.-H0wvxcm_ci5uZqMHHK0S3-tD8v3RAHOShSFwcAPXrY"
         }
-    ],
-    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+    ]
 }

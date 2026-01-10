@@ -1,44 +1,1408 @@
 {
-    "count": 924,
-    "mean": 1506234.32,
-    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 149,
     "results": [
         {
-            "description": "Job Title: Web Engineering Manager (Sitecore, React, Node.js) Experience: 7 to 10 Years Location: Remote Employment Type: Full-time About the Role We are looking for a Engineering Manager to lead a mid-sized, high-performing team of backend, frontend, and QA engineers. The ideal candidate has strong experience in modern web technologies, Sitecore CMS, and building large-scale distributed web platforms. This role requires a balance of technical leadership, people management, and the ability to d…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
+            "created": "2026-01-10T08:39:15Z",
+            "title": "Senior Full Stack Developer ( NodeJS  ReactJS  Azure)",
             "company": {
-                "display_name": "Closeloop Technologies Pvt. Ltd",
+                "display_name": "Krimatix",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "contract_time": "full_time",
-            "id": "5546316933",
-            "created": "2025-12-18T02:42:42Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546316933?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=3BBE87042DA1D001D9ED2DC14573B14FCD1B012E",
+            "description": "Role Summary Krimatix is building a modular, metadata-driven platform for industrial execution, inspection, and integrity workflows. User experiences, validations, and workflows are dynamically generated from JSON configuration and rules. We are seeking five contract Senior Software Engineers who can design and implement end-to-end solutions across frontend, backend, and data. This role requires a strong security mindset and shift-left quality practices, and may also contribute to AI-enabled ca…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3Mjc1Mzg1In0.wi2Nui5QWXg_45Gl0hbj4XsrQ8QliOO_dqv97DJHjcE",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577275385?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=191A30B7641B1CBB84F4DCA128A5558A259161DD",
+            "id": "5577275385",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
             "category": {
                 "tag": "it-jobs",
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNjkzMyIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.sOvSY63F5aK4REvL-hGmchqqprR3c3jCIJmpPZ7RVGc",
-            "title": "Web Engineering Manager",
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 14.325172,
             "location": {
                 "area": [
-                    "India"
+                    "India",
+                    "Karnataka"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
+                "display_name": "Karnataka, India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577272799",
+            "longitude": 76.227524,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577272799?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=700562D50ED54716038DC9F8398D51E807ACA5AC",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjcyNzk5In0.bp8SgyprCxlD-DAEswAh82Ueal9OjN2dgPtzgdZJZlg",
+            "description": "Description At American Express, our culture is built on a 175-year history of innovation, shared values and Leadership Behaviors, and an unwavering commitment to back our customers, communities, and colleagues. As part of Team Amex, you'll experience this powerful backing with comprehensive support for your holistic well-being and many opportunities to learn new skills, develop as a leader, and grow your career. Here, your voice and ideas matter, your work makes an impact, and together, you wi…",
+            "company": {
+                "display_name": "American Express",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Software Engineer - Golang Developer",
+            "created": "2026-01-10T08:33:43Z"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 28.56579,
+            "id": "5577261756",
+            "location": {
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "display_name": "Noida, Ghaziabad",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261756?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=6AEAF0F0FD6B2A2149EC7990A3F9B98EF33D5829",
+            "longitude": 77.3225,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjYxNzU2In0.mbexSTXzk1uDViFokkmj3Tw4n4l2DixSScvpPYm_z_4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Overview Do you want to work on a product that is used by millions of people around the world daily, and growing rapidly? Do you care deeply about how software is designed with a focus on supporting global scale? Do you want to be part of a world-class team that continuously pushes the boundary of service and engineering excellence? The?Web Experience and Services Team?is looking for a Senior Software Engineer who is passionate about working on high-scale geo-distributed services. These service…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Microsoft Corporation"
+            },
+            "title": "Senior Software Engineering",
+            "created": "2026-01-10T08:26:55Z"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Google"
+            },
+            "created": "2026-01-10T08:22:40Z",
+            "title": "Senior Software Engineer, Cloud Spanner",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577259048",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1OTA0OCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.kGz6s6dCWQQ1Anc1R8SKCiKMc7XCRen2lQ0uWy46Wsg",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577259048?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=C328C9890F927B4D56FCE26521D18669D0F66126",
+            "description": "Senior Software Engineer, Cloud Spanner _corporate_fare_ Google _place_ Bengaluru, Karnataka, India Mid Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area. Minimum qualifications:  Bachelor's degree or equivalent practical experience.  5 years of experience with software development in one or more programming languages.  3 years of experience testing, maintaining, or launching software products, and …"
+        },
+        {
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577233238",
+            "latitude": 19.00821,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjMzMjM4In0.E4JdgyObZmZOo8cAnQ9R7Xcuctf2MIWCk_1Ik28u60w",
+            "contract_time": "full_time",
+            "longitude": 72.84415,
+            "redirect_url": "https://www.adzuna.in/details/5577233238?utm_medium=api&utm_source=d58ac19b",
+            "description": "We’re seeking someone to join our FRPPE Tech team as a Java developer, in Finance Technology to architect and develop next-generation Java applications leveraging cloud, microservices, and modern frameworks, enabling digital transformation in financial systems. In the Technology division, we leverage innovation to build the connections and capabilities that power our Firm, enabling our clients and colleagues to redefine markets and shape the future of our communities. This is Director position …",
+            "company": {
+                "display_name": "Morgan Stanley",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Java Developer_Software Engineering",
+            "created": "2026-01-10T07:38:31Z"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "lululemon India Tech Hub"
+            },
+            "created": "2026-01-10T06:12:33Z",
+            "title": "Technology Manager I- Front End",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577083864",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "Technology Manager I, ITH About lululemon: lululemon is an innovative performance apparel company for yoga, running, training, and other athletic pursuits. Setting the bar in technical fabrics and functional design, we create transformational products and experiences that support people in moving, growing, connecting, and being well. We owe our success to our innovative products, commitment to our people, and the incredible connections we make in every community we're in. As a company, we focus…",
+            "redirect_url": "https://www.adzuna.in/details/5577083864?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzA4Mzg2NCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.l8gzZAJj5mEn8_G9D8l2hGOsNT_yhLBz-0zXqpUc0yk"
+        },
+        {
+            "description": "Role: Technical Engineer Location: Mumbai, Maharashtra, India. Experience: 2 - 3 Years Notice Period: 30 Days Budget: 6 - 8 LPA Company Overview: We are a leading Digital Systems and Services Integrator in South Asia, helping enterprises accelerate their digital transformation journeys. The organization delivers next-generation digital infrastructure solutions across consulting, system integration, security, cloud, networking, and managed services, enabling customers to build secure, scalable, …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2ODgzNjQ2In0.jruYQE0Y-dACfkVk-Ij49GkgXV2Ou-P3HsW_VqcAULQ",
+            "redirect_url": "https://www.adzuna.in/details/5576883646?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 72.84415,
+            "title": "Web & Cloud Security Engineer (Netskope / CASB / ZTNA)- Mumbai",
+            "salary_min": 500000,
+            "contract_time": "full_time",
+            "salary_max": 800000,
+            "id": "5576883646",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 19.00821,
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T03:14:29Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HyrEzy Talent Solutions"
             }
         },
         {
             "company": {
-                "display_name": "Endowus",
+                "display_name": "JK Tech World",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "description": "The Opportunity: Build the future of Wealth In a fintech world obsessed with gamification and speculative betting, Endowus stands apart. We aren't here to build another trading app; we are building the financial infrastructure to help people achieve long-term life goals - retirement, education, and financial freedom. Headquartered in Singapore, we are the largest independent digital wealth platform in Asia . However, we are not a one-trick robo-advisor. We are a full-suite wealth platform spann…",
+            "created": "2026-01-10T02:36:49Z",
+            "title": "Tech Lead (Senior .NET Developer with React)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "id": "5576828441",
+            "latitude": 19.00821,
             "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "description": "Job Description : Senior .NET Developer with React (5 Years Experience) Location: Remote Responsibilities : Lead the development of robust web applications using .NET and react. Architect and design scalable solutions in collaboration with stakeholders. Mentor junior developers and conduct code reviews to ensure best practices. Implement advanced features and optimize applications for maximum speed and scalability. Collaborate with product management to define project scope and objectives. Requ…",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Web Engineering (React / TypeScript)",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjgyODQ0MSIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.zgYpX3H8_UlBjIbWnOtL8l5j7ddadTGDM1Bdbu_dY2w",
+            "longitude": 72.84415,
+            "redirect_url": "https://www.adzuna.in/details/5576828441?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "created": "2026-01-10T00:46:14Z",
+            "title": "Infrastructure Engineer II-Python, AWS and Terraform",
+            "company": {
+                "display_name": "JPMorganChase",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576563678?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTYzNjc4In0.RXOlkhM2oa_wgf9z0wOUksUEB8QaxpFzuHaDTDvvWfk",
+            "description": "Description With your expertise in delivering infrastructure solutions, you are a top-performer in your field. Come on board as a highly appreciated member of a winning team. As a Infrastructure Engineer II at JPMorgan Chase within the Infrastructure Platform - Web Hosting team, you hold a key role in your team, demonstrate strong knowledge across multiple technical domains, and advise others on the technical and business issues facing them. You will bring your deep experience to enable and sup…",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5576563678",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PricewaterhouseCoopers"
+            },
+            "title": "IN-Senior Associate_ Data Engineer _Data & Analytics_Advisory_Bangalore",
+            "created": "2026-01-10T00:45:17Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576555869",
+            "redirect_url": "https://www.adzuna.in/details/5576555869?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU1NTg2OSIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.U3-o9LDjPaieB5PyDVgJEjFIHwHjVCJpFxmDqjGf5fA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Data, Analytics & AI Management Level Senior Associate Job Description & Summary At PwC, our people in data and analytics focus on leveraging data to drive insights and make informed business decisions. They utilise advanced analytics techniques to help clients optimise their operations and achieve their strategic goals. In data analysis at PwC, you will focus on utilising advanced analytical techniques to extract insights from …"
+        },
+        {
+            "latitude": 28.323996,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gurgaon, Haryana",
+                "area": [
+                    "India",
+                    "Haryana",
+                    "Gurgaon"
+                ]
+            },
+            "id": "5576532869",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "description": "Expedia Group brands power global travel for everyone, everywhere. We design cutting-edge tech to make travel smoother and more memorable, and we create groundbreaking solutions for our partners. Our diverse, vibrant, and welcoming community is essential in driving our success. Why Join Us? To shape the future of travel, people must come first. Guided by our Values and Leadership Agreements, we foster an open culture where everyone belongs, differences are celebrated and know that when one of u…",
+            "redirect_url": "https://www.adzuna.in/details/5576532869?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 76.983738,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTMyODY5In0.FTG-rNri9MQsRMfHTTjuFskzEOI0nLSDU1-FmoTn4GI",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Expedia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Software Development Engineer (React.Js)",
+            "created": "2026-01-10T00:41:32Z"
+        },
+        {
+            "created": "2026-01-10T00:40:22Z",
+            "title": "Java Pega Engineer",
+            "company": {
+                "display_name": "American Express",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Description You Lead the Way. We’ve Got Your Back. With the right backing, people and businesses have the power to progress in incredible ways. When you join Team Amex, you become part of a global and diverse community of colleagues with an unwavering commitment to back our customers, communities and each other. Here, you’ll learn and grow as we help you create a career journey that’s unique and meaningful to you with benefits, programs, and flexibility that support you personally and professio…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjUyNjM2OSIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.d39rozFJm4r0ZPNTnB5fXMEPTxmcrmetNJ5L29_mYjg",
+            "redirect_url": "https://www.adzuna.in/details/5576526369?utm_medium=api&utm_source=d58ac19b",
+            "id": "5576526369",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTA3ODM0In0.MZdCL_oH5Of7KxKKPuylfFx427J_6pnBibCwxyBILBY",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576507834?utm_medium=api&utm_source=d58ac19b",
+            "description": "Description You Lead the Way. We’ve Got Your Back. With the right backing, people and businesses have the power to progress in incredible ways. When you join Team Amex, you become part of a global and diverse community of colleagues with an unwavering commitment to back our customers, communities and each other. Here, you’ll learn and grow as we help you create a career journey that’s unique and meaningful to you with benefits, programs, and flexibility that support you personally and professio…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576507834",
+            "title": "Data Engineer",
+            "created": "2026-01-10T00:37:41Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "American Express"
+            }
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5576501655",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "BitGo is the leading infrastructure provider of digital asset solutions, delivering custody, wallets, staking, trading, financing, and settlement services from regulated cold storage. Since our founding in 2013, we have focused on enabling our clients to securely navigate the digital asset space. With a global presence and multiple Trust companies, BitGo serves thousands of institutions, including many of the industry's top brands, exchanges, and platforms, and millions of retail investors worl…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjUwMTY1NSIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.vqzs5FaKK7rjqC_aU9D-bqMs8HgADLARC3UYxHtLtdo",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576501655?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "display_name": "BitGo",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Backend Engineer E2 - Web Experience",
+            "created": "2026-01-10T00:36:44Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576499151?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NDk5MTUxIn0.YdKUVAc_mjliACLBD6tc6xSBspMkfUldDkzRUKGgpkc",
+            "description": "Minimum qualifications: Bachelor’s degree or equivalent practical experience. 5 years of experience with software development in one or more programming languages. 3 years of experience in testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. 3 years of experience with Machine Learning (ML) infrastructure (e.g., model deployment, model evaluation, data processing, debugging). Preferred qualifications: Master's degree or PhD in Comp…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576499151",
+            "created": "2026-01-10T00:36:22Z",
+            "title": "Senior Software Engineer, AI/ML, Privacy Centric Measurement",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Google"
+            }
+        },
+        {
+            "id": "5576495098",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "About the Role: Grade Level (for internal use): 10 The Team : The team's mission is to design and integrate an intelligent AI Assistant, employing Generative AI technology, into our existing web application ecosystem. As a Senior Engineer, you will be a key technical contributor working alongside a diverse team of highly skilled engineers and data scientists who are passionate about utilizing cutting-edge technology to achieve transformative business outcomes. The Impact: With the advent of Gen…",
+            "redirect_url": "https://www.adzuna.in/details/5576495098?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NDk1MDk4In0.EVPk_b0ucnvPi856wJ-VdomjilbpvoHTutjw29gPsPk",
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "S&P Global"
+            },
+            "created": "2026-01-10T00:35:46Z",
+            "title": "AI Developer-Gen AI (Python, C#, JavaScript, Angular)"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576480318?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NDgwMzE4In0.zR0Eyg8F-YLoVs-BscO8mdwP62ymVlhTBwIKjtuAg-w",
+            "contract_time": "full_time",
+            "description": "Alexa: An AI assistant that gets things done—she's smarter, more conversational, and more capable. With 600 million Alexa devices now out in the world, the latest advancements in generative AI have unlocked new possibilities—enabling us to reimagine the experience in our pursuit of making customers' lives better and easier every day. Prompt engineering and LLM orchestration form the backbone of Alexa by serving as the interface between user request and LLM processing, guiding AI systems to prov…",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5576480318",
+            "created": "2026-01-10T00:34:41Z",
+            "title": "SDM, Alexa AI Agent, ACT",
+            "company": {
+                "display_name": "Amazon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 12.97375,
+            "location": {
+                "display_name": "Immedihalli, Bangalore",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore",
+                    "Immedihalli"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576477634",
+            "redirect_url": "https://www.adzuna.in/details/5576477634?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.73605,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQ3NzYzNCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.3ELDcnz7-mym4AEfs72LI_2dctFlA0nDz4lrnUp1zdE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "description": "Principal Quality Automation Engineer (Web / Angular) Roles & Responsibilities Act as a principal engineer on a team of web quality engineers to design, develop, and execute test automation to ensure the quality and reliability of our software products Collaborate with cross-functional teams including developers, product managers, and quality engineers to identify test requirements and devise comprehensive test strategies Take ownership and accountability for the growth, enhancement and mainten…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CAI World-Wide"
+            },
+            "title": "Principal Quality Automation Engineer (Web / Angular)",
+            "created": "2026-01-10T00:34:27Z"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Esko"
+            },
+            "title": "Web Application Engineer",
+            "created": "2026-01-10T00:30:06Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576421854",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQyMTg1NCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.ZgZM7oklqtr_gJJPiFEF6YUlfJOIqtU9Rio3Rj_FXN0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576421854?utm_medium=api&utm_source=d58ac19b",
+            "description": "Main responsibilities and key activities: · Design, develop, and maintain scalable web applications using the React library and related technologies. · Implement responsive and user-friendly front-end interfaces using HTML, CSS, and JavaScript and React. · Have notion/feeling for User Experience and User Interface design work. · Integrate third-party and Internal APIs and services when required. · Conduct thorough testing, including unit testing and integration testing, to ensure the reliabilit…"
+        },
+        {
+            "company": {
+                "display_name": "Guidehouse",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T00:29:52Z",
+            "title": "Senior Salesforce Developer",
+            "id": "5576419510",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Job Family : SAAS/PAAS/Cloud Application Development (India) Travel Required : None Clearance Required : None What You Will Do: Demonstrable experience and understanding of overall SFDC architecture and platform. Responsible for the overall configuration, design, functionality, and end-user support Critically evaluates information gathered from multiple sources, reconcile conflicts, decompose high-level information into details, abstract up from low-level information to a general understanding,…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NDE5NTEwIn0.UKYeroOjaLunse41eGy5ocG_neWS5L_WPLlZw3ddniA",
+            "redirect_url": "https://www.adzuna.in/details/5576419510?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "title": "Lead Software Engineer",
+            "created": "2026-01-10T00:28:54Z",
+            "company": {
+                "display_name": "Solera",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Who We Are Solera is a global leader in data and software services that strives to transform every touchpoint of the vehicle lifecycle into a connected digital experience. In addition, we provide products and services to protect life’s other most important assets: our homes and digital identities. Today, Solera processes over 300 million digital transactions annually for approximately 235,000 partners and customers in more than 90 countries. Our 6,500 team members foster an uncommon, innovative…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NDA2MjQ0In0.lBg6dMco5iqqF958C8T2M2qC4bapD4m832Kfepb2Cio",
+            "redirect_url": "https://www.adzuna.in/details/5576406244?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.59837,
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576406244",
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "description": "Description About Business: Adani Group: Adani Group is a diversified organisation in India comprising 10 publicly traded companies. It has created a world-class logistics and utility infrastructure portfolio that has a pan-India presence. Adani Group is headquartered in Ahmedabad, in the state of Gujarat, India. Over the years, Adani Group has positioned itself to be the market leader in its logistics and energy businesses focusing on large-scale infrastructure development in India with O & M …",
+            "longitude": 72.59465,
+            "redirect_url": "https://www.adzuna.in/details/5576389570?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM4OTU3MCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.KW8qegw3WSbDWd6F8Wc3BArfL_T9t3jIlF0wKVgMobk",
+            "latitude": 23.042,
+            "id": "5576389570",
+            "location": {
+                "display_name": "Ahmedabad, Gujarat",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Ahmedabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T00:27:43Z",
+            "title": "Front End Engineer-AI Labs",
+            "company": {
+                "display_name": "Adani",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Software Development Manager, Shipment Optimization",
+            "created": "2026-01-10T00:23:00Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon"
+            },
+            "description": "Have you ever ordered a product on Amazon and wondered how it got to you so fast? Did you ever think about where this package came from and how much it cost to deliver? Join us in leading the revolution of Amazon's transportation network as we build real-time, intelligent, and fully automated systems that optimize package delivery across the world's most complex logistics network. As Amazon expands globally, you will lead teams whose work directly impacts millions of customers worldwide, sets n…",
+            "redirect_url": "https://www.adzuna.in/details/5576323877?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2MzIzODc3In0.eL6_jPOPViIYspcgKLeshyOZz9k6J0S8e8zaeBNkXXI",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576323877",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 12.97375,
+            "location": {
+                "display_name": "Immedihalli, Bangalore",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore",
+                    "Immedihalli"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576310380",
+            "redirect_url": "https://www.adzuna.in/details/5576310380?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.73605,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjMxMDM4MCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.rVtGiSOVpOAEjMRPhj_Jx6n6HR0gNt9yTdw2mO_Yz4Q",
+            "contract_time": "full_time",
+            "description": "Principal Quality Automation Engineer (Web / React) Roles & Responsibilities Act as a senior engineer on a team of web quality engineers to design, develop, and execute test automation to ensure the quality and reliability of our software products Collaborate with cross-functional teams including developers, product managers, and quality engineers to identify test requirements and devise comprehensive test strategies Contribute to and maintain test frameworks and tools Consistently ship automat…",
+            "company": {
+                "display_name": "CAI World-Wide",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T00:22:04Z",
+            "title": "Principal Quality Automation Engineer (Web / React)"
+        },
+        {
+            "company": {
+                "display_name": "Amazon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Software Development Manager III - Finance Tech (FinTech), Finance Calculations",
+            "created": "2026-01-10T00:21:08Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "id": "5576299470",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjI5OTQ3MCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.W9ZBzHxgGsrD_gXlPh7Vqe8iI_ayZthecWQfYHQa8z0",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576299470?utm_medium=api&utm_source=d58ac19b",
+            "description": "Are you looking for an opportunity to build a large scale, enterprise-wide software solution? Does it excite you to find patterns and build generic, composable software solutions to solve complex problems? Are you looking for inventing newer and simpler ways of building solutions? If so, we are looking for you to fill a challenging position on Amazon Finance Technology team. Amazon Finance Technology team is seeking a Software Development Manager to expand a new highly scalable and highly flexi…"
+        },
+        {
+            "description": "Job Summary: As a Software Development Engineer II, you’ll build a world-class platform for our customers by solving complex technical problems and building systems that run at scale. You will play a critical role in developing code and solving problems independently while shaping our next-gen solutions that drive our company's mission forward. We seek candidates with a passion for crafting elegant code and building innovative software solutions. About the team: Join our Player team to build an…",
+            "redirect_url": "https://www.adzuna.in/details/5576299220?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2Mjk5MjIwIn0.0T2mITNgj-IeK0UYdcLEixT2VJXx4l9LVHgsI7lAf9g",
+            "id": "5576299220",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "created": "2026-01-10T00:21:07Z",
+            "title": "Software Development Engineer II (Web)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JioStar"
+            }
+        },
+        {
+            "title": "Staff Software Engineer, Backend",
+            "created": "2026-01-10T00:20:29Z",
+            "company": {
+                "display_name": "Liberty Wireless Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576293047?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjI5MzA0NyIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.tJL1qNc2wFNIvz1B1t58QlpiDZFjEnDdxtz9gKopVkI",
+            "description": "Founded in 2014, Circles is a global technology company reimagining the telco industry with its innovative SaaS platform, empowering telco operators worldwide to effortlessly launch innovative digital brands or refresh existing ones, accelerating their transformation into techcos. Today, Circles partners with leading telco operators across multiple countries and continents, including KDDI Corporation, Etisalat Group (e&), AT&T, and Telkomsel, creating blueprints for future telco and digital exp…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5576293047"
+        },
+        {
+            "company": {
+                "display_name": "Veralto",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-09T08:38:15Z",
+            "title": "Web Application Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "id": "5575183117",
+            "latitude": 12.95703,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE4MzExNyIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.trkd4vAMc4fGPmbjyrA_nd3OcNIiSHTfHO2Pi6kn83M",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5575183117?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=B83F8CA58E8AC86DC04F107FC920695C0A8A829E",
+            "description": "Main responsibilities and key activities: · Design, develop, and maintain scalable web applications using the React library and related technologies. · Implement responsive and user-friendly front-end interfaces using HTML, CSS, and JavaScript and React. · Have notion/feeling for User Experience and User Interface design work. · Integrate third-party and Internal APIs and services when required. · Conduct thorough testing, including unit testing and integration testing, to ensure the reliabilit…"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5575169624",
+            "latitude": 12.95703,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTY5NjI0In0.yFg_0j4Ig-4CJyLMSScwscT7t4e1R5wv1IFco-yxcVw",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5575169624?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=019CFF91D85C63698D9180355F6DA1024F809655",
+            "description": "Honeywell Technology Solutions Job Description Advanced Software Engineer - Web Applications (.NET/C#, Cloud, SQL) Location: Bangalore, KA About the Role As an Advanced Software Engineer, you will design, develop, and maintain scalable web applications and APIs using C#/.NET, optimize SQL databases, and deploy solutions on cloud platforms. This role requires strong technical expertise, problem-solving skills, and the ability to mentor junior engineers while delivering high-quality software in a…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Honeywell"
+            },
+            "title": "Advanced Software Engr",
+            "created": "2026-01-09T08:27:27Z"
+        },
+        {
+            "created": "2026-01-09T08:27:17Z",
+            "title": "Staff Software Engineer, Machine Learning, Google One",
+            "company": {
+                "display_name": "Google",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Staff Software Engineer, Machine Learning, Google One _corporate_fare_ Google _place_ Bengaluru, Karnataka, India Advanced Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain. Minimum qualifications:  Bachelor's degree or equivalent practical experience.  8 years of experience in software development.  5 years of experience testing, and launching software products, and 3 years of experience with software design and ar…",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575169000?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=172B496CA8B7DDD2B8ED4E66F1FFBD62EE701FAE",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTY5MDAwIn0.Ny-sKWjBlbE75TboUzOdOczTqXgDhHT8KkZNTeTGqk8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5575169000",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "created": "2026-01-09T08:24:33Z",
+            "title": "Senior Software Engineer [T500-20959]",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ferguson GCC"
+            },
+            "description": "About Ferguson: Since 1953, Ferguson has been a source of quality supplies for a variety of industries. Together We Build Better infrastructure, better homes and better businesses. We exist to make our customers’ complex projects simple, successful, and sustainable. We proactively solve problems, adapt and grow to continuously serve our customers, communities and each other. Ferguson is proud to provide best-in-class products, service and capabilities across the following industries: Commercial…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2NTg3MiIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.fimmZsIhAKF0sriIoWMrdiHdMP4dcRnQcUndBdklfwQ",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575165872?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=7A259DED12E0C3A8056E00EB3D0AB02A17124EB5",
+            "id": "5575165872",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Software Engineer III - Data Engineer",
+            "created": "2026-01-09T08:24:33Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Wayfair"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2NTg3NCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.2kwLHGphFy_XLfMHdV6NcATY-OrC-r0zqrLCITNKhrQ",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575165874?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=66AE075CA780CABE98A87CB651D831979DB33129",
+            "description": "Candidates for this position are preferred to be based in Bangalore, and will be expected to comply with their team's hybrid work schedule requirements. Who We Are: Wayfair is on a path to be the world’s largest online destination for the home. We are the largest tech first platform in the home category. Our marketplace offers over 30 million products from 23,000 suppliers and we served 23 million customers in 2024 alone. Wayfair is investing heavily in building a world class advertising busine…",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "id": "5575165874"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "id": "5575165347",
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTY1MzQ3In0.VvN_ecpK-IA9d2NiH_uD4gjhVjKkq9sT99d7JodsJM8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575165347?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=18C4278695072F474EADF3700FB4FD33E8101216",
+            "description": "Company Background Planys is a deep-tech company developing mission-critical robotic and digital systems for defence and strategic infrastructure. The company designs and builds unmanned systems and advanced sensing solutions across underwater, maritime, and land domains, with a strong focus on naval, coast guard, and army applications. Planys is actively engaged in the development of Unmanned Underwater Vehicles (UUVs) ranging from small to extra-large platforms, along with ruggedised electron…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Planys Technologies"
+            },
+            "created": "2026-01-09T08:23:24Z",
+            "title": "C++developer"
+        },
+        {
+            "created": "2026-01-09T08:19:43Z",
+            "title": "Web Engineering Manager",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Closeloop Technologies Pvt. Ltd"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5575164174?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=807B169F094B5F79757396708757E243A2FA3C66",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTY0MTc0In0.xNYnf0Bd5ta9mfKxxVY5JJdOekbbnOC4loGza1N1mzk",
+            "description": "Job Title: Web Engineering Manager (Sitecore, React, Node.js) Experience: 7 to 10 Years Location: Remote Employment Type: Full-time About the Role We are looking for a Engineering Manager to lead a mid-sized, high-performing team of backend, frontend, and QA engineers. The ideal candidate has strong experience in modern web technologies, Sitecore CMS, and building large-scale distributed web platforms. This role requires a balance of technical leadership, people management, and the ability to d…",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5575164174"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "id": "5575163403",
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "Description For millions of customers worldwide, the Amazon name is synonymous with delivery - and the Delivery Experience (DEX) team provides those customers with innovative ways to get what they want and need, enabling the choices they make on every order, every day. We combine customer impact with retail invention, solving huge technical challenges along the way. DEX defines, builds, launches and manages customer-facing delivery programs and features across all of Amazon, including Prime 2-d…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2MzQwMyIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.CiH3mlCY1oaSBnaSKiSDwQjy5P0rWb8dPahL32efxXI",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575163403?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=2B0D9E1ED322BF346D6D3255EFF9A40B1FC775B3",
+            "longitude": 78.50806,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon"
+            },
+            "title": "Software Development Manager, Delivery Experience",
+            "created": "2026-01-09T08:17:48Z"
+        },
+        {
+            "description": "Description Have you ever ordered a product on Amazon and wondered how it got to you so fast? Did you ever think about where this package came from and how much it cost to deliver? Join us in leading the revolution of Amazon's transportation network as we build real-time, intelligent, and fully automated systems that optimize package delivery across the world's most complex logistics network. As Amazon expands globally, you will lead teams whose work directly impacts millions of customers world…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTYzNDE3In0.Z4vccHNi1qyqRA3688GLHRgY3Ks8LAUH9_2mT17sd4I",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575163417?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=85DE8AE1352F960D00DDC28C09458EA155FA1401",
+            "longitude": 78.50806,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "id": "5575163417",
+            "latitude": 17.40275,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "title": "Software Development Manager, Shipment Optimization",
+            "created": "2026-01-09T08:17:48Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Amazon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-09T08:17:48Z",
+            "title": "SDM, Alexa AI Agent, ACT",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "id": "5575163413",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Description Alexa: An AI assistant that gets things done-she's smarter, more conversational, and more capable. With 600 million Alexa devices now out in the world, the latest advancements in generative AI have unlocked new possibilities-enabling us to reimagine the experience in our pursuit of making customers' lives better and easier every day. Prompt engineering and LLM orchestration form the backbone of Alexa by serving as the interface between user request and LLM processing, guiding AI sys…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTYzNDEzIn0.mwzLoTlD8as6YQkTp8JlrBbZxP5OXGxmsOyiDRoXFsg",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575163413?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=4A88166BF0CBF27E812CA96EA8FDF16C39609FD6"
+        },
+        {
+            "company": {
+                "display_name": "Amazon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-09T08:17:48Z",
+            "title": "SDM, Alexa AI Agent, ACT",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 18.5062,
+            "id": "5575163418",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5575163418?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=89C6EF13FCF6258077533256D890DF64412396D9",
+            "longitude": 73.84735,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2MzQxOCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.1INT15Z3F2FU0BjN75JWxkOPSBbNw5PCR-oQXrEbvlk",
+            "description": "Description Alexa: An AI assistant that gets things done-she's smarter, more conversational, and more capable. With 600 million Alexa devices now out in the world, the latest advancements in generative AI have unlocked new possibilities-enabling us to reimagine the experience in our pursuit of making customers' lives better and easier every day. Prompt engineering and LLM orchestration form the backbone of Alexa by serving as the interface between user request and LLM processing, guiding AI sys…"
+        },
+        {
+            "description": "Description Are you looking for an opportunity to build a large scale, enterprise-wide software solution? Does it excite you to find patterns and build generic, composable software solutions to solve complex problems? Are you looking for inventing newer and simpler ways of building solutions? If so, we are looking for you to fill a challenging position on Amazon Finance Technology team. Amazon Finance Technology team is seeking a Software Development Manager to expand a new highly scalable and …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTYzNDM1In0.YCiRH1GQ5MS6yrSkkBwcdCEmQ7u_JCJDR8A7VhioGXY",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/land/ad/5575163435?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=67A6125A65209F1511898EA0D4CCAE145FBF29D9",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "id": "5575163435",
+            "latitude": 17.40275,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "title": "Software Development Manager III - Finance Tech (FinTech), Finance Calculations",
+            "created": "2026-01-09T08:17:48Z",
+            "company": {
+                "display_name": "Amazon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "display_name": "SmartSoC Solutions Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "SOC VERIFICATION LEAD",
+            "created": "2026-01-09T08:17:27Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5575163194",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2MzE5NCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.21erMN4LKZ_Cgia3Oh2yULgctPwDsIYeV81LArjIMGY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575163194?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=722A88709D0E5D1650F1F909929A10BA5D934EA1",
+            "description": "TITLE: SOC VERIFICATION LEAD LOCATION: Greater Bengaluru Area EXPERIENCE: 10  years of experience ABOUT COMPANY: SmartSoC Solutions is a leading Product Engineering company with specialization in Semiconductor, Embedded, Artificial Intelligence and Automotive domains. We enable our clients to design and build next-generation products, with a focus on Innovation. Our expertise is in SOC Design & Verification, Physical Design & Verification, Design for Test DFT), FPGA Design & Emulation, Analog D…"
+        },
+        {
+            "created": "2026-01-09T08:16:10Z",
+            "title": "Staff EMIR Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SmartSoC Solutions Pvt Ltd"
+            },
+            "description": "TITILE: Staff EMIR Engineer Location: BLR/HYD EXPERIENCE: 8-12 years with expertise in advanced packaging and multi-die power ABOUT COMPANY: SmartSoC Solutions is a leading Product Engineering company with specialization in Semiconductor, Embedded, Artificial Intelligence and Automotive domains. We enable our clients to design and build next-generation products, with a focus on Innovation. Our expertise is in SOC Design & Verification, Physical Design & Verification, Design for Test DFT), FPGA …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2MDMzOSIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.nB7DH6RNDBy5jCniYEYUlZbJkfjZ6VcmHoi3Ij5FKG8",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575160339?se=6kK_VOPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=385E771C8CD475EDE5290F15DC82A64CA73D318E",
+            "id": "5575160339",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "title": "Software Engineer II (.NET, Web API, Angular and SQL, Git)",
+            "created": "2026-01-09T06:00:16Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Vertafore"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NDg2MTQyOSIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.GeodDOFqHAMwws8pfTFpeC7bEzmFUU08gFmWfOnjnHQ",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5574861429?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 78.51234,
+            "description": "Vertafore is a leading technology company whose innovative software solution are advancing the insurance industry. Our suite of products provides solutions to our customers that help them better manage their business, boost their productivity and efficiencies, and lower costs while strengthening relationships. Our mission is to move InsurTech forward by putting people at the heart of the industry. We are leading the way with product innovation, technology partnerships, and focusing on customer …",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "id": "5574861429",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Kyasaram, Hyderabad",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad",
+                    "Kyasaram"
+                ]
+            },
+            "latitude": 17.38256
+        },
+        {
+            "company": {
+                "display_name": "Honeywell",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-09T00:41:35Z",
+            "title": "Advanced Software Engr",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "id": "5574400120",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NDQwMDEyMCIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.-ZsNb1PMozSi-ZD9AOd6CGSvPgmlgYb1HaRImCf9ZrA",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5574400120?utm_medium=api&utm_source=d58ac19b",
+            "description": "Qualifications Honeywell Technology Solutions Job Description Advanced Software Engineer — Web Applications (.NET/C#, Cloud, SQL) Location: Bangalore, KA About the Role As an Advanced Software Engineer, you will design, develop, and maintain scalable web applications and APIs using C#/.NET, optimize SQL databases, and deploy solutions on cloud platforms. This role requires strong technical expertise, problem-solving skills, and the ability to mentor junior engineers while delivering high-qualit…"
+        },
+        {
+            "title": "IN- Manager_ Application & Solution Development_IN_IT_ Services CO_IFS_PAN India",
+            "created": "2026-01-09T00:37:12Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PricewaterhouseCoopers"
+            },
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc0Mzc0ODA3In0.Ot593XkJZtT15PMj17xMdKEUVUD5CEG51x8qwldYj5A",
+            "redirect_url": "https://www.adzuna.in/details/5574374807?utm_medium=api&utm_source=d58ac19b",
+            "description": "Line of Service Internal Firm Services Industry/Sector Not Applicable Specialism IFS - Internal Firm Services - Other Management Level Manager Job Description & Summary At PwC, our people in infrastructure focus on designing and implementing robust, secure IT systems that support business operations. They enable the smooth functioning of networks, servers, and data centres to optimise performance and minimise downtime. In infrastructure engineering at PwC, you will focus on designing and implem…",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5574374807"
+        },
+        {
+            "id": "5574365099",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "description": "Berkadia Services India Pvt Ltd  Integrity is Everything I We Take the Long View I We believe People Matter I We Stand for Excellence I We Love our Jobs I We Innovate JOB DESCRIPTION Title : Systems Engineer, Department :Innovation Location: Hyderabad Shift - Rotational Shift Position Summary The Cloud and Infrastructure Technology Team manages the design, installation, and maintenance of Berkadia’s technology infrastructure. This includes all physical & virtual servers, cloud platforms (Azure …",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc0MzY1MDk5In0.Pjssz48P9CtI9ZxyqjoCXiU7aXaCWB8tgW6H6Qs3O-o",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5574365099?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 78.50806,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Berkadia"
+            },
+            "title": "Systems Engineer, Enterprise Operations Center",
+            "created": "2026-01-09T00:35:30Z"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Google"
+            },
+            "title": "Staff Software Engineer, Machine Learning, Google One",
+            "created": "2026-01-09T00:34:19Z",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5574357938",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "Minimum qualifications: Bachelor’s degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience testing, and launching software products, and 3 years of experience with software design and architecture. 5 years of experience with one or more of the following: Speech/audio (e.g., technology duplicating and responding to the human voice), reinforcement learning (e.g., sequential decision making), ML infrastructure, or specialization in another ML…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc0MzU3OTM4In0.tBDk5GY8PHmU3jeG2mpTLuD-54wJegx6yg3g0Q2er5k",
+            "redirect_url": "https://www.adzuna.in/details/5574357938?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "latitude": 12.95703,
+            "id": "5574356620",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/details/5574356620?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc0MzU2NjIwIn0.rNC17cLRF7ahc1B8smq_af0HUBLSB91Gi8MbCvURej0",
+            "contract_time": "full_time",
+            "description": "Ready to build the future with AI? At Genpact, we don’t just keep up with technology—we set the pace. AI and digital innovation are redefining industries, and we’re leading the charge. Genpact’s AI Gigafactory, our industry-first accelerator, is an example of how we’re scaling advanced technology solutions to help global enterprises work smarter, grow faster, and transform at scale. From large-scale models to agentic AI, our breakthrough solutions tackle companies’ most complex challenges. If y…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Genpact"
+            },
+            "created": "2026-01-09T00:34:08Z",
+            "title": "Lead Consultant, Full Stack Developer"
+        },
+        {
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/details/5574336315?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc0MzM2MzE1In0.j7WZACyQSvKiGV65UGmE3YNAEZwK8qQu8P11ez4dWV4",
+            "description": "Description We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III at JPMorgan Chase within the Community & Consumer Banking - Business Banking Technology team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas w…",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 17.40275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "id": "5574336315",
+            "title": "Software Engineer III - Web UI",
+            "created": "2026-01-09T00:31:48Z",
+            "company": {
+                "display_name": "JPMorganChase",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Software Engineer II - Web UI",
+            "created": "2026-01-09T00:30:31Z",
+            "company": {
+                "display_name": "JPMorganChase",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/details/5574322795?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNmtLX1ZPUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc0MzIyNzk1In0.6f8ma4Nr3LYV-aAt34hoVJPhuU98v9QqcgY_08BbB7Y",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "description": "Description We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III at JPMorgan Chase within the Community & Consumer Banking - Business Banking Technology team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas w…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
             "latitude": 17.40275,
             "location": {
                 "display_name": "Hyderabad, Telangana",
@@ -49,601 +1413,21 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "id": "5529806327",
-            "created": "2025-12-06T01:27:54Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5529806327?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=AB18262443ED25E154A3C1F791EC6957F7A4BFC2",
+            "id": "5574322795"
+        },
+        {
+            "created": "2026-01-09T00:25:30Z",
+            "title": "Software Engineer II - Web UI",
+            "company": {
+                "display_name": "JPMorganChase",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Description Job Description We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III at JPMorgan Chase within the Community & Consumer Banking - Business Banking Technology team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple t…",
             "longitude": 78.50806,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgwNjMyNyIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.6lmMhRvgUcwx8XaR94coY2sszT2ggUS8BWRVHo2nfHM",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "Engineering Jobs",
-                "tag": "engineering-jobs"
-            }
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5546315942?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4F4543B6BCEAB2F5AE3285A94EA7B09EC1C89A95",
-            "created": "2025-12-18T02:40:02Z",
-            "id": "5546315942",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2MzE1OTQyIn0.s1emxEbMo9foc0HkyLC00ghnaxFObu57GEKjCZTbo20",
-            "longitude": 76.24637,
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "title": "Web Platform Engineer",
-            "latitude": 9.98011,
-            "location": {
-                "display_name": "Kochi, Ernakulam",
-                "area": [
-                    "India",
-                    "Kerala",
-                    "Ernakulam",
-                    "Kochi"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "description": "Who We Are White Rabbit Group is a company that partners with world class agencies for web and mobile app development and design, letting our customers focus on what they do best, while we focus on building. We have a broad spectrum of technologies that we work on including PHP, React, Node, Strapi, Shopify, WordPress, and fully native and hybrid mobile apps, to name a few. We have almost 100 full time employees spanned across the US, Colombia and India and we work closely together to bring our…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "display_name": "White Rabbit Group",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time"
-        },
-        {
-            "id": "5510936983",
-            "created": "2025-11-24T07:14:11Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5510936983?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C53BB535E2E1D8CEA156A45F5D2E98B6C81FBB42",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDkzNjk4MyIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0._apalDxlVu9GWMJ2Vkz3TEwV0WksRYIQdj842I5qNmI",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "title": "Mobile/Web QA Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "description": "Responsibilities: · Collaborate with cross-functional teams to understand project requirements · Come up with Test Plan and write Test Cases for Mobile Applications/Web Applications · Execute the Test Cases Manually and provide sign Offs · Define test automation strategies. · Develop and maintain end-to-end test suites using Detox to validate web applications. · Create and execute automated test scripts for regression, functional, and performance testing. · Identify and report defects, track is…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "BayOne Solutions"
-            }
-        },
-        {
-            "description": "o Please apply if you are willing to work at our Bangalore office o Be part of our team operating in stealth mode before our product launch in October o An attractive compensation based on professional background and skills. o Accommodation and meals will be taken care during your stay. o Join us now and be part of our exciting 4-day trip to Thailand (or another destination) following our first launch! Note: o Before applying, please read the job description thoroughly and ensure it aligns with…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Zuchiz"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5434982897?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C6600BADA01FBAC83F8A597EF321122A9025BCCA",
-            "created": "2025-10-07T09:47:35Z",
-            "id": "5434982897",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzNDk4Mjg5NyIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.IwUH7OQ4pFVnlCPWZS2YSGtMPeaP0WD_okM5hc9AU1w",
-            "title": "Mobile and Web QA Engineer (BANGALORE)",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Senior Software Engineer-Web Location: Bengaluru Experience: 3–6 years About Pocket FM Pocket FM, founded in 2018, is India’s leading audio storytelling platform, transforming the way millions consume stories. Offering high-quality serialized content across genres such as Romance, Drama, Thriller, Fantasy, Sci-Fi, and Mythology in eight languages, Pocket FM has built a strong global presence with over 200 million listeners worldwide. With users spending an average of 120 minutes daily on the pl…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Pocket FM"
-            },
-            "category": {
-                "tag": "engineering-jobs",
-                "label": "Engineering Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI1MjEwNzcyIn0.6IF6p-00cq5fpCowiKtlJBuobPmUxSOKAoxm1qjyo_k",
-            "created": "2025-12-03T09:04:10Z",
-            "id": "5525210772",
-            "redirect_url": "https://www.adzuna.in/land/ad/5525210772?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=094810510A75D5F6902D2E0987ACA1B9ED10405C",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "title": "Senior Software Engineer-Web"
-        },
-        {
+            "redirect_url": "https://www.adzuna.in/details/5574259946?utm_medium=api&utm_source=d58ac19b",
             "contract_time": "full_time",
-            "company": {
-                "display_name": "adab digital",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Role Description This is a full-time on-site Software Engineer (Web/Mobile) role located in Hyderabad. The role involves designing, developing, and maintaining web or mobile applications. Responsibilities include collaborating with cross-functional teams, writing clean and efficient code, identifying and resolving technical issues, and staying updated on industry trends and emerging technologies to continuously improve application performance and development processes. Qualifications Good under…",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana"
-            },
-            "latitude": 17.40275,
-            "title": "Software Engineer(Web/Mobile)",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "longitude": 78.50806,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTYxNjcyNjY5In0.5wc4_g_BLZS5uT1iYSGbEUsktCkZfcw_EvFJID_8wRI",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561672669?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=7293633907553CF4286BB5784A78970A2673767C",
-            "id": "5561672669",
-            "created": "2026-01-01T02:38:40Z"
-        },
-        {
-            "company": {
-                "display_name": "Alternative Path",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Alternative Path is seeking skilled software developers to collaborate on client projects with an asset management firm. In this role, you will collaborate with individuals across various company departments to shape and innovate new products and features for our platform, enhancing existing ones. You will have a large degree of independence and trust, but you won't be isolated; the support of the Engineering team leads, the Product team leads, and every other technology team member is behind y…",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "title": "Data Engineer - Web Scraping",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDY0NTgyNTczIn0.oKPZchncS6JzKtfrCDMq0_iIRQFnBOXUPqzHkbLtJ3s",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5464582573?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=ADE3E0481E5DE0E916267E750FF0D15082145449",
-            "id": "5464582573",
-            "created": "2025-10-26T02:17:35Z"
-        },
-        {
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Sr. Software Engineer - Web Platform (Frontend Engineering), Digital Business (Location: Bangalore)",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM3MzgzNDcxIn0.qATivhxYhzhozj-96qp2gUKZBXl2XIvkuNDEyRwWsXQ",
-            "redirect_url": "https://www.adzuna.in/land/ad/5537383471?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=7D5BCFFC953E5D6D1339A83B1B78D63928B7852C",
-            "created": "2025-12-11T09:26:43Z",
-            "id": "5537383471",
-            "company": {
-                "display_name": "Sony Pictures Networks India",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Sr. Software Engineer - Web Platform, Digital Business Bengaluru (1005), Technology Overview We are seeking a talented and passionate React Developer to join our team and play a key role in the development and maintenance of internal backend tools and dashboards. You will be responsible for building and maintaining high-quality, user-friendly interfaces that empower our engineering and operations teams. Location - Bangalore Education - B.E./B.Tech, MCA or Equivalent Computer Degree Essential Ex…"
-        },
-        {
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "title": "Data Engineer - Mobile & Web Scrapping",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTYwNzExNzI1In0.tmbf23XDPQaq_Uw4R50_XiQAKOgkRq5q3OGKxJXnDWk",
-            "category": {
-                "label": "Engineering Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "engineering-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5560711725?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=7A45CADA804B37DDCA810E299DFB7CCA886BB8A9",
-            "id": "5560711725",
-            "created": "2025-12-31T10:34:41Z",
-            "company": {
-                "display_name": "Gala Intelligence",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "We're looking for an entrepreneurial, passionate, and driven Data Engineer to join Startup Gala Intelligence backed by Navneet Tech Venture situated in Ahmedabad . As we're building our technology platform from scratch, you'll have the unique opportunity to shape our technology vision, architecture, and engineering culture right from the ground up. You’ll directly contribute to foundational development and establish best practices, while eventually building and contributing to our engineering t…"
-        },
-        {
-            "title": "Web Engineer",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "created": "2025-12-16T00:15:21Z",
-            "id": "5543249151",
-            "redirect_url": "https://www.adzuna.in/details/5543249151?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQzMjQ5MTUxIn0.nVbV5nsFx15TUHac6s4Xrz97yViEiBCHUCPFQH_PVEw",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "BatchData"
-            },
-            "contract_time": "full_time",
-            "description": "Position Overview Job Title: Web Engineer Work Hours: Full-time (8 hours/day, Mon-Fri) Location: Remote Job Summary As a Web Engineer at BatchData, you will work as a Node.js/TypeScript developer within our Data Engineering team. As part of the organization’s data ecosystem, you will use cutting-edge technologies in the big data and analytics space and contribute to projects using modern tools to support data-driven systems. Your role includes developing high-performance, highly available REST …",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "title": "Technical Support Engineer for a Web/Mobile application for US Company",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNTY5MTEzOCIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.f6QJGkLgKe1koj8XycZMyTkJZbaDKWbLkgc1KVwysN8",
-            "id": "5515691138",
-            "created": "2025-11-27T09:43:20Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5515691138?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=763AA070392340D967E17C2892F4580982B36D7E",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Textellent, Inc."
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "You will work closely with Client Success and support them by providing Tier-2 client support for software technical issues and work with Engineering department to debug and resolve the issues. RESPONSIBILITIES: Provide technical support to internal and external users including customer service teams as well as clients and partners Communication and coordination of feedback and inputs to the development team, mostly based in India Assist QA lead with QA activities Troubleshooting technical issu…"
-        },
-        {
-            "title": "Web Engineer II",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "redirect_url": "https://www.adzuna.in/details/5539848234?utm_medium=api&utm_source=d58ac19b",
-            "id": "5539848234",
-            "created": "2025-12-13T00:18:25Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTg0ODIzNCIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.hFZL_Zue89lRLMFU_PqDgP84LhXALDBWSqjEPuhkbWs",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "display_name": "Arrow",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time",
-            "description": "Position: Web Engineer II Job Description: Candidate with 4 to 7 years of strong hands-on design/development background in Microsoft technologies and application integrations. Able to translate requirements into design/code with unit testing/ bug fixing / tuning Understanding basics of APIs for testing and troubleshooting Hands-on development experience with Power Platform Ability to interpret data related to energy usage, carbon emissions, employee commute, waste management, or supply chain ES…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "id": "3290772327",
-            "created": "2022-07-05T06:41:24Z",
-            "longitude": 75.18597,
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "salary_min": 100000,
-            "latitude": 12.91448,
-            "location": {
-                "display_name": "Mangalore, Dakshin Kannada",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Dakshin Kannada",
-                    "Mangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "description": "ABOUT THE ROLE: As a Principal Web Engineer, we are on looking for a box thinker who can help us solve real-time complex problems. You need to help us in making our product more robust and scalable since we are majorly working on B2B segment. You should be a Seasoned Web Developer who has the capabilities to build Web Apps from Scratch & work with minimal supervision. ROLES AND RESPONSIBILITIES • Understand product requirements and features and translate them into technical requirements (collab…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "display_name": "Zyvka Global Services",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time",
-            "redirect_url": "https://www.adzuna.in/details/3290772327?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiIzMjkwNzcyMzI3In0.qdRsaKl79hzxOy-EW52ZTfmn_KjeMkpWXC1Te5Z3V_M",
-            "title": "Principal Web Engineer",
-            "salary_max": 3000000
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Arrow Electronics"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Position: Web Engineer II Job Description: Candidate with 4 to 7 years of strong hands-on design/development background in Microsoft technologies and application integrations. Able to translate requirements into design/code with unit testing/ bug fixing / tuning Understanding basics of APIs for testing and troubleshooting Hands-on development experience with Power Platform Ability to interpret data related to energy usage, carbon emissions, employee commute, waste management, or supply chain ES…",
-            "latitude": 12.95703,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Web Engineer II",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzUwNTYxNSIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.LgdnytmvoFdL4QBUV6oa1EICbGmpN5RzO_JQriT6gh4",
-            "longitude": 77.59837,
-            "redirect_url": "https://www.adzuna.in/details/5537505615?utm_medium=api&utm_source=d58ac19b",
-            "id": "5537505615",
-            "created": "2025-12-11T11:38:21Z"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNTgwNiIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.IfrVhFovyNiYodPI4jKfIIG5R1rE8xS2HTC4uN4yfGQ",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5546315806?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=FF15057CEB74683913C4EF8F95B1FE59684C4963",
-            "id": "5546315806",
-            "created": "2025-12-18T02:39:54Z",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Frontend Engineer",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Company Vision StockGro is India’s leading stock market education platform with a community of over 2.5 crore market enthusiasts. StockGro equips users with trading and investing knowledge to succeed in the stock market. Whether user is a beginner or a seasoned trader, he can learn strategies from top investment managers, practice with platform currency, and study portfolios of experts & peers. By combining experiential learning with guidance from SEBl-registered experts, StockGro has become th…",
-            "company": {
-                "display_name": "StockGro",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            }
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Carzonrent India / Carzonrent Labs"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "We are looking for developers well verse in Web technologies using Java (and/or) Python, HTML5, Javascript and has a practical understanding of how to build websites. You will be working on responsive and user friendly web/mobile sites. Responsibilities: - Develop 3-tier web applications, you will be required to contribute on both HTML/JS and on Backend technologies. - Develop charts/graphs for reports on internal dashboards. - Deliver high quality, legible and well tested code. - Develop user …",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "title": "Sr Web Engineer (WEB-02)",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTAxODMyNTM5In0.TIaTd484nI8k0lxdcvCteJcJ2UU5GhlVH2pc-pq0Sfg",
-            "redirect_url": "https://www.adzuna.in/details/5501832539?utm_medium=api&utm_source=d58ac19b",
-            "id": "5501832539",
-            "created": "2025-11-18T22:16:42Z"
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "We are seeking a highly skilled Technical Lead – Web to own and scale the KukuFM web platform to millions of users. This role requires deep expertise in frontend architecture, modern web technologies, and building highly performant, secure, and reliable user experiences—including our web player (audio/video) and web-based payments flow. As a Technical Lead, you will drive architectural decisions, ensure engineering quality, and build a world-class, end-to-end web experience across browsers and …",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Kuku FM"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQwMzQ4MzQ1In0.3MUU9YWwt0rXcTIrCd1pfhITJSr9g7XFShga2JrHsYA",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5540348345?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-12-13T03:28:31Z",
-            "id": "5540348345",
-            "contract_type": "permanent",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "salary_max": 4000000,
-            "salary_min": 2000000,
-            "title": "Technical Lead – Web Engineering"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMTk3OTE2MCIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.RjyXWjErxepWhZj_ByytTQVB3zwobYnIQh8M2zLowiM",
-            "redirect_url": "https://www.adzuna.in/details/5511979160?utm_medium=api&utm_source=d58ac19b",
-            "salary_max": 2200000,
-            "title": "Web Engineering Lead (ReactjsTypescript)",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "longitude": 73.84735,
-            "id": "5511979160",
-            "created": "2025-11-25T07:14:05Z",
-            "contract_type": "permanent",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ],
-                "display_name": "Pune, Maharashtra"
-            },
-            "latitude": 18.5062,
-            "salary_min": 500000,
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Job description T Location: Pune  Mode: Hybrid  Employment Type: Permanent Overview: Are you a JavaScript and TypeScript enthusiast passionate about building user-friendly and visually appealing web applications? If you have 5 years of React experience (preferably in SaaS), we’d love to have you join Azodha, a digital healthcare startup! As a React Software Development Engineer, you will play a key role in developing and maintaining our web-based healthcare platform. You'll be responsible for b…",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Azodha"
-            }
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "QA Engineer – Manual & Automation (Web  Mobile | 4–6 Years Experience) About Textellent, Inc. Textellent, Inc. is a leading SMS marketing platform that integrates with CRM systems to automate and personalize marketing, sales, and customer service campaigns. Our platform also offers self-service appointment scheduling with pre- and post-appointment drip campaigns. We are expanding our QA team to ensure our web and mobile SaaS applications deliver a seamless, high-quality user experience across d…",
-            "company": {
-                "display_name": "Textellent, Inc.",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MjcwMjA1MCIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.6qJF2eXT74orKw6HxW4Clx33mTVgCBlSxdLV5v_ZKso",
-            "redirect_url": "https://www.adzuna.in/land/ad/5542702050?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=85E533D5BA5C42C42415F3139D72968FC94F8172",
-            "id": "5542702050",
-            "created": "2025-12-15T08:40:45Z",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "title": "QA Engineer – Manual & Automation (Web  Mobile | 4–6 Years Experience)"
-        },
-        {
-            "latitude": 13.06041,
-            "location": {
-                "display_name": "Chennai, Tamil Nadu",
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Full Stack WordPress Engineer - PHP coding within WordPress",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU5NzE2NzQyIn0.SkIPH9uurxVEu2OSmQTa6tL3K8l1osPL_fsDw9JzGRY",
-            "longitude": 80.24963,
-            "created": "2025-12-30T10:27:09Z",
-            "id": "5559716742",
-            "redirect_url": "https://www.adzuna.in/land/ad/5559716742?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=252FD7684A931F1391972FFE653013C7C13AAB9B",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Tectra Technologies LLC"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Job Summary We are seeking a highly skilled Senior WordPress Engineer to lead the development, enhancement, and optimization of our web platforms. This role is responsible for building secure, scalable, and high-performance WordPress solutions that support our business objectives. The ideal candidate will bring strong technical expertise, a strategic mindset, and a passion for delivering reliable digital experiences using modern web technologies. Key Responsibilities Design, develop, and deploy…"
-        },
-        {
-            "created": "2026-01-01T07:56:10Z",
-            "id": "5561806955",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561806955?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=0F473EF44A1F57BBF28080AED2F792BCED9E5DCC",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTgwNjk1NSIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.UaIF-OPVc0KGwGfBoEy0JvH0lB9vg1jXNRVSccJy2KY",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "title": "Senior Software Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "description": "About Ferguson: Since 1953, Ferguson has been a source of quality supplies for a variety of industries. Together We Build Better infrastructure, better homes and better businesses. We exist to make our customers complex projects simple, successful, and sustainable. We proactively solve problems, adapt and grow to continuously serve our customers, communities and each other. Ferguson is proud to provide best-in-class products, service and capabilities across the following industries: Commercial/…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Ferguson"
-            }
-        },
-        {
-            "company": {
-                "display_name": "Staff Connect UAE",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Work Location : Mohali, Vadodara, Kochi (India) Job Summary : We are seeking a hands-on Full Stack & Mobile Software Engineer with a minimum of 5 years of experience in building and deploying production-grade applications. The role covers modern web and mobile development, backend engineering, API integrations, microservices architecture, and cloud deployments. The engineer will develop responsive web applications using React.js, mobile applications using React Native or Flutter, and backend se…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NDI1OTk0NiIsInMiOiI2a0tfVk9QdDhCRzRjSi1CR2tZUFNnIn0.sGqTbjfYIutFxgBTFZyBWucXVr19Nks6SMStxuBf3RY",
             "latitude": 17.40275,
             "location": {
                 "area": [
@@ -651,822 +1435,18 @@
                     "Telangana",
                     "Hyderabad"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana"
-            },
-            "title": "Full Stack Engineer",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "longitude": 78.50806,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1OTcyODE5NyIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.l7rtqP5g7KQNayVgSfkwYI-eidzAhQWmV0QWTavUj3c",
-            "redirect_url": "https://www.adzuna.in/land/ad/5559728197?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=694D80BB418268E1C6969850A062B90A7F6E9575",
-            "id": "5559728197",
-            "created": "2025-12-30T10:30:52Z"
-        },
-        {
-            "company": {
-                "display_name": "Inspektlabs",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Location : Delhi Experience : 3–8 years Function : Product execution, client workflows, delivery coordination About the Role We are hiring a Senior Program Manager to act as a cross-functional execution owner across product development, senior client workflow discussions, and delivery coordination. This role exists to bridge gaps between founders, engineers, operations, and customers — ensuring clarity, prioritization, and follow-through. This is not a pure PM role and not a sales role. It is a…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "title": "Senior Program Manager",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5546599325?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=189627F44D4B052DC7BDAAA884DAA18F85DED080",
-            "id": "5546599325",
-            "created": "2025-12-18T08:44:53Z",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2NTk5MzI1In0.BhsAGcic4kyqMcTLApURVW8GnoF-4zL-oOcVtOeXI3M"
-        },
-        {
-            "description": "Software Engineer (Web/UI Engineer) Please apply only if you satisfy work experience requirements Our Vision , we are building a first-of-its-kind, lifestyle health product for Women in India. We believe that the future of health and fitness is digital, and women will drive the digital fitness revolution in India. Existing digital health and fitness products are highly transactional and we see a huge opportunity to build a truly aspirational product that will inspire and empower millions of wom…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Qrata"
-            },
-            "contract_time": "full_time",
-            "id": "4514375962",
-            "created": "2024-01-07T15:07:40Z",
-            "redirect_url": "https://www.adzuna.in/details/4514375962?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI0NTE0Mzc1OTYyIn0.BuUiQlIXxWCVm-AjFZAhI_wPlQVby7zeMRJQBXhEpcw",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "salary_min": 1200000,
-            "title": "Software Engineer (Web/UI Engineer)",
-            "salary_max": 3000000,
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            }
-        },
-        {
-            "description": "About Us: Marriott International Inc. , headquartered in Bethesda, Maryland, USA, was founded in May 1927 by J. Willard Marriott and Alice S. Marriott with a modest nine-seat A&W root beer stand. Guided by the family's leadership and core principles, Marriott International today has grown into a global hospitality giant, operating approximately 9,000 properties and over 30 leading brands in more than 140 countries and territories. From such humble beginnings to becoming the world’s largest hote…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "display_name": "Marriott Tech Accelerator",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5548139901?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4A23E6D54B9DCB729BCBF78AF3EE865A91B10F00",
-            "created": "2025-12-19T09:00:27Z",
-            "id": "5548139901",
-            "longitude": 78.50806,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTM5OTAxIn0.Q9sCCHc_U0Qz-7A7J6Nq9MF1l6-gUTxzn5V01h3x678",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "title": "Senior Software Engineer I [T500-21316]",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana"
-            },
-            "latitude": 17.40275
-        },
-        {
-            "description": "Role & Responsibilities Contributes to the technical vision for an engineering team, aligning with company-wide strategies and goals. Contributes to the design and development of robust, scalable, and user-friendly web applications. Create innovative solutions using the latest technologies and tools for front end development and backend development. Collaborate with product managers, designers, and engineers to define product direction and to deliver complex applications. Conduct thorough code …",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Talent Pro"
-            },
-            "contract_time": "full_time",
-            "redirect_url": "https://www.adzuna.in/details/5128160979?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-04-04T04:37:21Z",
-            "id": "5128160979",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1MTI4MTYwOTc5In0.qQA1c8-LWuoxdy_NYCvh0lIfQRttIzU_cs1rtzGI91A",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "title": "Senior Fullstack Web Engineer (PHP, Javascript / Typescript",
-            "salary_min": 2500000,
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
+                "display_name": "Hyderabad, Telangana",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "salary_max": 4000000
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "Diginnovators Solution Pvt Ltd",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "PHP / Laravel developer is an IT professional specialized in developing web applications using Laravel Framework within PHP programming language. In order to attract PHP / Laravel developer that best matches your needs, it is very important to write a clear and precise PHP / Laravel developer job description. Responsibilities: Develop, record and maintain cutting edge web-based PHP applications on portal plus premium service platforms Build innovative, state-of-the-art applications and collabor…",
-            "salary_max": 500000,
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "salary_min": 150000,
-            "title": "Backend â PHP/Laravel â Web Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiIzNDMzMjIyMzIyIn0.SuaneHlMwgGLmMZ-bg23_mM3jxB7Trteg3QM9dTJghg",
+            "id": "5574259946",
             "category": {
-                "tag": "it-jobs",
                 "label": "IT Jobs",
+                "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "redirect_url": "https://www.adzuna.in/details/3433222322?utm_medium=api&utm_source=d58ac19b",
-            "created": "2022-08-26T06:41:28Z",
-            "id": "3433222322"
-        },
-        {
-            "salary_min": 700000,
-            "latitude": 13.06041,
-            "location": {
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Chennai, Tamil Nadu"
-            },
-            "id": "4541828635",
-            "created": "2024-01-24T15:35:19Z",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "longitude": 80.24963,
-            "company": {
-                "display_name": "OJCommerce",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time",
-            "description": "Role : Web Scraping Engineer Experience : 2 to 3 Years Job Location : Chennai About OJ Commerce: OJ Commerce (OJC), a rapidly expanding and profitable online retailer, is headquartered in Florida, USA, with a fully-functional office in Chennai, India. We deliver exceptional value to our customers by harnessing cutting-edge technology, fostering innovation, and establishing strategic brand partnerships to enable a seamless, enjoyable shopping experience featuring high-quality products at unbeata…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Web Scraping Engineer",
-            "salary_max": 1200000,
-            "redirect_url": "https://www.adzuna.in/details/4541828635?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDU0MTgyODYzNSIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.WAKGaIpeye3JD0wZN9U1GWWFuwusYw9Re2SpeOTjvcQ"
-        },
-        {
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTA4NTkzMDE4In0.4Tz7w_k8YTOolgjH4VP8nSPYq4Pirx16F-c3RwsIYsQ",
-            "created": "2025-11-22T05:49:16Z",
-            "id": "5508593018",
-            "redirect_url": "https://www.adzuna.in/details/5508593018?utm_medium=api&utm_source=d58ac19b",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Web Solutions Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Web Solutions Engineer _corporate_fare_ Google _place_ Bengaluru, Karnataka, India Mid Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area. Minimum qualifications:  Bachelor's degree in Computer Science, a similar technical field, or equivalent practical experience.  4 years of experience in software development.  Experience in programming with at least one of: Java, Python, GoLang, or TypeScript/Java…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Google"
-            }
-        },
-        {
-            "salary_min": 700000,
-            "title": "Web Application Engineers",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "salary_max": 1400000,
-            "created": "2025-08-07T05:37:46Z",
-            "id": "5341050941",
-            "redirect_url": "https://www.adzuna.in/details/5341050941?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM0MTA1MDk0MSIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.pnG3dMeWCZa9wYuOeWTjuqk9kBnVqDcQSNVFNaK-JMg",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "SFO Technologies"
-            },
-            "contract_time": "full_time",
-            "description": "SFO Technologies (http://www.sfotechnologies.net/) is a 25 year old organization with strong presence in communication (fiber optic devices, RF communication systems, STB…), health care (ultrasound scanners, x-ray equipments, nuclear medicine…), transportation (metro fare collection gates, automotive electronics…) and value added engineering services. We serve multiple tier-1 clients - GE, Toshiba, ALSTOM, DIEBOLD, HITACHI, THALES to name a few. Our vision is to be a globally respected leader i…",
-            "__CLASS__": "Adzuna::API::Response::Job",
             "salary_is_predicted": "0"
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "BlueOptima",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "\"Responsibilities Include Develop, test, implement and maintain application software Take part in software and architectural development activities Transform requirements into implementation details Debug application issues and helping support respond to client queries Participate in application development meetings Provide accurate estimates, clearly communicate status of tasks and identification of risks Commitment to accomplishing the task at hand and identify the fastest and most reliable w…",
-            "location": {
-                "display_name": "Navi Mumbai, Maharashtra",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Navi Mumbai"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 19.02,
-            "salary_min": 1200000,
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "longitude": 73.02,
-            "created": "2019-05-17T21:02:39Z",
-            "id": 1155088475,
-            "salary_max": 1500000,
-            "title": "Web Backend Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOjExNTUwODg0NzV9.okL8g-Q8t8ISiDD2_8zOB_sBMcdkH9hhDZbBbJWbJUM",
-            "redirect_url": "https://www.adzuna.in/details/1155088475?utm_medium=api&utm_source=d58ac19b"
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "We need candidates with Sophisticated Technology enthusiast with PHP Object Oriented development experience and MVC Design Projects. Job Description: Web application developers that are skilled in developing on Linux Mysql Apache and PHP platforms. The position exists to design, develop, test, maintain and support high performance, scalable, innovative web-based applications. Candidate must be energetic, self-motivated problem solver who works well in teams and must have ability to adapt to a r…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Nevales Networks ."
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTUyNjM0MCIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.0hYjN8gZM6lX4Y38VbjyZQdfJvywXIS2cfxOBn0IIW0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/details/4801526340?utm_medium=api&utm_source=d58ac19b",
-            "id": "4801526340",
-            "created": "2024-07-31T03:13:04Z",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "title": "Web Development Engineer"
-        },
-        {
-            "description": "A Web Applications Engineer is a talented coder who builds systems that improve players’ experience to efficiently communicate and enjoy in highly energy packed game rooms. Utilizing open source technology and frameworks our goal is to focus on creating innovative and game changing ideas. Sample applications may include online-game engines, web-based enterprise applications, distributed database tools, ticketing and customer relationship management systems, intelligent data retrieval tools. Exp…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "display_name": "fortuity",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "created": "2024-07-31T03:07:43Z",
-            "id": "4801464452",
-            "redirect_url": "https://www.adzuna.in/details/4801464452?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTQ2NDQ1MiIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.w8aGhRUjR7g3ydx_ZsZcI-jM86KvthGcpuZpHgdmMh4",
-            "title": "Web Applications Engineer - PHP",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana"
-            }
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Weekday"
-            },
-            "contract_time": "full_time",
-            "description": "This role is for one of our clients Industry: Internet Publishing Seniority level: Entry level Min Experience: 0 years Location: Bangalore JobType: full-time ₹4,00,000 - ₹6,00,000 a year We are looking for enthusiastic and driven Junior Web Application Engineers to join our Solutions team. In this role, you will contribute to building and enhancing real-world technology solutions that enable large-scale asset and inventory tracking for enterprise clients. You’ll work closely with engineering an…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Junior Web Application Engineers",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "id": "5529332195",
-            "created": "2025-12-05T22:39:59Z",
-            "redirect_url": "https://www.adzuna.in/details/5529332195?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI5MzMyMTk1In0.4rs6sQjJU_Y6Y3XCHr2yHd9KMnd6Vlk4h2cQ0XoofLU"
-        },
-        {
-            "description": "Whom are we looking for? Our groundbreaking technology, requires highly skilled and talented Web Backend Developers to understand the depth of the problem and device a solution for it.We are seeking a Software Engineer, with a depth of experience in developing Web Applications enabled using REST APIs backed by a data warehouse solution, to join our growing company and be a part of our success story. We are looking for individual with great attention to detail, who is genuine, confident, committ…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "display_name": "BlueOptima",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time",
-            "id": 1155088482,
-            "created": "2019-05-17T21:02:39Z",
-            "redirect_url": "https://www.adzuna.in/details/1155088482?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOjExNTUwODg0ODJ9.TnThcL857uEL92ScV2Br54fO9mQONsv-MkP8wer0txc",
-            "title": "Associate Web Backend Engineer",
-            "salary_min": 700000,
-            "salary_max": 1200000,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            }
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/details/1155088606?utm_medium=api&utm_source=d58ac19b",
-            "id": 1155088606,
-            "created": "2019-05-17T21:02:40Z",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOjExNTUwODg2MDZ9.IlDjMyx7L1H-WdZl15DQkOBKQKubUYTpSHvAQ_0MYY4",
-            "salary_min": 3000000,
-            "title": "Principal Web Backend Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "salary_max": 5000000,
-            "description": "Who are we? BlueOptima provides industry-leading objective metrics in software development using our proprietary Coding Effort Analytics. We enable large organisations to deliver better software, faster and at lower cost. Founded in 2006, BlueOptima is a profitable, high-growth independent software company. Our unique technology was initially devised in seminal research carried out at Cambridge University. We are headquartered in London with offices in New York, Bangalore, Gurgaon and Guadalaja…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "display_name": "BlueOptima",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time"
-        },
-        {
-            "company": {
-                "display_name": "Addepar",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Who We Are Addepar is a global technology and data company that helps investment professionals provide the most informed, precise guidance for their clients. Hundreds of thousands of users have entrusted Addepar to empower smarter investment decisions and better advice over the last decade. With client presence in more than 50 countries, Addepar's platform aggregates portfolio, market and client data for over $8 trillion in assets. Addepar's open platform integrates with more than 100 software,…",
-            "latitude": 18.5062,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ],
-                "display_name": "Pune, Maharashtra"
-            },
-            "title": "Sr. Web Enablement Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDg4MTE5NjIwIn0.jOQFVVmSbh0Tnr2UvQ25vfPHC69VIaxNnENU9f-2XS0",
-            "longitude": 73.84735,
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "id": "5488119620",
-            "created": "2025-11-09T16:08:11Z",
-            "redirect_url": "https://www.adzuna.in/details/5488119620?utm_medium=api&utm_source=d58ac19b"
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "Addepar",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Who We Are Addepar is a global technology and data company that helps investment professionals provide the most informed, precise guidance for their clients. Hundreds of thousands of users have entrusted Addepar to empower smarter investment decisions and better advice over the last decade. With client presence in more than 50 countries, Addepar's platform aggregates portfolio, market and client data for over $8 trillion in assets. Addepar's open platform integrates with more than 100 software,…",
-            "latitude": 18.5062,
-            "location": {
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Pune, Maharashtra"
-            },
-            "title": "Staff Web Enablement Engineer",
-            "longitude": 73.84735,
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDg4MTI3MjU0In0.vqssgCp_j9_dLTFsWEoMdwFbtPDwefbAksjwSnMI90c",
-            "redirect_url": "https://www.adzuna.in/details/5488127254?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-11-09T16:16:32Z",
-            "id": "5488127254"
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Rankworld"
-            },
-            "contract_time": "full_time",
-            "description": "Web Developer: • Strong in JavaScript, CSS3 and HTML5 & Bootstrap framework. • Responsive Web Design • Experience in Front end framework – AngularJS (Mandatory) • Knowledge in AJAX, JSON • SQL Programming • Vaadin Framework ( Optional )",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Sr. Web Application Engineer",
-            "latitude": 17.40275,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana"
-            },
-            "id": "5509378147",
-            "created": "2025-11-22T22:43:53Z",
-            "redirect_url": "https://www.adzuna.in/details/5509378147?utm_medium=api&utm_source=d58ac19b",
-            "longitude": 78.50806,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwOTM3ODE0NyIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.uZbpxhmZVtFhNgRvYqYy5hYqCHCmc_WFt_fXjNAJoLw",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            }
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5549497986?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=CA28789AEEFA512DBA71A5BE9614DE0D4884985F",
-            "created": "2025-12-20T09:02:04Z",
-            "id": "5549497986",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTQ5Nzk4NiIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.TftX33uDrc06vwjxycq12HZcv2Gwze6sg_gRGlzF6AE",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "title": "Application Security Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "description": "Role: Application Security Engineer Skills Required: • At lease 3 years of Application Security Experience • Experience with SAST, SCA, DAST • Experience with Python, C#, or Javascript • Experience security testing for Web Applications Application Security Engineer (Analyst?) - Job Description As the Application Security Engineer (Analyst) at the Information Security team, you will support security analysis and security support activities into software solutions. You will have the opportunity t…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "KPG99 INC"
-            }
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Role : Application Security Engineer (SAST, SCA, DAST) Location : Remote (India) Skills Required: • At least 3 years of Application Security Experience • Experience with SAST, SCA, DAST • Experience with Python, C#, or Javascript • Experience security testing for Web Applications Application Security Engineer (Analyst?) - Job Description As the Application Security Engineer (Analyst) at the Information Security team, you will support security analysis and security support activities into softwa…",
-            "company": {
-                "display_name": "KPG99 INC",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTQ5Nzg5MSIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.z2rbxODoHAPZGim8NQ5R4Ud4s7Ak252kwlEiAeucGF8",
-            "redirect_url": "https://www.adzuna.in/land/ad/5549497891?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=D6DAE826674788961605FC5C17265CFD5C5A183F",
-            "created": "2025-12-20T09:01:59Z",
-            "id": "5549497891",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "title": "Application Security Engineer (SAST, SCA, DAST) - Offshore"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5556102993?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6608C6D4B8FD4EA7BCF468F4498C85BBDA380CCB",
-            "id": "5556102993",
-            "created": "2025-12-26T08:36:42Z",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU2MTAyOTkzIn0.qdzeq8_JIhh3LGOQVR7KwBxRkyYtiHe0qy8Uv2UweTY",
-            "title": "Frontend Developer",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "description": "Company Description Vasu Travel & Tourism LLC specializes in delivering comprehensive travel solutions, catering to both B2B and B2C clients. The company provides competitive travel tickets, visa assistance, and reliable transfer services to ensure smooth and hassle-free travel experiences. With a dedicated team offering round-the-clock support and personalized services, Vasu Travel & Tourism LLC addresses diverse travel requirements, whether for corporate or personal trips. Visit https://vasut…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "display_name": "Vasu Travel & Tourism LLC",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time"
-        },
-        {
-            "title": "Software Engineer - Web",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Mumbai"
-                ],
-                "display_name": "Mumbai, Maharashtra"
-            },
-            "latitude": 19.00821,
-            "id": "4801634321",
-            "created": "2024-07-31T03:20:09Z",
-            "redirect_url": "https://www.adzuna.in/details/4801634321?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTYzNDMyMSIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.8IHWFedbaMHT4HKR7pFeSLg-Yfh-0eEI3QdiRHQXPjw",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "longitude": 72.84415,
-            "company": {
-                "display_name": "Heckyl",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Are you a Senior Web Engineer who's looking to join a company whose DNA is innovation and believes he can make a difference? If so, we think we've got the opportunity you're looking for. As a Senior Web Engineer, you've faced big challenges in building beautiful, easy to use, highly scaleable web applications that service hundreds of thousands or millions of users. Qualification 3 - 5 years experience in Microsoft Dot Net Technologies",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "title": "Software Engineer-Web",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 12.95703,
-            "redirect_url": "https://www.adzuna.in/details/5539801852?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-12-13T00:12:01Z",
-            "id": "5539801852",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "Engineering Jobs",
-                "tag": "engineering-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM5ODAxODUyIn0.S4J9zS7ZwBRpAbFUJ7kprzxEbiDM5Ok5SX6uGruSYuE",
-            "longitude": 77.59837,
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "StockX"
-            },
-            "description": "Help empower our global customers to connect to culture through their passions. Why You’ll Love This Role As a Software Engineer, you will be empowered to take ownership of technology decisions and solutions while playing a pivotal role in establishing a successful engineering culture at a fast-growing company. This is a great opportunity to leverage your existing skills, to be part of a world-class team, and to have a huge impact on how marketplaces can be redefined.Our web technical stack com…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "latitude": 28.56579,
-            "location": {
-                "display_name": "Noida, Ghaziabad",
-                "area": [
-                    "India",
-                    "Uttar Pradesh",
-                    "Ghaziabad",
-                    "Noida"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Lead Engineer - Web",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "longitude": 77.3225,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg1NjcwNTk5MyIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.bL2bD9AFB10joPVWVUVPk8cgimZ61LhPvGWKMvHeHRY",
-            "id": "4856705993",
-            "created": "2024-09-08T10:44:47Z",
-            "redirect_url": "https://www.adzuna.in/details/4856705993?utm_medium=api&utm_source=d58ac19b",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Classplus"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "About us Classplus is India's largest B2B ed-tech start-up, enabling 1 Lac educators and content creators to create their digital identity with their own branded apps. Starting in 2018, we have grown more than 10x in the last year, into India's fastest-growing video learning platform. Over the years, marquee investors like Tiger Global, Surge, GSV Ventures, Blume, Falcon, Capital, RTP Global, and Chimera Ventures have supported our vision. Thanks to our awesome and dedicated team, we achieved a…"
-        },
-        {
-            "longitude": 77.30309,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NDU3OTgyMiIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.hlovFfGNR4YFGIWf9RB6v0Cv9Rz1tmNDturqMFm8t2A",
-            "category": {
-                "tag": "engineering-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "Engineering Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5464579822?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=8F22344587962E34B7100490E2138D89EA644706",
-            "id": "5464579822",
-            "created": "2025-10-26T02:16:43Z",
-            "location": {
-                "display_name": "Faridabad, Haryana",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Haryana",
-                    "Faridabad"
-                ]
-            },
-            "latitude": 28.38221,
-            "title": "Design Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Role Description This is a full-time on-site role for a Design Engineer located in Faridabad. The Design Engineer will be responsible for creating and developing designs for industrial printing machines. Day-to-day tasks include working on product design, mechanical and electrical engineering, and utilizing Computer-Aided Design (CAD) software to create detailed schematics. Qualifications Proficiency in Design Engineering and Product Design Excellency in 2D & 3D drawings Must know printing mach…",
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "APL Machinery Pvt. Ltd.",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            }
-        },
-        {
-            "company": {
-                "display_name": "REA",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Senior Lead Engineer Full Stack What the role is all about: We're seeking an experienced Senior Lead Engineer Full Stack (9-11 years experience) who thrives in a collaborative environment, enjoys being hands-on tackling technical challenges and leading teams to deliver innovative solutions. You'll collaborate closely with cross-functional teams across the globe, leading the design, development, and optimization of features to ensure high-quality, scalable solutions that deliver exceptional user…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Senior Lead Engineer - Full Stack",
-            "latitude": 28.323996,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Haryana",
-                    "Gurgaon"
-                ],
-                "display_name": "Gurgaon, Haryana"
-            },
-            "id": "5552646013",
-            "created": "2025-12-23T09:15:57Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5552646013?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=0E264BAAEFE2065BA22E28FE54C71E46D277F797",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "longitude": 76.983738,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMERyY3c5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTUyNjQ2MDEzIn0.pFTbbaXYh38XX3ia-JKIWZH9gyCFlDKfv2BF_f1-xgs"
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Meril"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Job Title: Native Mobile App Developer (Android & iOS) Experience: 3 – 4 Years Location: Kanpur (New Technopark @ IIT Kanpur) Job Type: Full-Time Job Description: We are seeking a skilled Mobile App Developer proficient in Flutter (preferable) or React Native to develop, optimize, and maintain cross-platform healthcare AI applications. The ideal candidate will collaborate with AI/ML engineers, web developers, and UI/UX designers to build high-performance mobile apps for medical imaging and heal…",
-            "location": {
-                "area": [
-                    "India",
-                    "Uttar Pradesh",
-                    "Kanpur Dehat"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Kanpur Dehat, Uttar Pradesh"
-            },
-            "latitude": 26.37574,
-            "title": "Mobile Application Developer",
-            "longitude": 80.10093,
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyNDYyMDEwNCIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.zMHwa957mF-7fmA_HbqOWH-vnw1a96ZoWL6xXfphop8",
-            "redirect_url": "https://www.adzuna.in/land/ad/5424620104?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=D74CF8DC5812B82CC19E214F0151AD4ACDA50F84",
-            "id": "5424620104",
-            "created": "2025-10-01T21:05:10Z"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Job Overview: As a Full-Stack Developer, you will play a critical role in designing, developing, and maintaining high-quality software solutions to transform industry-standard order, delivery, and assurance management systems. . Technical Skills: UI Stack (80% Weightage) ReactJS, NextJS Framework (Mandatory), JavaScript, JSON, HTML5, CSS3, Babel, Webpack, Micro Front-End architecture, Typescript Middleware/Backend Stack (20% Weightage) Java, Spring Boot, REST services (All Mandatory) NodeJS (Go…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Radiant Digital"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNjk4MiIsInMiOiIwRHJjdzlEbThCR05LZkktSFBSd2J3In0.JZWS2BJoquKSoeFzSj2d-dhagNq8HEMFMliESvIsca0",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "longitude": 78.50806,
-            "redirect_url": "https://www.adzuna.in/land/ad/5546316982?se=0Drcw9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6B9179A7D94D0CD7753A71E0FD5A1EEAB1AC3F73",
-            "created": "2025-12-18T02:42:43Z",
-            "id": "5546316982",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana"
-            },
-            "latitude": 17.40275,
-            "title": "Full Stack Developer"
         }
-    ]
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 1570357.14
 }

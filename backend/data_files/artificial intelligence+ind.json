@@ -1,189 +1,8 @@
 {
+    "count": 58,
     "__CLASS__": "Adzuna::API::Response::JobSearchResults",
-    "count": 260,
     "results": [
         {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MDY0OTczOCIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.MslwMC0Dwb1PXI5uUxRzJoDaN92h2bXME0bAfMaGLlY",
-            "created": "2025-12-21T08:17:10Z",
-            "company": {
-                "display_name": "Tata Consultancy Services",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Role: Artificial Intelligence Engineer Desired Experience Range: 04 - 9 yrs Location of Requirement: Hyderabad Job Description: Must-Have: Strong programming skills in Python, Java, or C++. Experience with machine learning frameworks like TensorFlow, PyTorch, or Scikit-learn. Solid understanding of data structures, algorithms, and statistics. Proficiency in model development, training, and evaluation. Familiarity with deep learning, NLP, and computer vision. Experience with data preprocessing, …",
-            "longitude": 78.50806,
-            "id": "5550649738",
-            "title": "Artificial Intelligence Engineer",
-            "latitude": 17.40275,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana"
-            },
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5550649738?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=66134D0C06702DA11ED55779694A8A00B403F7E4"
-        },
-        {
-            "id": "5529805056",
-            "company": {
-                "display_name": "PERSPECTIV LABS",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 78.50806,
-            "description": "Company Description PERSPECTIV LABS brings over 15 years of expertise in AI Computer Vision, Machine Learning, and 3D technologies. The company specializes in developing cutting-edge industrial and retail solutions powered by Computer Vision and Artificial Intelligence. PERSPECTIV LABS is committed to innovation, delivering impactful and transformative solutions for businesses. Our team thrives on solving complex challenges by leveraging advanced technology and specialized knowledge. Role Descr…",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgwNTA1NiIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0._H-JXhHtxgdle31P2z47IoX0q9Nl0E5VyT0r-NRw1zo",
-            "contract_time": "full_time",
-            "created": "2025-12-06T01:27:01Z",
-            "title": "Artificial Intelligence Engineer",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 17.40275,
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5529805056?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=1C76A07887950B34D4BB250FD91E1E4A947653FE",
-            "salary_is_predicted": "0"
-        },
-        {
-            "created": "2025-12-05T01:16:55Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODAwNjA2NyIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.sZrYAfo0QOalLarFuGTG-t1AAZRz1TeGBrJVgNSGJ9g",
-            "id": "5528006067",
-            "description": "Job Title :: Senior Artificial Intelligence Engineer Location :: India (Remote) Minimum relevant experience :: 6 Top Skills/Must have Skills: Python Coding Agentic AI LangGraph Production-grade AI implementations Job Description: We are seeking a highly motivated AI Engineer with hands-on experience in developing and deploying agentic AI architectures. The ideal candidate is proficient in Python, has worked with frameworks like LangGraph, and understands the practical implementation of AI/ML so…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Ascendion"
-            },
-            "title": "Artificial Intelligence Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5528006067?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3055EECFCD8F7954F5E23C311C4B63F68FD271EB",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            }
-        },
-        {
-            "latitude": 17.40275,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ]
-            },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5555200942?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A06B57027F7F68E6D198FC3EBFC0B289AF4575A1",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "created": "2025-12-25T13:35:57Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU1MjAwOTQyIn0.OiM8w0Px3roKd3eIcgVaJ-HPp6wkM-Ww5_V-R6S_raQ",
-            "description": "Tongue Tinglers is a tech-driven food franchise brand building scalable Cloud Kitchens and QSR kiosks across India. We operate on a custom-built ERP and CRM and actively use technology to drive speed, efficiency, and growth. Role Description We are looking for a Senior Artificial Intelligence Engineer who can take ownership of building and scaling AI-driven systems across the organization. This role goes beyond model development—you will identify high-impact business problems, design practical …",
-            "company": {
-                "display_name": "Tongue Tinglers",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 78.50806,
-            "id": "5555200942",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "title": "Artificial Intelligence Engineer",
-            "id": "5465731781",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Productist.AI"
-            },
-            "description": "About the Role We are seeking a highly specialized and results-driven AI Automation Engineer to join our fast-moving team. You will be the architect of our internal and client-facing workflows, leveraging a powerful stack of no-code/low-code tools and custom code to eliminate manual work, integrate core business systems, and implement intelligent AI agents. This is a high-impact role for an expert who can not only build but also design highly reliable, scalable, and complex automated systems. W…",
-            "longitude": 73.04845,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDY1NzMxNzgxIn0.nT5E14GBGuYZbg08zdGTZIeX_Ba83nn1kTmjWPzTV7s",
-            "created": "2025-10-27T09:05:51Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5465731781?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B15B913E7305B9A713A72646B52F8222BDE833AC",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "salary_is_predicted": "0",
-            "location": {
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Thane"
-                ],
-                "display_name": "Thane, Maharashtra",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 19.17335
-        },
-        {
-            "title": "Artificial Intelligence Engineer",
-            "description": "About VolumX VolumX is India’s first and leading company for digital humans, trusted by Oscar-winning studios and global brands. Using some of the most advance technologies, we are creating lifelike digital doubles for celebrities powering face replacements, de-aging, and autonomous digital humans. Now, we’re pushing into AI driven performance synthesis and we’re inviting talented engineers to join us in shaping the future of content and immersive interactions. Requirement - Strong experience i…",
-            "company": {
-                "display_name": "VolumX",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "id": "5491504192",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDkxNTA0MTkyIn0.MkFTT9dH0uZKr0ZOyjlqhSxrsor0zwnjjXMOc7jGAiY",
-            "created": "2025-11-12T10:54:07Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5491504192?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3D2121B6FFCDFAA131077FA882C22B1B61D19473",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
-        },
-        {
-            "salary_is_predicted": "0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5530553834?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=88B9A28F5277E581754E808DE9F7E784029A26A6",
-            "latitude": 18.5062,
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -193,380 +12,106 @@
                 ],
                 "display_name": "Pune, Maharashtra"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Artificial Intelligence Engineer",
-            "created": "2025-12-06T09:45:16Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MzgzNCIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.bos5eiS6o7b28HA7wJdpDrE7qrtTONukzgkAbcZlugo",
-            "id": "5530553834",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Bits In Glass"
-            },
-            "longitude": 73.84735,
-            "description": "Title: AI Developer Location: Pune / Hyderabad / Mohali Job Summary: As an AI Developer you will work closely with the ML Developers and Senior ML Engineers to build AI/ML/GenAI solutions. You will be working with the team to develop innovative solutions in artificial intelligence to resolve concrete and complex business challenges. You will have an inquisitive and strategic mindset, always looking for the new but with an applied focus of solving business problems with technology solutions usin…"
-        },
-        {
-            "title": "Artificial Intelligence Engineer",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Insight Global"
-            },
-            "description": "Job Description Designs, builds, and configures Copilot agents using Microsoft Copilot Studio. Focuses on implementing conversational logic, prompt flows, and integrating agents with data sources and automation workflows. Works closely with the AI Architect and Power Automate Engineer to ensure agents are scalable, secure, and aligned with business needs. Core Responsibilities: o Configure agent dialogs, triggers, and actions in Copilot Studio o Implement prompt engineering and context handling…",
-            "longitude": 78.50806,
-            "id": "5532095958",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTMyMDk1OTU4In0.FsEJxontGlLM8OBmmTjg1_Tsf5n3_nn3GzCdJxQHCM8",
-            "created": "2025-12-07T10:23:28Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5532095958?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=07EA50AE3AB44AE58366038AC58136383058494E",
+            "description": "About PRGX Global, Inc Job Description Job Title AIOps Engineer, Artificial Intelligence Employment Type Full- time Work Authorization Requirements Must be authorized to work in the India without sponsorship Language Requirements English About PRGX PRGX is the global leader in source-to-pay data analytics and software, and tech-enabled profit recovery services. We provide software and services to maximize revenue recovery and drive margin improvement for our clients. For more information about …",
+            "title": "AIOps Engineer",
             "category": {
-                "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
                 "label": "IT Jobs"
             },
+            "created": "2026-01-10T08:33:44Z",
+            "id": "5577272815",
+            "longitude": 73.84735,
             "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 17.40275
-        },
-        {
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5536064490?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=16E9305965A622C2F52C54E9C5631187CD3CCD0C",
-            "salary_is_predicted": "0",
-            "id": "5536064490",
-            "description": "About the Role We are seeking a highly skilled AI Engineer with strong expertise in Python , Generative AI , and Agentic AI . The ideal candidate will have hands-on experience working with Large Language Models (LLMs) , Retrieval-Augmented Generation (RAG) , and advanced AI frameworks. This role requires excellent problem-solving abilities, strong analytical skills, and effective communication to collaborate across teams and deliver cutting-edge AI solutions. Key Responsibilities Design, develo…",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577272815?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=065159802655012222053B6300972594BC890BEE",
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Infosys"
-            },
-            "created": "2025-12-10T16:51:35Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NDQ5MCIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.pgxsH8eL0gSqloVooPk6vgHlEGRlLdY6H8NlDYW53dE",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "description": "EXPERIENCE: 3 Databricks – Model serving end point, delta table familiarity Strong understanding of Traditional Deep Learning techniques (CNNs, RNNs, Transformers, etc.) Hands-on experience with LLMs, RAG pipelines, Agentic frameworks, and Model Context Protocol (MCP) Proficiency in Python and related AI/ML libraries (PyTorch, TensorFlow, LangChain, etc.) Experience working on Databricks for data processing and model training Familiarity with AWS services such as EC2, S3, Lambda, and Bedrock fo…",
-            "company": {
-                "display_name": "Recro",
+                "display_name": "PRGX",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "id": "5536064346",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NDM0NiIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.-e41UbDzaGlKfJFaZhpQfz5R2sKbcnD3nh-OMH2ZFcc",
-            "created": "2025-12-10T16:51:10Z",
-            "title": "Artificial Intelligence Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5536064346?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5EE8B44C1F5C24B94B5CD1AD1D13C1A8F1224058",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MjgxNSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.4egULRSLQZacm4ybk-SO9f_EvwVFVmrzB8XsQBhDP-Y",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
             "category": {
-                "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
                 "label": "IT Jobs"
             },
-            "salary_is_predicted": "0"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5510943423?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=598D3E25315C2C2B278E428C340A3A2D9AEF37E4",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDk0MzQyMyIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.hkg8g7waXUpqKks_NDTUT_jWKopBqkY72nTzsX3rb6Y",
-            "created": "2025-11-24T07:23:27Z",
-            "description": "Location - Gurugram / Bangalore As a partner to businesses and governments, Crane Authentication offers expertise and cutting-edge innovations that protect and enhance products, secure identities, safeguard revenues and enforce compliance. Customers from different business sectors and levels of government trust our team of 1,250 people for their expertise in R&D, security design, engineering and data-driven insights. We are an integral part of Crane NXT , a c$2 billion dollar business with over…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Crane Authentication "
-            },
-            "id": "5510943423",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "created": "2025-12-12T09:45:46Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAwMjE2NyIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.byFexfoQ6MtEbdFVDpw0PO8WbZUW4IMw1SGUOJszwxg",
-            "description": "About Intellect Design Arena Limited Intellect Design Arena Ltd is an enterprise-grade financial technology leader, providing composable and intelligent solutions for futuristic global financial institutions across 57 countries. Intellect’s revolutionary First Principles Thinking-based Enterprise Connected Intelligence Platform, eMACH.ai, is the most comprehensive, composable, and intelligent open finance platform in the world. With an impressive array of 329 microservices, 535 events, and over…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Intellect Design Arena Ltd"
-            },
-            "id": "5539002167",
-            "title": "Artificial Intelligence Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "created": "2026-01-10T07:38:30Z",
+            "contract_type": "permanent",
+            "id": "5577233108",
+            "longitude": 73.84735,
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5539002167?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D9993CC60AD86B2A85546F88FD51E0C01E282928",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            }
-        },
-        {
-            "latitude": 18.5062,
-            "location": {
-                "display_name": "Pune, Maharashtra",
                 "area": [
                     "India",
                     "Maharashtra",
                     "Pune"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location"
+                "display_name": "Pune, Maharashtra"
+            },
+            "description": "Summary Position Summary Artificial Intelligence & Engineering AI & Engineering leverages cutting-edge engineering capabilities to help build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These insights are powered by engineering for business advantage, helping transform mission-critical operations. Join our AI & Engineering team to help transform technology platforms, driving innovation, and help make a significan…",
+            "title": "JAVA Fullstack with AWS-Consultant-Hyderabad/Bengaluru/Pune/Chennai",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzIzMzEwOCIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.Yw3rpE8stBVyfUX2PFWuiUtzzpNInjgVqpIeJjk-sY0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deloitte"
             },
             "__CLASS__": "Adzuna::API::Response::Job",
             "salary_is_predicted": "0",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5537382226?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=BEE9DA6203DA29B5057C06E103712C44C5341A66",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM4MjIyNiIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.txPVfoQCscA6z0YL7oe9GXUYoNVOmeSNqq03eOet6J4",
-            "created": "2025-12-11T09:26:19Z",
-            "id": "5537382226",
-            "description": "AI Technical Architect / Engineering Lead (Generative AI & Agentic Systems)  Experience: 8–14 years overall; 2–4 years hands-on with GenAI/LLMs  Location: Pune (Hybrid)  Function: Architecture  Hands-on Engineering Leadership About the role You will lead the architecture, delivery, and evolution of production-grade AI systems with a primary focus on Generative AI and agentic workflows. You’ll guide a high-impact team across the full stack—from data and infrastructure to APIs and front-end— e…",
-            "company": {
-                "display_name": "Intellect Design Arena Ltd",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 73.84735,
-            "title": "Artificial Intelligence Engineer"
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/details/5577233108?utm_medium=api&utm_source=d58ac19b"
         },
         {
-            "title": "Artificial Intelligence Engineer",
-            "created": "2025-12-13T09:38:53Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDY3MTMwMiIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.qQ88PJjuxDA_IOWtYYgKKGJ5UDQzFhLbLeUptvmCScw",
-            "company": {
-                "display_name": "KPG99 INC",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Job Title: AI Developer Location: Remote Contract Type: Long-Term Contract Job Description We are seeking a Senior AI Developer with strong expertise in building agentic AI systems, scalable RAG architectures, and production-grade LLM observability. The role involves designing and implementing multi-agent workflows, retrieval pipelines, evaluation frameworks, and safety-aligned AI capabilities across cloud environments (Azure, AWS, GCP). Key Responsibilities • Build and optimize agentic workflo…",
-            "id": "5540671302",
-            "salary_is_predicted": "0",
+            "id": "5575488300",
+            "created": "2026-01-09T11:27:44Z",
+            "contract_time": "full_time",
             "category": {
+                "label": "Engineering Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
+                "tag": "engineering-jobs"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5540671302?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=925025DEFF6F2CC8DE84F571B24D9689636AC72C",
-            "contract_type": "contract",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Python-Consultant-Bengaluru/Hyderabad",
+            "description": "Summary Position Summary Artificial Intelligence & Engineering AI & Engineering leverages cutting-edge engineering capabilities to help build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These insights are powered by engineering for business advantage, helping transform mission-critical operations. Join our AI & Engineering team to help transform technology platforms, driving innovation, and help make a significan…",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
-            }
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQxODIwNjc1In0.2XA2GkAulgJhWxpq0Z1HVT24VoYwUD8bEyqVhkrFMIo",
-            "created": "2025-12-14T10:22:08Z",
-            "id": "5541820675",
-            "company": {
-                "display_name": "Recro",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Founding AI Engineer – Speech ML  LLM (Bangalore | Onsite | Equity) NeoSapiens is building the next generation of ambient conversational AI —a real-time intelligence layer that understands speech, context, memory, and intent, just like a human. If you want to build foundational AI systems from scratch , this is your role. ⭐ What You’ll Build As a Founding AI Engineer, you will architect and ship the core intelligence pipeline powering a new voice-first AI product. You’ll work across: Speech ML:…",
-            "title": "Artificial Intelligence Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5541820675?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=77D5AA834FDE1E6D15C170D81258156C4B93B698",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            }
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India"
                 ],
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5541823673?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=17D419FF7AA38B9466CCF7DD030A1F626C334BFD",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "contract_type": "contract",
-            "created": "2025-12-14T10:24:56Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MTgyMzY3MyIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.ME3Xs6lo4KjTO93Gz2tuXM95rZcJfAnAf_4nFxpE3Ew",
-            "description": "Job Title: Senior Full Stack AI Engineer Experience: 4–6 Years Location: Remote (IST Shift) for a US based client Engagement: Contract Job Summary We are seeking a mature, proactive, and highly capable Senior Full Stack Engineer with 4–6 years of hands-on experience in Python, React, Cloud Services, and Generative AI (LLMs, RAG, Agentic AI) . The ideal candidate will be capable of independently handling complex technical challenges, thinking strategically, and building scalable end-to-end appli…",
-            "company": {
-                "display_name": "ExpertsHub.ai",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "id": "5541823673",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "title": "Artificial Intelligence Engineer",
-            "description": "We are looking for an AI Tech lead/Senior developer with skills in React-based web interfaces, chatbot development, and AI solution design to deliver end-to-end intelligent applications. Contract - Remote Exp Req - 8 Yrs JD as follows: Data Engineering: Python, PostgreSQL, Spark, Databricks, Kafka Agentic AI: LangGraph, OpenAI Assistants, RAG pipelines, Semantic Kernel Web Development: React.js (frontend), RESTful APIs integration Chatbot Development: LLM integration, conversational AI framewor…",
-            "company": {
-                "display_name": "Vienna Consultancy",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "id": "5558015909",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU4MDE1OTA5In0.RIzIrWZSA2OdJT8fTnTKrUcWiXvtCFTDOuJjazAlJIA",
-            "created": "2025-12-28T10:03:58Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5558015909?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B04699E7093411AB2AD2E9333A6DD3371B0E0DB3",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
-            }
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5558016255?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=772B4A3D99A72A41EA53219B8825CEC6921F9766",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "salary_is_predicted": "0",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "display_name": "India",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
             "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Artificial Intelligence Engineer",
-            "id": "5558016255",
-            "company": {
-                "display_name": "HabileLabs",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Job Description: AI Engineer Position Title: AI Engineer Experience Level: 3–5 years Employment Type: Full-time Department: Engineering Location: Gurgaon. CTC: 12 to 15 LPA Required Qualifications Technical Expertise 3–5 years of professional experience in AI/ML engineering, with focus on LLM-based applications or agentic systems Deep proficiency in Python and hands-on experience with AI/ML frameworks (LangChain, Hugging Face, PyTorch, TensorFlow) Proven experience building or optimizing Retrie…",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODAxNjI1NSIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.aRXvnsXaD6YUeMc5JFTOjM3bsGY2UTMSib2swBVgPpI",
-            "created": "2025-12-28T10:05:29Z"
-        },
-        {
-            "latitude": 23.042,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Ahmedabad, Gujarat",
-                "area": [
-                    "India",
-                    "Gujarat",
-                    "Ahmedabad"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5560708837?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A5E92A36AC0CFEAE0534C4E7A118D0CE19BC7EDB",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcwODgzNyIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.to564DaVmmGYsdIzKqwhcYUnIeOfTctil6ii3Ge711Y",
-            "created": "2025-12-31T10:31:40Z",
-            "id": "5560708837",
-            "company": {
-                "display_name": "ProductSquads",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 72.59465,
-            "description": "About the Role We are looking for a skilled AI/ML professional to develop, implement, and optimize machine learning models and AI solutions. The role involves data analysis, model training, and integrating AI into real world applications to solve complex business problems efficiently. The role involves data analysis, model training, and integrating AI into real world applications to solve complex business problems efficiently. Responsibilities Architect and implement advanced AI solutions lever…",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "title": "Artificial Intelligence Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTUxNjY1MTExIn0.tIGy_vVgj3u8_XlV2zWv72OqV2PXvMqtv2MotHqrJGY",
-            "created": "2025-12-22T12:07:42Z",
-            "id": "5551665111",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Trust3 AI"
+                "display_name": "Deloitte"
             },
-            "description": "About the Company Trust3 AI is an AI platform offered by Privacera. The flagship product Trust3 IQ is the Universal Context Engine that makes AI agents enterprise-grade by creating, serving, and continuously improving canonical business context and governance for downstream agents. Trust3 IQ supplies semantically rich, audited context to agents via the Model Context Protocol (MCP), enforces governance at runtime (with integration with Privacera’s access governance), and measures agent trust and…",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5551665111?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A2DAC9940428379A46888812CC5ADA2653273F3A",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job"
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTQ4ODMwMCIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.HhxG6efZorvs1gFeaW26PqaYmkMf-U-eRiubX8M_QBQ",
+            "redirect_url": "https://www.adzuna.in/details/5575488300?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0"
         },
         {
-            "latitude": 11.017171,
+            "company": {
+                "display_name": "Kumaraguru College Of Technology",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTQ3NDQwOSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.wG6zG39h-ElJaFhcK3W1aqkYLOwRg_mF4-dEXfbetoQ",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 11.017171,
+            "redirect_url": "https://www.adzuna.in/details/5575474409?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Teaching Jobs",
+                "tag": "teaching-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-09T11:02:05Z",
+            "id": "5575474409",
+            "longitude": 77.100203,
             "location": {
                 "area": [
                     "India",
@@ -576,152 +121,289 @@
                 "display_name": "Coimbatore, Tamil Nadu",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5551665033?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=28A5470A3CFA4B6449CBC743CC8D0E07A29B48D7",
-            "category": {
-                "label": "Engineering Jobs",
-                "tag": "engineering-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTUxNjY1MDMzIn0.8bR7tE0ZjW6pSb5dTEw2VdSl1mOzfky0pJXLy1IeFCI",
-            "contract_time": "full_time",
-            "created": "2025-12-22T12:06:45Z",
-            "description": "Hiring: Full-Time AI & Automation Engineer (Onsite — Coimbatore / Hybrid) Join a high-velocity engineering environment building advanced AI, automation, and ML systems. We are assembling a compact, elite engineering team to build next-generation AI automation frameworks , multi-agent systems , ML training pipelines , and factory automation infrastructure across multiple businesses. You’ll work directly with the founder in an execution-first, innovation-driven environment where speed, clarity, a…",
-            "company": {
-                "display_name": "ScaleWave",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 77.100203,
-            "id": "5551665033",
-            "title": "Artificial Intelligence Engineer"
+            "description": "Faculty Positions – Kumaraguru School of Innovation (KSI) (Computer Science & Engineering / Information Technology / Artificial Intelligence & Data Science) Kumaraguru School of Innovation invites applications for the position of Assistant Professor in the following disciplines: Computer Science & Engineering (CSE) Information Technology (IT) Artificial Intelligence & Data Science (AI & DS) The institution seeks committed and competent educators who are motivated to contribute to teaching, rese…",
+            "title": "Assistant Professor"
         },
         {
-            "title": "Artificial Intelligence Engineer",
-            "description": "Looking for an experienced and forward-thinking AI Engineer to help shape and scale our AI Agent Framework. This is a hands-on engineering role focused on building intelligent, modular agent systems that can reason, plan, and interact autonomously in real-world applications. You will work alongside a highly collaborative team to develop systems that leverage LLMs, contextual memory, and tool integration—delivering AI-native applications, not just traditional ML pipelines. Key Responsibilities A…",
-            "company": {
-                "display_name": "TIGI HR",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 72.365866,
-            "id": "5553091766",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzMDkxNzY2In0.5LI_OtyfAKlZg1f9_Qu-obTcieOiNLhooPBmvM2zbEA",
-            "created": "2025-12-23T23:58:02Z",
+            "longitude": 73.84735,
+            "id": "5575165041",
             "category": {
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5553091766?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=43D8E21AEE2221FC210EA119BC35A314BA9A677F",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2026-01-09T08:22:39Z",
+            "description": "Role - AI/ML Engineer/Sr Developer/Tester Exp - 5 Yrs Location - Pune/Hyderabad/Chennai Notice Period - Should not be more than 30 Days",
+            "title": "Artificial Intelligence Engineer",
             "location": {
-                "display_name": "Gujarat, India",
+                "display_name": "Pune, Maharashtra",
                 "area": [
                     "India",
-                    "Gujarat"
+                    "Maharashtra",
+                    "Pune"
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "latitude": 22.385318
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc1MTY1MDQxIn0.EGEgwKJnTd7ml6-8aRLmGZPlzQwIpyPDVIxmWDuEKbE",
+            "company": {
+                "display_name": "Tech Mahindra",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575165041?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=174AF3BD65C59F58CC36908D01718BC16BF697F9",
+            "salary_is_predicted": "0",
+            "latitude": 18.5062
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "title": "Artificial Intelligence Engineer",
+            "description": "AI Developer About the Role At KANINI , we’re committed to building an environment where people can bring their best selves to work. As an AI Developer , you will design and implement cutting-edge AI solutions that power intelligent applications across industries like Healthcare, BFSI, and Retail . This role combines deep technical expertise in LLMs, RAG pipelines, and agentic AI with strong collaboration skills to deliver scalable, production-ready systems that drive business impact. What You’…",
+            "created": "2026-01-09T08:22:13Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 73.84735,
+            "id": "5575164931",
+            "latitude": 18.5062,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575164931?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=C0B0DD496BD69E4A1CD7A5B5C058DC68F1D4DA21",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc1MTY0OTMxIn0.cfD693L6GRpQrDgyxzoWTM6m2Fzo4dPKpocVk0yl7LA",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KANINI"
+            }
         },
         {
             "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jaipur Engineering College and Research Centre "
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2NDg1NCIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.w0JskevOBLPAtQJs62q8c1_-76MnQmWRlHLDQmM5iBw",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575164854?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=07D93B6231F35D3B572518FCEAE446C1F7FFF390",
+            "latitude": 26.7441,
+            "salary_is_predicted": "0",
+            "longitude": 75.9469,
+            "id": "5575164854",
+            "created": "2026-01-09T08:22:03Z",
+            "category": {
+                "label": "Teaching Jobs",
+                "tag": "teaching-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "title": "Assistant/Associate Professor",
+            "description": "Company Description Jaipur Engineering College and Research Centre is an educational institution based in Rajasthan, India, primarily focusing on engineering and technical courses. It is a research-oriented college with strong industry connections, offering state-of-the-art campus facilities and a student-centric learning environment. Applications On prescribed Format are invited for the Assistant Professor Posts at JECRC College Role Description This is a full-time on-site role for an Assistan…",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5553864366?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8D370352C0C0479A482AD970EC8AE9A38DCB82C0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODY0MzY2In0.Des8LoNijV4_2Kw2YNZfgMr8n5eIQcFJIznF-wQ7J8A",
-            "created": "2025-12-24T10:13:30Z",
-            "company": {
-                "display_name": "Tata Consultancy Services",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Role - AI/ML Skill - Deep Learning, Transformer model, Fine tuning, Machine learning, PEFT, Pytorch, Tensorflow, YOLO, CNN, RNN, BERT, GPT, Llama, LangGraph, VLM Education - B.E. / B. Tech /BSC/ M. Tech / MSc / MCA Experience - 4-6 Years Location - Bangalore Job Description: 1 Design, Build and deploy Deep learning and computer vision models and algorithms to solve business problem 2 Monitor and evaluate performance of deployed models and make improvement to ensure accuracy and reliability. 3 K…",
-            "id": "5553864366",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5553871583?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=7BFF0F7D73090A3505DBB4FC19E4B956F170EEEB",
-            "latitude": 26.7441,
-            "location": {
                 "display_name": "Jaipur, Rajasthan",
                 "area": [
                     "India",
                     "Rajasthan",
                     "Jaipur"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Artificial Intelligence Engineer",
-            "created": "2025-12-24T10:17:45Z",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTUzODcxNTgzIn0.Z1MHGHQ6d7RhUmTzVVBEZEahrK59kp7pnAoq_HnHeBE",
-            "id": "5553871583",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "HabileLabs"
-            },
-            "description": "Job Description: AI Engineer Position Title: AI Engineer Experience Level: 4–6 years Employment Type: Full-time Department: Engineering Location: Jaipur, Gurgaon. Required Qualifications Technical Expertise 4–6 years of professional experience in AI/ML engineering, with focus on LLM-based applications or agentic systems Deep proficiency in Python and hands-on experience with AI/ML frameworks (LangChain, Hugging Face, PyTorch, TensorFlow) Proven experience building or optimizing Retrieval-Augmen…",
-            "longitude": 75.9469
+                ]
+            }
         },
         {
-            "id": "5555200919",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575164781?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=8AF3BCFBE25C1E9C111BBD426CF6FABC7664B79C",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2NDc4MSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.xhefZdyA3YYo68hyMemM0NZ5bwxgtk2Qb_qlx02gF9s",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Recro"
+                "display_name": "Arrakis Traders Private Limited"
             },
-            "description": "AI Engineer – GenAI & Agentic Systems (Remote)  Build production-grade AI agents at massive scale We’re building agent-driven AI systems that automate pricing, onboarding, analytics, and decision-making.  What You’ll Build Production agentic AI workflows (LangGraph / LangChain / MCP) Multi-step, tool-calling LLM agents for real enterprise workflows Large-scale RAG pipelines on Databricks LLM-powered APIs on AWS Observability, guardrails, and cost-efficient AI systems  What We’re Looking For 5–8…",
-            "created": "2025-12-25T13:35:57Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU1MjAwOTE5In0.2-IL4SHauTffQDNbeVv5vPwFUkSDH0OCVfA59Dl7LI4",
             "title": "Artificial Intelligence Engineer",
+            "description": "As an AI Engineer Intern , you will work directly with the founder to design, build, and deploy AI-powered tools that small and mid-sized businesses can use immediately—without needing technical teams. You will: Build real workflows Connect AI models to real data Ship tools that save time, money, and manpower 1. AI Automation for Businesses Lead qualification bots (WhatsApp, email, web forms) Automated follow-ups & reminders AI-powered customer support (regional language friendly) Invoice readi…",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "India",
                 "area": [
                     "India"
-                ]
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
+            "id": "5575164781",
+            "contract_type": "contract",
+            "created": "2026-01-09T08:21:59Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Artificial Intelligence Engineer (Backend  AI)",
+            "description": "Who are we? Whatfix is an AI platform advancing the “userization” of enterprise applications, empowering companies to maximize the ROI of their digital investments. Technology needs adoption. It’s no different for AI. As AI reshapes roles, workflows, and human-machine interactions, it also introduces new layers of complexity and user friction. This is where Whatfix plays a pivotal role. A decade old DNA of empowering people to succeed with technology and not replacing them. We call this philoso…",
+            "created": "2026-01-09T08:21:54Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "id": "5575164711",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575164711?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=7BBCA389EC7A5ED52B1BB3E39CF682D829D009B7",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "redirect_url": "https://www.adzuna.in/land/ad/5555200919?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=87A505038EF5502E5DBFA02E311BE373851AF0F7",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Whatfix"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2NDcxMSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.r6reLmJAEo0yOGVEQIpBf7q9li6Bed095BD14IalPr0"
+        },
+        {
+            "id": "5575164347",
+            "created": "2026-01-09T08:19:58Z",
             "category": {
                 "label": "IT Jobs",
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
+            "title": "Artificial Intelligence Engineer",
+            "description": "Job Title: Senior AI / ML Engineer (Generative AI) Location: DLF City, Gurgaon (On-site) Experience: 8 years total | 5 years relevant Job Summary: We are looking for a Senior AI/ML Engineer with strong experience in Generative AI, NLP, and Python, capable of building, deploying, and integrating AI/ML models into enterprise applications. The role involves working on scalable AI solutions in a regulated environment with strong governance and CI/CD practices. Mandatory Skills (Top 5): Python (3.x)…",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TalentBridge"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc1MTY0MzQ3In0.GRZLW_x_NAa9uxWOfJmjFKYQwR9CWRsh9vqvF7jvbC0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575164347?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=6486FC3AE7728F26FDA326F908C52CA16A295C5E",
             "salary_is_predicted": "0"
         },
         {
-            "created": "2025-12-03T09:00:13Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTIwNjY0MyIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.xEBEe-poLeRhx0_oTo-k5UPkTEaXSAuS7-v1HZZpFG0",
+            "created": "2026-01-09T08:19:07Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "id": "5575163839",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Artificial Intelligence Engineer",
+            "description": "We are hiring for an MNC for Bangalore and Mumbai Location Role Description This is a full-time hybrid role for an Artificial Intelligence Engineer for an MNC., based in Bangalore and Mumbai with flexibility for some work-from-home arrangements. The selected candidate will design and develop cutting-edge AI solutions, implement and enhance machine learning models, and work on tasks involving pattern recognition, neural networks, and Natural Language Processing (NLP). The role also involves coll…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2MzgzOSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.DXJ3Fh7OhAwEM-r5CaQL9AL5oWPJ2bNDig4Twm0tpiQ",
             "company": {
-                "display_name": "RandomTrees",
+                "display_name": "XopunTech  Pvt. Ltd.",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "longitude": 80.24963,
-            "description": "Key Responsibilities Model Development & Training: Develop, train, and optimize ML and generative AI models including LLMs, transformers, diffusion models, and embedding-based models. Generative AI Applications: Build real-world generative AI applications such as chatbots, RAG systems, summarization, content generation, and agent frameworks. Prompt Engineering & LLM Integration: Apply prompt design, tuning, and evaluation techniques using tools like LangChain, LlamaIndex, or similar frameworks.…",
-            "id": "5525206643",
-            "title": "Artificial Intelligence Engineer",
-            "latitude": 13.06041,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575163839?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=792507A10C1DC20D074134DAA9BC1368F58062BB"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575163307?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=E1B79234FD83035C3A151A4D02477257F367ED2B",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Propheus",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2MzMwNyIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.Tg6oOzLoubtLAbXtV6GPi0zrBlm3AyJcTIyeAcxrl0g",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Research Scientist",
+            "description": "Role Overview - Research Scientist Propheus is seeking a Research Scientist to join us and make critical contributions to our research and development efforts. You will work closely with our team to build and deploy cutting-edge AI/ML models and systems that form the backbone of our product and solutions. This is a full-time onsite role at our office located in Bengaluru . . Responsibilities: ​​Research, build and advance core foundational capabilities for Propheus, including the Digital Atlas …",
+            "created": "2026-01-09T08:17:30Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "id": "5575163307"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2MDE5MiIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.jPkdIaseWFRrxV1P5pXoRlZi0bgNyfpD8r-sQqcxD5w",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Concentrix"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575160192?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=2FB5B8C8E14EBA7FFFE5EF261AF556B8E776A853",
+            "salary_is_predicted": "0",
+            "id": "5575160192",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-09T08:16:07Z",
+            "description": "About Company Concentrix is a technology-enabled global business services company specializing in customer engagement and business performance. With more than 4,00,000 staff, Concentrix is present across 40 countries and six continents. We are considered as a category leader in the CXM (Customer Experience Management) Services. You may please visit the website- www.concentrix.com Role - AI Engineer Location - Bangalore Experience: 5 to 9 Years Mode of Work - Work from office Shift Timings- 11 A…",
+            "title": "Artificial Intelligence Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc1MTI2NzEyIn0.yt0_X-SWph1NMa_-sItn_K6tMF_YVxKCPRqwmJY1Owo",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deloitte"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5575126712?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 13.06041,
+            "id": "5575126712",
+            "longitude": 80.24963,
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-09T07:37:20Z",
+            "contract_type": "permanent",
+            "description": "Summary Position Summary Artificial Intelligence & Engineering Join our AI & Engineering team in transforming technology platforms, driving innovation, and helping make a significant impact on our clients’ achievements. You’ll work alongside talented professionals reimagining and re-engineering operations and processes that are critical to business. Your contributions help Deloitte client service teams improve financial performance, accelerate new digital ventures, and fuel growth through innov…",
+            "title": "Assistant Manager - NOC",
             "location": {
                 "area": [
                     "India",
@@ -730,301 +412,152 @@
                 ],
                 "display_name": "Chennai, Tamil Nadu",
                 "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "salary_is_predicted": "0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5525206643?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=70DA3BA2059313796F5C12E85ACE882F41CF3A62"
-        },
-        {
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 17.40275,
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5529804056?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=70E27CDF8CB60BE9314875A5F2EA3E60BDC8F48B",
-            "salary_is_predicted": "0",
-            "id": "5529804056",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "ValueMomentum"
-            },
-            "description": "Job Title: AI Engineer Department: AI & Emerging Tech Location: Hyderabad, Pune & Coimbatore Know your team: At ValueMomentum’ s Technology Solution Centre, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our c…",
-            "longitude": 78.50806,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgwNDA1NiIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.Y2SiSaMpml4DIvH3NZnmgHB83ypdUYJR0g0rzWINNVM",
-            "created": "2025-12-06T01:25:35Z",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5530553676?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=AC31C8BA942B7B37D569C9EBC3412465537DB915",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
-            },
-            "title": "Artificial Intelligence Engineer",
-            "description": "Job Title: AI Engineer Experience: 3 yrs Role Overview: We are seeking a skilled AI Engineer with 3–5 years of hands-on experience in designing, developing, and deploying AI/ML solutions in cloud environments. The ideal candidate will have strong proficiency in Python, experience with both Azure and AWS, and a solid understanding of MLOps practices. Key Responsibilities: Design and implement scalable AI/ML models for banking applications (e.g., fraud detection, credit scoring, customer segmenta…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Donyati"
-            },
-            "id": "5530553676",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTMwNTUzNjc2In0.wXJDWbX5pgCw5i0jhEYYRzg-rYCTM43sbbjaaS7OEME",
-            "created": "2025-12-06T09:44:28Z"
-        },
-        {
-            "title": "Artificial Intelligence Engineer",
-            "created": "2025-12-30T10:27:33Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1OTcxNzAyMSIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.VWJQTIgjpbwxKQbzpY-MWFz4Tj_kSIThuzDjKnM7yqc",
-            "description": "Data Scientist – Applied ML & Predictive Modeling  Bengaluru | In-office  4 Years | Product Company About Us We are a product-based B2B SaaS company building cloud-native platforms that help enterprises modernize and optimize their cloud and data ecosystems. Our AI work focuses on applied machine learning, predictive analytics, and selective use of Generative AI where it delivers real business value. The Role We are looking for a hands-on Data Scientist with strong experience in regression, pre…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Recro"
-            },
-            "id": "5559717021",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5559717021?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=DE4AA7DA93EF302299755E7AE937993B15BE2CB3",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
             }
         },
         {
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Valeo est une entreprise mondiale de haute technologie qui conçoit des solutions révolutionnaires pour réinventer la mobilité. Nous sommes un équipementier partenaire des constructeurs automobiles et des acteurs de la nouvelle mobilité dans le monde entier. Notre vision ? Inventer une mobilité plus verte et plus sûre, grâce à des solutions axées sur la conduite intuitive et la réduction des émissions de CO2. Nous sommes leaders dans nos domaines d'activité et reconnus comme l'une des plus grand…",
+            "title": "Engineer - Artificial Intelligence",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka",
+                "display_name": "Chennai, Tamil Nadu",
                 "area": [
                     "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5560708948?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2419D05FEDE6FC0EE6528FAA2333AB26EF26595B",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcwODk0OCIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.A3cWHUp_4n9HuoAc2ro24TqE2-r_ENM3Th57XeIUgk0",
-            "created": "2025-12-31T10:31:46Z",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Information Tech Consultants"
-            },
-            "description": "Data Science SME (Subject matter expert) Location : London (Relocation required - Sponsorship will be provided) Experience : 12 to 18 years CTC: 4000 TO 4500 US dollars Job Requirements: 12 years of experience manipulating data sets and building statistical and machine learning models. Masters or Ph D in Statistics, Mathematics, Computer Science, or another quantitative field - Fluent English (written/spoken) Generative AI, Computer Vision cloud technology, NLP, Deep Learning. Experience Develo…",
-            "id": "5560708948",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
+                    "Tamil Nadu",
+                    "Chennai"
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5560711361?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=00EC129C4B2227E5BFC3CCB2E6C55069BBC95A72",
+            "longitude": 80.24963,
+            "id": "5574046965",
             "contract_time": "full_time",
-            "created": "2025-12-31T10:34:18Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcxMTM2MSIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.yjnd1MVqMHzI5P5hinn5k82iY8ABXiaL_pd34SlzSN8",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "created": "2026-01-08T23:41:42Z",
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.in/details/5574046965?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 13.06041,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc0MDQ2OTY1In0.ik0V8HY8G2wXmT9e5I-IzQqUfk8dAVqYZbjBXDNZ51E",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Discoveries Quintessential"
-            },
-            "description": "Job Title: AI/ML Engineer Location: Bengaluru (Onsite) Employment Type: Full-Time Experience: 1–3 years (exceptional freshers may apply) Reporting To: Head of AI About Company: We are redefining how India’s industrial and EPC sectors buy, build, and scale . We develop AI systems that understand the language of engineering projects—automating BOQ processing, vendor discovery, cost estimation, and more. Our mission is clear: make procurement faster, smarter, and more profitable through intelligen…",
-            "id": "5560711361",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "title": "Artificial Intelligence Engineer",
-            "created": "2025-12-18T02:38:19Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxNTA4NiIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.bvqmnrmZxT_sUhkc_jcPJzfjyxL5tst9j4u8rDkgOuU",
-            "id": "5546315086",
-            "description": "The Role You'll be the architect and owner of Neo's AI infrastructure. This means training custom models for our unique use cases, building production ML pipelines, and creating the reasoning systems that make Neo intelligent. You'll work across the full ML lifecycle - from data pipelines to model training to production deployment. What You'll Own 1. Custom Model Development & Training Build specialized models that foundation models can't provide. Train speaker diarization for Indian accents, f…",
-            "company": {
-                "display_name": "Recro",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546315086?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F049B01B84162559A27EE00BBEC4DBB347177808",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
+                "display_name": "Valeo"
             },
             "__CLASS__": "Adzuna::API::Response::Job"
         },
         {
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546589005?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=65F49144C017154F53C88BF2D54D658827C92E8D",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "salary_is_predicted": "0",
-            "id": "5546589005",
-            "description": "We are building Neo OS —the intelligence layer that transforms every human conversation into action. Just as Windows made computers usable and Android made phones smart, Neo OS makes every device conversation-aware. We are actively engineering the future of ambient computing through Neo 1 , our wearable device that captures, understands, and acts on conversations in real-time. We are proving that ambient AI isn't science fiction—it's engineering reality, validated by enterprise partnerships and…",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Recro"
+                "display_name": "Deloitte"
             },
-            "created": "2025-12-18T08:43:24Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2NTg5MDA1In0.GuzJLxzMtcdmwWCkPJyNKCV172NdrMKdXbiBwzqbH2o",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "created": "2025-12-12T09:51:27Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAxNTExOCIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.v8hGMQTlWQEdkV-yBBMu4c9YWscpt12x54v4v5OAM3I",
-            "id": "5539015118",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "ACG World"
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MzY0Mjk4OSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.4FaiigLyPqBbsl7rbDFYfi2DjdNC8RSJARsqvoYMM0M",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5573642989?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 13.06041,
+            "longitude": 80.24963,
+            "id": "5573642989",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
             },
-            "description": "Image Processing Lead: Lead the team of innovators and technologists toward creating next-level solutions. Work on various technology domains to set strategic direction and solve complex and mission critical problems, internally and externally. Embracing leading-edge technologies and methodologies. Enhance existing inspection product portfolio with advance techniques and technology. Primary responsibilities Strategic and planning Planning of new technology integration in existing Inspection pro…",
-            "longitude": 72.84415,
-            "title": "Artificial Intelligence Engineer",
-            "latitude": 19.00821,
+            "contract_time": "full_time",
+            "contract_type": "permanent",
+            "created": "2026-01-08T15:41:53Z",
+            "description": "Summary Position Summary Artificial Intelligence & Engineering AI & Engineering leverages cutting-edge engineering capabilities to help build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These solutions insights are powered by engineering for business advantage, helping transforming mission-critical operations. Join our AI & Engineering team to help in transforming technology platforms, driving innovation, and hel…",
+            "title": "Senior Consultant-Databricks",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Mumbai, Maharashtra",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Mumbai"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5539015118?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=21D4336C14FF950660D0677B48BBBD7782790C77",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            }
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
                 "area": [
                     "India",
                     "Tamil Nadu",
                     "Chennai"
                 ],
-                "display_name": "Chennai, Tamil Nadu",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 13.06041,
-            "redirect_url": "https://www.adzuna.in/land/ad/5539018702?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=674021514DD610B158CEAF17B2B68DC88372CB5B",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "salary_is_predicted": "0",
-            "description": "About the Role We are seeking a skilled AI Engineer with deep hands-on experience in ML, NLP, LLMs, GenAI, and Agentic AI to join our technology team focused on automating US mortgage loan processing workflows. This role involves designing intelligent, scalable solutions using cloud-native MLOps and advanced AI/LLM orchestration tools on Azure. Key Responsibilities Design and implement ML/NLP/GenAI pipelines for automating loan origination, underwriting, and document intelligence processes. Dev…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "loanDNA"
-            },
-            "longitude": 80.24963,
-            "id": "5539018702",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTM5MDE4NzAyIn0.mbiGqOxMJJeugR4OIbwzTuvnNIeJwXHiqVv8DKbS4z0",
-            "created": "2025-12-12T09:53:29Z",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "title": "Artificial Intelligence Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQxODE4MjUzIn0.S1r574eL3FXLyDjajrc74bqKXYSXhf7poT9NuTfzGP0",
-            "created": "2025-12-14T10:19:02Z",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "SAACH Travel Technologies"
-            },
-            "longitude": 72.84415,
-            "description": "Hiring: AI Product Engineer (Applied AI  Software Development  LLM Integration) Location: Remote Experience: 3-5 years We are looking for a hands-on AI Product Engineer to help accelerate our engineering productivity, automate workflows, and integrate cutting-edge AI capabilities into our product. This role is practical and implementation-focused —ideal for someone who loves building tools, automating processes, and shipping AI-powered features. ⭐ What You’ll Work On 1. Developer Productivity &…",
-            "id": "5541818253",
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5541818253?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A104E98E38553A339CE6CCC667C89E707A0E9FFC",
-            "latitude": 19.00821,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Mumbai, Maharashtra",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Mumbai"
-                ]
+                "display_name": "Chennai, Tamil Nadu"
             }
         },
         {
+            "redirect_url": "https://www.adzuna.in/details/5573266633?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 18.5062,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTczMjY2NjMzIn0.6h8EKYGYdwUgPqMxMgo7F66Mz8bPEoj3LpVR1jAVILk",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deloitte"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Summary Position Summary Artificial Intelligence & Engineering AI & Engineering leverages cutting-edge engineering capabilities to help build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These solutions insights are powered by engineering for business advantage, helping transforming mission-critical operations. Join our AI & Engineering team to help in transforming technology platforms, driving innovation, and hel…",
+            "title": "Senior Consultant-Gen AI",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 73.84735,
+            "id": "5573266633",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-08T11:27:08Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5573225228?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 23.27495,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MzIyNTIyOCIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.EVijvamrGV4ANImqVMxUngoTzKBeLwiiM5fieO9W9KY",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "LNCT Group"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Professor / Associate Professor / Assistant Professor Departments : Computer Science Engineering, Artificial Intelligence, Data Science, Machine Learning, Electronics & Communication Engineering, Electrical/Electrical & Electronics Engg., Mechanical, Civil Job Summary: · Responsible for teaching, mentoring, and research in the assigned discipline. Faculty · members are expected to integrate modern pedagogies, digital tools, and research · innovations to develop student’s technical, professional…",
+            "title": "Assistant ProfessorCSE",
+            "location": {
+                "display_name": "Bhopal, Madhya Pradesh",
+                "area": [
+                    "India",
+                    "Madhya Pradesh",
+                    "Bhopal"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 77.41355,
+            "id": "5573225228",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-08T11:01:05Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MzA1MTgwMSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.RavvgnnC84DSp6ek-Ve2ZOrCRY8zxlNjpjT3V3cy2tE",
+            "company": {
+                "display_name": "ZUUZ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5573051801?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=412027840234068C62DD98C08DFA0186C8EE98F0",
+            "created": "2026-01-08T09:42:04Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "id": "5573051801",
+            "longitude": 78.50806,
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -1034,367 +567,139 @@
                 ],
                 "display_name": "Hyderabad, Telangana"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 17.40275,
-            "redirect_url": "https://www.adzuna.in/land/ad/5560711314?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8972F55744DB1DE9EE37AF695C7ED0AC6D1C12BD",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "salary_is_predicted": "0",
-            "id": "5560711314",
-            "company": {
-                "display_name": "Info Way Solutions",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "JD: · Strong AI Foundry, Agentic AI knowledge and experience · Experience with ML libraries (scikit-learn, TensorFlow, PyTorch, ML.NET, Azure ML, etc.). · Understanding of machine learning lifecycle: data prep → training → evaluation → deployment. · Knowledge of statistical methods, model validation, and experiment design. · Familiarity with cloud data services (Azure Data Factory, Synapse, Databricks, AWS Glue, GCP BigQuery). · Ability to design clean, maintainable data structures and pipeline…",
-            "longitude": 78.50806,
-            "created": "2025-12-31T10:34:17Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcxMTMxNCIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.OVN2KaZxAxfqAyA3k3n6lQl6XDD6r9Y3lce0UySkm2M",
-            "title": "Artificial Intelligence Engineer"
+            "title": "Artificial Intelligence Engineer",
+            "description": "About the Role We’re building the next generation of intelligent, autonomous AI systems and are seeking 2–3 experienced AI Engineers to join our product development team. You will play a key role in designing, building, and deploying AI agents and AI assistants that leverage Large Language Models (LLMs) , Retrieval-Augmented Generation (RAG) , and scalable backend systems using Python If you love building things from scratch, experimenting fast, and scaling what works — this role is for you. Ke…"
         },
         {
+            "created": "2026-01-08T09:41:55Z",
             "category": {
                 "label": "IT Jobs",
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5561942986?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=C7527EC2A8B66959AA2D62ED50A643AB8FF4D892",
-            "salary_is_predicted": "0",
+            "id": "5573051314",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Artificial Intelligence Engineer",
-            "id": "5561942986",
-            "description": "Job Title: Data Scientist / AI Engineer (2–3 Years Experience) Department: AI Employment Type: Full-Time (Remote- India) Timings: 6.30PM IST to 3.30AM IST About the Role We are looking for a passionate and skilled Data Scientist / AI Engineer with 2–3 years of hands-on experience in building, deploying, and optimizing data-driven solutions. You’ll work closely with our product, engineering, and research teams to design and implement models spanning classical machine learning, deep learning, and…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Vriba Solutions"
-            },
-            "contract_time": "full_time",
-            "created": "2026-01-01T08:40:17Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYxOTQyOTg2In0.djd9r_y7swAIMt7t86zrJaCDp1WHnSwIzBhvbrshxm0"
-        },
-        {
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5539012459?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3673CBD0101387881B0A07779209B1DC65470C8C",
-            "created": "2025-12-12T09:50:39Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTM5MDEyNDU5In0.rNARPDsJoZWVvnRdeaOlbj0u7OcmkZEUETPAVdv2vaA",
-            "id": "5539012459",
-            "company": {
-                "display_name": "Candescent",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Candescent is the leading provider of non-core digital banking SaaS solutions, delivering account opening, digital banking, and branch experiences for banks and credit unions of all sizes. Our API-first architecture and integrated ecosystem enable seamless customization and third-party integration, while connected in-person, remote, and digital channels transform customer service. With self-service tools, marketing capabilities, and data-driven analytics, we empower institutions to enhance bran…",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "title": "Artificial Intelligence Engineer",
-            "description": "About the team and this role: As an AI/ML Engineer reporting to our Engineering Lead, you'll own our product's AI capabilities from conception to deployment . Working alongside product managers and designers, you'll tackle complex challenges, architect scalable solutions, and collaborate cross-functionally to create exceptional user experiences. You'll initially be our sole AI/ML Engineer, with plans to expand the team. Responsibilities: Own the end-to-end development and performance of our AI …",
-            "company": {
-                "display_name": "Recro",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "id": "5540673555",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQwNjczNTU1In0.fMpIZgEvW8l23I4REXfAjv141d0Pj6k8SBgWm6_mrR8",
-            "created": "2025-12-13T09:40:09Z",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5540673555?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2888456EC173DFA2D5FF5AEB1F7221E027ADD052",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
-        },
-        {
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5560709669?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=81C42523E504427B2F95CD58FD23F6782D14804E",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 17.40275,
-            "title": "Artificial Intelligence Engineer",
-            "description": "Key Responsibilities: Agent Orchestration: Design and implement complex agentic workflows using LangChain and LangGraph. Manage state, cyclic graphs, and decision-making loops for autonomous agents. LLM Evaluation (LLM-as-a-Judge): Build robust evaluation pipelines. specific code/prompts where a stronger model (e.g., GPT-4) acts as a judge to verify the accuracy, safety, and adherence of the application's responses against strict requirements. Model Optimization: Execute Prompt Tuning and advan…",
-            "company": {
-                "display_name": "ShimentoX Technologies",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 78.50806,
-            "id": "5560709669",
-            "created": "2025-12-31T10:32:58Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYwNzA5NjY5In0.ERSZCgPaF1NHGdq5rypK93OiF9h08hleUbNvzGDKwRc"
-        },
-        {
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561944180?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0F0FA4C2D78248824F7489D037CD5CA234F2E654",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "salary_is_predicted": "0",
-            "id": "5561944180",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "People Prime Worldwide"
-            },
-            "description": "Our client is a Indian multinational technologies Limited is an Indian publicly traded software and services company. The company's stock trades on the Bombay Stock Exchange and on the National Stock Exchange of India Job Title : GEN AI Developer Work location : Pune Employment Type : Full time Years of Experience : 6 Yrs Notice Period : Immediate to 15 days Key Responsibilities · Design & Build Agentic AI Systems: Develop autonomous AI agents for planning, reasoning, and executing multi-step t…",
-            "created": "2026-01-01T08:41:03Z",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYxOTQ0MTgwIn0.cZlErXlfRpD6xyo0vvXqtXqI_3aCZcuUg4W81Hm1XRg",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "latitude": 17.40275,
-            "location": {
-                "display_name": "Hyderabad, Telangana",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5561944956?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=4A0016672A40AAEE8457996411D04986F95B94C1",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYxOTQ0OTU2In0.KPvXyQQlwjKkuQaDWkd15pG2is2GKH-ayvaN7zhDKYM",
-            "created": "2026-01-01T08:41:09Z",
-            "id": "5561944956",
-            "description": "Job Title: AI Engineer Location: Noida, Bangalore, Mumbai, Pune, Kolkata, Hyderabad Job Responsibilities Define, innovate, and shape the architecture for new AI services, products, and tools. Drive projects from conception to delivery, ensuring high-quality outcomes. Work hands-on with core AI platforms and tools such as Azure OpenAI and other Azure AI Services . Analyze and translate functional specifications/user stories into technical specifications. Stay curious and enthusiastic about learn…",
-            "company": {
-                "display_name": "Tata Consultancy Services",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 78.50806,
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561944897?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=8630901EDBC0BCCC34EF69CE927657F74EF5FD6E",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYxOTQ0ODk3In0.m_bH_iw9AWQcl-g8jSb_mD-WQkBTUIfg69FS9pkCr-Y",
-            "created": "2026-01-01T08:41:08Z",
-            "id": "5561944897",
-            "description": "Designation: Senior AI/ML Engineer Location: Gurugram Industry: AI/ML Product based About the Role We are looking for a Senior AI/ML Engineer to lead the design and delivery of scalable, production-ready AI systems. This role combines deep hands-on engineering with technical leadership, owning the full lifecycle of machine learning solutions—from experimentation to deployment at scale. You will play a key role in shaping our AI strategy, building robust ML infrastructure, and delivering high-im…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "PVAR SERVICES"
-            },
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "category": {
-                "label": "Engineering Jobs",
-                "tag": "engineering-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5561949628?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=70831E00AA801B9B69D90E95803403DFABDCDB78",
-            "salary_is_predicted": "0",
-            "id": "5561949628",
-            "description": "Role Overview We’re hiring an AI Engineer who is a problem-solver first : someone who can ship , debug , and iterate fast . You’ll help build the core AI workflows powering our tutoring product—especially agentic tutoring systems —and harden them into production-grade , scalable , observable systems. This role is intentionally not for everyone. If you want tight scope, predictable tasks, or “only research / only backend,” this won’t fit. If you like building real systems end-to-end and seeing y…",
-            "company": {
-                "display_name": "Fermi AI",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYxOTQ5NjI4In0.7-qLqDtXWOd0tCf2MT5ADj9j5r6xHsp8B-IzmXV6XPw",
-            "created": "2026-01-01T08:42:01Z",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
-            "title": "Artificial Intelligence Engineer",
-            "company": {
-                "display_name": "TalentBridge",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": " AI/ML Engineer (LLMs & Generative AI) 6 Months Contract to Hire Location: Bengaluru or Pune (Hybrid: 3 days onsite, 2 days remote) ONLY APPLY IF YOU CAN JOIN ASAP OR IF YOU HAVE ALREADY RESIGNED AND CAN JOIN IN 15 DAYS! We are looking for a skilled AI/ML Engineer with hands-on experience in AI/ML development and Large Language Models (LLMs). Key Skills: 5-10 years in Python, PyTorch, TensorFlow, PySpark, Scikit-Learn, SQL Expertise in LLMs & GenAI: LangChain, Hugging Face, OpenAI GPT, Gemini, …",
-            "id": "5546316032",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUWstVnR0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ2MzE2MDMyIn0.pJ7IJK0cicx8RIYJ9q_FrXwlDjy3tm5qzCQ51H8qfok",
-            "created": "2025-12-18T02:40:10Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546316032?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=F469A459A59351FA3AACB3C0FED18DBDBE31596B",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "contract_type": "contract",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
                 "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
-        },
-        {
-            "contract_time": "full_time",
-            "created": "2025-12-18T08:40:55Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjU3MjM4OSIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.HmF9WDcWRRyxDKBfdxytvsNIOohqkKJW-7ndIZvR6MA",
-            "id": "5546572389",
-            "company": {
-                "display_name": "Indegene",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Hiring Alert: Sr AIML Engineer Location: Bangalore, India (Hybrid – 3 Days) Type: Full-Time Employment Experience: 4Years Fine-tune and train LLMs, SLMs and VLMs using frameworks like Hugging Face, PyTorch, or TensorFlow Hands-on with Data Engineering & MLOps, LLMs, embeddings, transformers, and vector databases. Hands-on with LLMs, embeddings, transformers, and vector databases. Logical thinking and hands-on projects with realtime problem statements Python Fast API Hands-on Experience with pro…",
-            "title": "Artificial Intelligence Engineer",
-            "location": {
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
                 ],
-                "display_name": "Bangalore, Karnataka",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5546572389?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=80583A08EEEFA1CACDA8DB24F34AB37C16E9DBAF"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "salary_is_predicted": "0",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5553863393?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=59E8A976AEAD8B8FC35EF3C789902D83E842D818",
-            "created": "2025-12-24T10:12:26Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg2MzM5MyIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.W1XgVrNIg792Nw-9Kgo0KqiS1ePP1mIptwQ9UudIRc0",
-            "company": {
-                "display_name": "Eximietas Design",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "About Eximiets: https://www.eximietas.design/ Eximietas Design is a technology services and solutions company headquartered in San Jose, CA India. Specialising in Cloud Computing, Cybersecurity, VLSI, Embedded Software, and Artificial Intelligence, Eximietas is dedicated to empowering businesses with cutting-edge innovations, ensuring their digital future is secure, efficient, and poised for growth. We foster a vibrant, collaborative work culture that thrives on innovation and inclusivity. Root…",
-            "id": "5553863393",
-            "title": "Artificial Intelligence Engineer"
-        },
-        {
             "title": "Artificial Intelligence Engineer",
+            "description": "Company Description HEAPS is one of the fastest growing health tech start-ups in India today. With more than 5 million patient interactions till date, Heaps is revolutionising how insurers, doctors and patients experience health care. We are building an AI driven end-to-end care management platform which coordinates, tracks and monitors the health of the patient empowering them with the right information to take right decisions at the right time about their health. Heaps is backed by marquee in…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MzA1MTMxNCIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.kISMak9Chh07TgCWM536zhGTho6RLbGo1Yse7pTjaNA",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "DevRob"
+                "display_name": "HEAPS.ai"
             },
-            "description": "About DevRob DevRob is an AI and robotics startup developing cutting-edge software for planning and optimizing production lines for large manufacturing companies. We combine advanced robotics simulation, GPU-accelerated motion planning, and AI-driven automation to help manufacturers design, validate, and deploy efficient production lines. The Role We're hiring a senior engineer to own and evolve our AI agent architecture. You'll be building intelligent automation pipelines using LangGraph that …",
-            "id": "5561949928",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0OTkyOCIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.4t6nt5TE71WrDbS_Ku_waEbLq6WDS0aCCOPIDLAqNo8",
-            "created": "2026-01-01T08:42:11Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561949928?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=457B07A44627DB3BA4F7E62567FFE9915F5F9C04",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5573051314?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=90EDF1F659BAC17E34EE9F605FFB57CF258DE3AF"
+        },
+        {
+            "created": "2026-01-08T00:33:45Z",
             "category": {
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs"
             },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5572156515",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India"
                 ],
-                "display_name": "India"
-            }
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Principal AI/ML Engineer",
+            "description": "About Boomi and What Makes Us Special Are you ready to work at a fast-growing company where you can make a difference? Boomi aims to make the world a better place by connecting everyone to everything, anywhere. Our award-winning, intelligent integration and automation platform helps organizations power the future of business. At Boomi, you’ll work with world-class people and industry-leading technology. We hire trailblazers with an entrepreneurial spirit who can solve challenging problems, make…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjE1NjUxNSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.iMM63UFplWmctFgCHni8KtUnVkpp8iOQeUfPMV1zwz0",
+            "company": {
+                "display_name": "Boomi",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5572156515?utm_medium=api&utm_source=d58ac19b"
         },
         {
+            "redirect_url": "https://www.adzuna.in/details/5571994770?utm_medium=api&utm_source=d58ac19b",
             "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5529805299?se=Qk-VttDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=2DCDBA7C4D9CE19E93C483694C0B0BC74F435E28",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MTk5NDc3MCIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.Vm2o3UwxSHfP8MTwXDJbn1768D1gACjEW9RRZtFds_A",
+            "company": {
+                "display_name": "Boomi",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Fullstack AI/ML Engineer",
+            "description": "About Boomi and What Makes Us Special Are you ready to work at a fast-growing company where you can make a difference? Boomi aims to make the world a better place by connecting everyone to everything, anywhere. Our award-winning, intelligent integration and automation platform helps organizations power the future of business. At Boomi, you’ll work with world-class people and industry-leading technology. We hire trailblazers with an entrepreneurial spirit who can solve challenging problems, make…",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5571994770",
+            "created": "2026-01-08T00:14:08Z",
             "category": {
                 "label": "IT Jobs",
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5570927186?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=B650FD208BDD20EBAA4CD27D893A2E7745C6E309",
+            "latitude": 23.042,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MDkyNzE4NiIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.4hFxtKfLHx7XkpgsKVTsvRXVqwoYw-o2Fe3GHuu3kJE",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Saakh - AI powered B2B Vendor screening and credibility verification platform"
             },
+            "title": "Artificial Intelligence Engineer",
+            "description": "(RAG & Agent Systems) — MERN  Python Experience Required: 2-3 years Location: Work from office: Ahmedabad Salary range – Upto Rs 100k per month. Positions: 01 About us: Saakh is an AI First B2B Fintech startup enabling SMEs with business intelligence. 1) Take data driven lending decisions 2) Automate payment collections 3) Prevent late payments 4) Delegate recoveries of stuck payments 5) Build Digital Reputation Identity of businesses About the Role We’re hiring an AI Engineer who can design, b…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ahmedabad, Gujarat",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Ahmedabad"
+                ]
+            },
+            "id": "5570927186",
+            "longitude": 72.59465,
+            "created": "2026-01-07T09:32:39Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ajanta Pharma Ltd"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MDkyNzA1MSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.ssM_R0m9pxDDPQvWn6KyvYPY7KHw2RE9aGOF1Vv5xUQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5570927051?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=3D0AB5365A97718C408BA6CA954969D792A7EEA1",
+            "salary_is_predicted": "0",
             "latitude": 19.00821,
+            "longitude": 72.84415,
+            "id": "5570927051",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-07T09:32:30Z",
+            "description": "About the Role: We are seeking a dynamic and experienced Manager – AI to lead the design, development, and deployment of next-generation AI solutions, with a strong focus on Generative AI , Natural Language Processing (NLP) , and Machine Learning (ML) within the pharmaceutical industry. As an AI Manager, you will guide a team of engineers and data scientists, drive project execution, and collaborate closely with product and domain teams. You will be responsible for architecting production-grade…",
+            "title": "Manager - Artificial Intelligence Engineer",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -1403,19 +708,771 @@
                     "Mumbai"
                 ],
                 "display_name": "Mumbai, Maharashtra"
+            }
+        },
+        {
+            "created": "2026-01-07T09:30:23Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
+            "id": "5570924296",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "Artificial Intelligence Engineer",
+            "description": "Job Title: AI Developer – .NET Experience: 3–8 Years About the Role We are looking for a skilled AI Developer with strong hands-on experience in .NET technologies to design, develop, and deploy AI-driven applications and intelligent automation solutions. The ideal candidate will combine software engineering expertise with practical knowledge of modern AI/ML frameworks and cloud ecosystems. Key Responsibilities Design, develop, and integrate AI/ML models within .NET applications Build intelligen…",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Manager - Artificial Intelligence Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgwNTI5OSIsInMiOiJRay1WdHREbThCR2pKYWJ4V3QwZURRIn0.R-qg-DI4VA3B8LAPQTKcgbYyugB8Co751kk87QEtI1U",
-            "created": "2025-12-06T01:27:09Z",
-            "id": "5529805299",
-            "description": "About the Role: We are seeking a dynamic and experienced Manager – AI to lead the design, development, and deployment of next-generation AI solutions, with a strong focus on Generative AI , Natural Language Processing (NLP) , and Machine Learning (ML) within the pharmaceutical industry. As an AI Manager, you will guide a team of engineers and data scientists, drive project execution, and collaborate closely with product and domain teams. You will be responsible for architecting production-grade…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTcwOTI0Mjk2In0.mvmtGZ-RO3weSC-p3S2TSTIMzBv-s9C4PB4YT5MyHgs",
             "company": {
-                "display_name": "Ajanta Pharma Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tech Mahindra"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5570924296?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=9DE3F62BF2787364EF898611F956FFE70C1CB8D4"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5570922858?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=0A223F8CB44AA17C2B80FFED76B7BD3779479540",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "QBurst"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTcwOTIyODU4In0.-GoTINY1ZFkFfSiUZuN9_YgbwJleDkes4IVX9lwHwDs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Description: We are seeking an experienced Lead to drive our data and AI streams. The ideal candidates are not just technical experts but also strategic thinkers who can act as independent consultants, guiding projects from concept to production. They should have a proven track record of designing, developing, and deploying robust, scalable, and real-world AI systems. Responsibilities: Lead the architecture, design, and implementation of highly scalable and reliable data platforms and AI system…",
+            "title": "Lead Engineer - Artificial Intelligence",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5570922858",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2026-01-07T09:29:20Z"
+        },
+        {
+            "created": "2026-01-07T09:28:22Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5570921292",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Artificial Intelligence Engineer (Weekday Virtual Drive )",
+            "description": "TCS is conducting Weekday virtual drive on Artificial Intelligence Engineer Role: Artificial Intelligence Engineer Location: Bengaluru Np: 15/30/45 Days/Immediate Joiners are preferred Years of Experience: 5 to 10 Yrs Mode of Interview: Virtual Mode Date of Interview: 8th, 9th, Jan, 2026 Time of Interview: 10-4PM Roles & responsibilities: 5yrs e in Python, Generative AI models (LLMs, Image Generators, etc.), and Agentic AI concepts. Agentic AI principles to build AI agents capable of autonomous…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTcwOTIxMjkyIn0.LXHdz8m1Q6wYCUAzf5AXURPnWIIlffwF-RN2zxzbjCk",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5570921292?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=5DFBFEE8E51086C920B275E33C82F612D47E9102"
+        },
+        {
+            "description": "Role Summary: Builds and fine-tunes OCR models, handwriting models, document segmentation, stamp detection, and image cleanup pipelines. Key Responsibilities: • Develop, fine-tune, and optimize OCR and document segmentation models. • Implement preprocessing: deskew, denoise, watermark/stamp removal, cropping, binarization. • Train CV models (YOLO/SAM) for stamp detection, handwriting region detection. • Evaluate multiple OCR engines and build benchmarking frameworks. • Build orchestration pipel…",
+            "title": "Artificial Intelligence Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "longitude": 80.24963,
+            "id": "5570920931",
+            "category": {
+                "tag": "customer-services-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Customer Services Jobs"
+            },
+            "created": "2026-01-07T09:27:26Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5570920931?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=7141F8FCF1D43F356514DA04893BCE847D2B76D1",
+            "salary_is_predicted": "0",
+            "latitude": 13.06041,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MDkyMDkzMSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.P3eHeaVVv_r6UWUEobLOBxuw8wckJtcKz2qwzLBObf8",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tata Consultancy Services"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Artificial Intelligence Engineer",
+            "description": "Senior AI Engineer Location: Gurugram, India Company Overview TheHireHub.ai is a recruiter-first AI hiring platform built by recruitment professionals with over 20 years of industry experience. Designed to automate and elevate the entire hiring lifecycle, the platform leverages a multi-agent AI architecture to manage job creation, sourcing, outreach, screening, evaluation, interview scheduling, and analytics. TheHireHub.ai combines applied AI, workflow automation, and human-in-the-loop intellig…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5569441419",
+            "created": "2026-01-06T09:34:24Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5569441419?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=2E10BFB4301B0588E91F09664F3539C7DB65EE36",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2OTQ0MTQxOSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.qBgBQJ60azRKXJMlBNXaOPwc-9dh4a6LCZmAwjfyV6c",
+            "company": {
+                "display_name": "TheHireHub.Ai",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "created": "2026-01-06T07:34:11Z",
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 78.50806,
+            "id": "5569346693",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "title": "ADMI (Mainframe) Lead Developer",
+            "description": "Company Description About Sutherland: Artificial Intelligence. Automation. Cloud engineering. Advanced analytics. For business leaders, these are key factors of success. For us, they’re our core expertise. We work with iconic brands worldwide. We bring them a unique value proposition through market-leading technology and business process excellence. We’ve created over 200 unique inventions under several patents across AI and other critical technologies. Leveraging our advanced products and plat…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sutherland"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTY5MzQ2NjkzIn0.cDu5caMMf8DIcY8X-FQ6x_Y0vHXKtmOdAjcvB_GjRwg",
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5569346693?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ]
+            },
+            "description": "Job Title: Software Engineer, Agentic AI Platform Preferred Location(s): - Chennai, India The Team: AECO Segment, Agentic AI Platform Team Reports to: Dineshkumar Sarangapani, Distinguished Engineer, Agentic AI Platform At Trimble, we are enabling our customers by leveraging cutting-edge artificial intelligence. We believe that intelligent agents will fundamentally transform how businesses operate. We are building a foundational Agentic AI Platform to power these next-generation applications, a…",
+            "title": "Agentic Artificial Intelligence Engineer",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-06T00:37:07Z",
+            "longitude": 80.24963,
+            "id": "5568404351",
+            "salary_is_predicted": "0",
+            "latitude": 13.06041,
+            "redirect_url": "https://www.adzuna.in/details/5568404351?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTY4NDA0MzUxIn0.OhLdbYJ7mcMJiBd7hX0ERqHiaWkgdIu0PGKxir_Y6tE",
+            "company": {
+                "display_name": "Trimble",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "longitude": 72.84415
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "title": "Language Engineer, Artificial General Intelligence - Data Services",
+            "description": "Description The Amazon Artificial General Intelligence (AGI) Data Services organization is responsible for developing diverse datasets to train and evaluate the Amazon AI models. We are looking for Language Engineers to join our science and engineering team to support the development of complex, multimodal datasets, using a range of approaches including synthetic data generation, model-supported data generation, and human-in-the-loop data collections. You will play a critical role in driving in…",
+            "created": "2026-01-05T08:45:09Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 78.50806,
+            "id": "5567564215",
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5567564215?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=E788D8ACA0F55F9B134F76E92263DAE440304ABE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2NzU2NDIxNSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.Mpcp2n1ztzbYY87AZhS-zxrvgbeI3Vf54YYioocD-Vo",
+            "company": {
+                "display_name": "Amazon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "Role Overview: We are seeking a highly skilled and innovative Senior AI Developer with deep expertise in building AI Agents and Retrieval-Augmented Generation (RAG) applications. The ideal candidate will have hands-on experience with a variety of GenAI frameworks, and exposure to Copilot Studio and Power Automate, enabling seamless integration of intelligent workflows across enterprise platforms. Key Responsibilities: Design, develop, and deploy advanced AI Agents capable of autonomous task exe…",
+            "title": "Artificial Intelligence Engineer",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5566765847",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2026-01-04T09:32:32Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5566765847?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=24E1EF66B60D1FBFC0DEF301127CCF18341034DE",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTY2NzY1ODQ3In0.iraAjxyjrT6wq3d6Kr9J5ZR4R7VZkvKuLdSLwlm6GSc",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Marlabs LLC"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Language Engineer, Artificial General Intelligence - Data Services",
+            "description": "Description The Amazon Artificial General Intelligence (AGI) Data Services organization is responsible for developing diverse datasets to train and evaluate the Amazon AI models. We are looking for Language Engineers to join our science and engineering team to support the development of complex, multimodal datasets, using a range of approaches including synthetic data generation, model-supported data generation, and human-in-the-loop data collections. You will play a critical role in driving in…",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 78.50806,
+            "id": "5566731710",
+            "created": "2026-01-04T08:42:55Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5566731710?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=D42C2C7A7CABCC5B0111DDA3091FA2DF97BC2596",
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2NjczMTcxMCIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.-mg8E63QobUj47tPRjuqoKioLjAMs1tgoyqP-LNu5L4"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2NTczODI0MyIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.r3kawja2J7Cerg4Yh5bbapBi8ynYXkeW7imucRoBw7w",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deloitte"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5565738243?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275,
+            "longitude": 78.50806,
+            "id": "5565738243",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-03T11:29:06Z",
+            "description": "Summary Position Summary Artificial Intelligence & Engineering AI & Engineering leverages cutting-edge engineering capabilities to help build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These insights are powered by engineering for business advantage, helping transform mission-critical operations. Join our AI & Engineering team to help transform technology platforms, driving innovation, and help make a significan…",
+            "title": "Full Stack-JAVA-Consultant-Hyderabad/Bengaluru",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Sigmoid",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2NTM0OTIwNSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.KgfiRkHM1DsoG6wyxRb_JmPIEc4mS5Ec0V-BSUeSOxk",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5565349205?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=C9D519168EB5C0725A11D333D2991DA44C5841F6",
+            "created": "2026-01-03T02:44:49Z",
+            "category": {
+                "label": "Consultancy Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "id": "5565349205",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Director Data Science",
+            "description": "Sigmoid enables business transformation using data and analytics, leveraging real-time insights to make accurate and fast business decisions, by building modern data architectures using cloud and open source. Some of the world’s largest data producers engage with Sigmoid to solve complex business problems. Sigmoid brings deep expertise in data engineering, predictive analytics, artificial intelligence, and DataOps. Sigmoid has been recognized as one of the fastest growing technology companies i…"
+        },
+        {
+            "description": "Role Overview We’re hiring an AI Engineer who is a problem-solver first : someone who can ship , debug , and iterate fast . You’ll help build the core AI workflows powering our tutoring product—especially agentic tutoring systems —and harden them into production-grade , scalable , observable systems. This role is intentionally not for everyone. If you want tight scope, predictable tasks, or “only research / only backend,” this won’t fit. If you like building real systems end-to-end and seeing y…",
+            "title": "Artificial Intelligence Engineer",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5561949628",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "created": "2026-01-01T08:42:01Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5561949628?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=70831E00AA801B9B69D90E95803403DFABDCDB78",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTYxOTQ5NjI4In0.DXNV1IF7a10a0b4nxNCN9eh8gGjc0zbUEDIOhy-z0SA",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Fermi AI"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "display_name": "Jaipur, Rajasthan",
+                "area": [
+                    "India",
+                    "Rajasthan",
+                    "Jaipur"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "About Organisation: Founded in 2011 by the 140-year-old J.K. Organisation (JKO), JK Lakshmipat University (JKLU) continues JKO's legacy of excellence and commitment to nation-building. Accredited with an 'A' grade by NAAC, JKLU is at the forefront of innovation, blending academia with industry through its interdisciplinary programs in engineering, management, and design. For more information, please visit www.jklu.edu.in Position Overview: We are seeking an experienced and visionary individual …",
+            "title": "Dean of Computer Science",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "created": "2026-01-01T08:41:06Z",
+            "longitude": 75.9469,
+            "id": "5561944499",
+            "salary_is_predicted": "0",
+            "latitude": 26.7441,
+            "redirect_url": "https://www.adzuna.in/land/ad/5561944499?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=0E2172A565B06B1A3E6ADA848A09D25810EC4900",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0NDQ5OSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.4NH4meYdw9ecirffBBf5ASg9qYEkh68vAoJ9wrgT5Ws",
+            "company": {
+                "display_name": "JK Lakshmipat University, Jaipur",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0MzU2NSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.MIrRfL5GBkm2cxxxECPYMR2r_k08iZ3dhpikiR7A8zA",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Kumaraguru College of Technology"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 11.017171,
+            "redirect_url": "https://www.adzuna.in/land/ad/5561943565?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=B491D211DD3311656F9C6731595085DBFD7B2AC5",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "created": "2026-01-01T08:40:26Z",
+            "longitude": 77.100203,
+            "id": "5561943565",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Coimbatore, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Coimbatore"
+                ]
+            },
+            "description": "Kumaraguru College of Technology invites applications for the position of Assistant Professor / Associate Professor in the departments of Computer Science Engineering, Information Technology, and Artificial Intelligence & Data Science. We are seeking passionate educators and researchers who are eager to inspire the next generation of innovators and contribute to our growing academic community. Educational Background: M.E or M.Tech / Ph.D. in Computer Science Engineering, Information Technology,…",
+            "title": "Assistant Professor - CSE / IT / AI & DS"
+        },
+        {
+            "id": "5561942986",
+            "created": "2026-01-01T08:40:17Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "title": "Artificial Intelligence Engineer",
+            "description": "Job Title: Data Scientist / AI Engineer (2–3 Years Experience) Department: AI Employment Type: Full-Time (Remote- India) Timings: 6.30PM IST to 3.30AM IST About the Role We are looking for a passionate and skilled Data Scientist / AI Engineer with 2–3 years of hands-on experience in building, deploying, and optimizing data-driven solutions. You’ll work closely with our product, engineering, and research teams to design and implement models spanning classical machine learning, deep learning, and…",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0Mjk4NiIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.fxX-Gyo_dxagLzco1d6kA4ZWGy_7wP429iGKA1NIYyA",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Vriba Solutions"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5561942986?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=C7527EC2A8B66959AA2D62ED50A643AB8FF4D892",
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ProductSquads"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTYwNzA4ODM3In0.Q016zpft_ORtiEvg70HoTI82ry4cHC30rp2FsVanZW4",
+            "redirect_url": "https://www.adzuna.in/land/ad/5560708837?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=A5E92A36AC0CFEAE0534C4E7A118D0CE19BC7EDB",
+            "latitude": 23.042,
+            "salary_is_predicted": "0",
+            "longitude": 72.59465,
+            "id": "5560708837",
+            "created": "2025-12-31T10:31:40Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Artificial Intelligence Engineer",
+            "description": "About the Role We are looking for a skilled AI/ML professional to develop, implement, and optimize machine learning models and AI solutions. The role involves data analysis, model training, and integrating AI into real world applications to solve complex business problems efficiently. The role involves data analysis, model training, and integrating AI into real world applications to solve complex business problems efficiently. Responsibilities Architect and implement advanced AI solutions lever…",
+            "location": {
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Ahmedabad"
+                ],
+                "display_name": "Ahmedabad, Gujarat",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "id": "5560670670",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-31T09:36:25Z",
+            "description": "Our Company: At Teradata, we believe that people thrive when empowered with better information. That's why we built the most complete cloud analytics and data platform for AI. By delivering harmonized data, trusted AI, and faster innovation, we uplift and empower our customers-and our customers' customers-to make better, more confident decisions. The world's top companies across every major industry trust Teradata to improve business performance, enrich customer experiences, and fully integrate…",
+            "title": "Software Engineer",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Teradata"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDY3MDY3MCIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.FjsjtPtrGBkun8couSn0MPWHZ1N1A_ZjPyJk_tw-bZM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5560670670?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=3186C87AB80FB842376F2AB1D525189C5F689AFB",
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5560670705?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=53AB9267E0F9C88CB187DADEFD27B3FED2D88CAB",
+            "company": {
+                "display_name": "Teradata",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDY3MDcwNSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.x183ySfJWfFfVqhoGaicWLfc39F0-XvXFIMv0UivA14",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Our Company: At Teradata, we believe that people thrive when empowered with better information. That's why we built the most complete cloud analytics and data platform for AI. By delivering harmonized data, trusted AI, and faster innovation, we uplift and empower our customers-and our customers' customers-to make better, more confident decisions. The world's top companies across every major industry trust Teradata to improve business performance, enrich customer experiences, and fully integrate…",
+            "title": "Senior Artificial Intelligence Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-12-31T09:36:25Z",
+            "longitude": 78.50806,
+            "id": "5560670705"
+        },
+        {
+            "title": "Software Engineer",
+            "description": "Our Company: At Teradata, we believe that people thrive when empowered with better information. That's why we built the most complete cloud analytics and data platform for AI. By delivering harmonized data, trusted AI, and faster innovation, we uplift and empower our customers-and our customers' customers-to make better, more confident decisions. The world's top companies across every major industry trust Teradata to improve business performance, enrich customer experiences, and fully integrate…",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 78.50806,
+            "id": "5560670725",
+            "created": "2025-12-31T09:36:25Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5560670725?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=0340CB54FCA4AE67E00CA186EDBAD5D9C3C59700",
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDY3MDcyNSIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.Igsp8OtZavERmT5Ug50bBxhJDoXmoUgGKKxOEED3-n4",
+            "company": {
+                "display_name": "Teradata",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5560670676?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=67CE9B8F98E446858BE102D6FA11A52D277E733E",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Teradata"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDY3MDY3NiIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.19GNmGkAgxyGn9yJlwqHwy3qx9bp4a5xNQ0hIK8FTr4",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Artificial Intelligence Engineer",
+            "description": "Our Company: At Teradata, we believe that people thrive when empowered with better information. That's why we built the most complete cloud analytics and data platform for AI. By delivering harmonized data, trusted AI, and faster innovation, we uplift and empower our customers-and our customers' customers-to make better, more confident decisions. The world's top companies across every major industry trust Teradata to improve business performance, enrich customer experiences, and fully integrate…",
+            "created": "2025-12-31T09:36:25Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 78.50806,
+            "id": "5560670676"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDYyNDUxNyIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.aaL_d-YU2edFRNx4whR6N2az70rKGWc7J-pNJWA6RdI",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Teradata"
+            },
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5560624517?utm_medium=api&utm_source=d58ac19b",
+            "contract_type": "permanent",
+            "created": "2025-12-31T07:26:06Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "longitude": 78.50806,
+            "id": "5560624517",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Artificial Intelligence Engineer",
+            "description": "Our Company: At Teradata, we believe that people thrive when empowered with better information. That’s why we built the most complete cloud analytics and data platform for AI. By delivering harmonized data, trusted AI, and faster innovation, we uplift and empower our customers—and our customers’ customers—to make better, more confident decisions. The world’s top companies across every major industry trust Teradata to improve business performance, enrich customer experiences, and fully integrate…"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTU5ODU1NTg5In0.C0pkLZlhoIKlBkjn2fRSt8mmnlmhjQ4rssFNcDv88Xk",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Crossover"
+            },
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5559855589?utm_medium=api&utm_source=d58ac19b",
+            "created": "2025-12-30T15:24:47Z",
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5559855589",
+            "longitude": 78.50806,
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Artificial Intelligence Engineer, IgniteTech (Remote) - $100,000/year USD",
+            "description": "Traditional software development practices have historically contributed to delays, with an estimated 30% of projects running past their deadlines due to inefficiencies and errors. The industry now faces mounting pressure to accelerate delivery cycles, minimize mistakes, and improve code standards—factors that directly impact product time-to-market and customer satisfaction. IgniteTech is at the forefront of this shift, embedding advanced GenAI capabilities to fundamentally reshape how software…"
+        },
+        {
+            "id": "5559778493",
+            "longitude": 78.50806,
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-30T11:31:06Z",
+            "description": "The EdTech industry confronts a critical obstacle: producing educational content that engages learners while addressing individual student requirements. Generic, ineffective learning platforms saturate the market, making differentiation more important than ever. Studies show that educational materials that fail to resonate with students or accommodate their distinct learning preferences lead to sharp declines in engagement, resulting in gaps in meaningful learning outcomes. This burden falls he…",
+            "title": "Artificial Intelligence Engineer, LearnWith.AI (Remote) - $200,000/year USD",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTU5Nzc4NDkzIn0.l3lMbtjoLXBX_VDV8O29pmzwWiJ3C7mjo9wS527IWT8",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Crossover"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5559778493?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5559717021?se=yOd_SOPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=DE4AA7DA93EF302299755E7AE937993B15BE2CB3",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Recro"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieU9kX1NPUHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTU5NzE3MDIxIn0.zugiPMQ0Mp3yYXKz01W6xA2FCCylv-mOooIq8aii3pM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "description": "Data Scientist – Applied ML & Predictive Modeling  Bengaluru | In-office  4 Years | Product Company About Us We are a product-based B2B SaaS company building cloud-native platforms that help enterprises modernize and optimize their cloud and data ecosystems. Our AI work focuses on applied machine learning, predictive analytics, and selective use of Generative AI where it delivers real business value. The Role We are looking for a hands-on Data Scientist with strong experience in regression, pre…",
+            "title": "Artificial Intelligence Engineer",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-30T10:27:33Z",
+            "id": "5559717021"
+        },
+        {
+            "longitude": 78.50806,
+            "id": "5559642940",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-30T07:23:20Z",
+            "contract_type": "permanent",
+            "description": "The software sector is well known for missed deadlines and budget overruns, with nearly one-third of all projects unable to hit their planned schedules because of legacy methodologies. In such a landscape, conventional programming methods no longer suffice to satisfy escalating expectations for speed, dependability, and quality in software delivery. IgniteTech differentiates itself through the deployment of transformative Generative AI capabilities that fundamentally alter how software is built…",
+            "title": "Artificial Intelligence Engineer, IgniteTech (Remote) - $60,000/year USD",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1OTY0Mjk0MCIsInMiOiJ5T2RfU09QdDhCRzV5YUEzczNsdXV3In0.Am_BOL8PYLVdHfPpKddd_1fUxi8sJY_wwefrgJn_gys",
+            "company": {
+                "display_name": "Crossover",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5559642940?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275
         }
-    ],
-    "mean": 1697205.88
+    ]
 }

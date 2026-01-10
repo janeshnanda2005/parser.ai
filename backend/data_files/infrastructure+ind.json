@@ -1,263 +1,176 @@
 {
+    "mean": 1185944.44,
+    "count": 619,
     "__CLASS__": "Adzuna::API::Response::JobSearchResults",
-    "mean": 1556242.93,
-    "count": 2522,
     "results": [
         {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTU1MjAxNzQ5In0.Re95i1AccIH8XWwCfoJiYcubdTxsQG1myeQcclK5upk",
-            "redirect_url": "https://www.adzuna.in/land/ad/5555201749?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=06A1BF5954CECAF51CE4636343FF4860C14A6CF6",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5555201749",
             "salary_is_predicted": "0",
-            "contract_time": "full_time",
-            "description": "Infrastructure Engineer (FTE) Experience: 2 Years Location: Remote (India) Work Mode: Full-time, Remote Shift: Monday to Friday, 6:00 PM – 2:00 AM IST Compensation: ₹4 LPA About the Role We are looking for an Infrastructure Engineer who is eager to upskill and grow across a broad range of infrastructure and cloud domains. This role is ideal for someone who has a solid foundation in cloud and systems administration and wants hands-on exposure to real-world enterprise environments. You will work …",
+            "latitude": 12.95703,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273539?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=5337E378E10E12B69EF92B3F955DC2C475B0B57B",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "UnitedHealth Group"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MzUzOSIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.epUFWjw34efmWeYIwGk_l2YdVMJFfkpgxmCNqbXOSXE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
+            "title": "Senior Software Engineering Lead - Python, Cloud, Gen AI",
             "category": {
                 "label": "IT Jobs",
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
+            "created": "2026-01-10T08:34:59Z",
+            "longitude": 77.59837,
+            "id": "5577273539"
+        },
+        {
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273538?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=38A2F5328E4A99FC5D531BBCCDF9E92B49178D3B",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MzUzOCIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.PCGkACBQZZ3apRfqPRfeQCI6FwYII4IRsV9defGDofs",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Mogra.ai"
+                "display_name": "UnitedHealth Group"
             },
-            "title": "Infrastructure Engineer",
-            "created": "2025-12-25T13:39:27Z",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            }
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5546599337?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=8AE789D9D3BBF1638E2B4455E1875A4865A26887",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjU5OTMzNyIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.Y_T6efBoBR16xNUOGb1R0DszAQsaM1ZWca0Pvk8GmUY",
-            "latitude": 26.7441,
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5546599337",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Tata Communications"
-            },
-            "description": "Role: Infra Monitoring Location: Jaipur Qualification: B.E./ B.Tech in IT/CS/ECE or MCA/ M.Sc. in Computer Science or IT Certifications : MCSE, RHCE, CCNA, VCP, or equivalent. Mandate Skills Experience Required: 3 years Windows/Linux/VM/ Backup/Storage/MS SQL management Job Summary : We are seeking a skilled Infrastructure Operations Engineer to manage and maintain core IT infrastructure components including physical servers, operating systems, backup solutions, storage systems, databases, netw…",
-            "location": {
-                "display_name": "Jaipur, Rajasthan",
-                "area": [
-                    "India",
-                    "Rajasthan",
-                    "Jaipur"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Infrastructure Engineer",
-            "created": "2025-12-18T08:44:54Z",
-            "longitude": 75.9469
-        },
-        {
-            "longitude": 78.50806,
-            "created": "2025-12-05T01:21:30Z",
-            "title": "Infrastructure Engineer",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana"
-            },
-            "description": "Exp:4 yr Remote Microsoft Defender suite of capabilities – eg., Microsoft defender for Cloud (MDC) capabilities, configurations, and monitoring. • Secure configuration of assets, Infrastructure security across Azure. • Azure DevOps, pipelines, and their secure configurations. • Scripting– powershell, python, bash, etc., • Data analysis/lookup skills – SQL, Azure Data cluster etc., • Querying and Monitoring Logs across Sentinel, log analytics, storage analytics, Azure Monitor. Candidates should …",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Sonata Software"
-            },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5528009773",
-            "latitude": 17.40275,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI4MDA5NzczIn0.M984gJjBoZnwd4H-dDoYp8VmIlspfzS2AfGc8d92e0A",
-            "redirect_url": "https://www.adzuna.in/land/ad/5528009773?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=B2AAD9977127E0A67936F21D998810958C682814"
-        },
-        {
-            "contract_type": "permanent",
-            "contract_time": "full_time",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5555202477",
-            "redirect_url": "https://www.adzuna.in/land/ad/5555202477?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=37122E663629E4805DF70600A3E188C4B2AED702",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMjQ3NyIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.uCxHadNs_aGpx04Pr0GRij9rCgSMagebJpukBmm5Ox0",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "title": "Intermediate Infrastructure Engineer",
-            "created": "2025-12-25T13:41:39Z",
-            "company": {
-                "display_name": "Mogra.ai",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "description": "Intermediate Infrastructure Engineer (FTE) Experience: 3–5 years Employment Type: Full-time (Permanent) Work Mode: Remote (India) Annual CTC: ₹7.5 LPA Shift: Monday–Friday, 6:00 PM – 2:00 AM IST About the Role We are looking for an Intermediate Infrastructure Engineer who can operationally support and improve complex cloud and hybrid environments . This is a hands-on role suited for engineers who have moved beyond pure L1/L2 support and are comfortable working across identity, cloud infrastruct…"
-        },
-        {
-            "contract_time": "full_time",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5529806382",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5529806382?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=6FF2E9F04B400B5A833EA6E12C3F2A191CA21481",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI5ODA2MzgyIn0.29UjA5_ZaqMSCC1zh56h_B6e8WZzmbFAlAc5ADPX1J0",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "title": "Cloud Infrastructure Engineer",
-            "created": "2025-12-06T01:27:57Z",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "ALIANDO"
-            },
-            "description": "Job Title: Senior Cloud Infrastructure Engineer Department: Cloud Platform Position Type: Remote -Full Time Location: INDIA Company Overview: ALIANDO is an award-winning Azure Expert Managed Service solutions company focused on selling and deploying Microsoft technologies for U.S. and international companies. For over 20 years, Microsoft and its partners have recommended ALIANDO for licensing, consulting, and managed services to corporations large and small. The company offers competitive pay a…"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5561943473",
-            "salary_is_predicted": "0",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0MzQ3MyIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.rtShDgoDzn8NhwPk3BEQOSmPOyJxWqUFBKl56StIeZ4",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561943473?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=394EC78499E62C11820A659577634EBB77D04B8F",
-            "title": "Cloud & Infrastructure Engineer",
-            "created": "2026-01-01T08:40:24Z",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "description": "Cloud & Infrastructure Engineer (Firewall, SAP, PAM) About the Role We’re looking for an experienced engineer to design and secure hybrid environments, manage firewalls, support SAP infrastructure, and administer PAM solutions. Key Responsibilities Cloud (AWS/Azure/GCP): Deploy and optimize landing zones, networking, security, and DR strategies using IaC and CI/CD. Firewall & Network Security: Configure and maintain enterprise firewalls (Palo Alto/Fortinet), enforce least-privilege, and integra…",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "display_name": "HLB HAMT - Audit, Tax, Advisory & Consulting",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            }
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5467163293",
-            "redirect_url": "https://www.adzuna.in/land/ad/5467163293?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=5ACCE693A762FC24B2EBABD76374B55208FB6D78",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NzE2MzI5MyIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.sN97sPGc0mW71__vcdv4k1reh4nCPKNSaa3KEbQWKxQ",
-            "location": {
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Bangalore, Karnataka"
             },
-            "title": "Security Infrastructure Engineer",
-            "created": "2025-10-28T09:15:18Z",
-            "company": {
-                "display_name": "RingCentral",
-                "__CLASS__": "Adzuna::API::Response::Company"
+            "title": "Senior Software Engineer I - Python, Cloud, Gen AI",
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
+            "created": "2026-01-10T08:34:59Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
             },
+            "longitude": 77.59837,
+            "id": "5577273538"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "UnitedHealth Group"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MzUyMiIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.Mi_Sta2SvBBZUfR5YIkgdFB7OXrvIwPI6i7HnvSrncA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273522?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=41E2FB76AEE4702CAF0C57CFEB0B22CE26349B02",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275,
+            "id": "5577273522",
+            "longitude": 78.50806,
             "category": {
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs"
             },
-            "description": "Job Title: SecOps Infrastructure Engineer/Administrator Location: Bangalore Responsibilities: Administer and maintain security products (web application firewall, IDS, (h)IPS, EDR, phishing training, vulnerability management, SIEM, etc) Conduct routine maintenance for SecOps servers (patching, hardening, upgrades, etc.) and deploy new servers as needed. Own Security Operations Infrastructure and interface with other operational teams around the organization. Act as a core member of the Incident…"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5539014857",
-            "redirect_url": "https://www.adzuna.in/land/ad/5539014857?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=790E881751609A8816913200A53E31F1BBB7199F",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAxNDg1NyIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0._Fc-jhHinpq0M-8wYPOJDpZsm-sCMs2NojdlCf-JSVk",
+            "created": "2026-01-10T08:34:58Z",
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
+            "title": "Senior I O Engineering Consultant - AWS WAF CloudFront, etc.",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
                 "area": [
                     "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Lead Infrastructure Engineer",
-            "created": "2025-12-12T09:51:21Z",
-            "category": {
-                "label": "Engineering Jobs",
-                "tag": "engineering-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Dar"
-            },
-            "description": "Dar, the founding member of the Sidara group, is an international multidisciplinary consulting organization specializing in engineering, architecture, planning, environment, project management, facilities management, and economics. Sidara operates in 60 countries with 20,500 professionals, Dar connects people, places, and communities through innovative solutions to the world's most complex challenges. We deliver projects from inception through completion, embracing challenges to empower communi…"
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            }
         },
         {
-            "company": {
-                "display_name": "Dar",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "label": "Engineering Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "engineering-jobs"
-            },
-            "description": "Company Overview: Dar, the founding member of the Sidara group, is an international multidisciplinary consulting organization specializing in engineering, architecture, planning, environment, project management, facilities management, and economics. Sidara operates in 60 countries with 20,500 professionals, Dar connects people, places, and communities through innovative solutions to the world's most complex challenges. We deliver projects from inception through completion, embracing challenges …",
+            "title": "Senior AI/ML Engineer - Python, Azure, GITHub, Copilot, SQL",
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
             "location": {
-                "display_name": "Bangalore, Karnataka",
                 "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
                 ]
             },
-            "created": "2025-12-14T10:21:58Z",
-            "title": "Senior Infrastructure Engineer",
-            "redirect_url": "https://www.adzuna.in/land/ad/5541820520?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=21E5DEB632C91B4F9FE9BABD75CEF01AB0F12286",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MTgyMDUyMCIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.ZvHXffSsA_ZJEoCz_hHDCOj0BUSklcMI64QjMT9JmFQ",
+            "id": "5577273518",
+            "longitude": 77.59837,
+            "created": "2026-01-10T08:34:58Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273518?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=9825A88AD6F99188F015A5EA6A101B318AD9C996",
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5541820520",
-            "salary_is_predicted": "0"
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjczNTE4In0.odrG3YKX8XdVgt6Lln_aoDh3sKsCoCftrgNimpU4-dE",
+            "company": {
+                "display_name": "UnitedHealth Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
         },
         {
-            "title": "Senior Infrastructure Engineer",
-            "created": "2025-12-18T08:40:51Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273519?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=C082EFABDDD78E8D64736C52CC18AD67D22D8FB8",
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjczNTE5In0.GA8AMxxyRS9tYaHEGszSyBOxdoKyWu_ECsqgpVp6tlM",
+            "company": {
+                "display_name": "UnitedHealth Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "AI/ML Engineer",
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 77.59837,
+            "id": "5577273519",
+            "created": "2026-01-10T08:34:58Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MjIzNSIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.mFA2sJygrkw9JGe8RGE78vm0kkd2idlkuwaKHK-_dBM",
+            "company": {
+                "display_name": "SAP",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 12.95703,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577272235?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=4D1C37061D0D600DF8C39725BC0DB7E4B1703B56",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T08:33:07Z",
+            "longitude": 77.59837,
+            "id": "5577272235",
             "location": {
                 "display_name": "Bangalore, Karnataka",
                 "area": [
@@ -267,102 +180,17 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "description": "Company Overview: Dar, the founding member of the Sidara group, is an international multidisciplinary consulting organization specializing in engineering, architecture, planning, environment, project management, facilities management, and economics. Sidara operates in 60 countries with 20,500 professionals, Dar connects people, places, and communities through innovative solutions to the world's most complex challenges. We deliver projects from inception through completion, embracing challenges …",
-            "company": {
-                "display_name": "Dar",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "label": "Engineering Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "engineering-jobs"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5546571813",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQ2NTcxODEzIn0.tjaDKqdGNcrsQWuroFGpG_TxTK9vnH8PwNsmSjAhNCQ",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546571813?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=A12C0582B729011A0D89AA47CC4743751D0A3DD1"
+            "description": "We help the world run better At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging - but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succee…",
+            "title": "Senior Developer for PP/DS in SAP S/4HANA"
         },
         {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5547083789",
-            "latitude": 18.5062,
-            "redirect_url": "https://www.adzuna.in/land/ad/5547083789?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=7E6119119EDC0F34A61DA147AF5FA44022A5BF4C",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NzA4Mzc4OSIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.wNgzKfc3R-zv_mZ2wX_M3tCQz4OQfRbb4PQEdykxipw",
-            "location": {
-                "display_name": "Pune, Maharashtra",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ]
-            },
-            "created": "2025-12-18T20:45:05Z",
-            "longitude": 73.84735,
-            "title": "Senior Infrastructure Engineer",
-            "company": {
-                "display_name": "Dar",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "label": "Engineering Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "engineering-jobs"
-            },
-            "description": "Company Overview: Dar, the founding member of the Sidara group, is an international multidisciplinary consulting organization specializing in engineering, architecture, planning, environment, project management, facilities management, and economics. Sidara operates in 60 countries with 20,500 professionals, Dar connects people, places, and communities through innovative solutions to the world's most complex challenges. We deliver projects from inception through completion, embracing challenges …"
-        },
-        {
-            "latitude": 9.98011,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5546314248",
-            "salary_is_predicted": "0",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQ2MzE0MjQ4In0.PnK2d7MGsJj462o-4JNhcl8XI0BaKJLtFdPP6KbiTHg",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546314248?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=FA71C012969272723C32D67AB2819E1C388394ED",
-            "title": "IT Infrastructure Engineer",
-            "created": "2025-12-18T02:36:59Z",
-            "longitude": 76.24637,
-            "location": {
-                "display_name": "Kochi, Ernakulam",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Kerala",
-                    "Ernakulam",
-                    "Kochi"
-                ]
-            },
-            "description": "IT Infrastructure Engineer Exp: 7 yrs Work Location: Kochi, Kerala Primary Technology: Wireless, Firewall, Cloud Job Description: Design, Operations, building, implementing and supporting reliable and secure connectivity solutions for Employees and Customers, and build automation to prevent problem recurrence. You will be responsible for network and security Incident/change/capacity management to support G10X Corporate IT Infrastructure and Customers. Responsibilities and Requirements • 6-10 ye…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "G10X"
-            },
             "category": {
                 "label": "IT Jobs",
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
-            }
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQ2NTkxNjY4In0.3ZjqxKMqesmlxmaaK1QFXu4ewz0_BJ31QyLWIA4JldA",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546591668?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=A26D91E4051411A24B372009576528662A9D1F95",
-            "id": "5546591668",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "About the Company Education & Technology core competencies About the Role Overall 7 years of industry experience with 5 Years of relevant experience. Responsibilities 5 years of Unix/Linux system administration experience extensively. At least 3 years’ experience in supporting and maintaining the on-prem production-grade environment in two or more like Redis (Enterprise), Kafka, Elasticsearch and Astronomer etc. At least 2 years’ experience in supporting and maintaining the production-grade env…",
-            "company": {
-                "display_name": "DIGITAL MIND CONSULTANCY SERVICES PRIVATE LIMITED",
-                "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "title": "Cloud Infrastructure Engineer",
-            "created": "2025-12-18T08:43:44Z",
+            "created": "2026-01-10T08:32:47Z",
+            "id": "5577272106",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -371,102 +199,19 @@
                     "Bangalore"
                 ],
                 "display_name": "Bangalore, Karnataka"
-            }
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5528010625",
-            "redirect_url": "https://www.adzuna.in/land/ad/5528010625?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=8FCD1CBBB5C25B0B15F1C89829ED8CA5068B7F77",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI4MDEwNjI1In0.fvL6MyWGvyYk7K7c6tkGWMPuI_BB1quXoGvgeb-IUa8",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
             },
-            "title": "Information Technology Infrastructure Engineer",
-            "created": "2025-12-05T01:22:55Z",
-            "company": {
-                "display_name": "Tata Electronics",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "description": "About the job IT Infrastructure Engineer Experience: 2 to 15 Years Location: Dholera, Gujarat About The Business Tata Electronics Pvt. Ltd. is a prominent global player in the electronics manufacturing industry, with fast-emerging capabilities in Electronics Manufacturing Services, Semiconductor Assembly & Test, Semiconductor Foundry, and Design Services. Established in 2020 as a greenfield venture of the Tata Group, the company aims to serve global customers through integrated offerings across…"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5553092332?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=E22187BC01F4EC90F6FD6F4E3FC0A42C83C58931",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTUzMDkyMzMyIn0.T7hmq2xhCxHlCkt3oAPXyciLPlmPt4cZUM9Z0q7B3vc",
-            "contract_time": "full_time",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5553092332",
-            "latitude": 18.56155,
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
+            "description": "Job Description We are seeking an experienced Cloud Security Product Manager to drive the next generation of cloud-native security. In this role, you will own strategy and execution for technologies at the heart of secure cloud. Think working with cross-functional teams across large organizations, moving folks towards a unified goal and north star. You drive results, not just facilitate. You possess high judgement and are a \"roll your sleeve up\" person with a bias for action. You possess strong…",
+            "title": "Principal Product Manager, SaaS Cloud Security",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Shiv Sangam IT Services"
+                "display_name": "Oracle"
             },
-            "description": "Company Description Shiv Sangam IT Services specializes in driving digital transformation for businesses with strategic clarity and effective execution. We develop tailored web and digital solutions aimed at increasing visibility, driving growth, and enhancing profitability. Our team excels in understanding online audience behavior to create engaging experiences that yield measurable results. Partnering with ambitious organizations, we design and implement scalable solutions supported by strong…",
-            "location": {
-                "display_name": "Latur, Maharashtra",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Latur"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "created": "2025-12-24T00:00:58Z",
-            "longitude": 75.8341,
-            "title": "Information Technology Infrastructure Engineer"
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MjEwNiIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.z2Y3hC2C0X0IggCiGX982HOY2CSc1FsD3_3i7_ddk4k",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577272106?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=CAA7D5E9A283E3D61FA06213288A5CAD27A8FB5D"
         },
         {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5078007712",
-            "salary_is_predicted": "0",
-            "latitude": 17.40275,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA3ODAwNzcxMiIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.jjEggP05OqHjDlUHsBMVAs9mpZwe5bIBB8cxr4s7Npo",
-            "redirect_url": "https://www.adzuna.in/land/ad/5078007712?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=846844DE08D68988694BF60D27C995A7C94CF732",
-            "created": "2025-03-06T03:43:21Z",
-            "longitude": 78.50806,
-            "title": "Infrastructure Engineering Senior Advisor",
-            "location": {
-                "display_name": "Hyderabad, Telangana",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ]
-            },
-            "description": "About Evernorth: Evernorth Health Services, a division of The Cigna Group (NYSE: CI), creates pharmacy, care, and benefits solutions to improve health and increase vitality. We relentlessly innovate to make the prediction, prevention, and treatment of illness and disease more accessible to millions of people Infrastructure Engineering SeniorAdvisor (Network Engineer - Operation and Reliability) Position Overview: Provides counsel and advice to top management on significant Infrastructure matter…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Evernorth"
-            },
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            }
-        },
-        {
-            "contract_time": "full_time",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5553864799",
-            "redirect_url": "https://www.adzuna.in/land/ad/5553864799?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=F14913AA3AF4CBE8E990F750C412241DC2D97431",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg2NDc5OSIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.Y8VU_Zl3mp7kxlJNRJH8_TLWbmZ2KSsF_VyHvYNuDzQ",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -474,550 +219,717 @@
                 ],
                 "display_name": "India"
             },
-            "title": "Core Network Infrastructure Engineer",
-            "created": "2025-12-24T10:13:56Z",
+            "description": "Job Description We are seeking an experienced Cloud Security Product Manager to drive the next generation of cloud-native security. In this role, you will own strategy and execution for technologies at the heart of secure cloud. Think working with cross-functional teams across large organizations, moving folks towards a unified goal and north star. You drive results, not just facilitate. You possess high judgement and are a \"roll your sleeve up\" person with a bias for action. You possess strong…",
+            "title": "Principal Product Manager, SaaS Cloud Security",
             "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs"
             },
+            "created": "2026-01-10T08:32:47Z",
+            "id": "5577272105",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577272105?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=1EF39F173DC60C11E0E98313B1B28DC56C894DB5",
             "company": {
-                "display_name": "iConsultera",
+                "display_name": "Oracle",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "description": "Job Title: Core Network Infrastructure Engineer Location: Ahmedabad, Gujarat Shift Timing: 6:30 AM - 2:30 PM (Friday to Tuesday) Employment Type: Full Time Overall purpose of the job: The Core Network Infrastructure team is responsible for all aspects of the ever-changing core network infrastructure environment. This team is responsible for carrying out core network projects, predominantly based on high-capacity connectivity, MPLS, and Optical Transmission network elements, as well as providing…"
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MjEwNSIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.AYdxh6HEix21yXXaVfGF0JJq8foUZc2ttt9ry9EMI0o",
+            "__CLASS__": "Adzuna::API::Response::Job"
         },
         {
-            "redirect_url": "https://www.adzuna.in/land/ad/5490080079?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=73A3021FB8D434DBCEBF34CC2D5D9AD665EA1340",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NDkwMDgwMDc5In0.tacm5c2D0Ilv80u7j9-q0b-2PmdwtLjS09Amp-bxRz4",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5490080079",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Check Point Software"
-            },
-            "description": "We're in search of an Senior Platform/Infrastructure Engineer to join our team. You'll play a key role in deploying, maintaining, enhancing, and scaling up our high-scale, mission-critical data center production environment, which is essential to our SASE solution. Your responsibilities will include investigating complex production issues across network, OS, Virtualization, Cloud interconnectivity, and hardware components. You'll also focus on improving system resiliency and monitoring tools, a…",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "title": "Network Infrastructure Engineer (DevOps)",
-            "created": "2025-11-11T08:59:44Z"
-        },
-        {
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "display_name": "Lighthouse",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Why Lighthouse? ✔️ Hybrid work flexibility ✔️ Strong culture of innovation and collaboration ✔️ Opportunities to work with cutting-edge tools and brilliant minds ✔️ A mission-driven company with global reach and heart Position Summary The Relativity Infrastructure Engineer manages multiple on-premises Relativity Server instances, Relativity One instances, and is a key contributor to expanding into new geolocations on-premises and in the cloud. As Lighthouse continues to elevate the service leve…",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Relativity Infrastructure Engineer AP",
-            "created": "2025-12-20T09:01:50Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5549497735?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=68515C841C7BACB45289F84621DFBC4D2B0E8A0E",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTQ5NzczNSIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.UT7cPhh9yzN0kOXLUoBua0WukY8CLBJGs-PEeOlaSHM",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5549497735"
-        },
-        {
-            "company": {
-                "display_name": "Evernorth",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "description": "About Evernorth: Evernorth Health Services, a division of The Cigna Group (NYSE: CI), creates pharmacy, care, and benefits solutions to improve health and increase vitality. We relentlessly innovate to make the prediction, prevention, and treatment of illness and disease more accessible to millions of people. Position Overview: The AI CoE team is seeking an Infrastructure Engineering Senior Analyst to work on the AI ecosystem to build, deploy, and maintain robust infrastructure solutions within…",
-            "location": {
-                "display_name": "Hyderabad, Telangana",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ]
-            },
-            "title": "Infrastructure Engineering Senior Analyst",
-            "longitude": 78.50806,
-            "created": "2025-02-25T03:35:15Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5062423185?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=0556E3ED7293DE59905C0D9E7CA311B55565484B",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA2MjQyMzE4NSIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.PvCWjDg4yYvohdFc1PY8AnLttYO37b1ePxkjTyyMBD0",
-            "latitude": 17.40275,
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5062423185"
-        },
-        {
-            "location": {
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Mumbai"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Mumbai, Maharashtra"
-            },
-            "created": "2025-12-03T09:00:07Z",
-            "longitude": 72.84415,
-            "title": "Sr Infrastructure Engineer- Integration",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "General Mills"
-            },
-            "description": "ABOUT GENERAL MILLS We make food the world loves: 100 brands. In 100 countries. Across six continents. With iconic brands like Cheerios, Pillsbury, Betty Crocker, Nature Valley, and Häagen-Dazs, we’ve been serving up food the world loves for 155 years (and counting). Each of our brands has a unique story to tell. How we make our food is as important as the food we make. Our values are baked into our legacy and continue to accelerate us into the future as an innovative force for good. General Mi…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5525206381",
-            "salary_is_predicted": "0",
-            "latitude": 19.00821,
-            "redirect_url": "https://www.adzuna.in/land/ad/5525206381?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=07D69C29B7F8950FE4C2D941DB99D7AAE5E8CFF7",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTIwNjM4MSIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.xghm6qZQ_ZQt8NWtZ1l-W1cVgeOH3zIqn7h8oRRgPjQ"
-        },
-        {
-            "id": "5532100563",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5532100563?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=E13A0C2B5B61605E167EAA2E6F98F2D462B19EE8",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjEwMDU2MyIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.zDg6ihp2czo14BnHsBkrJNt_oXnWDCeuBO7RmBqAJRo",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Machine Learning Infrastructure Engineer",
-            "created": "2025-12-07T10:24:42Z",
-            "company": {
-                "display_name": "slice",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "description": "About us slice A new bank for a new India slice’s purpose is to make the world better at using money and time, with a major focus on building the best consumer experience for your money. We’ve all felt how slow, confusing, and complicated banking can be. So, we’re reimagining it. We’re building every product from scratch to be fast, transparent, and feel good, because we believe that the best products transcend demographics, like how great music touches most of us. Our cornerstone products and …"
-        },
-        {
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "General Mills"
-            },
-            "description": "ABOUT GENERAL MILLS We make food the world loves: 100 brands. In 100 countries. Across six continents. With iconic brands like Cheerios, Pillsbury, Betty Crocker, Nature Valley, and Häagen-Dazs, we’ve been serving up food the world loves for 155 years (and counting). Each of our brands has a unique story to tell. How we make our food is as important as the food we make. Our values are baked into our legacy and continue to accelerate us into the future as an innovative force for good. General Mi…",
-            "location": {
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Mumbai"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Mumbai, Maharashtra"
-            },
-            "created": "2025-12-03T09:02:18Z",
-            "longitude": 72.84415,
-            "title": "Sr Infrastructure Engineer - Integration",
-            "redirect_url": "https://www.adzuna.in/land/ad/5525208669?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=50DBF186FAD99A5EDEB15A7C505F2BD0B0339308",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI1MjA4NjY5In0.hd5jH3au1ASxgmECS2CR220UCYQCNqm2J-Badxn0xQw",
-            "contract_time": "full_time",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5525208669",
-            "latitude": 19.00821
-        },
-        {
-            "latitude": 17.40275,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5058189424",
-            "salary_is_predicted": "0",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA1ODE4OTQyNCIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.HlTah7jKobT72c1pTsxfkEL3FtWalycXkgJrFDaP7ws",
-            "redirect_url": "https://www.adzuna.in/land/ad/5058189424?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=0123CDC11648CBC13502F2475A9558718EE51694",
-            "title": "Infrastructure Engineering Lead Analyst",
-            "created": "2025-02-21T03:34:28Z",
-            "longitude": 78.50806,
-            "location": {
-                "display_name": "Hyderabad, Telangana",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ]
-            },
-            "description": "About Evernorth: Evernorth Health Services, a division of The Cigna Group (NYSE: CI), creates pharmacy, care, and benefits solutions to improve health and increase vitality. We relentlessly innovate to make the prediction, prevention, and treatment of illness and disease more accessible to millions of people. Responsibilities: Perform initial investigation and triage for all tickets/issues for all areas in the network infrastructure Complete all service now tickets in the queues Perform upgrade…",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Evernorth"
-            }
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Olympus Corporation"
-            },
+            "id": "5577261777",
+            "longitude": 76.227524,
             "category": {
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs"
             },
-            "description": "Roles & Responsibilities: Respond to the globalization efforts in SW development infrastructure services System migration due to the company's policy of discontinuing the data centre Operations and service provision after system migration Global service desk support (handling developer inquiries, application reception, first-level troubleshooting, etc.) Experience & Education Requirements: Work Experience: Minimum 5 years of overall experience Over 3 years of experience in SW development or ope…",
+            "created": "2026-01-10T08:26:57Z",
+            "description": "LEAD SOFTWARE ENGINEER (Cloud Governance) Cloud Governance, Infrastructure Insights & Efficiency Engineering, Global Technology Become a Part of the NIKE, Inc. Team NIKE, Inc. does more than outfit the world's best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and …",
+            "title": "Lead Software Engineer - Cloud Governance , ITC",
             "location": {
+                "display_name": "Karnataka, India",
                 "area": [
                     "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana"
-            },
-            "title": "SW Development Infrastructure Engineer",
-            "created": "2025-12-03T09:01:11Z",
-            "longitude": 78.50806,
-            "redirect_url": "https://www.adzuna.in/land/ad/5525207654?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=ED5A26AA9B1082407A398AECFCB58B5D6E9F4744",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTIwNzY1NCIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.AmBQrkVnsAWAQiRCAe5FMDhkJdnPONud86ex8pq6gqM",
-            "latitude": 17.40275,
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5525207654"
-        },
-        {
-            "description": "Role : Cloud Engineer Experience : 5 years Package range : AS per market ( depending on experience) Seeking an experienced Cloud Engineer to design and manage automated, secure, and scalable cloud infrastructure. Experience working with GCP and/or Azure is required. They should be able to work on multi cloud platforms. Key Responsibilities IaC-Driven Infrastructure: Provision and maintain highly available cloud infrastructure on GCP/Azure using IaC. Cloud Management: Deploy and manage applicati…",
-            "company": {
-                "display_name": "ACL Digital",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "title": "GCP Cloud Infrastructure Engineer",
-            "created": "2025-12-14T10:19:05Z",
-            "longitude": 73.84735,
-            "location": {
-                "display_name": "Pune, Maharashtra",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
+                    "Karnataka"
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQxODE4MzIzIn0.OPSCj0OrPcGUuFRNvU8vD5kc49pVvmXvKZmL72l_VmE",
-            "redirect_url": "https://www.adzuna.in/land/ad/5541818323?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=AFEE883028C906D6A13A512EC32DF3EB549A425C",
-            "latitude": 18.5062,
-            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI2MTc3NyIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.Fc_R1dHMJWISwPpS4YTKPIaXo8TKZopRaj3n-OQOdls",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nike"
+            },
             "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5541818323"
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261777?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=0246764970C43618BBA8C0FE41C2D4BCE9EF69EE",
+            "salary_is_predicted": "0",
+            "latitude": 14.325172
         },
         {
-            "redirect_url": "https://www.adzuna.in/land/ad/5530554833?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=DF1023E4C8BC6359A077123C7BEDB1A3920BF8B3",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1NDgzMyIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.6QrXBJqnxWeooPEt7spdJXtk3AnhPa_a3nA3aI-rkg4",
-            "latitude": 13.06041,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5530554833",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "LinkedIn is the worlds largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable insights every day. Were also committed to providing transformational opportunities for our own employees by investing in their growth. We aspire to create a culture thats built on trust, care, inclusion, and fun where everyone can succeed.…",
+            "title": "Software Engineer, Systems Infrastructure",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs",
                 "label": "IT Jobs"
             },
+            "created": "2026-01-10T08:26:45Z",
+            "id": "5577261693",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261693?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=6DAFE72AEBD6F4758BC6CF464E155DAE685AD43F",
             "company": {
-                "display_name": "Avacend Solutions",
-                "__CLASS__": "Adzuna::API::Response::Company"
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "LinkedIn"
             },
-            "description": "8- 10years ( ACI ) Customer coordination Aci ( hand on exp in ACI work flows , rollout and implementation ) Troubleshooting Installing, configuring, and supporting Cisco Routers and Switches. Should have knowledge in BGP, OSPF, VPC, Multicast, RSTP, MSTP, NAT, PBR, FHRP",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI2MTY5MyIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.mhzaAzL4dI4vN63twLt86fRG-fE8boy1M_rCgNxFlQk",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T08:26:44Z",
+            "id": "5577261681",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Krishnagiri, Tamil Nadu",
                 "area": [
                     "India",
                     "Tamil Nadu",
-                    "Chennai"
-                ],
-                "display_name": "Chennai, Tamil Nadu"
-            },
-            "title": "Cisco ACI (Application Centric Infrastructure) Engineer",
-            "longitude": 80.24963,
-            "created": "2025-12-06T09:46:19Z"
-        },
-        {
-            "description": "The role is responsible for end to end engineering design & execution of projects related to Infrastructure, Utilities, Safety & quality compliance (Process, bottling, utilities buildings and sheds, warehouses and allied infrastructure), needed in Spirits Manufacturing/Bottling plants, across various locations pan India. The Infrastructure & Utilities lead shall ensure standardization of design across plants/projects, adhere to good engineering practices & applicable standards and codes, and to…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "DIAGEO India"
-            },
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "engineering-jobs",
-                "label": "Engineering Jobs"
-            },
-            "created": "2025-12-29T10:11:14Z",
-            "title": "Sr. Manager – Distillation, Utilities & Infrastructure – Engineering Projects",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
+                    "Krishnagiri"
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODgxOTM4NiIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.uL96qE-t0ncXCwd63enMPdGaIXPjL1SEzjhnlYjYavk",
-            "redirect_url": "https://www.adzuna.in/land/ad/5558819386?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=5F76621F0BA33E0DFBE875256D7DCCFDB60FB1B6",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5558819386",
-            "salary_is_predicted": "0"
-        },
-        {
-            "title": "Infrastructure Automation Engineer",
-            "created": "2026-01-01T08:39:18Z",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "description": "Greetings from TCS  Job Title : Infrastructure Automation Engineer Job Location : Bengaluru Experience required : 8-12 Years Job Description: Must Haves: · Strong hands-on experience with Python scripting (automation, data parsing, file handling, APIs). · Hands-on experience with Ansible (playbooks, roles, variables, templates, handlers). · Good understanding of infrastructure concepts: servers, OS, networking basics (DNS, IP, ports), and storage. · Experience with Linux system administration. …",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
+            "description": "Who We Are At Kyndryl, we design, build, manage and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward - always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our customers and our communities. The Role Infrastructure Specialists at Kyndryl are project-based subject matter experts in all things infrastructure - good at providing analysis, documen…",
+            "title": "Devops Engineer - Observability",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjYxNjgxIn0.d1XiRYE_Z71yumnkAV3TYDcpDirKptG2622qyWNy-Vg",
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Tata Consultancy Services"
+                "display_name": "Kyndryl",
+                "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "id": "5561942313",
             "__CLASS__": "Adzuna::API::Response::Job",
             "salary_is_predicted": "0",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTYxOTQyMzEzIn0.xmNOJUwp8-ZOOESwOOzoCgOiFnMJra3kvytKv4Vuwrs",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561942313?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=EEE0B1B89E6240D3BFA83770DC5A436176A4F48A"
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261681?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=F388D8824819AF71DCCB1B756458E6929B1F7F48"
         },
         {
+            "description": "Introduction A career in IBM Software means you'll be part of a team that transforms our customer's challenges into industry-leading solutions. We are an infinitely curious team, always seeking new possibilities, and dedicated to creating the world's leading AI-powered, cloud-native software solutions. Our renowned legacy creates endless global opportunities for our network of IBMers. We are a team of deep product experts, ensuring exceptional client experiences, with a focus on delivery, excel…",
+            "title": "Senior Site Reliability Engineer - HashiCorp Network, Infrastructure Services",
             "location": {
+                "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
-                    "Gujarat",
-                    "Ahmedabad"
+                    "Karnataka",
+                    "Bangalore"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Ahmedabad, Gujarat"
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "longitude": 72.59465,
-            "created": "2025-12-14T10:22:07Z",
-            "title": "Freelance Opportunity: Cloud & Infrastructure Engineer (Ahmedabad – Local Only)",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Insight Talent Solution | Global Recruiting & Staffing Agency"
-            },
+            "longitude": 77.59837,
+            "id": "5577261573",
             "category": {
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs"
             },
-            "description": "We are looking for an experienced Cloud & Infrastructure Engineer on a freelance/contract basis, preferably based in Ahmedabad, to help us design, implement, and manage secure cloud and local infrastructure. Key Responsibilities Set up and manage VPN and Proxy servers hosted on US-based servers, accessible securely from India Design and maintain cloud infrastructure (AWS / Azure / GCP preferred) Manage local on-premise infrastructure, including: Active Directory (AD) User access & security poli…",
-            "contract_type": "contract",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5541820671",
+            "created": "2026-01-10T08:26:33Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261573?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=1BC97498B4DAE3CCDCC4D61E52AFC4D1010FA130",
             "salary_is_predicted": "0",
-            "latitude": 23.042,
-            "redirect_url": "https://www.adzuna.in/land/ad/5541820671?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=32DF8C8FE9122A0F284A4B18D64DFBD2BA2AC5C6",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQxODIwNjcxIn0.07obI0keTbGWWLUi6CGsslmORNz86mvF1RhN83Me1q8"
+            "latitude": 12.95703,
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI2MTU3MyIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.gkQUNyS6qq4RfC1CHTuYLVDnLgPGt9OB_1vrIcRUnyY",
+            "__CLASS__": "Adzuna::API::Response::Job"
         },
         {
-            "longitude": 80.24963,
-            "created": "2025-12-06T01:25:34Z",
-            "title": "IT Infrastructure & Security Engineer",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2026-01-10T08:26:33Z",
+            "longitude": 78.50806,
+            "id": "5577261563",
             "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Introduction The IBM Cloud Databases (ICD) team is responsible for developing and operating the Software as a Service (SaaS) offerings that provide Database as a Services (DBaaS) in IBM Cloud. The Infrastructure Specialist engineer must have a deep understanding of Kubernetes clusters, HA configurations, good knowledge of python or GoLang and general operations in a production environment. The key requirement is to have a passion for maintaining a High quality, Highly Available service. We are …",
+            "title": "Infrastructure Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjYxNTYzIn0.HjaKP-rjGZ-7bRoZMUS_n1-vK9AgFAYGeMQvpc9vHuU",
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261563?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=9BF321353F0528C1772A777339B3E0922CE230E1"
+        },
+        {
+            "description": "Network Implementation Engineer, Optics _corporate_fare_ Google _place_ Bengaluru, Karnataka, India Early Experience completing work as directed, and collaborating with teammates; developing knowledge of relevant concepts and processes. Minimum qualifications:  Bachelor's degree in Network Engineering or Telecom Engineering, a related technical field, or equivalent practical experience.  2 years of experience with network infrastructure operations or builds, with a focus on optical transport, d…",
+            "title": "Network Implementation Engineer, Optics",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577259037",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T08:22:40Z",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577259037?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=E3343C52F54C57252837357BF96C8D89A916D07C",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1OTAzNyIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.x-nCPd3a9baBO9LeyqPwigppkQk2uZymj667SkWlHMk",
+            "company": {
+                "display_name": "Google",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1ODkwOCIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.cVQd0BR355VtJyFzXZCv-E-Lac1IEUiujLLXP-ga91M",
+            "company": {
+                "display_name": "Ford Motor Company",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577258908?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=D9FF3EF55B5BEBE9D1D44B1C00217E7F4AF6DF02",
+            "created": "2026-01-10T08:22:28Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "longitude": 77.59837,
+            "id": "5577258908",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "title": "Senior Data Engineer",
+            "description": "As a Senior Data Engineer, you will explore, integrate data from various sources into data products. You will develop new and build upon existing data pipeline, including merging historical data from legacy platforms. You will also analyze and manipulate large datasets, activating data assets to enable enterprise platforms and analytics.?You will design and implement the transformation and modernization on GCP, creating scalable data pipelines that land data from source applications, integrate …"
+        },
+        {
+            "latitude": 13.06041,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577258909?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=02569D80A7E4BFBEAA33C817F6EB8664C9B22C17",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ford Motor Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjU4OTA5In0.ZIHjbS9Mzy8weZc6c09rsRvx-hwJ5HGxQTD5q1A5XJ4",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Chennai, Tamil Nadu",
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
                     "Tamil Nadu",
                     "Chennai"
                 ]
             },
-            "description": "Role Overview The IT Infrastructure & Security Manager will oversee all internal IT systems, networks, and security. This hands-on role focuses on ensuring reliable connectivity, strong security across devices and networks, and standardized IT processes.The manager will also drive documentation, monitoring, and reporting while building a scalable IT setup that can support the company’s growth to 500 users. Key Responsibilities 1.Infrastructure & Systems Management ● Oversee and maintain all on-…",
+            "title": "Senior Data Engineer",
+            "description": "As a Senior Data Engineer, you will explore, integrate data from various sources into data products. You will develop new and build upon existing data pipeline, including merging historical data from legacy platforms. You will also analyze and manipulate large datasets, activating data assets to enable enterprise platforms and analytics.?You will design and implement the transformation and modernization on GCP, creating scalable data pipelines that land data from source applications, integrate …",
+            "created": "2026-01-10T08:22:28Z",
             "category": {
+                "label": "IT Jobs",
                 "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "company": {
-                "display_name": "Amura Health",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5529804043",
-            "latitude": 13.06041,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI5ODA0MDQzIn0.a4oA2On94AcNzAWW0qnabLS3971ZjriMeW8Bm2ed3O8",
-            "redirect_url": "https://www.adzuna.in/land/ad/5529804043?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=095CCBCB20F9AD4409BF4609A90C50733ED6C02A"
+            "id": "5577258909",
+            "longitude": 80.24963
         },
         {
-            "contract_time": "full_time",
-            "latitude": 19.00821,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5560711180",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5560711180?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=CC1629115508E6C992CC3AAA84510B10E2EDFC80",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcxMTE4MCIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.3HFQnInamFmGtGnj6Yk8SZKNx3Z8nRSK0lngfkb2BTg",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
                     "Maharashtra",
-                    "Mumbai"
+                    "Pune"
                 ],
-                "display_name": "Mumbai, Maharashtra"
+                "display_name": "Pune, Maharashtra"
             },
-            "title": "Oracle Cloud Infrastructure (OCI) Engineer",
-            "created": "2025-12-31T10:34:15Z",
-            "longitude": 72.84415,
+            "description": "Senior DevOps EngineerPune, IndiaJR012627 Key Responsibilities  Act as the lead engineer on large or complex client deploy projects  Act as the lead engineer on product engineering projects to further develop our service  Provide AWS subject matter expertise advice and assistance to pre-sales architects  Installation, configuration, and ongoing management of O/S and AWS services.  Implementing and maintaining custom client machine images and centralised configuration management to enable quick …",
+            "title": "Senior DevOps Engineer",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T08:22:26Z",
+            "id": "5577258851",
+            "longitude": 73.84735,
+            "salary_is_predicted": "0",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577258851?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=32FD9B2CC049002DDB4E536B4F71B1572DFDDCF2",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Nivi Capital"
+                "display_name": "Ensono"
             },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1ODg1MSIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.9U8Qj5EGD42CRHRy6IJ-krgxCB6e6m3USmP7UEoWIp4",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1NjkxMCIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.lL51g84afSODKY-PDcv4gW8kp_GXqjyDNlD76lY4y84",
+            "company": {
+                "display_name": "Capital One",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256910?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=803E437C81F5AC5C1A53D0E01B7A0552AAD592DD",
+            "created": "2026-01-10T08:16:42Z",
             "category": {
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs"
             },
-            "description": "Company Description Nivi Capital is dedicated to empowering Indian students to pursue global education opportunities in Australia by breaking down financial barriers. We provide a comprehensive financial platform with fast and flexible education loans, forex services, and a unique rewards program to make overseas education more affordable and accessible. Backed by industry leaders and trusted financial institutions, we ensure transparency, reliability, and convenience in all our offerings. Role…"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTYwNzExNTc3In0.K1oFNZoBMtbHuXqHsuw2013C3erDNkIUJi1BwOZrgqM",
-            "redirect_url": "https://www.adzuna.in/land/ad/5560711577?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=D49338F1F0CE04846DBBC81DABD04404992732D9",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5560711577",
-            "description": "The role is responsible for end to end engineering design & execution of projects related to Infrastructure, Utilities, Safety & quality compliance (Process, bottling, utilities buildings and sheds, warehouses and allied infrastructure), needed in Spirits Manufacturing/Bottling plants, across various locations pan India. The Infrastructure & Utilities lead shall ensure standardization of design across plants/projects, adhere to good engineering practices & applicable standards and codes, and to…",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "engineering-jobs",
-                "label": "Engineering Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "DIAGEO India"
-            },
-            "created": "2025-12-31T10:34:36Z",
-            "title": "Manager – Infrastructure & Warehousing – Engineering Projects",
+            "id": "5577256910",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
                 ],
-                "display_name": "Bangalore, Karnataka"
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Principal Associate, DevOps Engineer",
+            "description": "Voyager (94001), India, Bangalore, Karnataka Principal Associate, DevOps Engineer Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive , and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. We are seeking DevOps Engineers who are passionate about marrying data with em…"
+        },
+        {
+            "id": "5577256607",
+            "created": "2026-01-10T08:16:05Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Senior Solution Architect - ITS, GSI & ITS Vertical",
+            "description": "Description Sales, Marketing and Global Services (SMGS) AWS Sales, Marketing, and Global Services (SMGS) is responsible for driving revenue, adoption, and growth from the largest and fastest growing small- and mid-market accounts to enterprise-level customers including public sector. AWS Solutions Architects are trusted advisors to our customers, helping them solve some of their largest business challenges by designing and advising on some of the most scalable, flexible and resilient solutions …",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjU2NjA3In0.keO-MPLyTA_-yRjGwyqgOfUHgmRnGezYFq5RycJWltA",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256607?se=cNt0YuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=56303E8FA0F4C6FADDC48AD433BF6BE098984F9A",
+            "salary_is_predicted": "0"
+        },
+        {
+            "description": "We are Bugcrowd. Since 2012, we've been empowering organizations to take back control and stay ahead of threat actors by uniting the collective ingenuity and expertise of our customers and trusted alliance of elite hackers, with our patented data and AI-powered Security Knowledge Platform. Our network of hackers brings diverse expertise to uncover hidden weaknesses, adapting swiftly to evolving threats, even against zero-day exploits. With unmatched scalability and adaptability, our data and AI…",
+            "title": "Staff DevOps Engineer",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577233223",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_type": "permanent",
+            "created": "2026-01-10T07:38:31Z",
+            "redirect_url": "https://www.adzuna.in/details/5577233223?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Bugcrowd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzIzMzIyMyIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.ql6dQV0q1GYVoJ7EmYZie7y67M-11SUdBZU6tSOSnwE",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "contract_type": "permanent",
+            "created": "2026-01-10T07:38:31Z",
+            "id": "5577233181",
+            "longitude": 73.02,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "display_name": "Navi Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Location : Bangalore, Gurgaon, Pune, Mumbai, Delhi, Chennai, Noida Experience : 6 - 9 Years Notice Period : Immediate to 15 Days Role Overview As a Middleware Expert, you will play a critical role in the installation, configuration, administration, and support of enterprise middleware platforms. You will be responsible for ensuring high availability, performance, and seamless integration of middleware technologies across complex IT environments. This role requires deep technical expertise acros…",
+            "title": "Middleware Expert",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjMzMTgxIn0.UKaZgn4Jr4F5tzHS2xO5pK0bSG9agX7kz-5IXKVg73g",
+            "company": {
+                "display_name": "NetConnect AS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 19.02,
+            "redirect_url": "https://www.adzuna.in/details/5577233181?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "salary_is_predicted": "0",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/details/5577233108?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjMzMTA4In0.RgRr_W9Wr14pKZ3MJxi28o5-7kS3wHgPZ09fZNSQDNY",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deloitte"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Summary Position Summary Artificial Intelligence & Engineering AI & Engineering leverages cutting-edge engineering capabilities to help build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These insights are powered by engineering for business advantage, helping transform mission-critical operations. Join our AI & Engineering team to help transform technology platforms, driving innovation, and help make a significan…",
+            "title": "JAVA Fullstack with AWS-Consultant-Hyderabad/Bengaluru/Pune/Chennai",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T07:38:30Z",
+            "contract_type": "permanent",
+            "longitude": 73.84735,
+            "id": "5577233108"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5577233155?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Bugcrowd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzIzMzE1NSIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.zWeB0QLSRy3rESovSB7IRVSIx_XV63PwY-SQMov_cQ4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are Bugcrowd. Since 2012, we've been empowering organizations to take back control and stay ahead of threat actors by uniting the collective ingenuity and expertise of our customers and trusted alliance of elite hackers, with our patented data and AI-powered Security Knowledge Platform. Our network of hackers brings diverse expertise to uncover hidden weaknesses, adapting swiftly to evolving threats, even against zero-day exploits. With unmatched scalability and adaptability, our data and AI…",
+            "title": "Senior DevOps Engineer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577233155",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "contract_type": "permanent",
+            "created": "2026-01-10T07:38:30Z"
+        },
+        {
+            "id": "5577211458",
+            "longitude": 77.69694,
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2026-01-10T07:13:36Z",
+            "description": "The objectives of a Data Engineer typically revolve around designing, implementing, and managing robust data architectures and infrastructures. The Data Engineer will play a key role in driving the organization's data strategy, ensuring the efficient flow and storage of data, and supporting data-driven decision-making processes. Data Model Design: Develop and maintain a scalable and efficient data models and schemas that support the storage, processing, and retrieval of data. Data Integration: …",
+            "title": "Senior Data Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore",
+                    "Hoodi"
+                ],
+                "display_name": "Hoodi, Bangalore"
+            },
+            "company": {
+                "display_name": "symplr",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjExNDU4In0.78xsXYbxzJz6toAKsF6AltIEfVNY_sYx1IswsAjFA6Q",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5577211458?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 12.99422
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5577194887?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MTk0ODg3In0.aPpmmRUA9xHnDfwfDt-GYsnR5Z-RhjUewF-Pf3qcFP0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Skywings Advisors Pvt. Ltd."
+            },
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "AVP Data Engineering",
+            "description": "Designation: AVP Data Engineering. Work Experience: 7 years of experience in data engineering/cloud infrastructure roles, including 2 years .supporting Indian insurance or financial service environments. Qualification: Bachelor s/Master s degree in Computer Science, Engineering, Information Systems, or related field. roles and responsibilities Manage and optimize Google BigQuery for insurance data workloads, focusing on policy, claims, underwriting, actuarial, and regulatory reporting required …",
+            "created": "2026-01-10T06:54:28Z",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            },
+            "id": "5577194887"
+        },
+        {
+            "salary_min": 18000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "description": "Overview: TekWissen is a global workforce management provider throughout India and many other countries in the world. The below client is a global company with shared ideals and a deep sense of family. From our earliest days as a pioneer of modern transportation, we have sought to make the world a better place one that benefits lives, communities and the planet Job Title: Infrastructure Engineering Engineer III Location: Chennai Work Type: Hybrid Position Description: This Systems Engineering D…",
+            "title": "Infrastructure Engineering Engineer III",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T06:54:16Z",
+            "id": "5577194193",
+            "salary_is_predicted": "0",
+            "salary_max": 1800000,
+            "redirect_url": "https://www.adzuna.in/details/5577194193?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MTk0MTkzIn0.xCWqy0EzKVrg_Zk7glbS96UqRQ7UiZeKEH9MfCouveA",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tekwissen India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MTg0MTQxIn0.VIY0n1Rb__A8gQa_BBYwVzwexV-WCuujsXneJiAL93k",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT DATA Services"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5577184141?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 13.06041,
+            "salary_is_predicted": "0",
+            "longitude": 80.24963,
+            "id": "5577184141",
+            "created": "2026-01-10T06:49:04Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "title": "GCP Infrastructure engineer",
+            "description": "Req ID: 343726 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a GCP Infrastructure engineer to join our team in Chennai, Tamil Nādu (IN-TN), India (IN). Job Summary: We are seeking a highly skilled GCP Infrastructure Engineer to design, build, and manage the cloud infrastructure that powers Generative AI (GenAI) applicat…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ]
             }
         },
         {
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ]
+            },
+            "description": "Req ID: 348973 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Lead Cloud Engineer to join our team in Noida, Uttar Pradesh (IN-UP), India (IN). At NTT DATA, we know that with the right people on board, anything is possible. The quality, integrity, and commitment of our employees are key factors in our company’s growth,…",
+            "title": "Lead Cloud Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T06:49:03Z",
+            "longitude": 77.3225,
+            "id": "5577184131",
+            "salary_is_predicted": "0",
+            "latitude": 28.56579,
+            "redirect_url": "https://www.adzuna.in/details/5577184131?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "display_name": "NTT DATA Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzE4NDEzMSIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.VvSTBd6SiWPRN8b6oUC2KbvXDpnKDDMRAZcDPhYMHgo",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Lead Cloud Engineer",
+            "description": "Req ID: 348974 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Lead Cloud Engineer to join our team in Bangalore, Karnātaka (IN-KA), India (IN). At NTT DATA, we know that with the right people on board, anything is possible. The quality, integrity, and commitment of our employees are key factors in our company’s growth,…",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 77.59837,
+            "id": "5577184132",
+            "created": "2026-01-10T06:49:03Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5577184132?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzE4NDEzMiIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.QRwA_VUt6kV5O9N6gCqiTlJZpDCNNHtz74ceDedqPaU",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT DATA Services"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5577184091?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 28.56579,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MTg0MDkxIn0.GQ7FRSYN0qpjB9Rb8mR9N1xis-a2i0r8hBAFW2KH7iY",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT DATA Services"
+            },
+            "title": "Digital Engineering Lead Engineer",
+            "description": "Req ID: 348986 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Digital Engineering Lead Engineer to join our team in Noida, Uttar Pradesh (IN-UP), India (IN). Key Responsibilities Multi-Cloud Infrastructure Management: Deploy, manage, and optimize resources across multiple cloud platforms (AWS, Azure, GCP, Tencent, Alic…",
+            "location": {
+                "display_name": "Noida, Ghaziabad",
                 "area": [
                     "India",
                     "Uttar Pradesh",
                     "Ghaziabad",
                     "Noida"
                 ],
-                "display_name": "Noida, Ghaziabad"
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
+            "id": "5577184091",
             "longitude": 77.3225,
-            "created": "2025-12-28T10:03:56Z",
-            "title": "Engineer/Sr. Engineer-Infrastructure",
+            "created": "2026-01-10T06:49:01Z",
             "category": {
-                "label": "IT Jobs",
+                "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Aeris"
-            },
-            "description": "About Aeris Communications Inc. For more than three decades, Aeris has been a trusted cellular IoT leader enabling the biggest IoT programs and opportunities across Automotive, Utilities and Energy, Fleet Management and Logistics, Medical Devices, and Manufacturing. Our IoT technology expertise serves a global ecosystem of 7,000 enterprise customers and 30 mobile network operator partners, and 90 million IoT devices across the world. Aeris powers today’s connected smart world with innovative te…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5558015832",
-            "latitude": 28.56579,
-            "redirect_url": "https://www.adzuna.in/land/ad/5558015832?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=A8B2879C34314D1C076506A5EF346FC6BFAE7484",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODAxNTgzMiIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.4jRyR5KnBQC1mtRzlPxsbkJF-Kuw4g-9QsCoaYuL8d0"
+                "label": "IT Jobs"
+            }
         },
         {
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
+            "created": "2026-01-10T06:43:50Z",
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
             },
-            "created": "2025-12-19T09:00:40Z",
-            "title": "Senior Staff Engineer - Infrastructure",
+            "id": "5577171756",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "DevOps Engineer IoT, Smart Factory Solutions",
+            "description": "We see a future where everyone can live and move without limitations. That's why we are developing technologies, systems and concepts that make vehicles safer and cleaner, while serving our communities, the planet and, above all, people. In the right environment, your ideas can turn into industry-changing automotive technologies and improve the lives of people around the world. Let's create the future of mobility, together. Job descriptions may display in multiple languages based on your langua…",
+            "__CLASS__": "Adzuna::API::Response::Job",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "slice"
+                "display_name": "Magna International, Inc"
             },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzE3MTc1NiIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.oWBUwCozFX3mxLUX1USgqXjEW8AwRYasbS8akebBz4g",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5577171756?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "company": {
+                "display_name": "TMUS Global Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MDgzOTUzIn0.LeOhwBoGHW3rKYay6lVKzQX7m2_OuXDwAwv2SSt2qBA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/details/5577083953?utm_medium=api&utm_source=d58ac19b",
             "category": {
                 "label": "IT Jobs",
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "description": "slice A new bank for a new India slice’s purpose is to make the world better at using money and time, with a major focus on building the best consumer experience for your money. We’ve all felt how slow, confusing, and complicated banking can be. So, we’re reimagining it. We’re building every product from scratch to be fast, transparent, and feel good, because we believe that the best products transcend demographics, like how great music touches most of us. Our cornerstone products and services:…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5548139941",
-            "redirect_url": "https://www.adzuna.in/land/ad/5548139941?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=486EA34674C5DACE06A916C1F85186EC1FDA4C61",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQ4MTM5OTQxIn0.-mymkUNKl7LnNK61VCI8btpZrBJDTrXbVYWSALlyLo4"
-        },
-        {
+            "created": "2026-01-10T06:12:42Z",
+            "longitude": 78.50806,
+            "id": "5577083953",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -1027,29 +939,289 @@
                 ],
                 "display_name": "Hyderabad, Telangana"
             },
-            "created": "2025-12-16T18:17:30Z",
-            "longitude": 78.50806,
-            "title": "Infrastructure Ops Engineering Consultant-DevOps, Python Scripting",
+            "description": "Engineer, Software Data Ops (L08) About the Role: Engineer, Software Data Operations is responsible for delivering end-to-end software solutions that enable 24x7 operational reliability, automation, and innovation across T-Mobiles Data Operations Center of Excellence. This role designs, develops, deploys, and primarily maintains full stack systems, including front-end frameworks, back-end services, microservices, streaming solutions, databases, and supporting cloud infrastructure. The Engineer …",
+            "title": "Engineer, Software"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5577083807?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MDgzODA3In0.thglDPydAM-c8uv2OEwmAxa6xhNR3w3dWlDQCVQN5qc",
             "company": {
-                "display_name": "Optum",
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TMUS Global Solutions"
+            },
+            "title": "Engineer Software Fullstack",
+            "description": "Software Engineer, Full Stack Ingestion About T-Mobile T-Mobile US, Inc. (NASDAQ: TMUS), headquartered in Bellevue, Washington, is Americas supercharged Un-carrier, connecting millions through its strong nationwide network and flagship brands, T-Mobile and Metro by T-Mobile. Customers benefit from an unmatched combination of value, quality, and exceptional service experience. About TMUS Global Solutions TMUS Global Solutions is a world-class technology powerhouse accelerating the companys globa…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "id": "5577083807",
+            "longitude": 78.50806,
+            "created": "2026-01-10T06:12:30Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "created": "2026-01-10T03:14:29Z",
+            "contract_type": "permanent",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "MySQL DBA Architech",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "display_name": "Kolkata, West Bengal"
+            },
+            "latitude": 22.57285,
+            "longitude": 88.34373,
+            "id": "5576883665",
+            "contract_time": "full_time",
+            "description": "About the Opportunity We are a technology services organisation operating in the Enterprise Data Infrastructure & Database Engineering sector, delivering scalable, resilient database platforms for mission-critical applications across finance, e-commerce, and SaaS. This on-site role is based in India and focuses on architecting and operating large-scale MySQL ecosystems with an emphasis on reliability, performance, and automation. Role & Responsibilities Design and own the end-to-end MySQL datab…",
+            "salary_min": 2000000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2ODgzNjY1In0.Ha95id2q7BZ21TodBAYleFNiCYiUhj0f1O9CnrBDk0U",
+            "company": {
+                "display_name": "viraaj hr solutions",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
+            "redirect_url": "https://www.adzuna.in/details/5576883665?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 4500000,
+            "salary_is_predicted": "0"
+        },
+        {
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576596128?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cisco Systems"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTk2MTI4In0.BQg_DLpKRBJY2DQTtYr8sNcu-lZXC3com9kkszLuY-M",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "AI Infrastructure Engineer - GoLang, Kubernetes, Dockers, Linux - 8-12 years",
+            "description": "Meet the Team We are an innovation team on a mission to transform how enterprises harness AI. Operating with the agility of a startup and the focus of an incubator, we’re building a tight-knit group of AI and infrastructure experts driven by bold ideas and a shared goal: to rethink systems from the ground up and deliver breakthrough solutions that redefine what's possible — faster, leaner, and smarter. We thrive in a fast-paced, experimentation-rich environment where new technologies aren’t jus…",
+            "created": "2026-01-10T00:50:56Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "longitude": 77.59837,
+            "id": "5576596128"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTkxNzc5In0.WTiyR4LuzfWoZ_XHzFxlQ950NSNd97PUG_YGYncZpPk",
+            "company": {
+                "display_name": "Workday",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576591779?utm_medium=api&utm_source=d58ac19b",
+            "created": "2026-01-10T00:50:09Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "id": "5576591779",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Sr Associate Software Development Engineer - DevOps/Cloud Engineer",
+            "description": "Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the world around us. As a Fortune 500 company and a leading AI platform for managing people, money, and agents, we’re shaping the future of work so teams can reach their potential and focus on what matters most. The minute you join, you’ll feel it. Not just in the products we build, but in how we show up for each other. Our culture is rooted in integrity, empathy, and shared enthus…"
+        },
+        {
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Who We Are At Kyndryl, we design, build, manage and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward – always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our customers and our communities. The Role Infrastructure Specialists at Kyndryl are project-based subject matter experts in all things infrastructure – good at providing analysis, documen…",
+            "title": "Devops Engineer - Observability",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:49:46Z",
+            "id": "5576589745",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576589745?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "display_name": "Kyndryl",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU4OTc0NSIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.SGaikBmVdzC5CmNbIlCwi5QDvk6ueYfz6s0Y1Y8sWes",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5576586772",
+            "longitude": 77.59837,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T00:49:20Z",
+            "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision — to simplify payments for Indian businesses — we’ve since grown into a fintech powerhouse driving India’s digital payment revolution. Razorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow. From seamless check…",
+            "title": "Engineering Manager",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTg2NzcyIn0.XXZNxkENxDsxJu4957y8UNAPALedwKSs8l93PjsMZEE",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Razorpay"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576586772?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 12.95703
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576585524?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU4NTUyNCIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.ZEkvSI04PyypIN-81G1Pqu9Uk00YoVUFnE6p3U0L-E8",
+            "company": {
+                "display_name": "TJX Global Capability Center",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Senior Engineer - Wintel Engineering (Server firmware, Endpoint firmware)",
+            "description": "TJX Companies At TJX Companies, every day brings new opportunities for growth, exploration, and achievement. You’ll be part of our vibrant team that embraces diversity, fosters collaboration, and prioritizes your development. Whether you’re working in our four global Home Offices, Distribution Centers or Retail Stores—TJ Maxx, Marshalls, Homegoods, Homesense, Sierra, Winners, and TK Maxx, you’ll find abundant opportunities to learn, thrive, and make an impact. Come join our TJX family—a Fortune…",
+            "created": "2026-01-10T00:49:09Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "id": "5576585524"
+        },
+        {
+            "company": {
+                "display_name": "Jobgether",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTgzMjg1In0.rLBnXq7nna_-BWoxn6rcg6EXv8zWYOlMXFAe3b0d5DA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576583285?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
             "category": {
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs"
             },
-            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5544196975",
-            "latitude": 17.40275,
-            "redirect_url": "https://www.adzuna.in/land/ad/5544196975?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=575FEFEB1BFC706A095B77393E67C210E1D94644",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NDE5Njk3NSIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.EQ6JxNpWeYMkJOuSq3AE6SKmBFgylAmGTs2IlU0xj1I"
+            "created": "2026-01-10T00:48:51Z",
+            "id": "5576583285",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "This position is posted by Jobgether on behalf of a partner company. We are currently looking for a Cloud Engineer in India . In this role, you will play a key part in designing, automating, and scaling cloud infrastructure that supports mission-critical, high-volume systems. You will work closely with engineering and product teams to streamline deployments, improve reliability, and strengthen security across cloud environments. The position offers exposure to modern DevOps practices, cloud-nat…",
+            "title": "Cloud Engineer"
         },
         {
-            "title": "Senior Security Engineer - Infrastructure Security",
-            "created": "2025-12-03T09:01:09Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Brillio",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU4MjE0MyIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.MImdlg7fSKcg4Fkz7yQBrUsquKX5KyijChzX76zsq2k",
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576582143?utm_medium=api&utm_source=d58ac19b",
+            "created": "2026-01-10T00:48:40Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "id": "5576582143",
+            "longitude": 77.59837,
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Tech Specialist, Security - R01559027",
+            "description": "Tech Specialist, Security Primary Skills Azure - Database, Azure Analytics Services, Azure Data Catalog, Azure - Identity, Azure - Developer Tools, Azure - Migration, Azure - Integration, Azure Platform Administration (PaaS), Azure Event Hub, Azure Data Platform (DaaS), Azure Administration (IaaS), Kusto- Azure Specialization Azure Infrastructure Engineering: Senior Tech Specialist, Cloud Engineering Job requirements Infra & Cloud Security Specialist Function: Infrastructure Engineering Locatio…"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Workato",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTc0MzA4In0._1N3AZkKqQVbt3KAPE_HuHUQhvrRjgfv8ILA5dq6iPA",
+            "latitude": 13.06041,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576574308?utm_medium=api&utm_source=d58ac19b",
+            "created": "2026-01-10T00:47:38Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "id": "5576574308",
             "longitude": 80.24963,
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
@@ -1060,367 +1232,187 @@
                 ],
                 "display_name": "Chennai, Tamil Nadu"
             },
-            "description": "Security team at Poshmark is responsible for securing our application platform, cloud infrastructure, and IT systems to protect Poshmark and its 60 million Community members. As a AWS and Infrastructure Security Engineer, you will collaborate with other security team members and other stakeholders to design and harden infrastructure, network and access implementing security best practices. Responsibilities: Design, implement and maintain secure AWS architecture aligned with industry standards, …",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Poshmark"
-            },
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "latitude": 13.06041,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5525207528",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI1MjA3NTI4In0.eWt7rQ6WfsXHkjs3Sf59KhwVVCmTSn3G42TC4nCfc4E",
-            "redirect_url": "https://www.adzuna.in/land/ad/5525207528?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=2687EFAD4976445ADE00A5A50B5DD6953EC6B2BF"
+            "title": "Senior Demo Engineer",
+            "description": "About Workato Workato transforms technology complexity into business opportunity. As the leader in enterprise orchestration, Workato helps businesses globally streamline operations by connecting data, processes, applications, and experiences. Its AI-powered platform enables teams to navigate complex workflows in real-time, driving efficiency and agility. Trusted by a community of 400,000 global customers, Workato empowers organizations of every size to unlock new value and lead in today’s fast-…"
         },
         {
-            "company": {
-                "display_name": "Rippling",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "description": "About the role: Rippling is the system of record for employee data - a complete Employee Management System. To solve this broad problem, a variety of applications and datasets need to come together as a graph connected through the employee record at its center. The Data Infrastructure Team is a lean, high-impact group operating in a true founder mode. We are responsible for building and safeguarding all data systems, managing the lifecycle of 500 production-grade resources across 10 types of da…",
             "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "created": "2025-12-12T09:55:51Z",
-            "title": "Senior Software Engineer - Data Infrastructure",
-            "redirect_url": "https://www.adzuna.in/land/ad/5539024979?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=9158A9E050A72DF117C35AC6D5BCE7C26D1A19F1",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTM5MDI0OTc5In0.C-AgpLDjwcVmaZu2VdRMnfOk3DVUaBoik-mQs_o5B1g",
-            "id": "5539024979",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5397181708?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=63CA0371B231672F934B57F6DAD02C898625F4A6",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1Mzk3MTgxNzA4In0.X5gLmY_5V7FoVK5hWI6hq3Yxzl9FzaulCgQEUJTmQi8",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5397181708",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "display_name": "HCLSoftware",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Greetings from \"HCL Software\" \"HCL Software”: - Is a Product Development Division of HCL Tech: That operates its primary Software business. At HCL Software we Develop, Market, Sell and Support over 20 Product families in the areas of Customer Experience, Digital Solutions, Secure DevOps, Security & Automation. Summary: We are looking for a Sr.Cloud Infrastructure Support Engineer (AWS, Microsoft Azure and GCP) within our HCL Cloud Product team. We are looking for candidates with 4 years of expe…",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Sr. Cloud Infrastructure Support Engineer (AWS, Azure and GCP) _HCL Cloud Product (Bangalore)",
-            "created": "2025-09-13T08:18:35Z"
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5539014297",
-            "redirect_url": "https://www.adzuna.in/land/ad/5539014297?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=0B81F54CA3D506175845C3D0246A39DE69E46D51",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAxNDI5NyIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.i555cMMOP9EP6yA-OKsiuV8BXDa8rH8daWpKI3X154U",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "title": "Cloud Infrastructure",
-            "created": "2025-12-12T09:51:09Z",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "BCforward"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "description": "Cloud Infrastructure: Java; Node / Node JS; Python; Cloud Networking; Big Data; Redis  Hiring Alert –  Cloud Infrastructure Engineer  BCforward India Technologies Pvt Ltd | Gurgaon / Bengaluru | Immediate Joiners Preferred  Hello Aspirants, We’re excited to announce an opportunity to join BCforward India Technologies Pvt Ltd as a Cloud Infrastructure Engineer! It is an exciting transformation across Cloud, Big Data, and Mobile technologies. Our high-performing engineering teams are redefining t…"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQwNjczNjI2In0.-nq8-dJvFwLWjNNXfkUcP_DMfA21NyGYInu8pU4a2y8",
-            "redirect_url": "https://www.adzuna.in/land/ad/5540673626?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=7CD3FC17B43EE267E625D70D45136B265AFACA5F",
-            "id": "5540673626",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "About the role: ThoughtSpot is seeking an experienced Staff Engineer to lead the architecture and evolution of our Cloud Infrastructure and Observability control plane. You will lead the design of a multi-cloud control plane (AWS, GCP, Azure) that powers our Business Intelligence (BI) application, ensuring it is resilient, cost-efficient, and deeply observable. This role is ideal for a distributed systems expert who wants to solve complex challenges like Multi-Cloud Disaster Recovery, AI-Driven…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "ThoughtSpot"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "title": "Staff Engineer - Observability & Cloud Infrastructure",
-            "created": "2025-12-13T09:40:16Z",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            }
-        },
-        {
-            "description": "Dear Candidate, Hiring: Lab Infrastructure Engineer/Lab Architect | 10 Years Experience | Bangalore We are looking for an experienced Lab Infrastructure Engineer to manage, maintain, and optimize our end-to-end lab operations. This role requires strong hands-on expertise in servers, networking, security, virtualization, and cloud infrastructure. Key Responsibilities Act as the primary point of contact for all lab-related issues Plan & estimate procurement for new hardware Install, configure & m…",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "ACL Digital"
-            },
-            "created": "2025-12-11T09:27:34Z",
-            "title": "Infrastructure Specialist",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
                 ]
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTM3Mzg1MTE4In0.w_DA8cYaNEptkbRvr5BloNlpYt53FFT4YeZICCcIfHs",
-            "redirect_url": "https://www.adzuna.in/land/ad/5537385118?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=AF76E6D0A34974F67CCA8F862D4957A99D6AEA06",
-            "id": "5537385118",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "location": {
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Pune, Maharashtra"
-            },
-            "longitude": 73.84735,
-            "created": "2026-01-01T08:39:23Z",
-            "title": "Python Full-Stack Developer",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "People Prime Worldwide"
-            },
-            "description": "Experience: 10 years Job Description: About the Role: We are seeking a highly experienced Infrastructure Engineer (Python Full-Stack Developer) to join our technology team in a mission-critical financial environment. This role is ideal for someone who has a proven track record of designing, developing, testing, reliable and scalable applications in regulated industries such as banking or financial services . As a Senior Python Full-Stack Developer, you will be responsible for ensuring the avail…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5561942476",
-            "salary_is_predicted": "0",
-            "latitude": 18.5062,
-            "redirect_url": "https://www.adzuna.in/land/ad/5561942476?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=0C27CE460ADB5F96C1C48213B49D93A4FC70993A",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTYxOTQyNDc2In0.1ZHzp13sr2Q33SCqWtVfYEQNyi0_SRPAVirxWH-vC3I"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI1MjA2NzcwIn0.TEROBDZR41i2pTUsDOvH8tznhNTXNcIzEiv487eZ_Ik",
-            "redirect_url": "https://www.adzuna.in/land/ad/5525206770?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=A130F5A1B3804714417F9BE8C40BB4B2BA0839BA",
-            "latitude": 18.5062,
-            "id": "5525206770",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Hi All, We are hiring for our MNC client for Hinjewadi Phase 2 (Pune). We're looking for an experienced IT Infrastructure Engineering with strong expertise in: Apigee Hybrid / API Proxy / Apigee Edge (Any) Kubernetes (Strong hands on) Support experience - Troubleshooting, configuration, monitoring. Experience: 3.5 – 10 years Notice Period: Immediate – 60 days Please share CV with below details on preeti.aw@peoplefy.com Experience : CCTC : ECTC : Notice period : Location :",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Peoplefy"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "title": "Information Technology Engineer",
-            "longitude": 73.84735,
-            "created": "2025-12-03T09:00:16Z",
-            "location": {
-                "display_name": "Pune, Maharashtra",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ]
-            }
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5558015519?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=B3DF03F99846A04E6A8A2D5C1A0F35203774F1A5",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTU4MDE1NTE5In0.V6xAUhLe0oUjGBZobPDWXnZG1Ftmw8ssAS0w_BNPdlY",
-            "contract_type": "contract",
+            "title": "Platform Delivery Engineer",
+            "description": "Job Title Platform Delivery Engineer Job Description Join the game-changers! Ready to automate infrastructure at scale for a FTSE 250 fintech leader? We need a Platform Delivery Engineer to help us build and modernize the Linux infrastructure powering our global trading platforms. You'll create Puppet modules, design self-service automation, and manage web delivery systems (Apache, F5, Akamai) that keep 340,000 traders connected – all while working with modern tech and making a real impact ever…",
+            "created": "2026-01-10T00:46:59Z",
             "contract_time": "full_time",
-            "id": "5558015519",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "display_name": "KEMURI Technology",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "[Welcome Japanese N1-Level | IT Infrastructure Engineers / Technical Support Specialist] Limited positions available – On-site training & relocation to Japan (Urgent) Contract Position to Start / Fast-Track to Full-Time Employment  Why This Opportunity? This role is designed for professionals who want more than just a job. Work near Akihabara, Tokyo — one of the world’s most iconic tech districts Gain globally respected Japanese business manners and communication skills Evaluation focuses not o…",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "created": "2025-12-28T10:03:39Z",
-            "title": "IT Infrastructure Technical Support Specialist - Japanese Speakers Only（日本語話者 N2-N1限定）"
-        },
-        {
-            "created": "2025-12-21T08:12:12Z",
-            "title": "Full-Stack Engineer – Backend and Infrastructure Focus",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "description": "Role Overview Design and build cloud-native software for Brightstone. You will work on the backend, cloud infrastructure, and deployment pipelines, combining hands-on development with strategic input. What We're Looking For We are looking for a Full-Stack Engineer with strong Backend and Infrastructure skills. You will help design and build cloud-native software for Brightstone. You will work on the backend, cloud infrastructure, and deployment pipelines. You must have strong experience with Az…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Brightstone"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5550647978",
-            "salary_is_predicted": "0",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MDY0Nzk3OCIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.6vy_8aY-HeBXoPBy75V_V6-u8SlTDoEGJggMfNVhQVM",
-            "redirect_url": "https://www.adzuna.in/land/ad/5550647978?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=82C9EE2B77E50238B0BFFDA746659F1E2115FB43"
-        },
-        {
-            "title": "Senior Site Reliability Engineer",
-            "created": "2025-12-14T10:20:05Z",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "description": "Site Reliability Engineer (SRE) Level 2 Overview: A Site Reliability Engineer (SRE) Level 3 is a senior technical leadership role focused on designing, implementing, and maintaining large-scale, complex, and highly reliable systems. This role emphasizes a blend of software and systems engineering to ensure the availability, latency, performance, and capacity of critical services. SREs at this level are passionate about quality, efficiency, and reliability, and they play a crucial role in accele…",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "display_name": "super.money",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "id": "5541819054",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQxODE5MDU0In0.pvgRUVXF0YazKs-XD3JgOd34iDhBnCC_D_PHnrtjcA4",
-            "redirect_url": "https://www.adzuna.in/land/ad/5541819054?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=D84FB089FB7A6B579EC9ED18D50C2D4AE0AD8051"
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Talentoj"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "description": "Key Responsibilities • Lead and manage infrastructure operations and automation for high-availability and scalable systems. • Oversee and contribute to critical DevOps projects/components, ensuring timely delivery and quality. • Design, implement, and optimize CI/CD pipelines using Jenkins, GitHub, and GitHub Actions. • Implement and maintain DevSecOps practices and security tools such as Snyk, SonarQube, and Trivy. • Manage and optimize artifact management solutions like AWS CodeArtifact, GitH…",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "created": "2025-12-12T09:55:17Z",
-            "title": "Devops Engineer 4 (Infrastructure management , AWS, CI- CD)",
-            "redirect_url": "https://www.adzuna.in/land/ad/5539023254?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=6989E42C7514810432291C8C6221DC9AD4038583",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAyMzI1NCIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.UcdtGs_IJQDtiBw7htnd3lZrAxsRamtiZokrbiT8URU",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5539023254"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5546579602",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546579602?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=E97B9B674BD7FC6443C7077E5BA614CBF558FAB6",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjU3OTYwMiIsInMiOiJ5bHF1MHREbThCR3RmWjF0Yk5PLVNBIn0.Czd76Hf5C2GA2KGug6htVuFBbSwWBJ7ujC75JO_7yBs",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Enterprise Architect",
-            "created": "2025-12-18T08:42:12Z",
             "category": {
                 "label": "IT Jobs",
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
+            "longitude": 77.59837,
+            "id": "5576569378",
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576569378?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
             "company": {
-                "display_name": "Tata Consultancy Services",
+                "display_name": "IG Group",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "description": "Greetings from Tata Consultancy Service Job Title: Enterprise Architect Experience Required: 10-15 years Location: Bengaluru Having nearly 15 years of experience in managing and supporting Data center & cloud infrastructures Design and architect data center infrastructure, including compute, storage, networking, and security components. Develop comprehensive infrastructure strategies to support high availability, scalability, disaster recovery, and business continuity. Lead the evaluation, sele…"
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTY5Mzc4In0.smIAC3K86EmjwwYXCohBNz4iGBgZ5LneBUewFpUV3RM"
         },
         {
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "description": "Confidence can sometimes hold us back from applying for a job. Here’s a secret: there's no such thing as a \"perfect\" candidate. Poshmark is looking for exceptional people who want to make a positive impact through their work and help create an organization where everyone can thrive. So whatever background you bring with you, please apply if this role would make you excited to come to work every day. Job Description: Senior Security Engineer - Infrastructure Security Poshmark Chennai, Tamil Nadu…",
+            "title": "Senior Infrastructure security engineer",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T00:46:55Z",
+            "id": "5576568719",
             "salary_is_predicted": "0",
-            "id": "5553866962",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxxdTB0RG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTUzODY2OTYyIn0.QxkXN7eRUdd9ZcnvjE9zsrzPJA73c2SyUefMVg5-SX4",
-            "redirect_url": "https://www.adzuna.in/land/ad/5553866962?se=ylqu0tDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=BA7F270F7A564BE1EF102121F7A133903E4FF302",
-            "title": "VMWARE & HCI Engineer",
-            "created": "2025-12-24T10:15:27Z",
+            "redirect_url": "https://www.adzuna.in/details/5576568719?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTY4NzE5In0.hSKkcM82D83kwBWRiNNw_uWl3AGucCpL0YDQjqKidvs",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Poshmark India"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Advance Stores Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTY4NzQyIn0.lC8LFx3jI1iDnnugOJq7v8c1mkBoNpRoiU1lWlmRVy0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576568742?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275,
+            "id": "5576568742",
+            "longitude": 78.50806,
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2026-01-10T00:46:55Z",
+            "description": "Job Description We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age national origin, religion, sexual orientation, gender identity, status as a veteran and basis of disability or any other federal, state or local protected class: The Infrastructure Technology & Shared Services organization is a component of Advance Auto Parts’ Information Technology function. This team is responsible for all elements of I…",
+            "title": "Sr Systems Engineer",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Job Description Purpose of the role To build and maintain infrastructure platforms and products that support applications and data systems, using hardware, software, networks, and cloud computing platforms as required with the aim of ensuring that the infrastructure is reliable, scalable, and secure. Ensure the reliability, availability, and scalability of the systems, platforms, and technology through the application of software engineering techniques, automation, and best practices in inciden…",
+            "title": "Cloud & DevOps Infrastructure Architect",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T00:46:51Z",
+            "id": "5576568193",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576568193?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "display_name": "Barclays",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTY4MTkzIn0.QipRQF_sXFt9C3jnzHOJmuX9iur9kqJhxUlH8dqmLrQ",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576567704?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "News Corp"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU2NzcwNCIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.Xyil60_kIbl9PT7o_L80NzvB9iyttGC9cTivXgHj8dg",
+            "title": "Principal Engineer, Enterprise Security",
+            "description": "Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, or disability status. EEO/Disabled/Vets Job Description : Overview As a global media and information services company, News Corp understands the importance of data security and mitigating risk across the organization. We believe in protecting our businesses and customers and are looking to build innovative sol…",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576567704",
+            "longitude": 77.59837,
+            "created": "2026-01-10T00:46:47Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576567127?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 12.95703,
+            "company": {
+                "display_name": "Fluence BESS India Private",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTY3MTI3In0._udXNTzYnMPP127RP84xRZbfwu5lwr4Ku-PFFINrrAY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Fluence (Nasdaq: FLNC) is a global market leader delivering intelligent energy storage and optimization software for renewables and storage. Our solutions and operational services are helping to create a more resilient grid and unlock the full potential of renewable portfolios. With gigawatts of successful implementations across nearly 50 markets, we are transforming the way we power our world for a more sustainable future. For more information, please visit fluenceenergy.com . Job Description:…",
+            "title": "Linux Communications Engineer, RMDC",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "longitude": 77.59837,
+            "id": "5576567127",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T00:46:42Z"
+        },
+        {
             "location": {
                 "display_name": "Bangalore, Karnataka",
                 "area": [
@@ -1430,15 +1422,50 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "description": "Role: L2 Infrastructure Engineer – Wintel, VMware & HCI Management Location: Chennai/ Bangalore Experience: 5-9 Years Role Overview The L2 Infrastructure Engineer is responsible for managing and maintaining enterprise-grade infrastructure platforms, including Windows Server (Wintel) environments, VMware virtualization platforms, and Hyper-Converged Infrastructure (HCI) solutions. This role requires a strong technical background, proactive problem-solving skills, and the ability to make sound de…",
+            "title": "Infrastructure Engineer II-Python, AWS and Terraform",
+            "description": "Description With your expertise in delivering infrastructure solutions, you are a top-performer in your field. Come on board as a highly appreciated member of a winning team. As a Infrastructure Engineer II at JPMorgan Chase within the Infrastructure Platform - Web Hosting team, you hold a key role in your team, demonstrate strong knowledge across multiple technical domains, and advise others on the technical and business issues facing them. You will bring your deep experience to enable and sup…",
+            "created": "2026-01-10T00:46:14Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "id": "5576563678",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576563678?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU2MzY3OCIsInMiOiJjTnQwWXVQdDhCRzV5YUEzczNsdXV3In0.J1ET4FpVXy0OJGUai7mNBQi9NPCdJKgUYVLX5M42k9s",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Tata Consultancy Services"
+                "display_name": "JPMorganChase"
+            }
+        },
+        {
+            "company": {
+                "display_name": "First Citizens India",
+                "__CLASS__": "Adzuna::API::Response::Company"
             },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY050MFl1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTU1OTk2In0.PmbfsYT0aoApBUb9nrkP5wezcme3p6cJV5C5WgOc4BQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576555996?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "id": "5576555996",
             "category": {
-                "label": "IT Jobs",
                 "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:45:18Z",
+            "description": "FC Global Services India LLP (First Citizens India), a part of First Citizens BancShares, Inc., a top 20 U.S. financial institution, is a global capability center (GCC) based in Bengaluru. Our India-based teams benefit from the company’s over 125-year legacy of strength and stability. First Citizens India is responsible for delivering value and managing risks for our lines of business. We are particularly proud of our strong, relationship-driven culture and our long-term approach, which are dee…",
+            "title": "Infrastructure Engineer II - Database Patching",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
             }
         }
     ]

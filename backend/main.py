@@ -10,6 +10,8 @@ if not hasattr(langchain, 'verbose'):
     langchain.verbose = False
 if not hasattr(langchain, 'debug'):
     langchain.debug = False
+if not hasattr(langchain, 'llm_cache'):
+    langchain.llm_cache = None
 
 from langchain_openai import ChatOpenAI
 from faiss_manager import get_or_create_vectorstore
@@ -67,8 +69,12 @@ def rag_answer(query: str) -> str:
     Answer:
     - If you don't know the answer, tell the user that you don't know the answer for the specific question.
     - If you don't have the salary, please reason it yourself and give a predicted salary range for the job.
-    - Also give the link to apply to a job if available in the context.
+    - Also give the link to apply to a job if available in the context.(this should be clickable link)
+    - Give the required skills for the job. 
     - Provide a brief JD (Job Description) summary for the job role.
+    - Format the answer in markdown for better readability.
+    - Use bullet points where necessary.
+    - Be concise and to the point.
     """
     
     response = llm.invoke(prompt)

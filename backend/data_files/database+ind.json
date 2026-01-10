@@ -1,18 +1,163 @@
 {
-    "mean": 1467245.54,
-    "count": 880,
-    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 262,
     "results": [
         {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "M365Connect"
+            },
+            "title": "Senior Database Engineer - Data Synchronization Specialist",
+            "created": "2026-01-10T10:01:09Z",
+            "salary_is_predicted": "0",
             "category": {
                 "tag": "it-jobs",
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI4MDA3Mzk4In0.933qEScZSg0CMLPCb7Ujihl7jb3Z1HEuYGsT9rBE5Zk",
-            "created": "2025-12-05T01:17:47Z",
-            "id": "5528007398",
-            "redirect_url": "https://www.adzuna.in/land/ad/5528007398?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=E0757480FB9BA68802B8E593220DFD8894577ED4",
+            "latitude": 12.95703,
+            "id": "5577377230",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5577377230?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.59837,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzM3NzIzMCIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.CQi6YCRd00NeW9Yd6WTXNaLMuv-q9-sHC7vFNtCPeb4",
+            "description": "Manatal Database Sync Project Senior Database Engineer - Data Synchronization Specialist Company Overview We are seeking an experienced Database Engineer to architect and maintain our Manatal recruitment database synchronization infrastructure. This role is critical for maintaining data authority, overcoming API throttling limitations, and providing flexible data access across our organization. Position Summary The Senior Database Engineer will be responsible for designing, implementing, and ma…"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "M365Connect"
+            },
+            "title": "Senior Database Engineer - Data Synchronization Specialist",
+            "created": "2026-01-10T10:01:09Z",
+            "latitude": 28.62523,
+            "id": "5577377229",
+            "location": {
+                "area": [
+                    "India",
+                    "Delhi"
+                ],
+                "display_name": "Delhi, India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Manatal Database Sync Project Senior Database Engineer - Data Synchronization Specialist Company Overview We are seeking an experienced Database Engineer to architect and maintain our Manatal recruitment database synchronization infrastructure. This role is critical for maintaining data authority, overcoming API throttling limitations, and providing flexible data access across our organization. Position Summary The Senior Database Engineer will be responsible for designing, implementing, and ma…",
+            "redirect_url": "https://www.adzuna.in/details/5577377229?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.224601,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzM3NzIyOSIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.nywEoIJuod3a0WK6mKk7B-xU_PZxhPRecfD3PhEPFok"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 17.40275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "id": "5577273411",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273411?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=3286585AC75FD65589AB2E7C8D2E76734B0630BC",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MzQxMSIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.62w2vGT08EuxqfZRMlitzBIs2urqDOchTdCfJEZtLV4",
+            "description": "Staff Software Engineer - Customer Developer Tools (CDT) Our Company Teradata is the connected multi-cloud data platform for enterprise analytics. Our enterprise analytics solve business challenges from start to scale. Only Teradata gives you the flexibility to handle the massive and mixed data workloads of the future-today. The Teradata Vantage architecture is cloud-native, delivered as-a-service, and built on an open ecosystem. These design features make Vantage the ideal platform to optimize…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Teradata"
+            },
+            "title": "Staff Software Engineer",
+            "created": "2026-01-10T08:34:52Z"
+        },
+        {
+            "description": "_Role Overview:_ As a Senior Database Administrator you will work with other Database Administrators and Application Engineering teams in maintaining database infrastructure. You will collaborate with other teams like Cloud services, Infosec, Application teams in providing database administration for both non production and production databases. You will be closely working with application engineering teams in designing and modeling databases. This is a Hybrid position based in Bangalore. You m…",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261719?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=286F9E0677A2B9865BB9D176C33CF8E5C1AF226B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjYxNzE5In0.bhboCWqCB0slMhkYv4_G3TzCfNq7hv75Wx3nzxJVZXc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 12.95703,
+            "id": "5577261719",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "created": "2026-01-10T08:26:48Z",
+            "title": "Senior Database Administrator - Postgres",
+            "company": {
+                "display_name": "McAfee, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "created": "2026-01-10T08:26:34Z",
+            "title": "Data Scientist-Artificial Intelligence",
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI2MTYwOSIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.i0Racn73GbznOYX6An6YRsYuFBC427m-dML3MLq_eYs",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261609?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=0C117418DC6BDB5FBE4F5DC7986EEB5AF9A6C0D3",
+            "description": "Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and crea…",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "id": "5577261609",
+            "latitude": 12.95703
+        },
+        {
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T08:26:33Z",
+            "title": "Data Engineer-Data Platforms-Azure",
+            "id": "5577261536",
             "location": {
                 "display_name": "Bangalore, Karnataka",
                 "area": [
@@ -22,44 +167,581 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "title": "Database Engineer",
+            "latitude": 12.95703,
             "salary_is_predicted": "0",
+            "category": {
+                "label": "Consultancy Jobs",
+                "tag": "consultancy-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and crea…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjYxNTM2In0.OhUc9fXCvhkap4jOXZv7NN8s2Gorxr9XwipFB9MRYfY",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "We are seeking a highly skilled Database Engineer with 5 years of professional experience to join our Engineering team. In this role, you will play a critical part in designing, optimizing, and maintaining the data infrastructure that powers Company’s wealth management technology platform. You will work on high-volume, high-availability systems and collaborate closely with engineering, product, and AI teams to ensure our solutions are efficient, scalable, and secure. This is an opportunity to s…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Innover Digital"
-            }
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261536?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=D9C35E72348F49BF1417F26D7CEA75E5EDC9ED16",
+            "longitude": 77.59837
         },
         {
             "salary_is_predicted": "0",
+            "category": {
+                "tag": "consultancy-jobs",
+                "label": "Consultancy Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 9.98011,
+            "id": "5577261549",
+            "location": {
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Ernakulam",
+                    "Kochi"
+                ],
+                "display_name": "Kochi, Ernakulam",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 76.24637,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261549?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=A2F6DA79BA6C29A99AE9701B47364100944E7046",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI2MTU0OSIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.UDOeqdYgT_mxYCF9eraL0VME_7trnaUlG0aQTq1xIxU",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Role: DataBricks Experience: 10 to 12 years Location: Bangalore (PSN Whitefield) Mode of Interview: Walk - in (13 -Dec- 2025) Must-Have Designing and implementing highly performant data ingestion pipelines from multiple sources using Apache Spark and Databricks Highly proficient with Python and PL/SQL Experience in building ETL / data warehouse transformation processes Strong experience with Big Data, Data analysis with excellent analytical and problem-solving abilities Experience in Big Data c…",
+            "description": "Introduction In this role, you'll work in one of our IBM Consulting Client Innovation Centers (Delivery Centers), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world. Our delivery centers offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology. Your role and responsibilities * As an Associate Software Developer at IBM you will harness the power of data to unveil cap…",
             "company": {
-                "display_name": "Tata Consultancy Services",
+                "display_name": "IBM",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
+            "created": "2026-01-10T08:26:33Z",
+            "title": "Data Engineer-Data Platforms-Azure"
+        },
+        {
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577261564",
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "description": "Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cloud-native products that shape the future of business and society. Our legacy of innovation creates endless opportunities for IBMers to learn, grow, and make an impact on a global scale. Working in Software means joining a team fueled by curiosity and collaboration. You'll work with diverse technologies, partners, and industries to design, develop, and deliver solutions that p…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI2MTU2NCIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.ZmDqkcFpcOTDtop-U3yB9bPU6nnxH5-uR1i-oi5cKQg",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261564?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=F73841B9E5E0C83951D647CC36C1242E87229224",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IBM"
+            },
+            "title": "Database Engineer - Storage and Query",
+            "created": "2026-01-10T08:26:33Z"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IBM"
+            },
+            "created": "2026-01-10T08:26:32Z",
+            "title": "Data Engineer-Data Platforms-Azure",
             "category": {
                 "tag": "it-jobs",
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM2MDYyMzAzIn0.bBAAhYWUPVTxrcwwLtHvIHSub5WqODpBGJHDShNNnc4",
-            "id": "5536062303",
-            "created": "2025-12-10T16:47:28Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5536062303?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=E6D3929E3AE4DF5A800A47AE2B6DB49E10ADC3B5",
+            "salary_is_predicted": "0",
+            "latitude": 12.95703,
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577261518",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261518?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=0A3BD66D0E2B074EDEE1AD6DACA5A8645C6BFF8D",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjYxNTE4In0.UCbPdMfAmyLGjn-WpKzySD9cr2GOFxBcpOXizO4Ta74",
+            "description": "Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and crea…"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IBM"
+            },
+            "created": "2026-01-10T08:23:02Z",
+            "title": "Data Engineer-Data Modeling",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "id": "5577259242",
+            "latitude": 18.5062,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjU5MjQyIn0.RWIeof8JudrKZOFgkIcQvCDtqi-vjKr9O2-OYa0YqOk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 73.84735,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577259242?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=DC7C61C2627EEC6E42E5DE2BB0278DED3EA91576",
+            "description": "Introduction In this role, you'll work in one of our IBM Consulting Client Innovation Centers (Delivery Centers), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world. Our delivery centers offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology Your role and responsibilities * In this role, your responsibilities may include: * Implementing and validating predictive m…"
+        },
+        {
+            "description": "Introduction In this role, you'll work in one of our IBM Consulting Client Innovation Centers (Delivery Centers), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world. Our delivery centers offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology. Your role and responsibilities * As an Associate Data Scientist at IBM, you will work to solve business problems using lead…",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577259239?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=2D011E7F93AEB89B8AA469595916C02929845A83",
+            "longitude": 78.50806,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1OTIzOSIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.p4LWiIbf9Zr-GroN3bSF6DFi8LXD94-FUI81ZMxCP08",
+            "latitude": 17.40275,
+            "id": "5577259239",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T08:23:01Z",
+            "title": "Data Scientist-Artificial Intelligence",
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T08:22:59Z",
+            "title": "Data Engineer-Data Integration",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Kochi, Ernakulam",
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Ernakulam",
+                    "Kochi"
+                ]
+            },
+            "id": "5577259211",
+            "latitude": 9.98011,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "Introduction In this role, you'll work in one of our IBM Consulting Client Innovation Centers (Delivery Centers), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world. Our delivery centers offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology. Your role and responsibilities As Data Engineer at IBM you will harness the power of data to unveil captivating stories and…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjU5MjExIn0.t1GR4QGCOTZPJWhw7hlwxNENfVMPx4Qdl7PwhoLWL90",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577259211?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=BE0BFDC8B56996BB2E946F783D129FE87B8EC110",
+            "longitude": 76.24637
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IBM"
+            },
+            "title": "Data Engineer-Data Integration",
+            "created": "2026-01-10T08:22:59Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 9.98011,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Kochi, Ernakulam",
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Ernakulam",
+                    "Kochi"
+                ]
+            },
+            "id": "5577259207",
+            "longitude": 76.24637,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577259207?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=23A5E25117821714370745CE026F1F24522C9A6B",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1OTIwNyIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.uu1kASqyfibyeXTS2NexmzyoJ-sn7cJYXqkeqihqF-Y",
+            "description": "Introduction In this role, you'll work in one of our IBM Consulting Client Innovation Centers (Delivery Centers), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world. Our delivery centers offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology Your role and responsibilities * As an Software Developer at IBM you will harness the power of data to unveil captivating st…"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IBM"
+            },
+            "title": "Software Engineer - Cloud Database",
+            "created": "2026-01-10T08:22:56Z",
+            "latitude": 12.95703,
             "location": {
                 "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577259183",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Introduction A career in IBM Software means you'll be part of a team that transforms our customer's challenges into solutions. Seeking new possibilities and always staying curious, we are a team dedicated to creating the world's leading AI-powered, cloud-native software solutions for our customers. Our renowned legacy creates endless global opportunities for our IBMers, so the door is always open for those who want to grow their career. IBM's product and technology landscape includes Research, …",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577259183?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=2809EA3375B98D235FAA32DA199A41486C423EE2",
+            "longitude": 77.59837,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1OTE4MyIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.-psAEvWYnN6x2CkQ4civ1x0llbXpj5lIo5UkEPEjUWE"
+        },
+        {
+            "title": "Data Engineer, Enterprise Platforms",
+            "created": "2026-01-10T08:22:40Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Google"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjU5MDQ5In0.lVnU2sHmQEsEZYy7FaEILPz1C7Lgi9mN0rITuIm9Xik",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577259049?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=3638AD7CE1D5B7E7B260B76F96BA176A006027D1",
+            "description": "Data Engineer, Enterprise Platforms _corporate_fare_ Google _place_ Bengaluru, Karnataka, India Early Experience completing work as directed, and collaborating with teammates; developing knowledge of relevant concepts and processes. Minimum qualifications:  Bachelor's degree in Computer Science, Mathematics, a related field, or equivalent practical experience.  1 year of experience with data processing software (e.g., Hadoop, Spark, Pig, Hive) and algorithms (e.g., MapReduce, Flume).  Experienc…",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "id": "5577259049",
+            "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
-                ]
-            },
-            "title": "Database Engineer"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            }
         },
         {
+            "description": "Development of Scalable and Efficient AI-Driven Solutions Create AI solutions that address complex business challenges. Ensure solutions are scalable to handle large data volumes and efficient in performance. Development and Maintenance of Index Data Platforms Build and sustain platforms that generate and manage Index data. Integrate data from various sources, maintain data accuracy, and ensure reliability. Development of Data Science-Based Solutions for Quality Check of Data Points Ensure the …",
+            "redirect_url": "https://www.adzuna.in/details/5577211603?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 73.95314,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjExNjAzIn0.cLAE6mDVXlEpC_QTunC8vioX1t6d21VlJG5yNNmaj1M",
+            "contract_time": "full_time",
+            "latitude": 18.5219,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune",
+                    "Sasanenagar"
+                ],
+                "display_name": "Sasanenagar, Pune",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577211603",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "created": "2026-01-10T07:13:39Z",
+            "title": "AI Engineer",
+            "company": {
+                "display_name": "MSCI Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "symplr"
+            },
+            "title": "Senior Data Engineer",
+            "created": "2026-01-10T07:13:36Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore",
+                    "Hoodi"
+                ],
+                "display_name": "Hoodi, Bangalore"
+            },
+            "id": "5577211458",
+            "latitude": 12.99422,
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjExNDU4In0.14pRp7fAsTCzFLw4OKG_vD16sWUPo-fBax2ab6JPT9A",
+            "redirect_url": "https://www.adzuna.in/details/5577211458?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.69694,
+            "description": "The objectives of a Data Engineer typically revolve around designing, implementing, and managing robust data architectures and infrastructures. The Data Engineer will play a key role in driving the organization's data strategy, ensuring the efficient flow and storage of data, and supporting data-driven decision-making processes. Data Model Design: Develop and maintain a scalable and efficient data models and schemas that support the storage, processing, and retrieval of data. Data Integration: …"
+        },
+        {
+            "description": "Engineer, Software Data Ops (L08) About the Role: Engineer, Software Data Operations is responsible for delivering end-to-end software solutions that enable 24x7 operational reliability, automation, and innovation across T-Mobiles Data Operations Center of Excellence. This role designs, develops, deploys, and primarily maintains full stack systems, including front-end frameworks, back-end services, microservices, streaming solutions, databases, and supporting cloud infrastructure. The Engineer …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MDgzOTUzIn0.4D7f61P2dJJwCGybBkcNBjTHOMHyVxssZFwkZnrEC5o",
+            "redirect_url": "https://www.adzuna.in/details/5577083953?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 78.50806,
+            "id": "5577083953",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "title": "Engineer, Software",
+            "created": "2026-01-10T06:12:42Z",
+            "company": {
+                "display_name": "TMUS Global Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "Role Summary: The Senior Data Engineer designs and implements complex data solutions across cloud and hybrid environments. This role leads the development of advanced data pipelines and database architectures, mentors' junior engineers, and partners closely with stakeholders to deliver scalable analytics solutions. Key Responsibilities: Architect, develop, and optimize complex data pipelines and database solutions Lead relational and dimensional data modeling efforts for analytics and reporting…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MDgzOTQxIn0.JkWeMnL46aupsrjlUHbOwZoMIpyOW_cFNoS_nI4oY0c",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/details/5577083941?utm_medium=api&utm_source=d58ac19b",
+            "id": "5577083941",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "title": "Sr Engineer, Data",
+            "created": "2026-01-10T06:12:41Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TMUS Global Solutions"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "id": "5577083913",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "latitude": 17.40275,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MDgzOTEzIn0.qNojAmuiI95wiVbSP4YVZkPB8kLzdRKDy4mMse3UkKE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5577083913?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 78.50806,
+            "description": "About the Role: The Database Engineer plays a key role in designing, implementing, and maintaining robust database systems that support T-Mobiles large-scale applications and analytics. This position drives the modernization of database platforms, adoption of cloud-native data technologies, and continuous improvement of performance, reliability, and automation across mission-critical systems. You will collaborate with software engineers, cloud architects, and DevOps teams to deliver secure, sca…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TMUS Global Solutions"
+            },
+            "title": "Engineer, Software",
+            "created": "2026-01-10T06:12:38Z"
+        },
+        {
+            "latitude": 17.40275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "id": "5577083807",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "Software Engineer, Full Stack Ingestion About T-Mobile T-Mobile US, Inc. (NASDAQ: TMUS), headquartered in Bellevue, Washington, is Americas supercharged Un-carrier, connecting millions through its strong nationwide network and flagship brands, T-Mobile and Metro by T-Mobile. Customers benefit from an unmatched combination of value, quality, and exceptional service experience. About TMUS Global Solutions TMUS Global Solutions is a world-class technology powerhouse accelerating the companys globa…",
+            "redirect_url": "https://www.adzuna.in/details/5577083807?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzA4MzgwNyIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.cG-3YL7_iMGgpVy0ZlkbSSgunZPgcUFJmQJFS1m1qfo",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TMUS Global Solutions"
+            },
+            "created": "2026-01-10T06:12:30Z",
+            "title": "Engineer Software Fullstack"
+        },
+        {
+            "title": "Postgrase DBA Architech",
+            "salary_min": 2000000,
+            "description": "Industry & Sector: Enterprise Software & Data Infrastructure — focused on designing, deploying, and operating mission-critical, high-availability database platforms that support transactional systems, analytics, and SaaS products. We operate across cloud-native and on-prem environments to deliver resilient, secure, and performant data services. Role: PostgreSQL Database Architect (DBA) — On-site, India. We seek a hands-on database architect to lead Postgres platform design, harden production op…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Njg4MzY2NiIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.zeaM8wi4H3oktLC1rotDpskujJF9Q95pQez3IK0TlDQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 88.34373,
+            "redirect_url": "https://www.adzuna.in/details/5576883666?utm_medium=api&utm_source=d58ac19b",
+            "created": "2026-01-10T03:14:29Z",
+            "company": {
+                "display_name": "viraaj hr solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "salary_max": 4500000,
+            "location": {
+                "display_name": "Kolkata, West Bengal",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576883666",
+            "latitude": 22.57285,
+            "contract_type": "permanent",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2026-01-10T03:14:29Z",
+            "title": "Backend Developer",
+            "salary_min": 900000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "YourFriendlyhr"
+            },
+            "description": "We are seeking a talented and versatile Full Stack Developer to join our Generative AI team. In this role, you will work at the intersection of AI innovation and modern web development, building intelligent, scalable applications that leverage cutting-edge AI models and frameworks. You’ll collaborate closely with AI engineers, product managers, and UX designers to bring GenAI-powered products from concept to production. Responsibilities Design, develop, and maintain full-stack web applications …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2ODgzNjU0In0.hoiUy1g9x4xf8lmNS14_j4nbn3l2G1ic6Z_9hghdr20",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576883654?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 1200000,
+            "id": "5576883654",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "contract_type": "permanent",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2026-01-10T03:14:29Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "viraaj hr solutions"
+            },
+            "salary_max": 4500000,
+            "contract_time": "full_time",
+            "latitude": 22.57285,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Kolkata, West Bengal",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ]
+            },
+            "id": "5576883665",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "title": "MySQL DBA Architech",
+            "salary_min": 2000000,
+            "description": "About the Opportunity We are a technology services organisation operating in the Enterprise Data Infrastructure & Database Engineering sector, delivering scalable, resilient database platforms for mission-critical applications across finance, e-commerce, and SaaS. This on-site role is based in India and focuses on architecting and operating large-scale MySQL ecosystems with an emphasis on reliability, performance, and automation. Role & Responsibilities Design and own the end-to-end MySQL datab…",
+            "redirect_url": "https://www.adzuna.in/details/5576883665?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 88.34373,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Njg4MzY2NSIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.daqR7pODq6oDq_WdAjKOZIJn__RaF_kD1wdQcODZ6WU"
+        },
+        {
+            "company": {
+                "display_name": "Workday",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T00:50:09Z",
+            "title": "Sr Associate Software Development Engineer - DevOps/Cloud Engineer",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -67,122 +749,666 @@
                 ],
                 "display_name": "India"
             },
-            "title": "Lead Database Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3NTE4MCIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0._tJ7h0KLNmqGKUA6D2xWE7gop7Cf72clmpoVIKrZs1I",
+            "id": "5576591779",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the world around us. As a Fortune 500 company and a leading AI platform for managing people, money, and agents, we’re shaping the future of work so teams can reach their potential and focus on what matters most. The minute you join, you’ll feel it. Not just in the products we build, but in how we show up for each other. Our culture is rooted in integrity, empathy, and shared enthus…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTkxNzc5In0.LiBzbPWepytYRJGLJug8wsTv-qWkSNvXZWDrdxCoq2E",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576591779?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 9.91051,
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Madurai"
+                ],
+                "display_name": "Madurai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576591402",
+            "longitude": 78.1158,
+            "redirect_url": "https://www.adzuna.in/details/5576591402?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU5MTQwMiIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.0MH46KNgVFHIolD15Ve8C5_DCDNIRAfDet2cDKTatdA",
+            "description": "Description The Mechanical Design Engineer II role at Honeywell is an exciting opportunity to understand, work and deliver the Product Stewardship environmental compliance goals from HTS Madurai, India. The specialist should be capable of decision making, identifying, and addressing supplier questions or queries to meet internal requirements, must possess a positive attitude, proactive mindset and high attention to detail. This role which is a part of Honeywell Sustainability Center of Excellen…",
+            "company": {
+                "display_name": "Honeywell",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T00:50:05Z",
+            "title": "Mech Design Engr II"
+        },
+        {
+            "description": "FC Global Services India LLP (First Citizens India), a part of First Citizens BancShares, Inc., a top 20 U.S. financial institution, is a global capability center (GCC) based in Bengaluru. Our India-based teams benefit from the company’s over 125-year legacy of strength and stability. First Citizens India is responsible for delivering value and managing risks for our lines of business. We are particularly proud of our strong, relationship-driven culture and our long-term approach, which are dee…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU1NTk5NiIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.-RdIabrxBFxoOT1o2bGssQQv__uH6xhd_47otw1brXI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576555996?utm_medium=api&utm_source=d58ac19b",
+            "id": "5576555996",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T00:45:18Z",
+            "title": "Infrastructure Engineer II - Database Patching",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "First Citizens India"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Morgan Stanley",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T00:38:37Z",
+            "title": "Java Fullstack Lead Software Engineer - Vice President - Software Engineering",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576514592",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "Java Fullstack Lead Software Engineer - Vice President - Software Engineering Profile Description We’re seeking someone to join our Parametric team as a Java Fullstack Lead, to work on Java Fullstack Application Development and Designing with good exposure on Java, AWS, React-Js, Nodejs, Kafka, Springboot and microservices. About Department: Parametric is part of Morgan Stanley Investment Management, the asset management division of Morgan Stanley. We partner with advisors, institutions, and co…",
+            "redirect_url": "https://www.adzuna.in/details/5576514592?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjUxNDU5MiIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.7w0BNZeQrC85TKGrc6vJDGh99STEcbHd6pzcSqmrEQw"
+        },
+        {
+            "company": {
+                "display_name": "S&P Global",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T00:35:46Z",
+            "title": "AI Developer-Gen AI (Python, C#, JavaScript, Angular)",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5576495098",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NDk1MDk4In0.SZMCMc3BQ5sHwCTR72Kh7ZDPtk7YSuwWLoJlDJeeras",
+            "redirect_url": "https://www.adzuna.in/details/5576495098?utm_medium=api&utm_source=d58ac19b",
+            "description": "About the Role: Grade Level (for internal use): 10 The Team : The team's mission is to design and integrate an intelligent AI Assistant, employing Generative AI technology, into our existing web application ecosystem. As a Senior Engineer, you will be a key technical contributor working alongside a diverse team of highly skilled engineers and data scientists who are passionate about utilizing cutting-edge technology to achieve transformative business outcomes. The Impact: With the advent of Gen…"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NDc5OTI0In0.yfjgIc0rOQNnfCAj9dS4i6-0VpW36MDUuxKrl3oUEq0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576479924?utm_medium=api&utm_source=d58ac19b",
+            "description": "At Lilly, we unite caring with discovery to make life better for people around the world. We are a global healthcare leader headquartered in Indianapolis, Indiana. Our employees around the world work to discover and bring life-changing medicines to those who need them, improve the understanding and management of disease, and give back to our communities through philanthropy and volunteerism. We give our best effort to our work, and we put people first. We’re looking for people who are determine…",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs",
                 "tag": "it-jobs"
             },
-            "created": "2025-12-24T10:19:56Z",
-            "id": "5553875180",
-            "redirect_url": "https://www.adzuna.in/land/ad/5553875180?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=6F38EF7370134F5926B80ACB47AAB9B1CCFD1918",
+            "salary_is_predicted": "0",
+            "id": "5576479924",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "created": "2026-01-10T00:34:39Z",
+            "title": "Associate Director - Database Platform Services",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "C&R Software"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "POSITION Qualified candidates are being considered for openings within the Database Operations group at C&R Software, India. These candidates will possess a strong background in SQL Server, MySQL and PostgreSQL database management and administration. The individual will partner with product support, and DevOps CSM to keep databases secured, healthy and up to date to meet SLAs. The position is part of the Database Operations group which focuses on managing, maintaining, and securing databases in…"
+                "display_name": "Eli Lilly and Company"
+            }
         },
         {
-            "title": "Senior Database Engineer",
+            "company": {
+                "display_name": "Virtusa",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Oracle DBA",
+            "created": "2026-01-10T00:32:00Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "id": "5576444352",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576444352?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQ0NDM1MiIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.7Vi5arKtONYjmCzYharoXOC7kUL6pMrY9uiaBVYoSMQ",
+            "description": "The Oracle Database Engineer will be responsible for performing regular database maintenance activities to ensure the availability, reliability, and performance of Oracle database systems. This role involves monitoring, tuning, patching, and troubleshooting Oracle databases across production, test, and development environments. The engineer will also support backup and recovery operations, implement security measures, and assist in database upgrades and migrations.Key Responsibilities:Perform r…"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NDQxNjIzIn0.WB2gis7TeJW4XXkCISRmaWBAcWJkKh3Ix0t3bA5o0gw",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576441623?utm_medium=api&utm_source=d58ac19b",
+            "description": "Job Description We’re AtkinsRéalis, a world class Engineering Services and Nuclear organization. We connect people, data and technology to transform the world's infrastructure and energy systems. Together, with our industry partners and clients, and our global team of consultants, designers, engineers and project managers, we can change the world. Created by the integration of long-standing organizations dating back to 1911, we are a world-leading professional services company dedicated to engi…",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "id": "5576441623",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Technical Manager",
+            "created": "2026-01-10T00:31:48Z",
+            "company": {
+                "display_name": "AtkinsRéalis",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "Job Overview As an Engineering Manager, you will play a pivotal role in enabling a stream-aligned team focused on delivering a successful migration of datasets to a newly architected and designed pipeline. You will work closely with the Lead Software Development Engineer to ensure the team is empowered, autonomous, and aligned with business outcomes. Your leadership will be both strategic and hands-on, contributing directly to the codebase using Java and React.js, while fostering a high-perform…",
+            "redirect_url": "https://www.adzuna.in/details/5576356288?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 72.84415,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2MzU2Mjg4In0.OVSNcTDQfYO8oaBNKi1zIPNh8UaLoI_WT3xeg0OVSKs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "latitude": 19.00821,
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576356288",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "title": "Engineering Manager, Data Collection Technology",
+            "created": "2026-01-10T00:25:26Z",
+            "company": {
+                "display_name": "Morningstar",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "At Allstate, great things happen when our people work together to protect families and their belongings from life’s uncertainties. And for more than 90 years, our innovative drive has kept us a step ahead of our customers’ evolving needs. From advocating for seat belts, air bags and graduated driving laws, to being an industry leader in pricing sophistication, telematics, and, more recently, device and identity protection. Job Description The Software Engineer Expert architects and designs thei…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2MzQwNzc2In0.r2ppGfgRVvXuxNSBdm90-BxWCWF1IuogxRxU-CeAWzE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576340776?utm_medium=api&utm_source=d58ac19b",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576340776",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T00:24:14Z",
+            "title": "Gen AI Expert",
+            "company": {
+                "display_name": "Allstate",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Principal Technical Account Manager - OCI",
+            "created": "2026-01-10T00:23:56Z",
+            "company": {
+                "display_name": "Oracle",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Description Technical Account Manager (TAM) Our Team Oracle Customer Success Services (CSS) enable organizations to leverage their Oracle investments to extend into the cloud with greater value, choice, and confidence. Oracle delivers enterprise-grade, end-to-end managed cloud services across its broad portfolio of business applications, middleware, database, and hardware technologies. Oracle Customer Success Services (CSS) has industry-leading expertise with the highest customer satisfaction t…",
+            "redirect_url": "https://www.adzuna.in/details/5576337265?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2MzM3MjY1In0.z4XBMz5GyeiVA29ZaRR4njqG7C3o-NGjedaMvR0bR3Q",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576337265",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "company": {
+                "display_name": "Amazon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Software Development Manager, Shipment Optimization",
+            "created": "2026-01-10T00:23:00Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5576323877",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjMyMzg3NyIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0._ClC9psxi_tRmkvTTe3U0NrrVx_RWXbz0JBYRetTL9o",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576323877?utm_medium=api&utm_source=d58ac19b",
+            "description": "Have you ever ordered a product on Amazon and wondered how it got to you so fast? Did you ever think about where this package came from and how much it cost to deliver? Join us in leading the revolution of Amazon's transportation network as we build real-time, intelligent, and fully automated systems that optimize package delivery across the world's most complex logistics network. As Amazon expands globally, you will lead teams whose work directly impacts millions of customers worldwide, sets n…"
+        },
+        {
+            "company": {
+                "display_name": "Cisco Systems",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data and Analytics Solution Architect - Supply Chain  Digital Twin",
+            "created": "2026-01-10T00:22:39Z",
+            "latitude": 12.95703,
             "location": {
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "created": "2025-12-19T08:57:55Z",
-            "id": "5548134842",
-            "redirect_url": "https://www.adzuna.in/land/ad/5548134842?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=14F98EC37D8DC666EEDCF9C514017FE542FEEC6D",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTM0ODQyIn0.yxaz2AqFQV6ptgPCsgGgJAo1oalugNekHE_0X2ID8CU",
+            "id": "5576318872",
             "category": {
+                "label": "IT Jobs",
                 "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "company": {
-                "display_name": "Shell Recharge Solutions",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Shell Recharge Solutions is seeking a Senior Database Engineer! The ideal candidate is an integral part of a fast-paced development team that builds an integrated product suite of Enterprise applications in the EV Charging network domain. The Candidate will participate in the technical design of database SQL queries for new products, as well as review and tuning database queries in existing products. This candidate works closely with rest of cross-functional team to produce design documents, im…",
             "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job"
+            "description": "Meet the Team Join Cisco's modern Manufacturing Data & Analytics team, a group of innovators dedicated to transforming manufacturing operations through data-driven digital twin solutions. This team collaborates closely with business architects, engineers, and manufacturing leaders to deliver actionable insights, process optimization, and measurable value across global supply chain and manufacturing environments. We are passionate about demonstrating sophisticated analytics, integration, and sim…",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/details/5576318872?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2MzE4ODcyIn0.Nv5cBD_VoWdZbRQ6NOC0dyqUW7dXtBZK9xS4kxRUip0"
         },
         {
-            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "latitude": 12.95703,
+            "id": "5576294110",
             "location": {
-                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576294110?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.59837,
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2Mjk0MTEwIn0.DNDf62qsHZYIrdBTWUUdHlhr09W1bGTgVPKQMVuzN5w",
+            "description": "Senior Full Stack Engineer (Golang / Python) This role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office. Who We Are: Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our cul…",
+            "company": {
+                "display_name": "Hewlett Packard Enterprise",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Full Stack Engineer (Golang / Python)",
+            "created": "2026-01-10T00:20:35Z"
+        },
+        {
+            "created": "2026-01-10T00:19:58Z",
+            "title": "Data and Analytics Solution Architect - Digital Twins  AI/ML",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cisco Systems"
+            },
+            "description": "Meet the Team Join Cisco's modern Manufacturing Data & Analytics team, a group of innovators dedicated to redefining manufacturing operations through data-driven digital twin solutions. This team collaborates closely with business architects, engineers, and manufacturing leaders to deliver actionable insights, process optimization, and measurable value across global supply chain and manufacturing environments. We are passionate about demonstrating sophisticated analytics, integration, and simul…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjI4NzQ4MCIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.1syFuhtu7CwT4v98B_Xl43O3Ku5Otfc2b5nBCtYYPlg",
+            "contract_time": "full_time",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/details/5576287480?utm_medium=api&utm_source=d58ac19b",
+            "id": "5576287480",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "company": {
+                "display_name": "TJX Global Capability Center",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Staff Engineer-Data Engineering",
+            "created": "2026-01-10T00:17:26Z",
+            "id": "5576262728",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "description": "TJX Companies At TJX Companies, every day brings new opportunities for growth, exploration, and achievement. You’ll be part of our vibrant team that embraces diversity, fosters collaboration, and prioritizes your development. Whether you’re working in our four global Home Offices, Distribution Centers or Retail Stores—TJ Maxx, Marshalls, Homegoods, Homesense, Sierra, Winners, and TK Maxx, you’ll find abundant opportunities to learn, thrive, and make an impact. Come join our TJX family—a Fortune…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2MjYyNzI4In0.Npwx4jsGOL3Ct-3Ob5_FXpHM2yNkU1tG8IqDrZ_G5nQ",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576262728?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjIzODI3MSIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.rKXkw1RGh3feB6BfnE3_oaxZN51RBiqXUi22OHUahik",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576238271?utm_medium=api&utm_source=d58ac19b",
+            "description": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people wh…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5576238271",
+            "created": "2026-01-10T00:15:33Z",
+            "title": "Data Centre Linux & HW Engineer, Data Center Operations",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon"
+            }
+        },
+        {
+            "created": "2026-01-09T11:27:43Z",
+            "title": "Engineering Manager, Data Collection Technology",
+            "company": {
+                "display_name": "Morningstar",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1NDg4MjQxIn0.W7eH_DRJ7nK36svomXdhmAtK6qTGJv4lYi2BexlEkng",
+            "redirect_url": "https://www.adzuna.in/details/5575488241?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 73.02,
+            "description": "Job Overview As an Engineering Manager, you will play a pivotal role in enabling a stream-aligned team focused on delivering a successful migration of datasets to a newly architected and designed pipeline. You will work closely with the Lead Software Development Engineer to ensure the team is empowered, autonomous, and aligned with business outcomes. Your leadership will be both strategic and hands-on, contributing directly to the codebase using Java and React.js, while fostering a high-perform…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "display_name": "Navi Mumbai, Maharashtra"
+            },
+            "id": "5575488241",
+            "latitude": 19.02
+        },
+        {
+            "company": {
+                "display_name": "UnitedHealth Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Software Engineering Lead - React JS",
+            "created": "2026-01-09T08:37:59Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5575182516",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 12.95703,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTgyNTE2In0.M9xgzq8gs9HLcmF-DQ4WC_zsV6TGjsnZTbGd9KooJEw",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5575182516?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=94C67FD3EA79E30D27BD69A5F78B776D8BE07471",
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE4MjE1NyIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.oVFAVdHn1nO3B6c1O8Rz8J1XrOXkVEElOGu6Sr9hxuY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575182157?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=D7A350315CDEE34D86E3047C4E6F5AF4377D47F9",
+            "longitude": 78.50806,
+            "description": "Staff Software Engineer - Customer Developer Tools (CDT) Our Company Teradata is the connected multi-cloud data platform for enterprise analytics. Our enterprise analytics solve business challenges from start to scale. Only Teradata gives you the flexibility to handle the massive and mixed data workloads of the future-today. The Teradata Vantage architecture is cloud-native, delivered as-a-service, and built on an open ecosystem. These design features make Vantage the ideal platform to optimize…",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5575182157",
+            "location": {
                 "area": [
                     "India",
                     "Telangana",
                     "Hyderabad"
                 ],
+                "display_name": "Hyderabad, Telangana",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "title": "Azure Database Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTUzODc1NDM5In0.ZrnCCW-cocX1Nomk5L2vJEZfQ_TbO53yh-L7W2Oe368",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "longitude": 78.50806,
-            "created": "2025-12-24T10:20:10Z",
-            "id": "5553875439",
-            "redirect_url": "https://www.adzuna.in/land/ad/5553875439?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=25BF70BB9656C2A7B8028AB77572412556BFCF09",
+            "latitude": 17.40275,
+            "title": "Staff Software Engineer",
+            "created": "2026-01-09T08:37:47Z",
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Talent Corner HR Services Pvt Ltd"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Responsibilities: Oversee the maintenance, performance, and security of SQL databases. Conduct regular database optimization, tuning, and indexing. Implement and enforce database security measures. Manage database access, roles, and permissions. Managing data pipelines and integrations Develop and maintain backup and recovery strategies. Troubleshoot and resolve database issues. Apply database updates, patches, and upgrades. Assist in data modeling and database design. Database integration from…"
+                "display_name": "Teradata",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
         },
         {
             "company": {
-                "display_name": "Saransh Inc",
+                "display_name": "Safran",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "description": "Job Title: DB Automation Specialist (Terraform | Ansible | On-Prem | Databases) Location: Only Hyderabad Experience: 8 Years Employment Type: Contract to Hire Notice: Immediate -20 Days About the Role We are looking for a DB Automation Specialist with strong experience in automating end-to-end database provisioning across on-premise infrastructure (90%) and cloud IaaS environments . The ideal candidate will have deep knowledge of Terraform, Ansible, CI/CD , and hands-on expertise with PostgreSQ…",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2026-01-09T08:35:35Z",
+            "title": "Indirect Purchasing Buyer M/F",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Logistics & Warehouse Jobs",
+                "tag": "logistics-warehouse-jobs"
+            },
             "salary_is_predicted": "0",
-            "title": "Senior Database Engineer",
             "location": {
-                "display_name": "Hyderabad, Telangana",
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
                     "Telangana",
                     "Hyderabad"
-                ]
+                ],
+                "display_name": "Hyderabad, Telangana"
             },
+            "id": "5575176390",
             "latitude": 17.40275,
-            "contract_type": "contract",
-            "id": "5537384602",
-            "created": "2025-12-11T09:27:14Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5537384602?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=B6D90FEA2E4895DA5D655820B471592F8277CD6E",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTc2MzkwIn0.25S4l8mJiPhzezN-aPS50yPxHRPYPEJIGQXGlxcGbNQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575176390?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=3EE43BE2807C9824D16A626B33EC47DAD39F9B7D",
             "longitude": 78.50806,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM3Mzg0NjAyIn0.YHfCluiAe4Mbg2Gw-770DdE-6r49TN5DiwNWlvGofyE"
+            "description": "Indirect Purchasing Buyer M/F Vacancy details General information Entity Safran is an international high-technology group, operating in the aviation (propulsion, equipment and interiors), defense and space markets. Its core purpose is to contribute to a safer, more sustainable world, where air transport is more environmentally friendly, comfortable and accessible. Safran has a global presence, with 100,000 employees and sales of 27.3 billion euros in 2024, and holds, alone or in partnership, wo…"
         },
         {
+            "title": "Principal Technical Account Manager - OCI",
+            "created": "2026-01-09T08:35:08Z",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Adamas Tech Consulting"
+                "display_name": "Oracle"
             },
-            "description": "We are seeking an experienced Senior MySQL Developer to architect, develop, and maintain databases for a large-scale, highly complex ERP system , where 90% of the application logic is implemented in MySQL . The ideal candidate should have the capability to independently own and manage the complete database environment , ensuring high performance, scalability, and reliability. Key Responsibilities Architect, design, and maintain robust, scalable, and secure database structures to support complex…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUHA3clgtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTc1NDY2In0.G3L0HdgyxxUGc5IOfdKUUmmUg53YvHqEDH7zE9iV73Y",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575175466?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=05583EFA11699A52C0C9B9E648041B0630AE65C3",
+            "description": "Job Description Technical Account Manager (TAM) Our Team Oracle Customer Success Services (CSS) enable organizations to leverage their Oracle investments to extend into the cloud with greater value, choice, and confidence. Oracle delivers enterprise-grade, end-to-end managed cloud services across its broad portfolio of business applications, middleware, database, and hardware technologies. Oracle Customer Success Services (CSS) has industry-leading expertise with the highest customer satisfacti…",
             "salary_is_predicted": "0",
-            "title": "Senior MySQL Developer / Database Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5575175466"
+        },
+        {
+            "longitude": 73.84735,
+            "redirect_url": "https://www.adzuna.in/land/ad/5575173646?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=CBBE5CB1DC89CC4AEBB3E3895DFD9E29D99DC61B",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE3MzY0NiIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.j1FHE1jGmkE-EecUDXgEVpRI6-Bh4KjyzBANebmPMdA",
+            "description": "Our Purpose _Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we're helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest po…",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 18.5062,
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5575173646",
+            "created": "2026-01-09T08:33:34Z",
+            "title": "Senior Platform Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mastercard"
+            }
+        },
+        {
+            "created": "2026-01-09T08:33:05Z",
+            "title": "Data Engineer-Data Warehouse",
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5575173047?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=C37D9A95140CDC512B57A897D1390234A0F1DABF",
+            "longitude": 88.34373,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE3MzA0NyIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.Tv9KSvHRJf8KjfubEsxnS-nskBJpb6MWXm0UgCMi6rM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Introduction In this role, you'll work in one of our IBM Consulting Client Innovation Centers (Delivery Centers), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world. Our delivery centers offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology Your role and responsibilities As an Software Developer at IBM you will harness the power of data to unveil captivating stor…",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "consultancy-jobs",
+                "label": "Consultancy Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
             "latitude": 22.57285,
             "location": {
                 "display_name": "Kolkata, West Bengal",
@@ -193,1290 +1419,70 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5546576954?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9AC3C2B9B47C56B2B722EF2B7FDB2AB4E8DAC93A",
-            "created": "2025-12-18T08:41:35Z",
-            "id": "5546576954",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "longitude": 88.34373,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ2NTc2OTU0In0.7XgKuJk62XG-DbzNwPiFdWgXtXcS0X3RLCQ7Ll-LG7U"
+            "id": "5575173047"
         },
         {
-            "contract_type": "contract",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "SQL Database engineer (6 yrs experience)",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTYwNzExMTQxIn0.gtWfgz3Kdx2BAPVOssOUkK4WD06FwP-6c-f9xYz3jvU",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5560711141?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=FE15527D1CDD6F69F128AE1D0F94B9905014C693",
-            "created": "2025-12-31T10:34:14Z",
-            "id": "5560711141",
-            "company": {
-                "display_name": "Lean IT Inc.",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
+            "description": "The Mechanical Design Engineer II role at Honeywell is an exciting opportunity to understand, work and deliver the Product Stewardship environmental compliance goals from HTS Madurai, India. The specialist should be capable of decision making, identifying, and addressing supplier questions or queries to meet internal requirements, must possess a positive attitude, proactive mindset and high attention to detail. This role which is a part of Honeywell Sustainability Center of Excellence (CoE) req…",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575169613?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=B43A1DF0E41DFE70F881526E9A27B7C41481B323",
+            "longitude": 78.1158,
             "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Title: Senior SQL Database Engineer Experience: 5 - 6yrs Location- Remote Hire Type: Contract Shift Timing : 3:30 AM - 12:30 PM Job Description The Junior SQL Database Engineer supports the development, maintenance, and optimization of SQL-based database systems. This entry-level role focuses on backend database tasks, query development, and assisting with data integration processes. Key Responsibilities ● Develop and maintain SQL Server databases, including writing queries and stored procedure…"
-        },
-        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2OTYxMyIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.hEaXc2BCUG3EhI9q5reBU8aKauKOUD-kJrySj3AxM0A",
+            "latitude": 9.91051,
             "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "title": "Database Engineer II- (Python,SQL,Automation)",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODAwNjEwNSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.NmwB4z0IvEt5bv2K_p--rTUeJC18ofJeCQFraND-blw",
-            "redirect_url": "https://www.adzuna.in/land/ad/5528006105?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=5F0C1A10B83A8FAB1237142A237C6F67EB0E7EEF",
-            "created": "2025-12-05T01:16:57Z",
-            "id": "5528006105",
-            "company": {
-                "display_name": "Tekion Corp",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "As a Database Engineer II at Tekion , you will design, automate, and optimize database operations across our cloud-native automotive retail platform connecting OEMs, dealerships, partners, and consumers. This role requires strong expertise in Python, SQL/PL-SQL, JavaScript (for MongoDB) , and data structures & algorithms , with a deep focus on problem-solving and automation . Exposure to AI/ML technologies is a plus. Key Responsibilities Python Automation (Primary Focus): Develop reliable and r…"
-        },
-        {
-            "title": "Database Site Reliability Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5560708961?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=A51AFA5A6A9331A8C3F998468EB46C8867C42DAD",
-            "id": "5560708961",
-            "created": "2025-12-31T10:31:47Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcwODk2MSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.tc0F-jWn5Sul3_1nrPLRvfFhpL8Q_1GZX_JQYyF4hTM",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "display_name": "Whitefield Careers",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Required Skills & Expertise: Strong hands-on experience with Oracle GoldenGate setup and configuration. Proven expertise in GoldenGate performance tuning and optimization. Experience working with connectors for Oracle, SQL Server, and PostgreSQL databases. Solid understanding of database replication concepts and data consistency. Ability to analyze, troubleshoot, and resolve complex replication issues.",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcwODkwOSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.ezHMjLmwRIXy1u9pP8lCRhW92Xs_UxcFX39924ww1lg",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "id": "5560708909",
-            "created": "2025-12-31T10:31:43Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5560708909?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=F7E903DD90134D8BBF1F8465F709AB9E4FA1E291",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "title": "Database Site Reliability Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Required Skills Proven expertise in managing and setting up open-source SQL and NoSQL databases (StarRocks, ClickHouse, Druid, Cassandra, etc.). Deep understanding of active-active architectures for high availability. Strong knowledge of database backup and restoration processes. Experience with Prometheus and Grafana for monitoring and observability. Hands-on experience with Kafka, EMR, and Kubernetes-based deployments.",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Whitefield Careers"
-            }
-        },
-        {
-            "latitude": 13.06041,
-            "location": {
-                "display_name": "Chennai, Tamil Nadu",
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
                     "Tamil Nadu",
-                    "Chennai"
-                ]
-            },
-            "title": "Senior Software Engineer - Database Test Specialist",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI4MDE1NjYzIn0.LrNL6sFbQh_OTpg2JZB_kBy78z-DsUNMd1YOVBI2DHA",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "longitude": 80.24963,
-            "id": "5528015663",
-            "created": "2025-12-05T01:32:31Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5528015663?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=F0AFF75AEDF83EC4B34FB3533EC7AC4A6776B0CD",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "D3MINDS"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Database Specialist - Unified Testing & Performance D3Minds | Chennai, India | In-Office (Full-Time) About the Role Are you a seasoned database expert with a passion for automation, quality assurance, and system resilience ? Join our dynamic team at D3Minds in Chennai and become the primary specialist for implementing, extending, and championing our cutting-edge unified testing framework. This role is critical in helping our enterprise clients deliver faster, safer, and more reliable database r…"
-        },
-        {
-            "company": {
-                "display_name": "HG Insights",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "At HG Insights, we lead the way in technology intelligence, delivering AI-driven insights through advanced data science and scalable big data architecture. We're searching a strong DevOps to support and manage complex cloud operations and database systems. With the recent acquisitions of MadKudu and TrustRadius, we’ve created an agentic GTM ecosystem that eliminates manual handoffs, guesses, and siloed signals and we need a strategic seller to take it to market. Job Overview Seeking a Staff/ Se…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Staff/Senior DevOps Engineer (Database focused)",
-            "latitude": 18.5062,
-            "location": {
-                "display_name": "Pune, Maharashtra",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ]
-            },
-            "id": "5553879576",
-            "created": "2025-12-24T10:22:20Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5553879576?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=77CFD730037078E06956D12EF8FB20AFD3F12B47",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1Mzg3OTU3NiIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.-thdqeElI8ISiWgFiky3dUW_94XY05oszSczk6lcEUE",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "longitude": 73.84735
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyNDYyMTgxMiIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.AiK_Xvzlm5SvTeqGZLK9hpsViHBbK7VyFUPo3LmMMi0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "longitude": 77.3225,
-            "redirect_url": "https://www.adzuna.in/land/ad/5424621812?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=04322CE262F2FCE5CFD3981B4F2F3814697DC938",
-            "created": "2025-10-01T21:05:32Z",
-            "id": "5424621812",
-            "contract_type": "permanent",
-            "latitude": 28.56579,
-            "location": {
-                "area": [
-                    "India",
-                    "Uttar Pradesh",
-                    "Ghaziabad",
-                    "Noida"
+                    "Madurai"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Noida, Ghaziabad"
+                "display_name": "Madurai, Tamil Nadu"
             },
-            "title": "Software Engineer - Distributed Systems & Database Internals",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Software Engineer - Distributed Systems & Database Internals_Full-Time,Permanent_Noida Job Title: Software Engineer - Distributed Systems & Database Internals Job Type: Full-Time, Permanent Location: Noida Experience: 2 years Job Description: Roles: * Software Engineer(2 years of experience) - Core development, optimization, and system-level debugging of distributed systems. What We’re Looking For: * B.Tech/M.Tech in Computer Science or related fields. * 2 years of hands-on experience in Python…",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Best Infosystems Ltd."
-            }
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Role: Sr. Snowflake Developer Experience Range: 5 years to 8 years Location : Bangalore / Hyderabad / Delhi / Chennai Must Have: Need strong Snowflake Developer with 5-6 years of experience in SQL Development and Data Analysis required to develop a new complex data warehouse. In-depth knowledge of Aws Cloud services At least 3 full years of recent Snowflake development experience Hands-on experience with Snowflake utilities, SnowSQL, SnowPipe, Able to administer and monitor Snowflake computing …",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Tata Consultancy Services"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcxMjAyMSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.R9fn_37S4deZAA8AaweA3jTU_cKfai5vDLBY83Pmv1A",
+            "id": "5575169613",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5560712021?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=027BBF8E3D4067EE6FE3A8BA5F1201150F317DDF",
-            "created": "2025-12-31T10:35:20Z",
-            "id": "5560712021",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "TCS hiring for Sr. Snowflake Developer role for Bangalore / Hyderabad / Delhi / Chennai Location"
-        },
-        {
-            "company": {
-                "display_name": "NTT America, Inc.",
-                "__CLASS__": "Adzuna::API::Response::Company"
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
             },
             "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Database Engineer Database to join our team in Bangalore, Karnataka (IN-KA), India (IN). Key Responsibilities: - Develop and maintain the enterprise data dictionary across data domains, platforms, and business units. - Collaborate with data engineers, analysts, and busines…",
-            "latitude": 12.95703,
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Database Engineer Database",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQyODA2NTM4In0.nJvgYuf4BlXWLYS_y0nSUXTQnMSow-mygBNu64S4in0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "longitude": 77.59837,
-            "created": "2025-12-15T11:34:06Z",
-            "id": "5542806538",
-            "redirect_url": "https://www.adzuna.in/details/5542806538?utm_medium=api&utm_source=d58ac19b"
-        },
-        {
+            "created": "2026-01-09T08:27:27Z",
+            "title": "Mech Design Engr II",
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Spero"
-            },
-            "description": "Job Title: Database Engineer Summary: We are seeking a Database Engineer to join our IT department. The ideal candidate will have 1-2 years of experience in database management and development. The Database Engineer will be responsible for designing, implementing, and maintaining database systems to ensure optimal performance and data integrity. Roles and Responsibilities: - Design, develop, and implement database solutions to meet business needs - Monitor and optimize database performance - Tr…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "title": "Database Engineer",
-            "location": {
-                "display_name": "Pune, Maharashtra",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ]
-            },
-            "latitude": 18.5062,
-            "id": "5142645048",
-            "created": "2025-04-13T02:50:36Z",
-            "redirect_url": "https://www.adzuna.in/details/5142645048?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTE0MjY0NTA0OCIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.TD1N4M9zZxr2eKm5TVj0tTseeCluJZFjfZKhaqUNnsI",
-            "longitude": 73.84735,
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            }
-        },
-        {
-            "location": {
-                "display_name": "Hyderabad, Telangana",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 17.40275,
-            "title": "Database Engineer",
-            "longitude": 78.50806,
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MTA5MDYzOSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.-0Zr3gIOHQq_EVnuVbV1eKy0cyHxEUtiBbKmVPVyS9o",
-            "id": "5491090639",
-            "created": "2025-11-12T01:16:25Z",
-            "redirect_url": "https://www.adzuna.in/details/5491090639?utm_medium=api&utm_source=d58ac19b",
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "ADCI HYD 13 SEZ",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Amazon Fulfillment Technologies & Robotics - Central Support Team is currently looking for a Database Engineer position for it’s Hyderabad, India office to design, develop and manage the persistence solutions that serve and support FTR needs. Database engineer will be part of the worldwide operations and responsible for designing, managing and maintaining highly complex, confidential, mission critical and high availability databases in a dynamic and fast paced environment. Key job responsibilit…"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Description Amazon Fulfillment Technologies & Robotics - Central Support Team is currently looking for a Database Engineer position for it’s Hyderabad, India office to design, develop and manage the persistence solutions that serve and support FTR needs. Database engineer will be part of the worldwide operations and responsible for designing, managing and maintaining highly complex, confidential, mission critical and high availability databases in a dynamic and fast paced environment. Key job r…",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Amazon"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU2MTk2Nzk0In0.T4Yrjp3uWjJBd2WdAvWEg89FT2Srh-qwaUgE5XV_PFo",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "longitude": 78.50806,
-            "redirect_url": "https://www.adzuna.in/details/5556196794?utm_medium=api&utm_source=d58ac19b",
-            "id": "5556196794",
-            "created": "2025-12-26T11:28:36Z",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana"
-            },
-            "latitude": 17.40275,
-            "title": "Database Engineer"
-        },
-        {
-            "company": {
-                "display_name": "Amazon",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Description Amazon Fulfillment Technologies & Robotics - Central Support Team is currently looking for a Database Engineer position for it's Hyderabad, India office to design, develop and manage the persistence solutions that serve and support FTR needs. Database engineer will be part of the worldwide operations and responsible for designing, managing and maintaining highly complex, confidential, mission critical and high availability databases in a dynamic and fast paced environment. Key job r…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "title": "Database Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana"
-            },
-            "latitude": 17.40275,
-            "id": "5491218020",
-            "created": "2025-11-12T04:08:28Z",
-            "redirect_url": "https://www.adzuna.in/details/5491218020?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "longitude": 78.50806,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDkxMjE4MDIwIn0.NcOPxINHkiNZ6Mr1BeQw6_VFeti1luLNpfFCEUWH510"
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "Demandbase",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "About Demandbase company The world’s largest and fastest-growing companies such as Accenture, Adobe, DocuSign and Salesforce rely on Demandbase to drive their Account-Based Marketing strategy and maximize their B2B marketing performance. We pioneered the ABM category nearly a decade ago, and today we lead the category as an indispensable part of the B2B MarTech stack. Our achievements and innovation would not be possible without the driven and collaborative teams here at Demandbase. As a compan…",
-            "salary_max": 3000000,
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "title": "Database Engineer",
-            "salary_min": 1500000,
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzI2MjE1NTE3NSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.g-XZPv5S_n2dtklKiN5lHLOsI5NS3yi2YSHsRvHhjWY",
-            "id": "3262155175",
-            "created": "2022-06-26T06:20:49Z",
-            "redirect_url": "https://www.adzuna.in/details/3262155175?utm_medium=api&utm_source=d58ac19b"
-        },
-        {
-            "description": "Database Engineer Our company: At Teradata, we believe that people thrive when empowered with better information. That's why we built the most complete cloud analytics and data platform for AI. By delivering harmonized data, trusted AI, and faster innovation, we uplift and empower our customers-and our customers' customers-to make better, more confident decisions. The world's top companies across every major industry trust Teradata to improve business performance, enrich customer experiences, a…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "display_name": "Teradata",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5560670693?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-12-31T09:36:25Z",
-            "id": "5560670693",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDY3MDY5MyIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.5I52YxWGg9-2Qv0PUCPIys3d9-j_1xQaQDYlpfy2-6c",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "longitude": 78.50806,
-            "title": "Database Engineer",
-            "latitude": 17.40275,
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana"
-            }
-        },
-        {
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "title": "Database Engineer",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2OTA0NjQ4MSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.JpAP7ZY8PugP5Sghrh8bX-KuDl9UQnsHhUNl0tUO8B0",
-            "created": "2025-10-29T11:07:53Z",
-            "id": "5469046481",
-            "redirect_url": "https://www.adzuna.in/details/5469046481?utm_medium=api&utm_source=d58ac19b",
-            "company": {
-                "display_name": "Teradata",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Database Engineer Our company: At Teradata, we believe that people thrive when empowered with better information. That's why we built the most complete cloud analytics and data platform for AI. By delivering harmonized data, trusted AI, and faster innovation, we uplift and empower our customers-and our customers' customers-to make better, more confident decisions. The world's top companies across every major industry trust Teradata to improve business performance, enrich customer experiences, a…"
-        },
-        {
-            "title": "Database Engineer",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5211779115?utm_medium=api&utm_source=d58ac19b",
-            "id": "5211779115",
-            "created": "2025-05-23T06:51:56Z",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1MjExNzc5MTE1In0.GP4BMD4qe75BIEuY-wkTNLtgm-7bmyvwc1Ce1pKZMKg",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Wissen Technology"
-            },
-            "contract_time": "full_time",
-            "description": "Job Title: Database Engineer Location: Bangalore, Karnataka Company: Wissen Technology Experience: 5-7 Years Joining Period: Immediate candidates, Currently Serving, 15-20 days ONLY About Us: Wissen Technology is a global leader in technology consulting and development. We specialize in delivering top-notch solutions for Fortune 500 companies across various industries. Join us to work on cutting-edge projects in a collaborative and innovative environment. Key Responsibilities: Develop and maint…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job"
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "Barclays",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Job Description Purpose of the role To build and maintain infrastructure platforms and products that support applications and data systems, using hardware, software, networks, and cloud computing platforms as required with the aim of ensuring that the infrastructure is reliable, scalable, and secure. Ensure the reliability, availability, and scalability of the systems, platforms, and technology through the application of software engineering techniques, automation, and best practices in inciden…",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "title": "Database Engineer",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1MzE1NTQ1MDI5In0.JmKvxQNb6vMgPWzhFukCx5-Mr0E5gIKod8Pe_tlodRE",
-            "redirect_url": "https://www.adzuna.in/details/5315545029?utm_medium=api&utm_source=d58ac19b",
-            "id": "5315545029",
-            "created": "2025-07-22T02:32:54Z"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Our product is centered around lots of data being processed, ingested and read efficiently. The underlying systems need to provide capabilities update and ingest data on the order of billions of records on a daily basis. Complex analytics queries need to run on 10s of billions of rows where a single query that can potentially touch 100 million rows needs to finish in interactive SLAs. All of this processing happens on data with several 100s of dimensions and tens of thousands of metrics. This l…",
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "CutShort Team",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOjE1NjE2NzI1Mjh9.BUfH6Yuz9SLihYyEcmLvGmL0LDgWXoDelOfGYcJdet8",
-            "created": "2020-06-02T21:46:06Z",
-            "id": 1561672528,
-            "redirect_url": "https://www.adzuna.in/details/1561672528?utm_medium=api&utm_source=d58ac19b",
-            "salary_max": 4500000,
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "salary_min": 3000000,
-            "title": "Database Engineer"
-        },
-        {
-            "title": "Database Engineer",
-            "latitude": 12.98005,
-            "location": {
-                "display_name": "C.V.Raman Nagar, Bangalore",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore",
-                    "C.V.Raman Nagar"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5491753498?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-11-12T16:11:01Z",
-            "id": "5491753498",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDkxNzUzNDk4In0.O-vLNLwm505hRUdGeKnXtHsl5CN47YMzxNbcro0Uf28",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "longitude": 77.67971,
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Jeppesen ForeFlight Careers"
-            },
-            "contract_time": "full_time",
-            "description": "Key Responsibilities Design, implement, and maintain secure, scalable, and highly available databases across on-prem, cloud, and hybrid environments. Manage the full database lifecycle, including provisioning, maintenance, patching, upgrades, and decommissioning. Architect and manage backup, recovery, and disaster recovery strategies to ensure business continuity. Monitor and optimize database performance through tuning, query optimization, and indexing strategies. Automate operational tasks su…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "About MoEngage: MoEngage is an insights-led customer engagement platform trusted by 1,350 global consumer brands, including McAfee, Flipkart, Domino’s, Nestle, Deutsche Telekom, and OYO. MoEngage combines data from multiple sources to help brands gain a 360-degree view of their customers. MoEngage Analytics arms marketers and product owners with insights into customer behavior. Brands can leverage MoEngage Personalize to orchestrate journeys and build 1:1 conversations across the website, mobil…",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "MoEngage"
-            },
-            "longitude": 77.5822,
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1MTM5NjQxODAzIn0.t25H3IdSkJaczarIV0RSZCC98gylKkoOfs1iFZprJG4",
-            "redirect_url": "https://www.adzuna.in/details/5139641803?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-04-11T02:03:07Z",
-            "id": "5139641803",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore",
-                    "Cahmrajendrapet"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Cahmrajendrapet, Bangalore"
-            },
-            "latitude": 12.96745,
-            "title": "Database Engineer"
-        },
-        {
-            "salary_max": 1200000,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "title": "Database Engineer",
-            "salary_min": 700000,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxNzI1MzUzOTQ5LCJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyJ9.dk-KwlVcevA5YhJan3dXt_4upP_5Lmr0nsPfWZ66vVA",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/details/1725353949?utm_medium=api&utm_source=d58ac19b",
-            "id": 1725353949,
-            "created": "2020-09-26T02:00:00Z",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "XL Recruiters"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Roles and responsibilities: 1. To strive for continuous improvement of both technical and business knowledge 2. Engage proactively with stakeholders and other cross-functional team members in the development of IT solutions 3. Ensure new database code meets company standards for readability,reliability and performance 4. Passionate about technology and applying it to business solutions 5. Work closely with business The Ideal Candidate: 1. 3-6 years development experience with SQL SERVER / MySQL…"
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "We are seeking a visionary yet deeply technical Associate Vice President – Data Analytics to lead the design, development, and evolution of enterprise data architecture with a particular emphasis on database engineering , data warehousing , and data integrity to enable corporate reporting and AI technology solutions . This role will drive scalable, secure, and integrated solutions that empower business leaders with actionable insights, enable AI-driven innovation, and ensure data consistency ac…",
-            "company": {
-                "display_name": "Vensure Employer Solutions",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 77.3225,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjEwNTg0OCIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.BsBF7sEwKC1ArwaoIsgNgnnX7hh43nezaTdG5E7HE2Q",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "created": "2025-12-07T10:27:06Z",
-            "id": "5532105848",
-            "redirect_url": "https://www.adzuna.in/land/ad/5532105848?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=106D5AEA322E8390AD5D75DCFFDCAFA23522D07F",
-            "location": {
-                "display_name": "Noida, Ghaziabad",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Uttar Pradesh",
-                    "Ghaziabad",
-                    "Noida"
-                ]
-            },
-            "latitude": 28.56579,
-            "title": "Associate Vice President – Data Analytics"
-        },
-        {
-            "longitude": 77.59837,
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQyODA2NTQ3In0.jwFZuBiVQanPO_lqUywN4Ga4Qj83WQ4ZV-j4sM3J2zY",
-            "id": "5542806547",
-            "created": "2025-12-15T11:34:07Z",
-            "redirect_url": "https://www.adzuna.in/details/5542806547?utm_medium=api&utm_source=d58ac19b",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "latitude": 12.95703,
-            "title": "Sr.Database Engineer Database",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Sr.Database Engineer Database to join our team in Bangalore, Karnataka (IN-KA), India (IN). Job Responsibilities: - Configuration, maintenance and monitoring of PostgreSQL , Cosmos and similar databases in cloud preferably azure cloud . - Administer and manage Databricks w…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "NTT America, Inc."
-            }
-        },
-        {
-            "title": "SDE III - AI Software Engineer- RAG- Vector Database",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "created": "2026-01-01T08:41:01Z",
-            "id": "5561944071",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561944071?se=dmCRz9Dm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=1C44BECCC63589C0BB982DB5713D0CA002310F81",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTYxOTQ0MDcxIn0.xcy2i3FTK3-GIdrcgXX6hcH8d-ZNMuZZajP8q3PP7m0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "CareerXperts Consulting"
-            },
-            "description": "What You’ll Do Architect, build, and scale agentic RAG and text-to-SQL copilots supporting 50K daily queries , delivering 99.9% uptime , low latency, and high semantic accuracy. Design, operate, and continuously optimize a production-grade LLMOps platform , leveraging LangGraph, LangSmith, MLflow, Kubernetes, async inference , and leading cloud LLM providers such as AWS Bedrock, Google Vertex AI, Azure OpenAI, and Anthropic . Develop and own MCP server integrations , ensuring reliable, efficien…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "company": {
-                "display_name": "Oracle",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time",
-            "description": "Description About the Role The SaaS Tools and Innovation (TINNO) team is seeking a Senior Database Engineer (IC4) to design, build, and operate systems supporting SaaS license usage measurement, renewals insights, adoption tracking, and reporting. This role directly influences Oracle’s SaaS ecosystem by enabling actionable insights that drive renewals, customer success, and long-term product growth. We are looking for an engineer with deep expertise in database and data engineering, combined wi…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "title": "Principal Database Engineer",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana"
-            },
-            "latitude": 17.40275,
-            "redirect_url": "https://www.adzuna.in/details/5516190699?utm_medium=api&utm_source=d58ac19b",
-            "id": "5516190699",
-            "created": "2025-11-27T22:33:38Z",
-            "longitude": 78.50806,
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNjE5MDY5OSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.vz10m2Ltg3Yww3N3_GE1LXcI65U1k18kRIoWBf-Q8jg"
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "MyDBOPS",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Job Description For Database Engineer Job Title : Database Engineer(MySQL) Company : Mydbops About Us: As a seasoned industry leader for 8 years in open-source database management, we specialise in providing unparalleled solutions and services for MySQL, MariaDB, MongoDB, PostgreSQL, TiDB, Cassandra, and more. At Mydbops, we are committed to providing exceptional service and building lasting relationships with our customers. Mydbops takes pride in being a PCI DSS-certified and ISO-certified com…",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "salary_max": 700000,
-            "title": "Database Engineer (MySQL)",
-            "salary_min": 600000,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDAwOTQ4MjQ3In0.J37uYzP2rYA9ePHkeXKAOLb1_5ZJOMrdas6QHdAUl4A",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "id": "5400948247",
-            "created": "2025-09-16T06:33:43Z",
-            "redirect_url": "https://www.adzuna.in/details/5400948247?utm_medium=api&utm_source=d58ac19b"
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "NorthBay Solutions",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Position: Database Engineer (Migration) Location: Lahore / Karachi / Islamabad (Hybrid) Experience: 3 Years of Relevant Experience Salary Range: PKR 250,000 – 350,000 per month About the Role NorthBay is seeking skilled Database Engineers with hands-on experience in database management, administration, and migrations . The ideal candidate will possess in-depth knowledge of database engines, schema design, and performance optimization — with a focus on migrating databases across platforms such a…",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "title": "Database Engineer (Migration)",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDYzODk3MTk2In0.v9OkDw9T52QiA1fE_C9MvQ_-SVib8wIOyPMvQzArens",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5463897196?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-10-25T15:06:42Z",
-            "id": "5463897196"
-        },
-        {
-            "description": "Job Title : Lead Database Engineer Location : Gurgaon Sector-43 Experience Required : 4 Years Employment Type : Full-Time Summary : We are seeking a highly skilled Lead Database Engineer with expertise in managing and optimizing database systems, primarily focusing on Amazon Aurora PostgreSQL, MySQL, and NoSQL databases. The ideal candidate will have in-depth knowledge of AWS services, database architecture, performance tuning, and security practices. Key Responsibilities : 1. Database Administ…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "display_name": "NeoGenCode Technologies Pvt Ltd",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time",
-            "id": "4967834431",
-            "created": "2024-12-08T13:00:53Z",
-            "redirect_url": "https://www.adzuna.in/details/4967834431?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI0OTY3ODM0NDMxIn0.zuVQsPFbwDTe1XLDTzKvGbbwTElOxOGS6MyBnvC9kmY",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "salary_min": 100000,
-            "title": "Lead Database Engineer",
-            "salary_max": 1500000,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            }
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Job Description As a Database Engineer at UST with 4 to 8 years of experience you will be responsible for handson NoSQL Database migrations You should have experience in migrating databases from AWS to Azure and be proficient in working with Azure Cosmos DB MongoDB and PostgreSQL on Azure Additionally you will be involved in Oracle to PostgreSQL migration projects Effective communication skills are essential for this role Key Responsibilities Handson experience in NoSQL Database migrations Expe…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "UST"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDczMzM5MTUxIn0.tvGlGY3bxk3VGWsp5iExtkKEYV7978lQgBNPLAiB-gg",
-            "longitude": 77.0037,
-            "redirect_url": "https://www.adzuna.in/details/5473339151?utm_medium=api&utm_source=d58ac19b",
-            "id": "5473339151",
-            "created": "2025-11-01T02:09:47Z",
-            "location": {
-                "area": [
-                    "India",
-                    "Kerala",
-                    "Thiruvananthapuram"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Thiruvananthapuram, Kerala"
-            },
-            "latitude": 8.38159,
-            "title": "Database Engineer Lead"
-        },
-        {
-            "company": {
-                "display_name": "Jellyfish Technologies",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time",
-            "description": "Interpersonal Skills : - Communicate and coordinate effectively across multiple internal teams and external contractors. - Prioritize and deliver results effectively on concurrent projects in a fast-paced team-oriented environment. Database Development Skills : - Write and review MSSQL code and queries used in standard database objects (functions, stored procedures, triggers, and views) and queries generated by application. - Automate, document, and demonstrate routine tasks and processes. - Co…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "salary_min": 800000,
-            "location": {
-                "display_name": "Noida, Ghaziabad",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Uttar Pradesh",
-                    "Ghaziabad",
-                    "Noida"
-                ]
-            },
-            "latitude": 28.56579,
-            "created": "2022-04-27T05:35:25Z",
-            "id": "3081711129",
-            "longitude": 77.3225,
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "title": "Database Engineer-MySQL",
-            "salary_max": 1500000,
-            "redirect_url": "https://www.adzuna.in/details/3081711129?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiIzMDgxNzExMTI5In0.YL4qi70ZqY4swL7CJYCZ2r2k7FKxmkjUcQZhe8wVgAU"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/details/5493326608?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-11-13T16:47:14Z",
-            "id": "5493326608",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MzMyNjYwOCIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.yHqnDUJYC9aktbgBgpQUFAeX8IWCIVqYITXhuV2lGPk",
-            "title": "Database Engineer(PostgreSQL",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "description": "Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the world around us. As a Fortune 500 company and a leading AI platform for managing people, money, and agents, we’re shaping the future of work so teams can reach their potential and focus on what matters most. The minute you join, you’ll feel it. Not just in the products we build, but in how we show up for each other. Our culture is rooted in integrity, empathy, and shared enthus…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "display_name": "Workday",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time"
-        },
-        {
-            "id": "4989076451",
-            "created": "2024-12-25T13:13:53Z",
-            "redirect_url": "https://www.adzuna.in/details/4989076451?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI0OTg5MDc2NDUxIn0.z3zDzo3_XCM3PDE2Dr6b4H-THYeBfEAXZxDKK90ZwKk",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "title": "Lead Database Engineer",
-            "salary_min": 500000,
-            "salary_max": 1200000,
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "description": "Position: Lead Database Engineer Experience: 3 Years Mandatory Skills: Amazon Aurora PostgreSQL, MySQL, NoSQL, AWS RDS, DMS, Performance Tuning, Replication Strategies, Query Optimization Job Description: Database Administration: Manage and administer Amazon Aurora PostgreSQL, MySQL, and NoSQL databases, ensuring high availability, performance, and security. AWS Expertise: Proficient in AWS services such as RDS, Aurora, and DMS, with a strong understanding of cloud database architectures. Optim…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "display_name": "NeoGenCode Technologies Pvt Ltd",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/details/5553752523?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-12-24T05:59:27Z",
-            "id": "5553752523",
-            "longitude": 73.84735,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTUzNzUyNTIzIn0.w8PQ_7zCUOTQ8__-tYBr4S07Kyzk9AfBL-JkOsV2mr8",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "title": "IT Database Engineer",
-            "contract_type": "permanent",
-            "location": {
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Pune, Maharashtra"
-            },
-            "latitude": 18.5062,
-            "description": "Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the worl…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Rockwell Automation"
-            },
-            "contract_time": "full_time"
-        },
-        {
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "IT Database Engineer",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NDM4NzMxOSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.HDNNU-ZIJeI-CKUEEnFm5G8l59sOeX2EjdSZnY1uNn4",
-            "id": "5554387319",
-            "created": "2025-12-25T00:22:34Z",
-            "redirect_url": "https://www.adzuna.in/details/5554387319?utm_medium=api&utm_source=d58ac19b",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Rockwell Automation"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the worl…"
-        },
-        {
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM5ODUxMzg2In0.lgFgkueIetZAKZKhI9CmKxiemTCEZPyL_Zk3mKEutcc",
-            "longitude": 78.50806,
-            "redirect_url": "https://www.adzuna.in/details/5539851386?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-12-13T00:18:56Z",
-            "id": "5539851386",
-            "latitude": 17.40275,
-            "location": {
-                "display_name": "Hyderabad, Telangana",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Database Engineer - Snowflake",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Description Are you ready to make an impact at DTCC? Do you want to work on innovative projects, collaborate with a dynamic and supportive team, and receive investment in your professional development? At DTCC, we are at the forefront of innovation in the financial markets. We are committed to helping our employees grow and succeed. We believe that you have the skills and drive to make a real impact. We foster a thriving internal community and are committed to creating a workplace that looks li…",
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "DTCC",
+                "display_name": "Honeywell",
                 "__CLASS__": "Adzuna::API::Response::Company"
             }
         },
         {
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Lead Database Engineer",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU0NDMzOTk1In0.2m5hLAiJAE-o-Lc2PRjnjMHBjLGARChs9wnvgXRfE0E",
-            "redirect_url": "https://www.adzuna.in/details/5554433995?utm_medium=api&utm_source=d58ac19b",
-            "created": "2025-12-25T00:25:26Z",
-            "id": "5554433995",
-            "contract_time": "full_time",
             "company": {
-                "display_name": "Jonas Software",
+                "display_name": "Eaton Corporation",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
+            "created": "2026-01-09T08:26:54Z",
+            "title": "Senior Engineer - PLM",
             "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Job Description: COMPANY We are a division of Jonas Software, Inc. which is the valued technology partner of over 80,000 customers worldwide in more than 15 countries. Jonas employs over 2,700 skilled individuals consisting of a cross-section of industry experts and technology professionals. Jonas is headquartered in Canada and operates offices throughout North America, South America, the United Kingdom, Europe, Australia and New Zealand. Jonas is a 100% owned subsidiary of Constellation Softwa…"
-        },
-        {
-            "title": "Sr. Database Engineer",
-            "salary_min": 1800000,
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "salary_max": 2000000,
-            "redirect_url": "https://www.adzuna.in/details/2853928404?utm_medium=api&utm_source=d58ac19b",
-            "id": "2853928404",
-            "created": "2022-01-30T04:34:34Z",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiIyODUzOTI4NDA0In0.53HW5AUXuKdx_CpPx98-DRBlA0Xh77exCok-NbuWmeY",
-            "company": {
-                "display_name": "Multi Recruit",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time",
-            "description": "Expertise in Database Administration on Production Servers with server configuration, performance tuning, and maintenance with outstanding troubleshooting capabilities in Cloud – AWS / Azure. Efficient in Architecting, Configuring, Maintaining, Monitoring, Troubleshooting SQL Servers. Strong understanding of SQL database structures, principles, and practice Strong experience handling Backups, Restores, Corruption, and Disaster Recovery scenarios. Experience in installing and configuring SQL Ser…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "created": "2022-02-08T04:44:13Z",
-            "id": "2877593881",
-            "redirect_url": "https://www.adzuna.in/details/2877593881?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjg3NzU5Mzg4MSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.HF9GcGnjRvyx-2QWfr3kBIGV-gAqRXRoRKThcJATv5A",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
             },
-            "title": "MySQL Database Engineer",
-            "salary_min": 800000,
-            "salary_max": 1400000,
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "description": "Job Overview - Dhwani is looking for an experienced (5-10 years) MySQL database administrator who will be responsible for ensuring the performance, availability, and security of clusters of MySQL instances. The person will also be responsible for orchestrating upgrades, backups, and provisioning database instances. He/She will also work in tandem with the other teams, preparing documentation and specifications as required. Job Responsibilities 1. Provision MySQL instances, both in clustered and…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "display_name": "Dhwani Rural Information Systems",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time"
-        },
-        {
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "longitude": 72.84415,
-            "id": "4066883975",
-            "created": "2023-04-28T10:13:55Z",
+            "latitude": 18.5219,
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
                     "Maharashtra",
-                    "Mumbai"
+                    "Pune",
+                    "Hadapsar"
                 ],
-                "display_name": "Mumbai, Maharashtra"
+                "display_name": "Hadapsar, Pune"
             },
-            "latitude": 19.00821,
-            "salary_min": 800000,
+            "id": "5575168044",
+            "redirect_url": "https://www.adzuna.in/land/ad/5575168044?se=Pp7rX-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=945BCC98D59C16CAA1EFC0A6545B63006387E310",
+            "longitude": 73.95314,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTE2ODA0NCIsInMiOiJQcDdyWC1QdDhCRzRjSi1CR2tZUFNnIn0.d3v0svKMSX7DUi5n0ZiXVQw4eiOfZlVb4zLEaXpwEBY",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Job Description ▪ You are responsible for setting up, operating, and monitoring LS system solutions on premise and in the cloud ▪ You are responsible for the analysis and long-term elimination of system errors ▪ You provide support in the area of ​​information and IT security ▪ You will work on the strategic further development and optimize the platform used ▪ You will work in a global, international team requirement profile ▪ You have successfully completed an apprenticeship / degree in the fi…",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "LS Spectrum Solutions Private Limited"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI0MDY2ODgzOTc1In0.a255jMj3m9m9oilOXUlmucKQnv-trerCqgP7-HAEqKw",
-            "redirect_url": "https://www.adzuna.in/details/4066883975?utm_medium=api&utm_source=d58ac19b",
-            "salary_max": 1500000,
-            "title": "Database Engineer - PostgreSQL"
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Jobdost"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Preferred Education & Experience: Bachelor’s or master’s degree in Computer Engineering, Computer Science, Computer Applications, Mathematics, Statistics or related technical field or equivalent practical experience. Relevant experience of at least 3 years in lieu of above if from a different stream of education. Well-versed in and 5 years of hands-on demonstrable experience with: ▪ Data Analysis & Data Modeling ▪ Database Design & Implementation ▪ Database Performance Tuning & Optimization ▪ P…",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "salary_max": 2000000,
-            "salary_min": 1000000,
-            "title": "Sr. Database Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjc4MjQyODMzNSIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.H3dTDDOoQLg66-grOZX7oIrp8visUICc7kdRHCrGKSc",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "created": "2022-01-02T04:29:01Z",
-            "id": "2782428335",
-            "redirect_url": "https://www.adzuna.in/details/2782428335?utm_medium=api&utm_source=d58ac19b"
-        },
-        {
-            "created": "2025-04-11T01:52:46Z",
-            "id": "5139633321",
-            "redirect_url": "https://www.adzuna.in/details/5139633321?utm_medium=api&utm_source=d58ac19b",
-            "longitude": 77.5822,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG1DUno5RG04QkdOS2ZJLUhQUndidyIsImkiOiI1MTM5NjMzMzIxIn0.s1P9sjIDV3OnBAqwhjdZn5nEAB-HFd5TVBvq5TAERXc",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "title": "Senior Database Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore",
-                    "Cahmrajendrapet"
-                ],
-                "display_name": "Cahmrajendrapet, Bangalore"
-            },
-            "latitude": 12.96745,
-            "description": "About MoEngage: MoEngage is an insights-led customer engagement platform trusted by 1,350 global consumer brands, including McAfee, Flipkart, Domino’s, Nestle, Deutsche Telekom, and OYO. MoEngage combines data from multiple sources to help brands gain a 360-degree view of their customers. MoEngage Analytics arms marketers and product owners with insights into customer behavior. Brands can leverage MoEngage Personalize to orchestrate journeys and build 1:1 conversations across the website, mobil…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "MoEngage"
-            },
-            "contract_time": "full_time"
-        },
-        {
-            "description": "About Tekion: Positively disrupting an industry that has not seen any innovation in over 50 years, Tekion has challenged the paradigm with the first and fastest cloud-native automotive platform that includes the revolutionary Automotive Retail Cloud (ARC) for retailers, Automotive Enterprise Cloud (AEC) for manufacturers and other large automotive enterprises and Automotive Partner Cloud (APC) for technology and industry partners. Tekion connects the entire spectrum of the automotive retail eco…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "display_name": "Tekion",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "created": "2025-12-18T00:34:18Z",
-            "id": "5546006860",
-            "redirect_url": "https://www.adzuna.in/details/5546006860?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjAwNjg2MCIsInMiOiJkbUNSejlEbThCR05LZkktSFBSd2J3In0.2QZM4Isp7dTUl0Gp3VSJYPbX7YcRnBt4oq42LHzpHoI",
-            "longitude": 77.59837,
-            "title": "Database Engineer II",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "latitude": 12.95703
+            "description": "What you'll do: EIIC Engineering functional excellence organization is aligned to CTO's strategy to drive \"One Eaton Engineering Functional Excellence\". Charter of this organization is to simplify & create better work experiences for our Engineers by transforming existing engineering work processes. EIIC functional excellence organization will work with global Engineering Functional Excellence(EFE) leaders in CTO's office, Electrical and Industrial Sector businesses. This organization will be r…"
         }
-    ]
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 2705000
 }

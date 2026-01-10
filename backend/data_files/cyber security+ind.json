@@ -1,66 +1,366 @@
 {
-    "mean": 1319866.67,
-    "count": 145,
+    "count": 48,
     "results": [
         {
             "title": "Cyber Security Engineer",
-            "created": "2025-12-19T08:58:31Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEzNjI5OSIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.MMv1LZ2fvZOv8qxVSdxMwxOLTJBlFsSSaEFFwgtzktY",
-            "id": "5548136299",
-            "description": "Hi, Hiring for one of our client based in Mumbai, Job Title : Cyber Security Engineer Experience : 5 years Salary Bracket : upto 9 LPA Location : Andheri East,Mumbai Job Description: Cyber Security Engineer We are seeking a proactive Cyber Security Engineer to develop, implement, and manage organizational cyber security policies and controls. The role involves overseeing security audits and compliance initiatives, managing vendor and third-party risk, and ensuring alignment with industry regula…",
+            "created": "2026-01-10T08:34:35Z",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Eaglehires HR Solutions Pvt Ltd"
+                "display_name": "Cyber Heals"
             },
-            "longitude": 72.84415,
+            "description": "Role Description The Cybersecurity Engineer will play a critical role in strengthening and operating the client’s security operations program, with strong emphasis on Fortinet firewall administration , ISO 27001 compliance , continuous monitoring using Wazuh SIEM , and end-to-end Vulnerability Assessment & Penetration Testing (VAPT). The role ensures a multi-layered, proactive security posture across infrastructure, applications, and cloud environments. While Security Operations is the primary …",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273330?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=F8B39ABF5A6EE49ACF58FEBDAB98B96C0B204285",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjczMzMwIn0.Bs5TFnwMCSms67bYUll4Tf3lMoCfuleK2zHDQ7iejug",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5577273330",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2026-01-10T08:33:39Z",
+            "title": "Automation/Senior Software Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HSBC"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5577272724?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=050FB066B8F111C3DDFDA9A33F9903EA6F8E8BC7",
+            "longitude": 78.50806,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MjcyNCIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.K-VAXGRBcVh_lqPbU-3hMgkORSOB1xTHzKljUIR9WYo",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Automation/Senior Software Engineer Brand: HSBC Area of Interest: Technology Location: Hyderabad, TG, IN, 500032 Work style: Hybrid Worker Date: 7 Dec 2025 Some careers shine brighter than others If you're looking for a career that will help you stand out, join HSBC, and fulfil your potential Whether you want a career that could take you to the top, or simply take you in an exciting new direction, HSBC offers opportunities, support and rewards that will take you further HSBC is one of the large…",
             "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5548136299?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=004A79DA4D87836AE9896C5F3F7717E174995BF8",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
+                "label": "IT Jobs",
+                "tag": "it-jobs"
             },
-            "latitude": 19.00821,
+            "latitude": 17.40275,
             "location": {
                 "area": [
                     "India",
-                    "Maharashtra",
-                    "Mumbai"
+                    "Telangana",
+                    "Hyderabad"
                 ],
-                "display_name": "Mumbai, Maharashtra",
+                "display_name": "Hyderabad, Telangana",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "__CLASS__": "Adzuna::API::Response::Job"
+            "id": "5577272724"
         },
         {
+            "title": "Principal Software Engineer",
+            "created": "2026-01-10T08:15:48Z",
+            "company": {
+                "display_name": "Akamai Technologies, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Ready to architect and build the security technologies that protect the world's largest web applications? Do you want to lead the development of cutting-edge Web Application Firewall solutions that defend against sophisticated cyber threats? Join our AAP Hybrid Team Our team is at the heart of the Application Security organization, building the core technologies that power Akamai's industry-leading security products. We protect some of the world's most critical internet infrastructure and major…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1NjU2MSIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.my0RvsPSzF4_9LF1AwgfNgQTv7Wwd-G_er9zGZ4_ZKk",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256561?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=67E20C5277B9CE8101DEF132A865E68D385C5CA4",
+            "id": "5577256561",
             "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cisco Commerce India"
+            },
+            "created": "2026-01-10T00:50:29Z",
+            "title": "Solutions Engineer - Cyber Security",
+            "latitude": 12.95703,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
+                ]
+            },
+            "id": "5576593653",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Meet the Team You will be part of an outstanding technical pre-sales team in our Global Security Sales Organization (GSSO), responsible for driving the success of Cisco's Security Portfolio and focusing on protecting Customer Application Environments across on-prem and cloud platforms. Our mission is to democratize security by making it easy and effective for everyone. Your Impact As a key player in the team, you will have the opportunity to influence the security landscape by crafting tailored…",
+            "redirect_url": "https://www.adzuna.in/details/5576593653?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.59837,
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTkzNjUzIn0.rzrm4RiDSG4f7Li5mjJplovT5QyewRob5pJwwttFiUs"
+        },
+        {
+            "title": "Cyber Security-Engineer I",
+            "created": "2026-01-10T00:49:15Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FICO"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTg2MjI2In0.RKK5KEoh3HtCDJaAtP6G1ZukzhDWgbgZdvL33r_jfgk",
+            "redirect_url": "https://www.adzuna.in/details/5576586226?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.59837,
+            "description": "FICO (NYSE: FICO) is a leading global analytics software company, helping businesses in 100 countries make better decisions. Join our world-class team today and fulfill your career potential! The Opportunity \"We are seeking a proactive and technically skilled Cyber Security Engineer II to join our Data Protection & AI Operations team. In this role, the focus on safeguarding critical business and customer data, protecting AI systems, and maintaining security compliance across cloud and SaaS envi…",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5576586226",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 12.95703
+        },
+        {
+            "created": "2026-01-10T00:35:04Z",
+            "title": "TA Specialist, GTC - Hyderabad",
+            "company": {
+                "display_name": "A3R0-GTCI",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NDg1MjQ4In0.-h7QraL_GNljwtLkSrUesMGkTHyR0Nl4iiojZyQDNFk",
+            "redirect_url": "https://www.adzuna.in/details/5576485248?utm_medium=api&utm_source=d58ac19b",
+            "description": "The Talent Acquisition Specialist will play a critical role in driving Goodyear's talent acquisition strategy for the Global Capability Centre in Hyderabad. This individual will leverage their experience in tech recruiting to identify, attract, and hire top-tier talent for critical roles across a variety of technical domains, including software engineering, data science, IT infrastructure, cybersecurity, and digital transformation. The successful candidate will have a strong understanding of th…",
+            "category": {
+                "tag": "hr-jobs",
+                "label": "HR & Recruitment Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5576485248",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576250481?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjI1MDQ4MSIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.49mI4CFKH18ZIwQaM4QJRwdD9SzwI9-qCTBj-htGDDM",
+            "description": "Meet the Team You will be part of an outstanding technical pre-sales team in our Global Security Sales Organization (GSSO), responsible for driving the success of Cisco’s Security Portfolio and focusing on protecting Customer Application Environments across on-prem and cloud platforms. Our mission is to democratize security by making it easy and effective for everyone. Your Impact As a key player in the team, you will have the opportunity to influence the security landscape by crafting tailored…",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "id": "5576250481",
+            "location": {
+                "display_name": "Delhi, India",
+                "area": [
+                    "India",
+                    "Delhi"
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5548137595?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=BA9BFBC4597C5F211C80E521B209385E300C6E67",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ4MTM3NTk1In0.Cw_80KRP5NiRDBhvX7MD_BoetfMdWJwKga-3AafzBB0",
-            "created": "2025-12-19T08:58:59Z",
-            "description": "Vulnerability Management Engineer Key Responsibilities Conduct vulnerability scans, analyze reports, and validate potential fi ndings; contribute to process improvements; and documentation. Configure and manage vulnerability scanners for both VM and Container (Kubernetes) environments, including their integration into eBay’s software development lifecycle. Track and guide Vulnerability remediation efforts across the organization. Escalate issues and problems when needed. Coordinate PCI-DSS vuln…",
+            "created": "2026-01-10T00:16:24Z",
+            "title": "Solutions Engineer - Cyber Security",
             "company": {
-                "display_name": "ACL Digital",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "id": "5548137595",
-            "title": "Cyber Security Engineer"
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cisco Commerce India"
+            }
         },
         {
+            "created": "2026-01-10T00:12:50Z",
+            "title": "Solutions Engineer - Cyber Security",
+            "company": {
+                "display_name": "Cisco Commerce India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2MjAyNTM1In0.G10mVQ6NmYAzZMkoF_35gBJz4STeFPhoSqBJM0Vm1iY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576202535?utm_medium=api&utm_source=d58ac19b",
+            "description": "Meet the Team You will be part of an outstanding technical pre-sales team in our Global Security Sales Organization (GSSO), responsible for driving the success of Cisco’s Security Portfolio and focusing on protecting Customer Application Environments across on-prem and cloud platforms. Our mission is to democratize security by making it easy and effective for everyone. Your Impact As a key player in the team, you will have the opportunity to influence the security landscape by crafting tailored…",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Delhi, India",
+                "area": [
+                    "India",
+                    "Delhi"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576202535"
+        },
+        {
+            "created": "2026-01-09T08:19:43Z",
+            "title": "Cyber Security Engineer",
+            "company": {
+                "display_name": "Awign Expert",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Title: Platform Engineer Experience: 6 years Shift : General Shift , Cab facility is available Mode of work: 5 days - work from office. Design and develop detection rules and policies to identify cybersecurity threats across a wide range of platforms and technologies. Lead the design, development, and deployment of high-fidelity threat detection mechanisms across our diverse technology stack, including on-premise, cloud (AWS, Azure, GCP), and SaaS environments. Collaborate with security analyst…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTY0MTY0In0.mUKCfQjEQ3Q0JCIihFUnpYC-3U0IWtThT_mpN3QXbHI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/land/ad/5575164164?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=23FD8130DF4D5401064BA90BD2046250937454E3",
+            "id": "5575164164",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTEyNjc3NyIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.Od-fvEX_pqwDkDJ53Y9K78l-QA-BTQPXOJUp2FRvXeM",
+            "longitude": 88.34373,
+            "redirect_url": "https://www.adzuna.in/details/5575126777?utm_medium=api&utm_source=d58ac19b",
+            "description": "Summary Position Summary Cyber Deloitte Cyber understands the unique challenges and opportunities businesses face in cybersecurity. Join our team to deliver powerful insights to help our clients navigate the ever-changing threat landscape. Through powerful insights and managed services that simplify complexity, we enable businesses to operate with resilience, grow with confidence, and proactively manage to secure achievements. Position Summary Level: Solution Delivery Manager As a Manager at De…",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5575126777",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "display_name": "Kolkata, West Bengal"
+            },
+            "latitude": 22.57285,
+            "created": "2026-01-09T07:37:20Z",
+            "title": "USI-FY26-Cyber-Cyber Operate-Detect & Respond-SOC Manager",
+            "company": {
+                "display_name": "Deloitte",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Deloitte",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "USI-FY26-Cyber-CyberOperate-Detect & Respond-SA-SIEM Engineer",
+            "created": "2026-01-09T07:37:20Z",
+            "contract_type": "permanent",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5575126705",
+            "location": {
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "display_name": "Kolkata, West Bengal",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 22.57285,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTEyNjcwNSIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.SIncH0to9XSUlSFcbEL5-B4t9l3V3qHR1wGwkhR5EwU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "longitude": 88.34373,
+            "redirect_url": "https://www.adzuna.in/details/5575126705?utm_medium=api&utm_source=d58ac19b",
+            "description": "Summary Position Summary Cyber Deloitte Cyber understands the unique challenges and opportunities businesses face in cybersecurity. Join our team to deliver powerful insights to help our clients navigate the ever-changing threat landscape. Through powerful insights and managed services that simplify complexity, we enable businesses to operate with resilience, grow with confidence, and proactively manage to secure achievements. Position Summary Level: Solution Delivery Advisor As an experienced …"
+        },
+        {
+            "latitude": 22.57285,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "display_name": "Kolkata, West Bengal"
+            },
+            "id": "5575126664",
+            "contract_type": "permanent",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "Summary Position Summary Cyber Deloitte Cyber understands the unique challenges and opportunities businesses face in cybersecurity. Join our team to deliver powerful insights to help our clients navigate the ever-changing threat landscape. Through powerful insights and managed services that simplify complexity, we enable businesses to operate with resilience, grow with confidence, and proactively manage to secure achievements. Position Summary Level: Solution Delivery Advisor As a Threat Hunter…",
+            "longitude": 88.34373,
+            "redirect_url": "https://www.adzuna.in/details/5575126664?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc1MTI2NjY0In0.koiDaAl6Ro0K-98FJCX7o44P9ZC0lmbfeS-o3o1nIKE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Deloitte",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-09T07:37:19Z",
+            "title": "USI-FY26-Cyber-CyberOperate-Detect & Respond-SA-Threat Hunt"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
             "location": {
                 "area": [
                     "India"
@@ -68,88 +368,150 @@
                 "display_name": "India",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
+            "id": "5574398948",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc0Mzk4OTQ4In0.zn3LGvH3ZURRLdCE3QG6qr9INriZzvaGA1E2M9Z-XhE",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5546577375?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=D97F6DF16E9389E9D78CDB76938D6629F08C2D23",
-            "salary_is_predicted": "0",
-            "id": "5546577375",
-            "description": "Candidates for this position are preferred to be based in Bangalore, India and will be expected to comply with their team's hybrid work schedule requirements. Who We Are: Wayfair leads e-commerce for all things home, driven by modern tech. We seek sharp thinkers who design scalable systems while keeping a startup mindset. Our culture values fast, data-driven innovation. We’re looking for an experienced security engineer with expertise in cloud-native architecture, legacy system hardening, and m…",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5574398948?utm_medium=api&utm_source=d58ac19b",
+            "description": "Job Description: About the Company: Join AT&T and reimagine the communications and technologies that connect the world. Our Chief Security Office ensures that our assets are safeguarded through truthful transparency, enforce accountability and master cybersecurity to stay ahead of threats. Bring your bold ideas and fearless risk-taking to redefine connectivity and transform how the world shares stories and experiences that matter. When you step into a career with AT&T, you won’t just imagine th…",
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Wayfair"
+                "display_name": "AT&T",
+                "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "created": "2025-12-18T08:41:39Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjU3NzM3NSIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.szsxViGnYoh792gEHDpqey2mW45vMCoyNOkemU2DI5s",
-            "title": "Senior Cyber Security Engineer"
+            "created": "2026-01-09T00:41:23Z",
+            "title": "Associate Director – Cyber Threat Analytics"
         },
         {
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5558016042?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=AD12C694FAABFFCD35C4F99F6B2819B6784E00F9",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc0MDQ3MDAzIn0.cHjHEqNRiS7kXNxu4UU5vKkNRuWbA_23BZFhflSO7KQ",
+            "redirect_url": "https://www.adzuna.in/details/5574047003?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 88.34373,
+            "description": "Summary Position Summary Cyber Deloitte Cyber understands the unique challenges and opportunities businesses face in cybersecurity. Join our team to deliver powerful insights to help our clients navigate the ever-changing threat landscape. Through powerful insights and managed services that simplify complexity, we enable businesses to operate with resilience, grow with confidence, and proactively manage to secure achievements. Position Summary Level: Solution Delivery Advisor As an End-Point De…",
+            "contract_type": "permanent",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "accounting-finance-jobs",
-                "label": "Accounting & Finance Jobs"
+                "tag": "it-jobs",
+                "label": "IT Jobs"
             },
+            "salary_is_predicted": "0",
+            "id": "5574047003",
             "location": {
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "display_name": "Kolkata, West Bengal",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 22.57285,
+            "created": "2026-01-08T23:41:42Z",
+            "title": "USI-FY26-Cyber-CyberOperate-Detect & Respond-SA-EDR",
+            "company": {
+                "display_name": "Deloitte",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Deloitte",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-08T23:41:42Z",
+            "title": "USI-FY26-Cyber-CyberOperate-Detect & Respond-SA-SOAR",
+            "latitude": 22.57285,
+            "location": {
+                "display_name": "Kolkata, West Bengal",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5574047016",
+            "contract_type": "permanent",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Summary Position Summary Cyber Deloitte Cyber understands the unique challenges and opportunities businesses face in cybersecurity. Join our team to deliver powerful insights to help our clients navigate the ever-changing threat landscape. Through powerful insights and managed services that simplify complexity, we enable businesses to operate with resilience, grow with confidence, and proactively manage to secure achievements. Position Summary Level: Solution Delivery Advisor As a SOAR Automati…",
+            "longitude": 88.34373,
+            "redirect_url": "https://www.adzuna.in/details/5574047016?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc0MDQ3MDE2In0.0sds_ac6bBaftZ4VZmw78E6ExRc98dZfpkp_H1gfAkw",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EY"
+            },
+            "created": "2026-01-08T11:27:08Z",
+            "title": "TC-CS-Cyber Architecture- OT and Engineering-Cloud Security -Senior",
+            "latitude": 22.57285,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "display_name": "Kolkata, West Bengal"
+            },
+            "id": "5573266728",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "At EY, we’re all in to shape your future with confidence. We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. Responsibilities: Implement WIZ/Prisma to secure cloud-native applications across containers, serverless environments, and VMs. Integrate security scans into CI/CD pipelines to enable DevSecOps best practices. Manage vulnerability detection, compliance checks, and ru…",
+            "longitude": 88.34373,
+            "redirect_url": "https://www.adzuna.in/details/5573266728?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MzI2NjcyOCIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.3gFSYiJ_CU5LWO192mY6IkILOTw4PgC4hNlvf7oOIuA"
+        },
+        {
+            "company": {
+                "display_name": "AT&T",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Sr Specialist Cybersecurity - Regulatory Compliance",
+            "created": "2026-01-08T08:19:59Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5572991495",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
                 ],
-                "display_name": "Bangalore, Karnataka",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Mjk5MTQ5NSIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.aT0oTcEfXeD3zxkzpdzBwR1fxCvubVcuY_eo26LKgwU",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Cyber Security Engineer - Senior",
-            "created": "2025-12-28T10:04:55Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU4MDE2MDQyIn0.lybw05QJZxJnaaurttZSevE4nnyUZA9vN0AbfdYlvns",
-            "id": "5558016042",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Spectral Consultants"
-            },
-            "description": " We’re Hiring | Cybersecurity Consultant (SOC Focus)  Spectral Consultants is hiring for one of the Top US Accounting & Tax Advisory firms for a Cybersecurity Consultant role. If you have hands-on experience in SOC control testing and exposure to ITGC & ITAC, this could be a great next step in your career!  Location: Bangalore  Experience: 3-6 years ⏳ Notice Period: Immediate Joiners are highly preferred  What we’re looking for: Experience in SOC /SOC 1 / SOC 2 control testing Working knowledge…"
+            "redirect_url": "https://www.adzuna.in/land/ad/5572991495?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=855564E771B93A4341C07B051A2A6778CDD223B1",
+            "description": "Job Description: Role: Senior Specialist - CSO International (APAC) About the Company: At AT&T, we're connecting the world through the latest tech and top-of-the-line communications. Our groundbreaking digital solutions provide intuitive and integrated experiences for millions of customers across online, retail and care channels. Join our mission to deliver compelling communication and entertainment experiences to customers around the world as we continue to evolve as a technology-powered, huma…"
         },
         {
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5560710933?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=73F8CE296C16A84D7B6F9E1EE6341AAD380064F2",
-            "salary_is_predicted": "0",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Cyber Security Engineer | Pune | Immediate",
-            "id": "5560710933",
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "DigiHelic Solutions Pvt. Ltd."
-            },
-            "description": "Job Description: Cyber Security Engineer Experience: 8 Years Location: Pune Role Overview: We are looking for an experienced Cyber Security Engineer with strong Windows core engineering expertise and deep knowledge of cybersecurity operations. The ideal candidate will have hands-on experience in endpoint security, threat detection, and incident response, along with strong communication skills. Key Responsibilities & Skills: Strong Windows Core Engineering skills Deep understanding of the cybers…",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcxMDkzMyIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.PdbLDzqRZESDaXSMcPmFW_qxM0-o4_NuFFjCO9jWfrE",
-            "created": "2025-12-31T10:34:08Z"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYxOTQ5ODA2In0.2nVLVC3qSN7FhZ-O6YRvk5qB_qbZ8aCB4sFXrC7YqfA",
-            "created": "2026-01-01T08:42:05Z",
-            "id": "5561949806",
-            "description": "Job Role: Adaptive AUTOSAR Cyber Security Engineer Experience: 5 to 12 Years Location: Bangalore Key Responsibilities Design, develop, and maintain C++ applications based on Adaptive AUTOSAR architecture Work on QNX RTOS–based automotive systems and middleware components Implement and integrate cyber security mechanisms across Adaptive AUTOSAR applications Apply PKCS 11 standards for cryptographic operations and secure key management Implement secure communication , secure storage, authenticati…",
-            "company": {
-                "display_name": "TekPillar®",
+                "display_name": "FICO",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "title": "Adaptive AUTOSAR & Cyber Security Engineer",
+            "title": "Cyber Security - Intern",
+            "created": "2026-01-08T00:34:53Z",
+            "latitude": 12.95703,
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -159,105 +521,303 @@
                 ],
                 "display_name": "Bangalore, Karnataka"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5572170192",
             "salary_is_predicted": "0",
+            "contract_type": "contract",
             "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs",
-                "label": "IT Jobs"
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5561949806?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=ECE1A9D03C1AE3B0BCD530717D1D9C30A74503CE"
+            "description": "FICO (NYSE: FICO) is a leading global analytics software company, helping businesses in 100 countries make better decisions. Join our world-class team today and fulfill your career potential! The Opportunity \"We are seeking interns for Automation and Development in our Cyber Security Team. This role will involve working on application and infrastructure automation using Python and Shell scripting within cloud environments. Interns will gain hands-on experience with APIs, cloud architecture, CI/…",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/details/5572170192?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTcyMTcwMTkyIn0.xLehvWTBg41x5VrE1hdA1PVwyn5BXQ55_0NBwmTi6No",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time"
         },
         {
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5558818996?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=3AFE755C7E426D32342D48325944FC1918B29F4F",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Navi Mumbai"
-                ],
-                "display_name": "Navi Mumbai, Maharashtra",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 19.02,
-            "title": "Senior Manager - Cyber Security Engineer",
+            "created": "2026-01-08T00:30:21Z",
+            "title": "Lead Information Security Engineer - Cyber Ops (DLP)",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "BDx Data Centers"
+                "display_name": "First Citizens India"
             },
-            "description": "Company Overview BDx is Asia’s fastest-growing data center platform, delivering colocation, build-to-suit, managed services, and interconnection solutions for hyperscalers, large enterprises, and AI customers. Operating across high-growth markets—including Indonesia, Hong Kong, Singapore, and Taiwan—BDx currently boasts 110 MW of contracted capacity, with a land bank scalable up to 750 MW. What sets BDx apart is our integration of AI-optimized infrastructure, energy-efficient design, and sovere…",
-            "longitude": 73.02,
-            "id": "5558818996",
-            "created": "2025-12-29T10:10:56Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODgxODk5NiIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.-W2bPvGk2BCUAT0kUKOKir6D9AAIq4csnhslAhGkonk"
+            "description": "FC Global Services India LLP (First Citizens India), a part of First Citizens BancShares, Inc., a top 20 U.S. financial institution, is a global capability center (GCC) based in Bengaluru. Our India-based teams benefit from the company’s over 125-year legacy of strength and stability. First Citizens India is responsible for delivering value and managing risks for our lines of business. We are particularly proud of our strong, relationship-driven culture and our long-term approach, which are dee…",
+            "redirect_url": "https://www.adzuna.in/details/5572123618?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTcyMTIzNjE4In0.WIC_NtV_Z4TSAMj1RFlP1QVHF2ZXW41DZkEntKasfXc",
+            "contract_time": "full_time",
+            "id": "5572123618",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
         },
         {
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5572020820",
             "location": {
-                "display_name": "Bangalore, Karnataka",
+                "display_name": "Chennai, Tamil Nadu",
                 "area": [
                     "India",
-                    "Karnataka",
-                    "Bangalore"
+                    "Tamil Nadu",
+                    "Chennai"
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
+            "latitude": 13.06041,
             "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5392036251?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=4E621095DF6765B7ABBDC70472A891C1FC7815FC",
             "category": {
-                "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5MjAzNjI1MSIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.P1iOj3iSCWvB5gdf77aGa_Ugw6wxB-bij6dy4xtiR2w",
-            "created": "2025-09-10T10:13:20Z",
-            "description": "About Us: MUFG Bank, Ltd. is Japans premier bank, with a global network spanning in more than 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments, and individuals worldwide. MUFG Banks parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the worlds leading financial groups. Headquartered in Tokyo and with over 360 years of history, the Group has about 120,000 employees and offers services…",
+            "description": "Job Description Summary As a Lead Cyber Security Engineer at GE Vernova Grid Solutions, you will play a crucial role in designing, implementing, and optimizing the cybersecurity requirement for EHV/HV substations (AIS/GIS/HVDC/FACTS/STATCOM/Onshore/Offshore/Renewable/etc.,) considering the safety/quality/Cost/time delivery criteria. In this role, you will be reporting directly to project and designated line manager, while as well indirectly reporting technically to the OT Engineering Cybersecur…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTcyMDIwODIwIn0.OupxvxVtbaV9JvJdng22UscXze4aYPcjKDDI6-uUvfY",
+            "redirect_url": "https://www.adzuna.in/details/5572020820?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 80.24963,
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "MUFG Global Service "
+                "display_name": "GE Vernova"
             },
-            "id": "5392036251",
-            "title": "ServiceNow Engineer"
+            "title": "Lead Engineer - Cyber Security",
+            "created": "2026-01-08T00:17:25Z"
         },
         {
-            "latitude": 19.17335,
+            "title": "Information Security Engineer II - Cyber Ops (DLP)",
+            "created": "2026-01-08T00:14:16Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "First Citizens India"
+            },
+            "description": "FC Global Services India LLP (First Citizens India), a part of First Citizens BancShares, Inc., a top 20 U.S. financial institution, is a global capability center (GCC) based in Bengaluru. Our India-based teams benefit from the company’s over 125-year legacy of strength and stability. First Citizens India is responsible for delivering value and managing risks for our lines of business. We are particularly proud of our strong, relationship-driven culture and our long-term approach, which are dee…",
+            "contract_time": "full_time",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MTk5NTc4NCIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.pVAOwzI-HMlwWcNY5_eTQu8jDWHCLLaTL-EJIieaHhs",
+            "redirect_url": "https://www.adzuna.in/details/5571995784?utm_medium=api&utm_source=d58ac19b",
+            "id": "5571995784",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MTQzNjExNyIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.MNKV5y8TsNBpFGdTKFaN6uFbvjOKkJp4v2WKgL4lOuM",
+            "redirect_url": "https://www.adzuna.in/details/5571436117?utm_medium=api&utm_source=d58ac19b",
+            "description": "About the Role : The IT Security Administrator is responsible for safeguarding the organisation’s information assets by monitoring, analysing, and responding to security threats across a wide range of security tools and platforms. This role plays a critical part in maintaining situational awareness, investigating security alerts, managing reported suspicious emails, and ensuring systems remain compliant with security standards and best practices. Working closely with the Senior Manager of IT Se…",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5571436117",
+            "title": "IT Security Administrator - India",
+            "created": "2026-01-07T20:35:11Z",
+            "company": {
+                "display_name": "Outsourced Pro Global",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "id": "5570922818",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "description": "Job Title: Cyber Security Engineer Location- Oman (Onsite) Experience- • 5 to 8 Years Overall IT Experience • 4 to 5 Years Network Security / Cyber Security Experience Required Qualifications & Skills • Accountable for Implementation & Technical Support (Post-Installation) to Clients for any Cyber Security brands like Palo Alto or Fortinet or Sophos etc. • Accountable for Implementation & Technical Support (Post-Installation) to Clients for leading Networking brands like Aruba or Cisco or Forti…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MDkyMjgxOCIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.l18VmZVDIWxKOAk64DH0wJwls2Rx1qd0_muR1skxBCI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5570922818?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=1A399C00518B526382F64EF8B0C85B4212D523C0",
+            "company": {
+                "display_name": "Leading IT Company in Oman",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Cyber Security Engineer",
+            "created": "2026-01-07T09:29:19Z"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5570598768",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MDU5ODc2OCIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.Sz_-Dnu209i-3JlLdwu07Tj9_wivaom-F_i1MCbL1Yo",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5570598768?utm_medium=api&utm_source=d58ac19b",
+            "description": "As a Senior Cyber Security Engineer you will play a crucial role in developing and implementing security measures to protect information systems and data Your responsibilities will include Security Infrastructure Design Developing and designing security architectures for complex systems and implementing solutions to protect information systems Implementation of Security Measures Deploying security technologies such as firewalls intrusion detection prevention systems antivirus software and encry…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Golden Hippo Technology Pvt Ltd"
+            },
+            "created": "2026-01-07T03:10:50Z",
+            "title": "Senior Cyber Security Engineer"
+        },
+        {
+            "created": "2026-01-06T22:35:19Z",
+            "title": "SDE-3 ( Android Developer)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Fullstack Academy"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTY5OTIwNDQ1In0.Xvnj1elBOLbThqXz9JeAfqZW2vN6x9Ibb2Q2DF_oUbk",
+            "redirect_url": "https://www.adzuna.in/details/5569920445?utm_medium=api&utm_source=d58ac19b",
+            "description": "Position: SDE-3- Android Native Mobile App Developer About Simplilearn : Simplilearn is the world’s 1 live online training company focused on digital skills. Founded in 2010, with offices in San Francisco, California, and Bangalore, India, and backed by the Blackstone Group, we drive talent transformation for over 500 global organizations, including Amazon, Bosch, Dell, and EY. We are disrupting the talent development market with our one-of-a-kind online subscription product, Simplilearn Learni…",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5569920445"
+        },
+        {
+            "latitude": 17.40275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "id": "5569442846",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Role: Manager Information Security (Release Management) Experience-8Yrs Location-Hyderabad Mandatory Skills- Cyber security & Security engineer, Release & Change Management, Vulnerability Management. Domain Expertise: Strong understanding of the insurance industry. Experience working with multiple vendors and global teams. Technical Skills: Proficient in tools like JIRA, ServiceNow, Fortify, and vulnerability management platforms. Basic knowledge of Java, Linux, and HTML. Skilled in running sca…",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/land/ad/5569442846?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=07EEF4926FBBB3BD562838E37F8EB1B0CABF6C8B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTY5NDQyODQ2In0.vz6m9KEhsHDcpXJ0V0Iv4uDEKJiDP_fMn4fjmgcIZCw",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Infosys BPM"
+            },
+            "title": "Manager- Information Security, Vulnerability and Risk Management)",
+            "created": "2026-01-06T09:37:35Z"
+        },
+        {
+            "company": {
+                "display_name": "EMBARKGCC SERVICES PRIVATE LIMITED",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-06T03:35:07Z",
+            "title": "Threat hunting",
+            "contract_type": "permanent",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 13.02182,
+            "id": "5568992258",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
-                    "Maharashtra",
-                    "Thane"
+                    "Karnataka",
+                    "Bangalore",
+                    "Fraser Town"
                 ],
-                "display_name": "Thane, Maharashtra"
+                "display_name": "Fraser Town, Bangalore"
             },
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5555201015?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=ECB3163EFE13A5A54323C7D32030FAD4593DEC28",
-            "created": "2025-12-25T13:36:28Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMTAxNSIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.0RCYPb1bug6WQyOSqmIa7eYTejJ3Htqo3cfXc0tTQKE",
-            "longitude": 73.04845,
-            "company": {
-                "display_name": "Forcepoint",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "This is a pre-sales engineering position where you will be working extremely closely with sales. You are expected to work as team to create and execute a territory / account plan. This includes building relationships with partners and ensuring they can position and implement our solutions. From a technology perspective we are looking for someone ideally with a Web, CASB, ZTNA and data protection security background, with experience on positioning security products on large customers. You will b…",
-            "id": "5555201015",
-            "title": "Sales Engineer"
+            "redirect_url": "https://www.adzuna.in/details/5568992258?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.60571,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2ODk5MjI1OCIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.gtNU6Ejwa-iRBl2sRHYUhzvqfq0lnOoWmPT1OHs9-LM",
+            "contract_time": "full_time",
+            "description": "Roles and Responsibilities – 1. Cyber Security Threat Hunter should have knowledge regarding advanced persistent threats (APT), cybercriminal groups, and hacktivist operations. 2. Candidate should have knowledge and experience working with the Cyber Kill Chain Model, Diamond Model or MITER ATT&CK Matrix. 3. The ability to track APT groups motives, analyse current security controls data logs and brief reporting for new ongoing cyber threat operations. 4. Candidate must also understand security v…"
         },
         {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5568402241",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Risk Management Level Manager Job Description & Summary At PwC, our people in cybersecurity focus on protecting organisations from cyber threats through advanced technologies and strategies. They work to identify vulnerabilities, develop secure systems, and provide proactive solutions to safeguard sensitive data. In cloud security at PwC, you will be responsible for designing, implementing and elevating the security posture acro…",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTY4NDAyMjQxIn0.1rPWlYvXmtlIoA55utHf12-aYesNvynDZZebufkdYHM",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5568402241?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PricewaterhouseCoopers"
+            },
+            "created": "2026-01-06T00:36:39Z",
+            "title": "IN_Manager_AI Security_Cyber Engineering & Automation_Advisory_Mumbai"
+        },
+        {
+            "id": "5568395411",
             "location": {
                 "display_name": "Chennai, Tamil Nadu",
                 "area": [
@@ -269,677 +829,55 @@
             },
             "latitude": 13.06041,
             "category": {
+                "tag": "it-jobs",
                 "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5555200696?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=CE8EC18D7B700A33CA6ED1543971097A4BC8393A",
             "salary_is_predicted": "0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Forcepoint"
-            },
-            "description": "This is a pre-sales engineering position where you will be working extremely closely with sales. You are expected to work as team to create and execute a territory / account plan. This includes building relationships with partners and ensuring they can position and implement our solutions. From a technology perspective we are looking for someone ideally with a Web, CASB, ZTNA and data protection security background, with experience on positioning security products on large customers. You will b…",
+            "description": "Location: Chennai, Tamil Nadu, India Job ID: R0110880 Date Posted: 2025-11-03 Company Name: HITACHI ENERGY TECHNOLOGY SERVICES PRIVATE LIMITED Profession (Job Category): Engineering & Science Job Schedule: Full time Remote: No Job Description: The opportunity: Penetration testing, vulnerability analysis, security risk management, security risk identification and mitigation, SQL injection, cryptography Encryption Standards and Products. How you’ll make an impact: You will work with Cybersecurity…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2ODM5NTQxMSIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.7U6D8wTopI9IbOjyAvVTxWNMTxIx8AiLFBur11p7HyQ",
+            "redirect_url": "https://www.adzuna.in/details/5568395411?utm_medium=api&utm_source=d58ac19b",
             "longitude": 80.24963,
-            "id": "5555200696",
-            "created": "2025-12-25T13:35:49Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU1MjAwNjk2In0.iNAFz-6RmGANXpItTJ_u2FGx0-T4mUz5EHz0w0NBq3Q",
-            "title": "Sales Engineer"
-        },
-        {
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546312732?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=C6F6213297FF5838C10F6CEAD2794960744CABAD",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "created": "2025-12-18T02:35:34Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxMjczMiIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.6ssWNefPgoP8BoqSy2m3QegoEdcfF5-O-p3_O2xEvw0",
-            "id": "5546312732",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Nykaa"
-            },
-            "description": "Job Title: Security Engineer III About Us: Nykaa is a leading e-commerce platform that combines fashion and technology to deliver a seamless shopping experience. To fortify our commitment to security, we are seeking a dedicated Cyber Security engineer to join our team. If you have a strong background in securing infrastructure and are passionate about protecting e-commerce platforms, we encourage you to apply. Job Overview : We are looking for a talented and forward-thinking Cybersecurity Engin…",
-            "title": "Information Security Manager"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/details/5505879430?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana"
-            },
-            "latitude": 17.40275,
-            "title": "Cyber Security Engineer",
-            "description": "Job Description Viprata Software Services Pvt Ltd is looking for a Cyber Security Engineer (Fresher) to join our growing security and infrastructure team. The candidate will work on monitoring, analyzing, and improving the security of our systems, networks, and applications under the guidance of senior team members. Key Responsibilities Monitor network and system security for threats, vulnerabilities, and incidents. Assist in implementation and maintenance of security tools (antivirus, firewall…",
-            "company": {
-                "display_name": "Viprata Software",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 78.50806,
-            "id": "5505879430",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTA1ODc5NDMwIn0.5kmusb21XWS1UfniNhAJGtxIIDJ0qUw5X-S3PMKY77E",
-            "contract_time": "full_time",
-            "created": "2025-11-21T01:13:30Z"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1MjgxOTE0NTc4In0.NzX5VzKON5n_XfWIhODsR-MDHST54jbVPcGmI-yQ2hc",
-            "created": "2025-07-03T20:35:11Z",
-            "id": "5281914578",
-            "company": {
-                "display_name": "Cybyrotek Solutions",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5281914578?utm_medium=api&utm_source=d58ac19b",
-            "title": "Cyber Security Engineer",
-            "salary_min": 2500000,
-            "contract_time": "full_time",
-            "longitude": 77.59837,
-            "description": " ⭐  We are hashtag Hiring : hashtag Cyber Security Engineer Job Title: Cyber Security Engineer Location: Bangalore (Hybrid), Experience: 7 Years Notice Period: Immediate to 15 Days Job Description: we are creating a new pool of resources in CyberLab. This pool will have Privacy & Security Representatives (PSR). There are PSR for each product in client side. The role of the PSR is like face of the product w.r.t. cybersecurity. They will create threat models, cybersecurity documentations, coordin…",
-            "salary_is_predicted": "0",
-            "salary_max": 3000000,
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "latitude": 12.95703,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job"
-        },
-        {
-            "salary_max": 600000,
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "salary_is_predicted": "0",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Surat, Gujarat",
-                "area": [
-                    "India",
-                    "Gujarat",
-                    "Surat"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 21.18955,
-            "salary_min": 100000,
-            "title": "Cyber Security Engineer",
-            "longitude": 72.8318,
-            "description": "The roles and responsibilities of a Cyber Security engineer include: • Evaluate the organization’s security needs and establish best practices and standards accordingly. • Designing, implementing, maintaining, overseeing, and upgrading all security measures needed to protect organizations’ data, systems, and networks. • Responding to all security breaches to the network and associated systems. • Troubleshooting all network and security issues and incidents. • Routinely conduct penetration testi…",
-            "contract_time": "full_time",
-            "redirect_url": "https://www.adzuna.in/details/2761646933?utm_medium=api&utm_source=d58ac19b",
-            "id": "2761646933",
-            "company": {
-                "display_name": "WEN",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "created": "2021-12-23T04:18:40Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiIyNzYxNjQ2OTMzIn0.nFYLfhY5a2iAq3cyqZUNfuWJZ66btp07V81oYTi_5go"
-        },
-        {
-            "title": "Cyber Security Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU0MjY3MDIwIn0.bW5OoSPlIYlA9ZKTZ3zRhkTASFco9NytfugWnkqnJMc",
-            "contract_time": "full_time",
-            "created": "2025-12-25T00:10:49Z",
-            "company": {
-                "display_name": "CSC",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Description Role: Cyber Security Engineer Location: Bangalore / Mumbai Department: Enterprise Technology Vacancy Type: Permanent Job Shift: 12PM IST – 9PM IST Mode: Hybrid Experience Range: 5 years Some of the things you’ll be doing: · Collaborate proactively with a global team, including cybersecurity leaders, developers, quality assurance, project management, and product management teams to deliver quality in a fast-paced environment. · Share your successes in standup meetings to keep the tea…",
-            "id": "5554267020",
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5554267020?utm_medium=api&utm_source=d58ac19b",
-            "contract_type": "permanent",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/details/5541113389?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
-            },
-            "title": "Cyber Security Engineer",
-            "description": "Description Title: Senior Cyber Security Engineer Location: Bangalore Working Schedule: 9AM – 7 PM /1 PM – 10 PM Working Model: Hybrid Intro: The role is accountable for safeguarding the integrity & security of Organization data. Requires a comprehensive understanding of multiple areas within a function and how they interact to achieve the objectives of the function. Some of the things you will be doing: Plan & Implement Layered based security posture Web-security Policy Management, Create, Imp…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "CSC"
-            },
-            "id": "5541113389",
-            "contract_time": "full_time",
-            "created": "2025-12-14T00:15:37Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQxMTEzMzg5In0.E1DA8w3pup54JQbstMz2vKGwwp4TQSu4xd72TtybRRI"
-        },
-        {
-            "id": "5531255798",
             "company": {
                 "display_name": "Hitachi",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "description": "Location: Chennai, Tamil Nadu, India Job ID: R0112151 Date Posted: 2025-12-02 Company Name: HITACHI ENERGY TECHNOLOGY SERVICES PRIVATE LIMITED Profession (Job Category): Engineering & Science Job Schedule: Full time Remote: No Job Description: The opportunity: Ensure the project delivered to customer is inline and complaint with the Hitachi Energy security requirement and Customer Security requirement. Make sure Hitachi Energy is protected from a legal and brand perspective with regards to Cybe…",
-            "longitude": 80.24963,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTI1NTc5OCIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.Ug4Vm1DsqPz3lfl3q45gomylWxPnOv8ttpMq8YD8aUA",
-            "contract_time": "full_time",
-            "created": "2025-12-06T23:03:25Z",
-            "title": "Cyber Security Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ],
-                "display_name": "Chennai, Tamil Nadu"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 13.06041,
-            "redirect_url": "https://www.adzuna.in/details/5531255798?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "salary_is_predicted": "0"
+            "title": "Senior Cyber Security Engineer- RISK Assestment VAPT",
+            "created": "2026-01-06T00:34:29Z"
         },
         {
-            "id": "4029385741",
+            "created": "2026-01-04T09:01:29Z",
+            "title": "Senior Application Development Cyber Security Engineer",
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "OYO Rooms"
-            },
-            "description": "About The Company - OYO Hotels & Homes is the world’s third largest and fastest-growing chain of leased and franchised hotels, homes & spaces managing over 1 million exclusive rooms across 800 cities and 80 countries. OYO was founded on the mission that everyone deserves a quality living and working space and we are very passionate about this mission. Technology and Innovation plays a critical role in this mission and therefore today we employ World Class engineers, product managers and designe…",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI0MDI5Mzg1NzQxIn0.Z0YNonePIBg0kiKn2dchRWizb7EPZjrljtHUMqymxOY",
-            "created": "2023-04-09T10:05:19Z",
-            "title": "Cyber Security Engineer",
-            "salary_min": 500000,
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_max": 2000000,
-            "redirect_url": "https://www.adzuna.in/details/4029385741?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "salary_is_predicted": "0"
-        },
-        {
-            "salary_max": 85,
-            "redirect_url": "https://www.adzuna.in/details/1966607927?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "salary_is_predicted": "0",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_min": 7,
-            "title": "Cyber Security Engineer",
-            "id": 1966607927,
-            "description": "Max rate $85/hr MUST HAVE- Application security covering micro services security and Restful API from technical and business process and architecture. MUST HAVE -Application security, penetration testing, red team tool (optional), development background, Should have done Application vulnerability Assessments. GOOD TO HAVE - Infrastructure experience in Azure Cloud OR Microsoft 365 product implementations will be handy , network Architecture n design mostly in Azure space GOOD TO HAVE - Enterpri…",
-            "company": {
-                "display_name": "Bhanven Cyber Tech Inc",
+                "display_name": "GE Vernova",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "contract_time": "full_time",
-            "created": "2021-02-02T03:39:39Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxOTY2NjA3OTI3LCJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSJ9.Ak8UNS87hnOFcndd0WE2UhLzPU1buA-UqVNLMBIfIoY"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/details/1449228552?utm_medium=api&utm_source=d58ac19b",
-            "id": 1449228552,
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Infinity Labs India"
-            },
-            "created": "2020-02-14T00:16:56Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxNDQ5MjI4NTUyLCJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSJ9.8LZX_6B5oICupg1spj4-6I9EpT4Z6jO30U__3DvYocA",
-            "location": {
-                "display_name": "Noida, Ghaziabad",
-                "area": [
-                    "India",
-                    "Uttar Pradesh",
-                    "Ghaziabad",
-                    "Noida"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 28.56579,
-            "salary_max": 2000000,
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "salary_is_predicted": "0",
-            "description": "Must have good exposure working in SOAR (Security, Orchestration, Automation, Response) Strong knowledge in End user/ point security. Good hands on Cyber security like SIEM, IAM, PAM. Sound Knowledge into automated incident management using Demisto (or similar technology) Hands on creating playbooks in Python Scripting. Skills:- Cyber Security, Python, Demsito and Playbooks",
-            "longitude": 77.3225,
-            "contract_time": "full_time",
-            "title": "Cyber Security Engineer",
-            "salary_min": 900000
-        },
-        {
-            "title": "Cyber Security Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI0ODAxNTEwNzgxIn0.cShUvyWRdEQCaiYu4ISaPcpPbMobDJH1LJw1D_bVMGk",
-            "contract_time": "full_time",
-            "created": "2024-07-31T03:11:49Z",
-            "company": {
-                "display_name": "Compunet Connections",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Job Responsibilities: Planning, implementing, managing, monitoring and upgrading security measures for the protection of the organization's data, systems, and networks. Troubleshooting security and network problems. Responding to all system and/or network security breaches. Ensuring that the organization's data and infrastructure are protected by enabling the appropriate security controls. Participating in the change management process. Testing and identifying network and system vulnerabilities…",
-            "longitude": 80.24963,
-            "id": "4801510781",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/details/4801510781?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "latitude": 13.06041,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ],
-                "display_name": "Chennai, Tamil Nadu"
-            }
-        },
-        {
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5503136919?utm_medium=api&utm_source=d58ac19b",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Senior Cyber Security Engineer",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzEzNjkxOSIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.tBEfZsXU9gGquQ-naMskL1ebPONmZpym8rU4QMc3wbs",
-            "created": "2025-11-19T18:04:42Z",
-            "id": "5503136919",
-            "company": {
-                "display_name": "Protera",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Job Title: Senior Cyber Security Engineer Shift Timing- Rotational Work mode- Remote, India Role Overview: We are looking for a highly technical Senior SIEM Engineer of experience of 10 years with deep expertise in enterprise-scale SIEM architecture, data ingestion engineering, detection design, and platform maintenance. The ideal candidate will have strong hands-on experience in building SIEM solutions from the ground up, optimizing ingestion pipelines, designing advanced correlation logic, an…"
-        },
-        {
-            "title": "Senior Cyber Security Engineer",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Bread Financial"
-            },
-            "description": "Every career journey is personal. That's why we empower you with the tools and support to create your own success story. Be challenged. Be heard. Be valued. Be you  be here. Job Summary The Senior Cyber Security Engineer is responsible for designing, coding/configuring, and administering Cyber Security systems. This person is expected to champion processes and technology as a subject matter expert in various technical areas and to demonstrate this ability at a senior level. The position works c…",
-            "longitude": 77.59837,
-            "id": "5532623409",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTMyNjIzNDA5In0.AUG7qsqKQXl1WPf1mcM_7Q_VikfuPcM4DE6hXLSfhDU",
-            "created": "2025-12-07T23:03:17Z",
-            "redirect_url": "https://www.adzuna.in/details/5532623409?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "latitude": 12.95703
-        },
-        {
-            "contract_time": "full_time",
-            "description": "Position Overview: We are seeking a highly skilled and motivated Identity and Access Management (IAM) Developer/IAM Engineer to join our dynamic team. The successful candidate will be responsible for designing, implementing, and maintaining robust IAM solutions that ensure secure access to our systems and applications. This role involves collaborating with various teams to understand their requirements and deliver scalable and efficient IAM systems. Key Responsibilities: The technical developer…",
             "longitude": 78.50806,
-            "title": "Cyber Security Engineer/ Developer",
-            "salary_min": 1200000,
+            "redirect_url": "https://www.adzuna.in/land/ad/5566740714?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=11D673872AA1675483A212372EC98E0AC6CC2661",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2Njc0MDcxNCIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.Dh14UgzFzEEAjPjBvZ6MeoaMgdFFcWZ1tt3LpTOgQMc",
+            "description": "Job Description Summary We are seeking a seasoned Cyber Security Engineer to lead the development and integration of secure architectures for critical Transmission & Distribution (T&D) systems. As a recognized technical authority, you will define cybersecurity strategy across hardware, embedded systems, and software-defined platforms in modern electric grids-spanning protection, control, and energy management technologies for Grid Automation business unit. You will embed Security by Design and …",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
             "latitude": 17.40275,
+            "id": "5566740714",
             "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana",
                 "area": [
                     "India",
                     "Telangana",
                     "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "salary_max": 1800000,
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0MzczMjc0MiIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.K-pssh_tzw1I7iS61XAcb55HBLMtIPyx5iMlrwH2_uE",
-            "created": "2025-10-12T06:41:40Z",
-            "id": "5443732742",
-            "company": {
-                "display_name": "Versatile Commerce LLP",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5443732742?utm_medium=api&utm_source=d58ac19b"
-        },
-        {
-            "id": "5491761698",
-            "longitude": 77.59837,
-            "company": {
-                "display_name": "FICO",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "FICO (NYSE: FICO) is a leading global analytics software company, helping businesses in 100 countries make better decisions. Join our world-class team today and fulfill your career potential! The Opportunity “ We are seeking a skilled and proactive Cybersecurity engineer to join our Product Security Testing Team. This team helps ensure that our products and clients are protected and maintain trust in our security processes. We protect the FICO brand and our products by engaging with development…",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDkxNzYxNjk4In0.nZctDDvC_REhJibCXxKeqszI6SPCvxc4BS5EWlnkRac",
-            "contract_time": "full_time",
-            "created": "2025-11-12T16:21:56Z",
-            "title": "Cyber Security-Engineer II",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 12.95703,
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5491761698?utm_medium=api&utm_source=d58ac19b",
-            "salary_is_predicted": "0"
-        },
-        {
-            "latitude": 18.5062,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Pune, Maharashtra",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
                 ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "contract_type": "permanent",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5538220167?utm_medium=api&utm_source=d58ac19b",
-            "contract_time": "full_time",
-            "created": "2025-12-12T00:47:51Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTM4MjIwMTY3In0.79c15SxXS568CP8ndfeFP66jnDuooNwEmxBiWc61IlU",
-            "id": "5538220167",
-            "company": {
-                "display_name": "Davies",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Department Risk and Compliance Employment Type Permanent - Full Time Location Pune Workplace type Onsite Key Responsibilities Skills, Knowledge & Expertise About Davies We are a specialist professional services and technology firm, working in partnership with leading insurance, highly regulated and global businesses. We help our clients to manage risk, operate their core business processes, transform and grow. We deliver professional services and technology solutions across the risk and insuran…",
-            "longitude": 73.84735,
-            "title": "Lead Cyber Security Engineer"
-        },
-        {
-            "id": "5545907224",
-            "company": {
-                "display_name": "Hillenbrand",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Position Summary: As a part of Hillenbrand’s global Cybersecurity team, the Cybersecurity Engineer – Privilege Access Management (PAM) will be responsible for the implementation and management of our BeyondTrust PAM platform. A successful candidate for this position will have expert level knowledge of authentication protocols, privilege account management and control best practices with deep understanding of BeyondTrust product. Work You’ll Do: Drive the design and implementation of BeyondTrust…",
-            "longitude": 77.02995,
-            "contract_time": "full_time",
-            "created": "2025-12-18T00:28:17Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQ1OTA3MjI0In0.WKLMvumEJ75mUG0XWhw0kArSuKES6MRweUOTp9TPypI",
-            "title": "Cyber Security Engineer - PAM",
-            "location": {
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Coimbatore",
-                    "Coimbatore South"
-                ],
-                "display_name": "Coimbatore South, Coimbatore",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "latitude": 10.95255,
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5545907224?utm_medium=api&utm_source=d58ac19b",
-            "salary_is_predicted": "0"
-        },
-        {
-            "latitude": 18.5062,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ],
-                "display_name": "Pune, Maharashtra"
-            },
-            "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5557591075?utm_medium=api&utm_source=d58ac19b",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU3NTkxMDc1In0.iG75DQxnP7Pa2ZZynAOZqbbBnDZee4evVndWeNqn1fI",
-            "created": "2025-12-28T01:03:11Z",
-            "longitude": 73.84735,
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Cloud Software Group"
-            },
-            "description": "Analyze and investigate activity on company devices and infrastructure (Public Cloud & on-premise) that could represent a security threat Work cross-functionally with the Security teams to develop solutions for analyzing security events at scale and protecting CSG's networks, cloud, workforce systems, and data Interpret disparate data sources to report on trends and support investigative requests with deep analysis. Collect requirements for enhancements to detection models and response systems …",
-            "id": "5557591075",
-            "title": "Lead Cyber Security Engineer"
-        },
-        {
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "redirect_url": "https://www.adzuna.in/land/ad/5557296255?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B505EC970B05ADACD0656575FBEDB13558DF20A3",
-            "category": {
-                "label": "HR & Recruitment Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "hr-jobs"
-            },
-            "salary_is_predicted": "0",
-            "id": "5557296255",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Simplilearn"
-            },
-            "description": "About Simplilearn Simplilearn is the world’s 1 live online training company focused on digital skills. Founded in 2010, with offices in San Francisco, California, and Bangalore, India, and backed by the Blackstone Group, we drive talent transformation for over 500 global organizations, including Amazon, Bosch, Dell, and EY. We are disrupting the talent development market with our one-of-a-kind online subscription product, Simplilearn Learning Hub, which enables organizations to offer their work…",
-            "contract_time": "part_time",
-            "created": "2025-12-27T22:04:58Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NzI5NjI1NSIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.urFJiviDEAv7nlb_oMgEyV_ys2P_--3-FbLErJGohqw",
-            "title": "Sourcing Specialist - Instructor Hiring (India)"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDYxNTAwNjIxIn0.nfl57wltdSEhafYHUAouyEb5zI8ZQ3wGBEP6WTDiU14",
-            "created": "2025-10-24T02:17:05Z",
-            "id": "5461500621",
-            "company": {
-                "display_name": "HackIT Technology and Advisory Services",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "As a Vulnerability Assessment and Penetration Testing VAPT Team Lead at HackIT a CERTIN empaneled cybersecurity firm based in Kochi you will be responsible for the following Role Overview You will lead manage and mentor a team of junior penetration testers Your role will involve performing Web Mobile API and Network Security Testing using both manual and automated techniques Additionally you will conduct Static Application Security Testing SAST Dynamic Application Security Testing DAST and deve…",
-            "longitude": 76.24637,
-            "title": "Cyber Security Engineer Vulnerability Management",
-            "latitude": 9.98011,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Kochi, Ernakulam",
-                "area": [
-                    "India",
-                    "Kerala",
-                    "Ernakulam",
-                    "Kochi"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5461500621?utm_medium=api&utm_source=d58ac19b"
-        },
-        {
-            "title": "Cyber Security Engineer Penetration Tester",
-            "created": "2025-10-24T02:17:07Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDYxNTAxMDEyIn0.pxJt65d8uv8bqoZ4Aut9XgccbUfD4UqUl8Sypxhpzhw",
-            "description": "As a cybersecurity professional you will be responsible for conducting various security assessments and providing hardening and mitigation strategies Your expertise will be utilized in conducting network and webbased application penetration tests as well as physical security assessments Additionally you will be involved in logical security audits and handson technical security evaluations and implementations Your subject matter expertise will be focused on capabilities such as database security…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Mirox cyber security and technology Pvt Ltd"
-            },
-            "longitude": 77.0037,
-            "id": "5461501012",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/details/5461501012?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "latitude": 8.38159,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Kerala",
-                    "Thiruvananthapuram"
-                ],
-                "display_name": "Thiruvananthapuram, Kerala"
             }
         },
         {
-            "contract_time": "full_time",
-            "created": "2025-12-05T23:02:47Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTU0MTY5MCIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.2ulxRbSigJrOFwODAH-7tQKTKhh-UegCmvfd4F7qrso",
-            "id": "5529541690",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "EXL"
-            },
-            "description": "Description The Associate Consultant for Cyber Operations is responsible for overseeing and managing the daily operations of the EXL's cybersecurity team. This role involves leading a team of cybersecurity professionals, ensuring the effective deployment and management of security tools, and coordinating incident response activities. The ideal candidate have strong leadership skills, extensive experience in cybersecurity operations, and a proven ability to manage complex security challenges. Re…",
-            "longitude": 77.3225,
-            "title": "Associate Consultant-Cyber Security-Engineering",
-            "latitude": 28.56579,
             "location": {
                 "area": [
                     "India",
@@ -950,167 +888,70 @@
                 "display_name": "Noida, Ghaziabad",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5566740719",
+            "latitude": 28.56579,
             "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/details/5529541690?utm_medium=api&utm_source=d58ac19b",
             "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            }
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Job Description Summary As a Lead Cyber Security Engineer at GE Vernova Grid Solutions, you will play a crucial role in designing, implementing, and optimizing the cybersecurity requirement for EHV/HV substations (AIS/GIS/HVDC/FACTS/STATCOM/Onshore/Offshore/Renewable/etc.,) considering the safety/quality/Cost/time delivery criteria. In this role, you will be reporting directly to project and designated line manager, while as well indirectly reporting technically to the OT Engineering Cybersecur…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTY2NzQwNzE5In0.gP5qjdM3QBeOfM2fyvfuiG12pcKmi-vATpsOCpC5bog",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 77.3225,
+            "redirect_url": "https://www.adzuna.in/land/ad/5566740719?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=731AABE7AD43D8BAB72AFB1847D28B372C489C0F",
+            "company": {
+                "display_name": "GE Vernova",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-04T09:01:29Z",
+            "title": "Lead Engineer - Cyber Security"
         },
         {
-            "id": "5561863818",
-            "description": "Req ID: 128634 Remote Position: Hybrid Region: Asia Country: India State/Province: Chennai City: Guindy, Chennai Summary The Specialist, Information Security will participate in PoC/Pilots for new security technologies and/or capabilities. They will be responsible for the assessment of new security solution partners as well as assist with defining company security policies and standards. The incumbent will need to understand business and network risks and be able to provide appropriate recommen…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Celestica"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTg2MzgxOCIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.yo9rmnLMHeIpfDoA2uHPd63pFrpL_vqNt5s4J_y0roY",
-            "created": "2026-01-01T08:26:27Z",
-            "title": "Cyber security engineer (Information security)",
+            "description": "Job Description Summary As a Lead Cyber Security Engineer at GE Vernova Grid Solutions, you will play a crucial role in designing, implementing, and optimizing the cybersecurity requirement for EHV/HV substations (AIS/GIS/HVDC/FACTS/STATCOM/Onshore/Offshore/Renewable/etc.,) considering the safety/quality/Cost/time delivery criteria. In this role, you will be reporting directly to project and designated line manager, while as well indirectly reporting technically to the OT Engineering Cybersecur…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2Njc0MDU1NyIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.0CBq5lfMO1czHcnFJEJ2r9D_OgILbaw8utdy7AUfjq0",
+            "longitude": 80.24963,
+            "redirect_url": "https://www.adzuna.in/land/ad/5566740557?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=4F79B1619ED088F4CBEFE3AE764187AC215C8FD0",
+            "id": "5566740557",
             "location": {
                 "area": [
-                    "India"
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
                 ],
-                "display_name": "India",
+                "display_name": "Chennai, Tamil Nadu",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "redirect_url": "https://www.adzuna.in/details/5561863818?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 13.06041,
             "category": {
-                "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
             },
-            "salary_is_predicted": "0"
-        },
-        {
-            "longitude": 77.027375,
+            "salary_is_predicted": "0",
+            "created": "2026-01-04T09:01:27Z",
+            "title": "Lead Engineer - Cyber Security",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
                 "display_name": "GE Vernova"
-            },
-            "description": "Job Description Summary We are seeking a seasoned Cyber Security Engineer to lead the development and integration of secure architectures for critical Transmission & Distribution (T&D) systems. As a recognized technical authority, you will define cybersecurity strategy across hardware, embedded systems, and software-defined platforms in modern electric grids-spanning protection, control, and energy management technologies for Grid Automation business unit. You will embed Security by Design and …",
-            "id": "5495203984",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDk1MjAzOTg0In0.fPHE6VwTg_fvCP4qLqvRBiBai_MdTaE0bbuhOmkCiIQ",
-            "created": "2025-11-14T12:03:21Z",
-            "title": "Senior Application Development Cyber Security Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Telangana, India",
-                "area": [
-                    "India",
-                    "Telangana"
-                ]
-            },
-            "latitude": 17.864111,
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5495203984?utm_medium=api&utm_source=d58ac19b",
-            "salary_is_predicted": "0"
-        },
-        {
-            "contract_time": "full_time",
-            "created": "2025-09-20T23:40:15Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwODU4ODY3MyIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.QBgWVwWzIeBUH495d8aHxKWfMWDhA9lU8SIZlOwS5Fs",
-            "id": "5408588673",
-            "company": {
-                "display_name": "Chicago Mercantile Exchange",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Role overview We are looking for a Cyber Security Engineer II - Threat Simulation to be an integral part of our Offensive Security organization and contribute towards improving CME Group’s security posture. This role will be responsible for participating in the execution of Purple Team cyber exercises of internal and internet facing information systems and infrastructure. In addition, the role will require participation in Red Team activities to identify misconfigurations and cyber security vul…",
-            "title": "Cyber Security Engineer II - Purple Team",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/details/5408588673?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
             }
         },
         {
-            "salary_is_predicted": "0",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "hr-jobs",
-                "label": "HR & Recruitment Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5557296574?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=B0047FE54B93A954D534FDC761033F6DB4BB85AE",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Recruiter - US Hiring",
-            "contract_time": "part_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NzI5NjU3NCIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.oSGJ2NxjAMNRvd3kfWQG7ikLKfYncfoepoOYd-W9tI0",
-            "created": "2025-12-27T22:05:30Z",
-            "id": "5557296574",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Simplilearn"
-            },
-            "description": "About Simplilearn Simplilearn is the world’s 1 live online training company focused on digital skills. Founded in 2010, with offices in San Francisco, California, and Bangalore, India, and backed by the Blackstone Group, we drive talent transformation for over 500 global organizations, including Amazon, Bosch, Dell, and EY. We are disrupting the talent development market with our one-of-a-kind online subscription product, Simplilearn Learning Hub, which enables organizations to offer their work…"
-        },
-        {
-            "title": "DevOps Engineer",
-            "description": "About Simplilearn Simplilearn is the world’s 1 live online training company focused on digital skills. Founded in 2010, with offices in San Francisco, California, and Bangalore, India, and backed by the Blackstone Group, we drive talent transformation for over 500 global organizations, including Amazon, Bosch, Dell, and EY. We are disrupting the talent development market with our one-of-a-kind online subscription product, Simplilearn Learning Hub, which enables organizations to offer their work…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Simplilearn"
-            },
-            "id": "5557298697",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTU3Mjk4Njk3In0.eCqqJPDgJkcHfRfIYuDIGxuVFoXmueM1rnqXBNa9eP4",
-            "created": "2025-12-27T22:08:08Z",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5557298697?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=0966A8B2D85EBCE0530651A425FAB153EA17A0A8",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "EXL"
-            },
-            "description": "Description •Microsoft Sentinel SIEM Expertise: In-depth knowledge of Microsoft Sentinel SIEM platform features and capabilities Experience with Sentinel’s data connectors, workbooks, and automation rules. •UEBA Proficiency: Understanding of UEBA concepts, including anomaly detection, behavioral baselines, and threat modeling and Ability to implement and fine-tune UEBA strategies to detect unusual or malicious behavior. •Kusto Query Language (KQL): Advanced skills in writing and optimizing KQL …",
+            "redirect_url": "https://www.adzuna.in/land/ad/5566740365?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=439B77BDAF01E10E302300DB42BD704FFA0A885A",
             "longitude": 77.3225,
-            "id": "5500598391",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMDU5ODM5MSIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.ZRKxkoJeHWGRyYQ_IhR1ixPui1qhKujs907ij-NGhNc",
-            "created": "2025-11-17T23:01:36Z",
-            "title": "Cloud Operations - Senior Specialist-Cyber Security-Engineering",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2Njc0MDM2NSIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0._XSGWpZuYxX_jWVGN1NLNJahd49oNBI-U43jJonxCek",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Summary As a Lead Cyber Security Engineer at GE Vernova Grid Solutions, you will play a crucial role in designing, implementing, and optimizing the cybersecurity requirement for EHV/HV substations (AIS/GIS/HVDC/FACTS/STATCOM/Onshore/Offshore/Renewable/etc.,) considering the safety/quality/Cost/time delivery criteria. In this role, you will be reporting directly to project and designated line manager, while as well indirectly reporting technically to the OT Engineering Cybersecur…",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "latitude": 28.56579,
+            "id": "5566740365",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -1121,181 +962,113 @@
                 ],
                 "display_name": "Noida, Ghaziabad"
             },
-            "latitude": 28.56579,
-            "redirect_url": "https://www.adzuna.in/details/5500598391?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "salary_is_predicted": "0"
+            "created": "2026-01-04T09:01:24Z",
+            "title": "Lead Engineer - Cyber Security",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "GE Vernova"
+            }
         },
         {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AT&T"
+            },
+            "title": "Associate Director - Cyber Threat Analytics",
+            "created": "2026-01-04T08:43:14Z",
+            "id": "5566731749",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
             "category": {
-                "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
+                "label": "IT Jobs",
+                "tag": "it-jobs"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5555201183?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6BAFD0E66F1CF4658D7D5C988E7847BB5A9E0711",
             "salary_is_predicted": "0",
-            "id": "5555201183",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Tata Consultancy Services"
-            },
-            "description": "Role: Presales Security Consultant Experience Range: 10 years plus Joining Location: PAN India Job Description: 1. Experience in responding to RFP/RFI/RFQ (Proposal writing, Solution creation, effort estimation, content writing) and customer defense presentations etc. is preferred. 2. Candidates having proven track record in Cyber security Pre-Sales support / solution development/Solution Architect role in any two of the below areas: a. SOC/MDR/EDR/XDR solutions using (i.e. Sentinel, QRadar, Sp…",
-            "created": "2025-12-25T13:37:38Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTIwMTE4MyIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.ch6eKPUEowHCkEeRp2u-ZmI8_eA22PZgEgzVXfNnbjg",
-            "title": "Presales Security Consultant"
+            "description": "Job Description: About the Company: Join AT&T and reimagine the communications and technologies that connect the world. Our Chief Security Office ensures that our assets are safeguarded through truthful transparency, enforce accountability and master cybersecurity to stay ahead of threats. Bring your bold ideas and fearless risk-taking to redefine connectivity and transform how the world shares stories and experiences that matter. When you step into a career with AT&T, you won't just imagine th…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2NjczMTc0OSIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.8_0oFzgSoCXNUTIsLqtK2_GiXkgdaiylWFkdyVM_5v8",
+            "redirect_url": "https://www.adzuna.in/land/ad/5566731749?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=059BB366FD99EBA9229737E4EB5B464DBB35F67D",
+            "longitude": 78.50806
         },
         {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Morgan Stanley"
-            },
-            "description": "Morgan Stanley Senior Network Security Engineer - Vice President - Cyber Security Engineering Profile Description We’re seeking someone to join our team as Vice President - Senior Network Security Engineer in CDRR Network Security to in support the OT/IOT Project to deploy and operate a new IoT/OT discovery and monitoring solution to meet the business requirements. CDRR_Technology The Cybersecurity organization's mission is to create an agile, adaptable organization with the skills and expertis…",
-            "id": "5560146730",
+            "redirect_url": "https://www.adzuna.in/details/5566408666?utm_medium=api&utm_source=d58ac19b",
             "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYwMTQ2NzMwIn0.dHoLqR2T61khr-uPTgFiaKovwfegPmWZ8PB4KiYL8N4",
-            "created": "2025-12-31T01:14:43Z",
-            "title": "Senior Network Security Engineer - Vice President - Cyber Security Engineering",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2NjQwODY2NiIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.ydgvtZUzfIJxgyMOeFAKJffOjVIQJy8IUXMO6InuFBs",
+            "description": "Principal Cyber Security Engineer Location: Bangalore What is Muthoot FinCorp ONE? Muthoot FinCorp ONE, is a fintech startup, building a financial ecosystem where customers can access relevant and reliable digital services across an expansive range of digital financial products in segments like Lending, Saving & Investment, Protection, and Remittance. Our products are designed to ensure a simple, reliable, and responsive financial environment for our customers. Envisioned to be the most trusted…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5566408666",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India"
                 ],
-                "display_name": "India"
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/details/5560146730?utm_medium=api&utm_source=d58ac19b",
-            "salary_is_predicted": "0"
+            "created": "2026-01-04T00:53:01Z",
+            "title": "Senior Principal Engineer - Information Security",
+            "company": {
+                "display_name": "Muthoot Fincorp",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
         },
         {
-            "title": "AI Security Analyst",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTAxMzQ3ODkzIn0.JdG-l058qALOqHcW4fVD4KBhQZ8W-r_n6DWKcUHMn3c",
-            "created": "2025-11-18T12:32:11Z",
-            "id": "5501347893",
-            "description": "AI Security Analyst Position Summary: We are looking for an AI Security Analyst to join ADMs Global Information & Cyber Security (GICS), Security Architecture & Engineering team! The AI Security Analyst is responsible for assessing, implementing, and managing security measures that protect artificial intelligence and machine learning (AI/ML) systems across their lifecycle. This role ensures confidentiality, integrity, availability, safety and ethical use of AI systems, while proactively identif…",
             "company": {
-                "display_name": "ADM",
-                "__CLASS__": "Adzuna::API::Response::Company"
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SecureLayer7"
             },
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5501347893?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=92694B71DF82F93F61E2D8CF85905034260F8166",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
+            "title": "Intern",
+            "created": "2026-01-02T09:50:21Z",
+            "latitude": 18.5062,
             "location": {
                 "area": [
                     "India",
-                    "Karnataka",
-                    "Bangalore"
+                    "Maharashtra",
+                    "Pune"
                 ],
-                "display_name": "Bangalore, Karnataka",
+                "display_name": "Pune, Maharashtra",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
+            "id": "5564170176",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "description": "About the Company At SecureLayer7, we aim at solving challenging cybersecurity problems and hurdles faced by organizations. We bring bright minds together to provide a smooth experience in cybersecurity and achieve our vision by making organizations secure from cyber-attacks. Our skilled pentesters and security engineers work on the project from a cryptocurrency exchange to IoT devices. SecureLayer7 is maker of cybersecurity products namely SensFrx and BugDazz. About the Role This job role is d…",
+            "longitude": 73.84735,
+            "redirect_url": "https://www.adzuna.in/land/ad/5564170176?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=44A9A704CB8BAB7824ADFD4F08D70F27D0A4DD64",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2NDE3MDE3NiIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.R4cM19KyYDo4z-qDH1sHSGIs2n56BVg6HvWYu7Im9iU",
             "__CLASS__": "Adzuna::API::Response::Job"
         },
         {
-            "redirect_url": "https://www.adzuna.in/details/5428992913?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "salary_is_predicted": "0",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
-            },
             "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Senior Windows Infrastructure Security Engineer - Vice President - Cyber Security Engineering",
-            "id": "5428992913",
-            "description": "Senior Windows Infrastructure Security Engineer - Vice President - Cyber Security Engineering Profile Description We’re seeking someone to join our team as (Vice President) Senior Windows Infrastructure Security Engineer in Cyber as part of our Global Endpoint Security Team. CDRR_Technology The Cybersecurity organization's mission is to create an agile, adaptable organization with the skills and expertise needed to defend against increasingly sophisticated adversaries. This will be achieved by …",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Morgan Stanley"
-            },
-            "contract_time": "full_time",
-            "created": "2025-10-03T14:41:07Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyODk5MjkxMyIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.v9Zf87BTVtxGhVewT_vHWad3_pFsDFIYFwF76S4qrbA"
-        },
-        {
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "redirect_url": "https://www.adzuna.in/land/ad/5501263967?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=85091C66367799D49CFBFCC68BAF677C5CCC3307",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTg2MzgxOCIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.DJB7boLoNe9_imBgveADznK7eqlvIaOetId36PkAkmY",
+            "redirect_url": "https://www.adzuna.in/land/ad/5561863818?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=FA73BFCBEEA1D3CB39EEC040CB0D5623D212E71C",
+            "description": "Req ID: 128634 Remote Position: Hybrid Region: Asia Country: India State/Province: Chennai City: Guindy, Chennai Summary The Specialist, Information Security will participate in PoC/Pilots for new security technologies and/or capabilities. They will be responsible for the assessment of new security solution partners as well as assist with defining company security policies and standards. The incumbent will need to understand business and network risks and be able to provide appropriate recommen…",
             "category": {
-                "tag": "scientific-qa-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "Scientific & QA Jobs"
-            },
-            "salary_is_predicted": "0",
-            "id": "5501263967",
-            "company": {
-                "display_name": "ADM",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "About ADM: We are one of the world’s largest nutrition companies and a global leader in human and animal nutrition. We unlock the power of nature to provide nourishing quality of life by transforming crops into ingredients and solutions for foods, beverages, supplements, livestock, aquaculture, and pets. About ADM India Hub: At ADM, we have long recognized the strength and potential of India’s talent pool, which is why we have maintained a presence in the country for more than 25 years. Buildin…",
-            "created": "2025-11-18T09:03:10Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTAxMjYzOTY3In0._7H_DN5TeTxHUPFzxnnxvvmUtlPaB_yYtMTwfTwuu8I",
-            "title": "AI Security Analyst [T500-21472]"
-        },
-        {
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/details/5526119115?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
                 "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
+                "label": "IT Jobs"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India",
-                "area": [
-                    "India"
-                ]
-            },
-            "title": "IT Cyber Security Engineer (powershell, Microsoft Entra ID (Azure AD))",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTI2MTE5MTE1In0.NzB0cvBRpDsQSJRdVPPNKbZ9ORyTzeg9XYonMzXwA8w",
-            "contract_time": "full_time",
-            "created": "2025-12-03T22:57:50Z",
-            "description": "Altera, a member of the N. Harris Computer Corporation family, delivers health IT solutions that support caregivers around the world. These include the Sunrise™, Paragon®, Altera TouchWorks®, Altera Opal, STAR™, HealthQuest™ and dbMotion™ solutions. At the intersection of technology and the human experience, Altera Digital Health is driving a new era of healthcare, in which innovation and expertise can elevate care delivery and inspire healthier communities across the globe. A new age in health…",
-            "company": {
-                "display_name": "Altera Digital Health India",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "id": "5526119115"
-        },
-        {
+            "salary_is_predicted": "0",
+            "id": "5561863818",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -1303,164 +1076,331 @@
                 ],
                 "display_name": "India"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/details/5498156791?utm_medium=api&utm_source=d58ac19b",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "created": "2025-11-16T01:21:06Z",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5ODE1Njc5MSIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.tuZwqotfLPf6RxK7xaz3rs1f9FTq08LRrMV0DOXm7KU",
-            "id": "5498156791",
-            "description": "Job Description: Key Responsibilities:  Work independently to lead and complete high quality threat-based risk assessments, business impact analysis across a diverse set of cloud technologies, business functions, and platforms.  Conduct cloud infrastructure security risk assessments based on cloud security best practices.  Assess cloud security architecture  Cloud security controls evaluation to ensure compliance with business scope, security policies and standards  Preparing cloud infrast…",
+            "created": "2026-01-01T08:26:27Z",
+            "title": "Cyber security engineer (Information security)",
             "company": {
-                "display_name": "Talent Worx",
+                "display_name": "Celestica",
                 "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "title": "Cyber - Cloud Security Engineer/Manager"
+            }
         },
         {
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5561949818?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=6E1B0988C5FD8AB3B9FE35E7F89A69B406E7428B",
-            "salary_is_predicted": "0",
-            "id": "5561949818",
+            "title": "Advanced Cyber Sec Archt/Engr",
+            "created": "2025-12-31T09:31:27Z",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "OrbitronAI.com"
+                "display_name": "Honeywell"
             },
-            "description": " About OrbitronAI OrbitronAI is on a mission to turn large language model magic into production-grade agentic systems and workflows that solve real problems for the world’s largest enterprises. We’ve recently raised $10 million in seed funding  and are scaling fast across Dubai, Bengaluru, and Saudi Arabia.  The Team Behind OrbitronAI Founded by an exceptional leadership team of: Former EY Partners and Ex-CTOs and Heads of Engineering from successful Series B startups. The founding team brings …",
-            "created": "2026-01-01T08:42:05Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTYxOTQ5ODE4In0.scB9AlVXDXZYIYED5-BTFjgv5uZofgO3wfxQ1Fu2WfM",
-            "title": "Lead Security Engineer"
-        },
-        {
+            "longitude": 76.227524,
+            "redirect_url": "https://www.adzuna.in/land/ad/5560664791?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=E4EF4994A4E94B4CFB544219E97ACBD0E5F21D7A",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDY2NDc5MSIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.ItEiYsAmHtow-OS1mGpY8d95henEF54CL-3_kn39wAk",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
+            "description": "As an Advanced Cyber Security Architect/Engineer here at Honeywell, you will show demonstrable skills in the design and implementation of cloud, container and infrastructure security. You will be hands-on in fortifying defenses against emerging threats and acting as the subject matter expert for technical challenges. You will be responsible for collaborating with cross-functional teams, staying informed about emerging technologies, and fostering a culture of continuous improvement.  Partner wit…",
             "salary_is_predicted": "0",
             "category": {
                 "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5401206245?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=81A899D071251FBB8A202CB47692DF83848AC7F4",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NDAxMjA2MjQ1In0.oKMqMi9suZcVdsvfkaCR9m0kWSLB5g-s5DBhttD-ynU",
-            "created": "2025-09-16T11:06:28Z",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "MUFG Global Service "
-            },
-            "description": "About Us: MUFG Bank, Ltd. is Japans premier bank, with a global network spanning in more than 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments, and individuals worldwide. MUFG Banks parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the worlds leading financial groups. Headquartered in Tokyo and with over 360 years of history, the Group has about 120,000 employees and offers services…",
-            "id": "5401206245",
-            "title": "Manager - CyberArk PAM"
+            "latitude": 14.325172,
+            "id": "5560664791",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka"
+                ],
+                "display_name": "Karnataka, India"
+            }
         },
         {
-            "redirect_url": "https://www.adzuna.in/land/ad/5543785844?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=A2AB6E6BCA61AD2C82E8B6F07584C0D27DC82049",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Honeywell"
+            },
+            "created": "2025-12-31T09:31:26Z",
+            "title": "Advanced Cyber Sec Archt/Engr",
             "category": {
                 "label": "IT Jobs",
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
             "salary_is_predicted": "0",
+            "latitude": 12.95703,
+            "id": "5560664782",
             "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
+                ]
+            },
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5560664782?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=8328496AFA623E8E2CDE88731A07A08D87FA2863",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDY2NDc4MiIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.L0NjFyMtSjI4-A1nar-MCmim6uqXj8wZxiyTdMTTCy8",
+            "description": "As an Advanced Cyber Security Architect/Engineer here at Honeywell, you will show demonstrable skills in the design and implementation of cloud, container and infrastructure security. You will be hands-on in fortifying defenses against emerging threats and acting as the subject matter expert for technical challenges. You will be responsible for collaborating with cross-functional teams, staying informed about emerging technologies, and fostering a culture of continuous improvement.  Partner wit…"
+        },
+        {
+            "title": "Senior Network Security Engineer - Vice President - Cyber Security Engineering",
+            "created": "2025-12-31T01:14:43Z",
+            "company": {
+                "display_name": "Morgan Stanley",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5560146730?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTYwMTQ2NzMwIn0.uw_sifhgjyVI7hYCoYTPXAMSjEg8tLa5LqJuzSAPtqE",
+            "contract_time": "full_time",
+            "description": "Morgan Stanley Senior Network Security Engineer - Vice President - Cyber Security Engineering Profile Description We’re seeking someone to join our team as Vice President - Senior Network Security Engineer in CDRR Network Security to in support the OT/IOT Project to deploy and operate a new IoT/OT discovery and monitoring solution to meet the business requirements. CDRR_Technology The Cybersecurity organization's mission is to create an agile, adaptable organization with the skills and expertis…",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5560146730"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Trend Micro"
+            },
+            "created": "2025-12-31T01:06:01Z",
+            "title": "Sales Engineer, East - Kolkata",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "display_name": "Kolkata, West Bengal"
+            },
+            "id": "5560060325",
+            "latitude": 22.57285,
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTYwMDYwMzI1In0.bdyrB2QNcIP-vI8UZKUOeCHZddolhEJ658G-gWhhaIY",
+            "longitude": 88.34373,
+            "redirect_url": "https://www.adzuna.in/details/5560060325?utm_medium=api&utm_source=d58ac19b",
+            "description": "When you join Trend, you become part of a unique and diverse global family and you get to work towards a world safe for exchanging digital information. Presales Engineer, Kolkata ABOUT TREND MICRO Trend Micro, a global cybersecurity leader, helps make the world safe for exchanging digital information. Fuelled by decades of security expertise, global threat research, and continuous innovation, Trend Micro's cybersecurity platform protects hundreds of thousands of organizations and millions of in…"
+        },
+        {
+            "description": "Job Description Role Internal Audit – Corporate Controllers & Tax Engineering Auditor (Vice President, Bengaluru) Internal Audit What We Do As the third line of defense, Internal Audit’s mission is to independently assess the firm’s internal control structure, including the firm’s governance processes and controls, and risk management and capital and anti-financial crime frameworks, raise awareness of control risk and monitor the implementation of management’s control measures. In doing so, int…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTU5NjQyODI2In0.s9N2Kn53Ecz77EKsauwWggITWzVZnUBEO983DWnSn5M",
+            "redirect_url": "https://www.adzuna.in/details/5559642826?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 78.50806,
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Senior Analyst - CyberArk Support",
-            "id": "5543785844",
-            "description": "About Us: MUFG Bank, Ltd. is Japans premier bank, with a global network spanning in more than 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments, and individuals worldwide. MUFG Banks parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the worlds leading financial groups. Headquartered in Tokyo and with over 360 years of history, the Group has about 120,000 employees and offers services…",
+            "id": "5559642826",
+            "latitude": 17.40275,
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Internal Audit-Hyderabad-Vice President-Technology Audit",
+            "created": "2025-12-30T07:23:19Z",
             "company": {
-                "display_name": "MUFG Global Service ",
+                "display_name": "Goldman Sachs",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 19.02,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Navi Mumbai"
+                ],
+                "display_name": "Navi Mumbai, Maharashtra"
+            },
+            "id": "5558818996",
+            "redirect_url": "https://www.adzuna.in/land/ad/5558818996?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=3AFE755C7E426D32342D48325944FC1918B29F4F",
+            "longitude": 73.02,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODgxODk5NiIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.zcXNRjol2XHOj0c6hxLEDvQE82sETHrUV802bN6IrF0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Company Overview BDx is Asia’s fastest-growing data center platform, delivering colocation, build-to-suit, managed services, and interconnection solutions for hyperscalers, large enterprises, and AI customers. Operating across high-growth markets—including Indonesia, Hong Kong, Singapore, and Taiwan—BDx currently boasts 110 MW of contracted capacity, with a land bank scalable up to 750 MW. What sets BDx apart is our integration of AI-optimized infrastructure, energy-efficient design, and sovere…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BDx Data Centers"
+            },
+            "title": "Senior Manager - Cyber Security Engineer",
+            "created": "2025-12-29T10:10:56Z"
+        },
+        {
+            "company": {
+                "display_name": "Forcepoint",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk8wcXZ0RG04QkdqSmFieFd0MGVEUSIsImkiOiI1NTQzNzg1ODQ0In0.LG9cvdDAPxvcJTXgU5d5OxW3faPA7bMDavUfOQ2_RFM",
-            "created": "2025-12-16T09:02:07Z"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5546312372?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=5FC2DB8B8443E10EE5ED36314AFD20CA31DCA571",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-12-29T01:01:28Z",
+            "title": "Sales Engineer",
+            "id": "5558333881",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
+                    "India"
                 ],
-                "display_name": "Bangalore, Karnataka"
+                "display_name": "India"
             },
-            "title": "Senior Analyst CyberArk PAM [T500-21860]",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "MUFG"
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
             },
-            "description": "About Us: MUFG Bank, Ltd. is Japan’s premier bank, with a global network spanning in more than 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments, and individuals worldwide. MUFG Bank’s parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, the Group has about 120,000 employees and offers servi…",
-            "id": "5546312372",
-            "created": "2025-12-18T02:35:12Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxMjM3MiIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.T5wGqgjOEgaL8pdPm2yhzT0zmHBv62EWRnQt4OiRirk"
+            "salary_is_predicted": "0",
+            "description": "Who is Forcepoint? Forcepoint simplifies security for global businesses and governments. Forcepoint’s all-in-one, truly cloud-native platform makes it easy to adopt Zero Trust and prevent the theft or loss of sensitive data and intellectual property no matter where people are working. 20 years in business. 2.7k employees. 150 countries. 11k customers. 300 patents. If our mission excites you, you’re in the right place; we want you to bring your own energy to help us create a safer world. All we’…",
+            "redirect_url": "https://www.adzuna.in/details/5558333881?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0pSaFR1UHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTU4MzMzODgxIn0.3ffOPnebV3glBH1WsKrmA2xOz5DF4FVa0OOJXWcgnl0"
         },
         {
-            "title": "Cyber Security Senior Analyst",
-            "description": "About Us: MUFG Bank, Ltd. is Japans premier bank, with a global network spanning in more than 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments, and individuals worldwide. MUFG Banks parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the worlds leading financial groups. Headquartered in Tokyo and with over 360 years of history, the Group has about 120,000 employees and offers services…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "MUFG Global Service "
-            },
-            "id": "5549494510",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTQ5NDUxMCIsInMiOiI2TzBxdnREbThCR2pKYWJ4V3QwZURRIn0.oaltqMerrqY1hllMB9AkzaaQCdYX934hku09Ui6_f7Q",
-            "created": "2025-12-20T08:56:00Z",
+            "redirect_url": "https://www.adzuna.in/details/5557668757?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NzY2ODc1NyIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.SmOdvcjZ6hwbOU-xeQRsoHKFFe4plWwzMenCorGhJb4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Risk Management Level Specialist Job Description & Summary At PwC, our people in cybersecurity focus on protecting organisations from cyber threats through advanced technologies and strategies. They work to identify vulnerabilities, develop secure systems, and provide proactive solutions to safeguard sensitive data. In cloud security at PwC, you will be responsible for designing, implementing and elevating the security posture a…",
             "category": {
                 "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5549494510?se=6O0qvtDm8BGjJabxWt0eDQ&utm_medium=api&utm_source=d58ac19b&v=AC7807ECFA0170DA30EE9E1D2934402FB2F9560B",
             "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5557668757",
             "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
                 "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
+                    "India"
                 ],
-                "display_name": "Bangalore, Karnataka"
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "created": "2025-12-28T01:13:25Z",
+            "title": "IN_Specialist 3_AI Security_Cyber Engineering & Automation_Advisory_Bangalore",
+            "company": {
+                "display_name": "PricewaterhouseCoopers",
+                "__CLASS__": "Adzuna::API::Response::Company"
             }
+        },
+        {
+            "description": "Analyze and investigate activity on company devices and infrastructure (Public Cloud & on-premise) that could represent a security threat Work cross-functionally with the Security teams to develop solutions for analyzing security events at scale and protecting CSG's networks, cloud, workforce systems, and data Interpret disparate data sources to report on trends and support investigative requests with deep analysis. Collect requirements for enhancements to detection models and response systems …",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NzU5MTA3NSIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.oWJkykP4Cy81nZ9so0vjThbRCJWVS9ykZhasrxDNncc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5557591075?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 73.84735,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "id": "5557591075",
+            "latitude": 18.5062,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "title": "Lead Cyber Security Engineer",
+            "created": "2025-12-28T01:03:11Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cloud Software Group"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5557298697",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5557298697?se=wJRhTuPt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=0966A8B2D85EBCE0530651A425FAB153EA17A0A8",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NzI5ODY5NyIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.BkBuzF-pzqRqKkB7RSOIXk2EXm-OuBbZ7jZW12ETvZ4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Simplilearn Simplilearn is the world’s 1 live online training company focused on digital skills. Founded in 2010, with offices in San Francisco, California, and Bangalore, India, and backed by the Blackstone Group, we drive talent transformation for over 500 global organizations, including Amazon, Bosch, Dell, and EY. We are disrupting the talent development market with our one-of-a-kind online subscription product, Simplilearn Learning Hub, which enables organizations to offer their work…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Simplilearn"
+            },
+            "created": "2025-12-27T22:08:08Z",
+            "title": "DevOps Engineer"
+        },
+        {
+            "company": {
+                "display_name": "PricewaterhouseCoopers",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "IN_Senior Associate_AI Security_Cyber Engineering & Automation_Advisory_Mumbai",
+            "created": "2025-12-27T00:34:15Z",
+            "id": "5556468284",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Risk Management Level Senior Associate Job Description & Summary At PwC, our people in cybersecurity focus on protecting organisations from cyber threats through advanced technologies and strategies. They work to identify vulnerabilities, develop secure systems, and provide proactive solutions to safeguard sensitive data. In cloud security at PwC, you will be responsible for designing, implementing and elevating the security pos…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NjQ2ODI4NCIsInMiOiJ3SlJoVHVQdDhCRzRjSi1CR2tZUFNnIn0.1k8Z5FZHyIvhtF_MmfZj1dEc-s5WPByDCqUQY_W_mxs",
+            "redirect_url": "https://www.adzuna.in/details/5556468284?utm_medium=api&utm_source=d58ac19b"
         }
     ],
     "__CLASS__": "Adzuna::API::Response::JobSearchResults"

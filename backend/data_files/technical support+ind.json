@@ -1,42 +1,360 @@
 {
-    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
-    "count": 1135,
-    "mean": 864632.23,
     "results": [
         {
-            "redirect_url": "https://www.adzuna.in/land/ad/5556103846?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=8A75DF3A62AE87FB3117DDE155A17E44A0919995",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTU2MTAzODQ2In0.yFSRUAEQnY71ZkNXv_5-Mpu_xudSPy8VYtefWhkJpOM",
-            "latitude": 23.042,
-            "id": "5556103846",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5577362926?utm_medium=api&utm_source=d58ac19b",
             "salary_is_predicted": "0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
+            "latitude": 12.95703,
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "CHC Navigation | CHCNAV"
+                "display_name": "Playdawn",
+                "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "description": "About the Company CHC Navigation is a global provider of innovative GNSS navigation and positioning solutions covering a wide range of professional applications, including land and airborne surveys, conventional GNSS surveys, 3D mass data acquisition, precision farming, unmanned navigation and robotics, real-time GNSS infrastructure, and more. CHC Navigation is looking for a highly motivated and outstanding Technical Support Engineer for our fast-growing business to join our Indian team . As Te…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzM2MjkyNiIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.cY24FEM4cJa329xFFRDX-yGxINz7k3TV8Kq6Ie08Nsg",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Lead Tools & Engine Programmer (Unreal Engine) Location: Bangalore, India Employment Type: Full-Time, On-site Role Summary We are looking for an experienced Lead Tools & Engine Programmer with deep knowledge of Unreal Engine (UE4/UE5) , engine systems, and editor tooling. This role focuses on building the technical foundation that supports designers, artists, and engineers by creating powerful tools, pipelines, and engine extensions. You will lead and mentor a team of tools and engine engineers…",
+            "title": "Lead Tools & Engine Programmer",
             "location": {
-                "display_name": "Ahmedabad, Gujarat",
-                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
-                    "Gujarat",
-                    "Ahmedabad"
-                ]
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "title": "Technical Support Engineer",
-            "created": "2025-12-26T08:39:39Z",
-            "longitude": 72.59465
+            "id": "5577362926",
+            "longitude": 77.59837,
+            "contract_time": "full_time",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "created": "2026-01-10T09:57:06Z"
         },
         {
-            "title": "Technical Support Engineer",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577262068?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=91051A4FD19D5C92DC3C92D1F806F4D406159A57",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI2MjA2OCIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.7js36vChyYqSQqA0Kl3niNlyvPx_fiqY3v3PoNM7WP8",
+            "company": {
+                "display_name": "NTT America, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Req ID: 352334 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Network Security Sr. Specialist Advisor to join our team in Remote, Karnataka (IN-KA), India (IN). JD Role Overview The Network Senior Specialist Advisor is responsible for the daily operations and maintenance of firewall, Prisma, F5, and routing and switchi…",
+            "title": "Network Security Sr. Specialist Advisor",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5577262068",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T08:27:17Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjYxODQ3In0.sLYAcU-zz5QSf9uI-R4iHygQ8iEY-13J2xLMsAHSMRQ",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT DATA North America"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261847?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=1CCC152E2AB7D6E1EBB45C0625A7011D34E610C8",
+            "latitude": 14.325172,
+            "salary_is_predicted": "0",
+            "longitude": 76.227524,
+            "id": "5577261847",
+            "created": "2026-01-10T08:27:04Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Network Security Sr. Specialist Advisor",
+            "description": "Req ID: 352334 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Network Security Sr. Specialist Advisor to join our team in Remote, Karnataka (IN-KA), India (IN). JD Role Overview The Network Senior Specialist Advisor is responsible for the daily operations and maintenance of firewall, Prisma, F5, and routing and switchi…",
+            "location": {
+                "display_name": "Karnataka, India",
+                "area": [
+                    "India",
+                    "Karnataka"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261745?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=2B82C58E81E9182722F18F606A53008CF6C6E629",
+            "salary_is_predicted": "0",
+            "latitude": 12.95703,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjYxNzQ1In0.jD-Y06rzbIu125pHGxlTK8FiNksH3rtAzH2t824F2G0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Microsoft Corporation"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Overview With more than 45,000 employees and partners worldwide, the Customer Experience and Success (CE&S) organization is on a mission to empower customers to accelerate business value through differentiated customer experiences that leverage Microsoft's products and services, ignited by our people and culture. We drive cross-company alignment and execution, ensuring that we consistently exceed customers' expectations in every interaction, whether in-product, digital, or human-centered. CE&S …",
+            "title": "Technical Support Engineering IC3",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 77.59837,
+            "id": "5577261745",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T08:26:53Z"
+        },
+        {
+            "latitude": 18.5062,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261635?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=A8F0AAE72CA8740CF8EC4A7E29341289C772A080",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Red Hat"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjYxNjM1In0.Q2vqpPgArDx9DyJ9Gzpagr4ssdh4HCsl-Mmiz8VNNLI",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Technical Support Engineer - OpenShift",
+            "description": "About the Job : Red Hat is seeking a strong Technical Support Engineer to join us in Pune, India. Come join one of the fastest growing enterprise software and services companies and the leader of open source software. This opportunity is a tremendous chance to become part of a fast-paced, leading edge company that is changing the way software is developed, sold and supported. Red Hat's Global Support Services organization is dedicated to resolving the issues of our enterprise customers quickly …",
+            "created": "2026-01-10T08:26:35Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "longitude": 73.84735,
+            "id": "5577261635"
+        },
+        {
+            "id": "5577261636",
+            "longitude": 73.84735,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T08:26:35Z",
+            "description": "About the Job Red Hat is seeking a strong Senior Technical Support Engineer to join us in Pune, India. Come join one of the fastest growing enterprise software and services companies and the leader of open source software. This opportunity is a tremendous chance to become part of a fast-paced, leading edge company that is changing the way software is developed, sold and supported. Red Hat's Global Support Services organization is dedicated to resolving the issues of our enterprise customers qui…",
+            "title": "Senior Technical Support Engineer - OpenShift",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI2MTYzNiIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.w4fuJYD0nNfq7CkZWzi6JTSqQ3hNZ-07xDAYYyot_8w",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Red Hat"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261636?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=7AA44C67EC61EA2ABA7FDE36B42E742614130162",
+            "salary_is_predicted": "0",
+            "latitude": 18.5062
+        },
+        {
+            "salary_is_predicted": "0",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261637?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=A9DD4F7FF2BDDB1A3DDC698FBEA25BFE503EABF5",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjYxNjM3In0.g1VkY1jl31tqkT1P1O5rNEoR9tAtkA1GEKR2xkbQ0oc",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Red Hat"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "description": "About the Job : Red Hat is seeking a strong Principal Technical Support Engineer to join us in Pune, India. Come join one of the fastest growing enterprise software and services companies and the leader of open source software. This opportunity is a tremendous chance to become part of a fast-paced, leading edge company that is changing the way software is developed, sold and supported. Red Hat's Global Support Services organization is dedicated to resolving the issues of our enterprise customer…",
+            "title": "Principal Technical Support Engineer - OpenShift",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T08:26:35Z",
+            "longitude": 73.84735,
+            "id": "5577261637"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cummins Inc."
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1ODQ0MiIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.2VZ1t6m53we-B-IQcepp8pTFPiljc1jmZQHA_glu9h8",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577258442?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=E12F36DC103CCCE3158EC3029AE723F50B06704B",
+            "latitude": 18.5062,
+            "salary_is_predicted": "0",
+            "id": "5577258442",
+            "longitude": 73.84735,
+            "created": "2026-01-10T08:22:14Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Systems Engineer I",
+            "description": "DESCRIPTION GPP Database Link (https://cummins365.sharepoint.com/sites/CS38534/) Job Summary: Responsible for defining, building and communicating a shared technical and architectural vision for a Product Team to help ensure the system or solution is fit for its intended purpose. Key Responsibilities: Defines, explores, and supports the implementation of enablers to evolve solution intent, working directly with Product teams to implement them; Guides enablers through planning and enablement, an…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5577258445?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=9C60E585E96B77AB1ABD463212D4FB70F71AEEFA",
+            "salary_is_predicted": "0",
+            "latitude": 18.5062,
+            "company": {
+                "display_name": "Cummins Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjU4NDQ1In0.UvE3S5OKy9S7yPK0rzg-qm-FOIDhH_CBWLOiO9T7k6c",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "DESCRIPTION Job Summary: Responsible for defining, building and communicating a shared technical and architectural vision for a Product Team to help ensure the system or solution is fit for its intended purpose. Disclaimer: This position is not a fully remote role . It operates on a hybrid schedule , requiring employees to work on-site 2-3 days per week at our office. Key Responsibilities: Defines, explores, and supports the implementation of enablers to evolve solution intent, working directly…",
+            "title": "Systems Engineer I",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577258445",
+            "longitude": 73.84735,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T08:22:14Z"
+        },
+        {
+            "created": "2026-01-10T08:22:10Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "id": "5577258284",
+            "longitude": 77.59837,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "Success Account Manager",
+            "description": "Recruitment Fraud Alert We've learned that scammers are impersonating Commvault team members-including HR and leadership-via email or text. These bad actors may conduct fake interviews and ask for personal information, such as your social security number. What to know:  Commvault does _not_ conduct interviews by email or text.  We will never ask you to submit sensitive documents (including banking information, SSN, etc) before your first day. If you suspect a recruiting scam, please contact us …",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjU4Mjg0In0.pMdP4flM34IJ_y7qGe059dmRs4AQYMHrZ5TyT6PXpTA",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Commvault"
+            },
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577258284?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=5D581CC4D14418123ACA06FF466F4EA2989C39BA"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjU2NTQ5In0.HgacWBQkUpdpyxgFp2xnt6gkov7vIU7k6gyMTD7XxwQ",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AECOM"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256549?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=0ED5B95EC90639E274B2F9DA18D723DDD8F5DE0F",
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "id": "5577256549",
             "longitude": 78.50806,
-            "created": "2025-12-21T08:13:59Z",
+            "created": "2026-01-10T08:15:47Z",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "title": "Lead Gases - Semiconductor & Advanced Manufacturing",
+            "description": "Company Description Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world's most complex challenges and build legacies for future generations. There has never been a better time to be at AECOM. With accelerating infr…",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AECOM"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjU2NTQ1In0.R69SbxxC_OWSpYxdF1Be4nuKVI1UCJS88VN_5ebBT0A",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256545?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=FA1E22B3D51375BEF06C87EF8B2376A797AA6F7F",
+            "salary_is_predicted": "0",
+            "id": "5577256545",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T08:15:46Z",
+            "description": "Company Description Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world's most complex challenges and build legacies for future generations. There has never been a better time to be at AECOM. With accelerating infr…",
+            "title": "Lead Chemicals (Semiconductor & Advanced Manufacturing)",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
             "location": {
                 "display_name": "Hyderabad, Telangana",
                 "area": [
@@ -46,34 +364,162 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "description": "We are looking for a proactive and skilled technical support Engineer Key Responsibilities Provide technical support for market products. Deliver training for distributors and installers on product usage. Report product faults, escalate major quality issues and work closely with HQ to improve product quality. Maintain technical documentation and daily work reports, following company policy. Handle customer inquiries, product fault diagnosis, product replacement/maintenance, systerm upgrades, an…",
+            "description": "Company Description Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world's most complex challenges and build legacies for future generations. There has never been a better time to be at AECOM. With accelerating infr…",
+            "title": "Lead Cleanroom - Semiconductor and Battery fabrication facilities",
             "category": {
                 "tag": "engineering-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "Engineering Jobs"
             },
+            "created": "2026-01-10T08:15:46Z",
+            "longitude": 78.50806,
+            "id": "5577256544",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256544?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=0E4D92F576A495C88A2125A58B602FF007440C8D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjU2NTQ0In0.LrglzPhuM9cig61TFCX4Kt66iplc5wqT-WFpFhXfOdk",
             "company": {
-                "display_name": "Growatt New Energy",
+                "display_name": "AECOM",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "latitude": 17.40275,
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5550648354",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTUwNjQ4MzU0In0.mZTW2m75kdoS2CiDaJOP7Zh5-As9Pd-VljnW3jkxuic",
-            "redirect_url": "https://www.adzuna.in/land/ad/5550648354?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=0A958233F74169D2B70F41888672E60BD50ECBD2"
+            "__CLASS__": "Adzuna::API::Response::Job"
         },
         {
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Contingent/Contract Worker Who We Are: Esko is a part of Veralto’ s Product Quality & Innovation companies. Esko is a global provider of integrated software and hardware solutions that accelerate the go-to-market process of packaged goods. Our products empower teams to support and manage the packaging design and print processes for brand owners, retailers, pre-media and trade shops, manufacturers, and converters. Veralto is a global leader in essential technology solutions with annual revenue o…",
+            "title": "IT Support Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T07:38:31Z",
+            "contract_type": "permanent",
+            "id": "5577233220",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5577233220?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzIzMzIyMCIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.neBDALLvYScM7TOrFBCloTDYWzbLc-kouIhPo-0yryA",
+            "company": {
+                "display_name": "Esko",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "Responsibilities Work as part of WSP’s GCC UK Water team in Bengaluru. Lead design management for mid-scale and complex projects , managing resources, timelines, and budgets from concept through to completion. Ensure projects comply with health, safety, environmental, and quality standards. Manage client relationships and collaborate with engineering teams to deliver effective, integrated solutions. Lead client and project meetings, reporting on progress, financials, and addressing technical ch…",
+            "title": "Technical Lead- Civil",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "id": "5577233174",
+            "longitude": 72.84415,
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "contract_time": "full_time",
+            "contract_type": "permanent",
+            "created": "2026-01-10T07:38:30Z",
+            "redirect_url": "https://www.adzuna.in/details/5577233174?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 19.00821,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "WSP in India"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc3MjMzMTc0In0.jlkPwNao4ZiyOgg38EfbotdyN8p_WOY7wY3K-YZrj3w",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5577233122?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 22.2891,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hitachi Energy"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzIzMzEyMiIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.OCytHUHslXrGddzrRhLYFhtI9v87mcP1YtVI6tls7W0",
+            "title": "R&D Mechanical Designer",
+            "description": "The opportunity As a new Mechanical Designer, you will join our Global Multi-Physic Simulation (GLOMUS) network team in the Technology Center of HITACHI-Energy. You will be part of a group with specific expertise in mechanical design and support innovative and challenging projects. As part of our global R&D community, including Technology Centers and Research Centers worldwide, you will contribute to supporting factories in the PG Dry, Traction, and Distribution Transformers with your design sk…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Vadodara"
+                ],
+                "display_name": "Vadodara, Gujarat"
+            },
+            "id": "5577233122",
+            "longitude": 73.1924,
+            "contract_type": "permanent",
+            "created": "2026-01-10T07:38:30Z",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "longitude": 72.84415,
+            "id": "5577184005",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs",
                 "label": "IT Jobs"
             },
+            "contract_type": "permanent",
+            "created": "2026-01-10T06:48:34Z",
+            "description": "Job Description Overview: We are seeking a proactive and technically skilled IT Support Engineer to serve as the primary on-site technical point of contact for our client, supporting trading technology systems. The ideal candidate will combine strong technical proficiency with excellent client-facing and problem-solving abilities. Key Responsibilities On-Site Technical Support: Act as the primary technical representative for the client, delivering hands-on, on-site support across all trading te…",
+            "title": "IT Support Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzE4NDAwNSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.9a_cY9HcQF_M3GurmFNsMCJZ8FdRgNtI7rkMOeLA6ns",
+            "company": {
+                "display_name": "DYNE IT Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5577184005?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 19.00821
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576952349?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Pretium"
+                "display_name": "Palo Alto Networks"
             },
-            "description": "Role Overview: As a Technical Support Engineer specializing in Voice Support, you will be the key point of contact for providing technical support via voice channels. You will handle a range of technical issues, ensuring incidents are resolved efficiently following the ITIL Incident Management process. You will own the lifecycle of each ticket from logging through resolution, to maintaining clear and continuous communication with customers. The role demands strong technical troubleshooting acro…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Njk1MjM0OSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.SXe63epG7NW3zC_ECVxla_M4LXpoV8WmvbAzDz4_Kc8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Your Career You will work firsthand with our valued customers to address their complex post–sales concerns where analysis of situations or data requires an in–depth evaluation of many factors. You're a critical thinker in understanding the methods, techniques, and evaluation criteria for obtaining results. You'll enjoy networking with key contacts outside your own area of expertise, with a strong capability of detailing difficult technical issues to both non–technical and techni…",
+            "title": "Sr. Technical Support Engineer, Focused Services",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -83,28 +529,220 @@
                 ],
                 "display_name": "Bangalore, Karnataka"
             },
-            "title": "Technical Support Engineer",
-            "created": "2025-12-20T09:00:06Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5549496363?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=302F487419624BBAAA9165BEC16E6E6833E4B20E",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTQ5NjM2MyIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.qJMH6OvpK_-pduCG8420XEMCAGd5Ei0hmT2-kBdBfwU",
-            "id": "5549496363",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "description": "Qualys, a leading cybersecurity firm, is seeking an experienced Technical Support Engineer for Security Applications to resolve global customer and partner service requests promptly. Collaborate across teams for high customer satisfaction in a secure environment. Ideal for security enthusiasts with solid networking skills. Lead in resolving technical issues, provide top-tier support, and contribute to world-class assistance. Responsibilities: Promptly resolve global customer and partner service…",
+            "id": "5576952349",
             "category": {
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs"
             },
+            "created": "2026-01-10T04:21:53Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTgxOTQ2In0.0zp3J-Mh5xC5vVEGSg75xYTMtuZ98Q27aihdlgiZ0e0",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Qualys"
+                "display_name": "Orion Innovation Naukri"
             },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576581946?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T00:48:39Z",
+            "id": "5576581946",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "description": "Role: PowerShell Developer. Location: Noida (Sector 62) & Pune (Viman Nagar). Work Mode: 5 Days Working from Office. Experience: 5 years and above. A PowerShell developer plays a key role in designing, developing, and maintaining automation scripts and solutions using PowerShell, with a strong focus on installation processes and infrastructure management. This involves using PowerShell to streamline IT tasks, manage systems, and automate installations in various environments, including Windows …",
+            "title": "PowerShell Developer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576576176?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cognite"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTc2MTc2In0.ctHIIZ-uZNKgbCsml9SwVpHhmXd4nlEj55kTS4xPj_0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Cognite operates at the forefront of industrial digitalization, building AI and data solutions that solve some of the world’s hardest, highest-impact problems. With unmatched industrial heritage and a comprehensive suite of AI capabilities, including low-code AI agents, Cognite accelerates the digital transformation to drive operational improvements. Our moonshot is bold: unlock $100B in customer value by 2035 and redefine how global industry works. What Cognite is Relentless to achieve We thri…",
+            "title": "Senior Data Engineer - Value Support Engineering",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576576176",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T00:47:55Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTUyMjA5In0.kMPNxqI3Ejup_CuP4QUJxsSYeWZz1VuipmCdWMUSQ9w",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Alation India ."
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576552209?utm_medium=api&utm_source=d58ac19b",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:44:40Z",
+            "id": "5576552209",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Alation is pioneering the next era of data intelligence — powered by AI agents and trusted data . Organizations around the world rely on Alation to drive self-service analytics, cloud transformation, data governance, and AI innovation. Our technology helps enterprises connect people and data to make faster, smarter, and more confident decisions. With more than $340M in funding – valued at over $1.7 billion and more than 650 customers, including 40% of the Fortune 100. As data becomes the founda…",
+            "title": "Senior Technical Support Engineer"
+        },
+        {
+            "description": "About TaskUs: TaskUs is a provider of outsourced digital services and next-generation customer experience to fast-growing technology companies, helping its clients represent, protect and grow their brands. Leveraging a cloud-based infrastructure, TaskUs serves clients in the fastest-growing sectors, including social media, e-commerce, gaming, streaming media, food delivery, ride-sharing, HiTech, FinTech, and HealthTech. The People First culture at TaskUs has enabled the company to expand its wo…",
+            "title": "Workday Junior Developer",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576539649",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:42:42Z",
+            "redirect_url": "https://www.adzuna.in/details/5576539649?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "TaskUs",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjUzOTY0OSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.Ryr-ZWXUTxTjTwYENj0_HcbTzB4CXg6H8p4BA61_DCI",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576535118?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTM1MTE4In0.NxqM1fa7KHUh9UUjcfbPoRXlBAqPGXwn2bDBqPLbHVM",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "OneOrigin"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "We are looking for an entry-level Technical Recruiter who is curious, analytical, and excited about using AI tools, automation, and data in day-to-day recruiting. You will work closely with engineering and leadership teams to build scalable, intelligent hiring workflows — not manual sourcing pipelines. Key Responsibilities AI-First Recruiting (Core Expectation) Use AI tools (ChatGPT, Gemini, resume parsers, sourcing bots, ATS automation) to: ● Screen resumes intelligently ● Generate technical s…",
+            "title": "AI- First Technical Recruiter",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "contract_type": "contract",
+            "created": "2026-01-10T00:41:56Z",
+            "id": "5576535118"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "description": "CSQ426R86 Job Overview: We are seeking a highly skilled Frontline Senior Technical Solutions Engineer with over 5 years of experience to join our Platform Support team. This role is pivotal in delivering exceptional support for our Databricks Data Intelligence platform, addressing complex technical challenges, and ensuring the seamless operation of our data solutions. As a frontline engineer, you will be the primary point of contact for critical issues, working closely with both internal teams …",
+            "title": "Senior Technical Solutions Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2026-01-10T00:40:08Z",
+            "id": "5576525288",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576525288?utm_medium=api&utm_source=d58ac19b",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Databricks"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTI1Mjg4In0.Lb9qgeWpq3SOiuWf0gXt4TyF_q9wAW06Ok6RVTVcKLY",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5576507770?se=sC8yZuPt8BG5yaA3s3luuw&utm_medium=api&utm_source=d58ac19b&v=F844715452BE29BEC5B356B4CC7957991EE950F6",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Astra Security",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NTA3NzcwIn0.HUNIITHj3atSb0YNP9HQuc5YF5_4r1jgyNprgW7PGCs",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "title": "Product Support Engineer",
+            "description": "About Astra: Astra is a cybersecurity SaaS company that makes otherwise chaotic pentests a breeze with its one-of-a-kind AI-led offensive Pentest Platform. Astra's continuous vulnerability scanner emulates hacker behavior to scan applications for 15,000 security tests. CTOs and CISOs love Astra because it helps them to achieve continuous security at scale, fix vulnerabilities in record time, and seamlessly transition from DevOps to DevSecOps with Astra's powerful CI/CD integrations. Astra is lo…",
+            "created": "2026-01-10T00:37:41Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5576507770"
+        },
+        {
             "longitude": 73.84735,
-            "created": "2025-12-16T18:15:11Z",
-            "title": "Technical Support Engineer",
+            "id": "5576484652",
+            "created": "2026-01-10T00:35:00Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "title": "Systems Engineer I",
+            "description": "Description GPP Database Link Job Summary: Responsible for defining, building and communicating a shared technical and architectural vision for a Product Team to help ensure the system or solution is fit for its intended purpose. Key Responsibilities: Defines, explores, and supports the implementation of enablers to evolve solution intent, working directly with Product teams to implement them; Guides enablers through planning and enablement, and work with customers and suppliers to help ensure …",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -114,1090 +752,83 @@
                 ],
                 "display_name": "Pune, Maharashtra"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NDE5MjQyMSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.eqf8QZk73KrbV28i0t_g7lGcyt5fnEBAIILM8cj889Y",
-            "redirect_url": "https://www.adzuna.in/land/ad/5544192421?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=1FA0D431D7F26AB9D00C2533A9487F996A885A3C",
-            "salary_is_predicted": "0",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5544192421",
-            "latitude": 18.5062
-        },
-        {
-            "latitude": 19.00821,
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5502710151",
-            "redirect_url": "https://www.adzuna.in/land/ad/5502710151?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=338A63AA68032B48D0E773354545B1386CB20684",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjcxMDE1MSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.ckHU3K-rCVAtwlNh_wU3b9NNU8nh7FZfTlhBPI8mCyU",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Mumbai"
-                ],
-                "display_name": "Mumbai, Maharashtra"
-            },
-            "title": "Technical Support Engineer",
-            "longitude": 72.84415,
-            "created": "2025-11-19T08:15:43Z",
-            "company": {
-                "display_name": "HDFC securities",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "description": "Job Title: Technical Support Engineer - Application Management Experience Level: 3-7 Years Key Responsibilities: Application Deployment & Management: Manage the deployment of applications, including relevant upgrades and patches, across UAT, Production, and Disaster Recovery (DR) environments. Oversee the deployment and basic administration of databases. Ensure the continuous uptime and availability of applications, proactively identifying and resolving issues with minimal supervision. Coordina…"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5530553795?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=6102DB2CC5E3A0BFE2FDC0243DD5A46B2AEEB11D",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1Mzc5NSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.FSxn7RvEtYebgw18wzXr3DRsaBQGQKd0jzo49VYC6a8",
-            "contract_time": "full_time",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5530553795",
-            "salary_is_predicted": "0",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "ORO Labs"
+                "display_name": "Cummins"
             },
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "description": "Job Title: Technical Support Engineer Location: India (Remote) Experience Required: 5–8 Years Employment Type: Full-Time About ORO Labs: ORO Labs is an agentic procurement orchestration company on a mission to humanize the procurement experience. Founded in 2020 by former SAP Ariba product leaders, ORO delivers effortless user experiences so businesses can shorten cycle times, decrease risk through end-to-end process visibility, and remain agile in response to change with a no-code platform pur…",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "title": "Technical Support Engineer",
-            "created": "2025-12-06T09:45:10Z"
-        },
-        {
-            "location": {
-                "display_name": "Chennai, Tamil Nadu",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ]
-            },
-            "title": "Technical Support Engineer",
-            "longitude": 80.24963,
-            "created": "2025-12-25T13:37:37Z",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Themesoft Inc."
-            },
-            "description": "Greetings from Themesoft! We are seeking IT Support / System Support professional for an on-site role in Chennai . Location: Chennai Experience: 4–6 Years Notice Period: Immediate Joiner or 10 days of notice period Only Required Skills: Active Directory, Basics of Cisco products , User/Client management, ServiceNow ticket handling, Citrix installation, configuration, and support Key Responsibilities: Support acquisition and setup of computer and networking hardware Install, configure, monitor, …",
-            "latitude": 13.06041,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5555201151",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5555201151?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=925090ED3A42BB7FBB76BCA89884FD3428917187",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTU1MjAxMTUxIn0.ku1-ImMesXV7RyXva1xt4P9HqmEnQ9xBaRqqg_DTFy8"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI1MjA4OTE5In0.WJBXOetUGR8XfjLMIWg1LoA5ACf73OWSaCrF-0ghWDA",
-            "redirect_url": "https://www.adzuna.in/land/ad/5525208919?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=7112BA7F6F99EA17052202D5B8AFDCCD0892C967",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5525208919",
-            "salary_is_predicted": "0",
-            "description": "Role Purpose(s) The Technical Support for Network Operations Center (NOC) plays a vital role in ensuring the smooth functioning of our network infrastructure and providing technical assistance. Job Responsibilities & Duties Operates and monitors all systems, applications, network and telecommunication line usage Fault response, troubleshooting and incident/problem management: Monitor and identify system abnormalities and resolve problems or follow-up to ensure resolution of problems escalated t…",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "CrimsonLogic"
-            },
-            "created": "2025-12-03T09:02:29Z",
-            "title": "Technical Support Engineer",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            }
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5528007344",
-            "salary_is_predicted": "0",
-            "latitude": 19.00821,
-            "redirect_url": "https://www.adzuna.in/land/ad/5528007344?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=5660507B8B8DA0ECACB01B21D56569D2A72EB11F",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTI4MDA3MzQ0In0.1R-AP84NI0asema_c3Q18AU85NnxxIbFNBk_2toFtR4",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Mumbai"
-                ],
-                "display_name": "Mumbai, Maharashtra"
-            },
-            "longitude": 72.84415,
-            "created": "2025-12-05T01:17:45Z",
-            "title": "Technical Support Engineer",
-            "company": {
-                "display_name": "Lxme",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "description": "About Us: At LXME, we’re building India’s first full-stack financial platform for women — designed to help them save, invest, and manage money confidently. We’re on a mission to create real impact, and we’re looking for passionate builders to join our tribe. Job Description: The Technical Support Specialist is responsible for providing technical support and troubleshooting issues reported by customers. This includes analyzing error logs, reviewing user journey data through integrations like Use…"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzOTAxNzE5MSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.TJUwcRVC2AK-NMZCYb7RhZJgoVRYTNCFQQHbXlFgN2c",
-            "redirect_url": "https://www.adzuna.in/land/ad/5539017191?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=459166D1346FA60DF80858CA43792CE6438F6CB3",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5539017191",
-            "description": "From the merger of two leaders in the CX space, ASPECT Software and Noble Systems, comes ALVARIA. A new global force delivering leading edge Customer Experience and Workforce Engagement software as well as cloud services technology solutions for enterprise Contact Centers. We blend the agility of a start-up mentality with the stability of an established enterprise, challenging the market with renewed thinking and best-of-breed business solutions. Our solutions simplify and improve the customer …",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "display_name": "Alvaria CX",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "title": "Technical Support Engineer",
-            "created": "2025-12-12T09:53:04Z",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
-        },
-        {
-            "description": "About Us Observe.AI is the leading AI agent platform for customer experience. It enables enterprises to deploy AI agents that automate customer interactions, delivering natural conversations for customers with predictable outcomes for the business. Observe.AI combines advanced speech understanding, workflow automation, and enterprise-grade governance to execute end-to-end workflows with AI agents. It also enables teams to guide and augment human agents with AI copilots, and analyze 100% of huma…",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Observe.AI"
-            },
-            "created": "2025-12-13T09:39:53Z",
-            "title": "Lead Technical Support Engineer",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQwNjczMTQ4In0.VJcyOavVuj16vvGwmxNu6HJs45Lgd6VRrmrlpBvs0QU",
-            "redirect_url": "https://www.adzuna.in/land/ad/5540673148?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=7CD1B4E608871E1E9324B0CD068D89C35BA67015",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5540673148",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQ4NDY1MiIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.n6nEbe0wBQtPaIGEvJu2eRbQIhH22Qqk6MBJd1li7bw",
+            "redirect_url": "https://www.adzuna.in/details/5576484652?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 18.5062,
             "salary_is_predicted": "0"
         },
         {
-            "id": "5523454939",
+            "company": {
+                "display_name": "Description Infoblox",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQ4MjA5OSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0._x5QxPTlykh34uDqyHyYcxxI8g1JQDghMz8vfFkII7k",
             "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576482099?utm_medium=api&utm_source=d58ac19b",
             "salary_is_predicted": "0",
-            "contract_type": "permanent",
+            "latitude": 8.49239,
+            "id": "5576482099",
+            "longitude": 76.93365,
             "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMzQ1NDkzOSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.mTCGfMczR86QuatcmCd3W5WCxANG47Q1dE72qIi0WgI",
-            "redirect_url": "https://www.adzuna.in/land/ad/5523454939?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=FA54B5E6422F9C08F85AE389EC9C57B4BCA703E2",
-            "title": "Principal Technical Support Engineer",
-            "created": "2025-12-02T08:55:18Z",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "description": "Our Mission At Palo Alto Networks®, we’re united by a shared mission—to protect our digital way of life. We thrive at the intersection of innovation and impact, solving real-world problems with cutting-edge technology and bold thinking. Here, everyone has a voice, and every idea counts. If you’re ready to do the most meaningful work of your career alongside people who are just as passionate as you are, you’re in the right place. Who We Are In order to be the cybersecurity partner of choice, we …",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            }
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDY3MzM3MCIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.2dSFmg4LB_8LVGCrwIL1XUUqFNkJ8v06jBYZnazoUPs",
-            "redirect_url": "https://www.adzuna.in/land/ad/5540673370?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=51676C875E29F1F805E1A6027DECEDAF1E9462EA",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5540673370",
-            "latitude": 13.06041,
-            "description": "Role Overview We are looking for a Support Lead Engineer who can lead technical support operations, handle L3 escalations, and bridge the gap between customers and engineering. This role is perfect for someone with strong backend debugging skills (preferably Node.js exposure) and a problem-solving mindset. Key Responsibilities ● Lead and manage escalated technical issues (L3 support). ● Debug backend services, APIs, and integrations built in Node.js. ● Analyze logs, traces, and metrics to diagn…",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "display_name": "Amura Health",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "longitude": 80.24963,
-            "created": "2025-12-13T09:39:59Z",
-            "title": "Lead Technical Support Engineer",
-            "location": {
-                "display_name": "Chennai, Tamil Nadu",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ]
-            }
-        },
-        {
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "created": "2025-10-26T02:19:07Z",
-            "title": "Senior Technical Support Engineer",
             "category": {
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs"
             },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Palo Alto Networks"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …",
-            "contract_time": "full_time",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5464585609",
-            "redirect_url": "https://www.adzuna.in/land/ad/5464585609?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=45282A2C53F8B15A2942B0614983D16545159AAA",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NDY0NTg1NjA5In0.8WeNzyRUglfC8jRZaqSrS16xh3E_0xMOVJfkCTVCft4"
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5508721525",
-            "redirect_url": "https://www.adzuna.in/land/ad/5508721525?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=5B89046D1567CFC3EB52C6CDF14197467F9F37FF",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTA4NzIxNTI1In0.2IWjBjzsBA9wfcforIeczJ7jO-YvLyvAd8iSwxn2cHA",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Technical Support Engineer (L1)",
-            "created": "2025-11-22T09:17:31Z",
-            "company": {
-                "display_name": "RingCentral",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "description": "Say hello to possibilities. It’s not everyday that you consider starting a new career. We’re RingCentral, and we’re happy that someone as talented as you is considering this role. First, a little about us, we’re the $2 billion global leader in cloud-based communications and collaboration software. We are fundamentally changing the nature of human interaction—giving people the freedom to connect powerfully and personally from anywhere, at any time, on any device. This is where you and your skill…"
-        },
-        {
-            "title": "Lead Technical Support Engineer",
-            "created": "2025-12-31T10:31:35Z",
-            "longitude": 77.3225,
-            "location": {
-                "area": [
-                    "India",
-                    "Uttar Pradesh",
-                    "Ghaziabad",
-                    "Noida"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Noida, Ghaziabad"
-            },
-            "description": "Job Role: Lead Infrastructure implementation and support Experience: 9 to 11 years of experience in the role of Software and Hardware Infrastructure implementation and support Education: BE (IT/Computers), MCA Work Location: Noida (work from office only) Travel: Yes, required to onsite locations (PAN India  International) Roles and Responsibilities Identify Hardware and Software requirements related to Product Implementation. Keep yourself updated with latest trends in Hardware and Software Inf…",
-            "company": {
-                "display_name": "ClearTrail Technologies",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "latitude": 28.56579,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5560708708",
-            "salary_is_predicted": "0",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcwODcwOCIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.2ztWj9AIsF4C--gYOtV5XIWmwBYBbCTeDGgXE0wurrg",
-            "redirect_url": "https://www.adzuna.in/land/ad/5560708708?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=C52CDB6F81595ED8310121EC08DD498AB1CDFEE7"
-        },
-        {
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "created": "2026-01-01T08:41:03Z",
-            "title": "Senior Technical Support Engineer",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Our Mission At Palo Alto Networks®, we’re united by a shared mission—to protect our digital way of life. We thrive at the intersection of innovation and impact, solving real-world problems with cutting-edge technology and bold thinking. Here, everyone has a voice, and every idea counts. If you’re ready to do the most meaningful work of your career alongside people who are just as passionate as you are, you’re in the right place. Who We Are In order to be the cybersecurity partner of choice, we …",
-            "contract_time": "full_time",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5561944126",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561944126?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=F234B9E3F7FF4A2745BA4565C452E343CBD5647F",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0NDEyNiIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.4aYZi2EboPTJO8Q4gSzXm6N9MNg7BdmH4MTYkw9SejI"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5561942534?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=974069730C395FEA0E5F362530B29D637E222569",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTYxOTQyNTM0In0.msI4kU5prjysKIYYWhLR_oT-YJwvEv5BkZrVg8N_sKY",
-            "latitude": 23.042,
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5561942534",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "CAVITAK"
-            },
-            "description": "CAVITAK with its 420 member strong team ( referred to as Cavs ) are engaged in below Business Verticals: Retail Distribution - Mobile & Consumer Goods Value-Added Tech Distribution - Audio & Video, Fire, Security, Automation, Network & Power Solutions and Fundamental Resource Management & AI Global Commerce - Launchpad for global and Indian brands on e-commerce platforms Responsibilities: Provide technical support to customers, dealers, and field technicians through various channels, including …",
+            "created": "2026-01-10T00:34:49Z",
+            "description": "Description Infoblox is looking for Analyst. This role will be an responsible for  The Analyst will report to the Manager of  Responsibilities: Work with business owners and team leads to define KPIs and data points to be captured Responsible for data validation, enhancement, and clean up Requirements: 5 years of experience in a Reporting and Analytics role Excellent analytical skills Excellent communication, organization, and prioritization skills",
+            "title": "Enterprise Technical Support Engineer - SaaS",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Gujarat",
-                    "Ahmedabad"
-                ],
-                "display_name": "Ahmedabad, Gujarat"
-            },
-            "title": "Technical Support Engineer - VDP",
-            "longitude": 72.59465,
-            "created": "2026-01-01T08:39:25Z"
-        },
-        {
-            "description": "CAVITAK with its 375 member strong team ( referred to as Cavs ) are engaged in below Business Verticals: Retail Distribution - Mobile & Consumer Goods Value-Added Tech Distribution - Audio & Video, Fire, Security, Automation, Network & Power Solutions and Fundamental Resource Management & AI Global Commerce - Launchpad for global and Indian brands on e-commerce platforms About the Role: We are looking for a Technical Support Engineer who will provide hands-on support, troubleshooting, and techn…",
-            "category": {
-                "tag": "engineering-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "Engineering Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "CAVITAK"
-            },
-            "created": "2025-12-21T08:13:26Z",
-            "longitude": 72.59465,
-            "title": "Technical Support Engineer - Fire Alarm",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Gujarat",
-                    "Ahmedabad"
-                ],
-                "display_name": "Ahmedabad, Gujarat"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MDY0ODI1MyIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.UioyyegZYLk7u9ilkOTt_i9bILD7z2oA7lbn9yvVaWI",
-            "redirect_url": "https://www.adzuna.in/land/ad/5550648253?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=1E38D6BA89C15EEE5102A941096AFD11BD8138B6",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5550648253",
-            "latitude": 23.042
-        },
-        {
-            "contract_time": "full_time",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5289683010",
-            "redirect_url": "https://www.adzuna.in/land/ad/5289683010?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=26D8AB643A7BCD59E1FBF4EE2A5077B7DA52039A",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI4OTY4MzAxMCIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.pVv8t7ZAw3K8ANncVEedRj5zOkN7KMNl86But5nHDRA",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "title": "Senior Technical Support Engineer - XSIAM",
-            "created": "2025-07-07T09:12:57Z",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …"
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Palo Alto Networks"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "created": "2025-09-24T10:55:03Z",
-            "title": "Senior Technical Support Engineer - XDR",
-            "redirect_url": "https://www.adzuna.in/land/ad/5413527051?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=D083C4221B8127BC20AAF3B71FD6C168DC59FA94",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxMzUyNzA1MSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.6ijFMHJ0h-Ti4DRkQcsFzZTOFOv5y16lzgjO3ISOz7A",
-            "contract_time": "full_time",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5413527051"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5464583223",
-            "salary_is_predicted": "0",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NDU4MzIyMyIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.n2iX2OoUHMl7QBTB615FooBQuaY8A58rrPgLKmBoVWQ",
-            "redirect_url": "https://www.adzuna.in/land/ad/5464583223?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=5E5A05ADC594E7A51314FBC0E18410AF568BCE14",
-            "created": "2025-10-26T02:17:55Z",
-            "title": "Senior Technical Support Engineer-SASE",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            }
-        },
-        {
-            "title": "Technical Support Engineer-Wi-Fi",
-            "created": "2025-08-12T09:27:09Z",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
-            },
-            "description": "Knowledge/ Skill Requirement An Enterprise Wi-Fi Support Engineer is responsible for ensuring that enterprise-level customers have a positive experience with their Wi-Fi networking services. They work to address customer issues, identify areas for improvement, and provide guidance and support to customers as needed. Here are some skills that are important for an Enterprise Wi-Fi Support Engineer: Wi-Fi Expertise: The engineer should have strong technical skills and knowledge of Wi-Fi networking…",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Cambium Networks"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5348681161",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM0ODY4MTE2MSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.OyZRPHpLJgvLSiZQRIw65z2OJvQLXjTXhOqrBQwb5O0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5348681161?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=34FCA4D43A2EA8B31CB70646DF6877AAEDE32BEC"
-        },
-        {
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "created": "2025-10-26T02:18:44Z",
-            "title": "Senior Technical Support Engineer-Platinum Support",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Palo Alto Networks"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …",
-            "contract_time": "full_time",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5464584601",
-            "redirect_url": "https://www.adzuna.in/land/ad/5464584601?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=9BFCA1F31A870DF856BC1F433BE2E4DF4ACC0D66",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NDU4NDYwMSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.UXf0XYZbIWjcSof5-dsLPOOOetl0Hl9OnqfzLtMG2cg"
-        },
-        {
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "display_name": "VdoCipher Media Solutions",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "This role is at innovative tech company providing secure video hosting to e-learning, content creator and media businesses. Site is at www.vdocipher.com. Already in revenues , profitable with 3000 business customers across 30 countries. There is an existing experienced sales and support team, we are expanding it. Salary range - 10 to 16 LPA (CTC=Gross), The wide range is to accommodate candidates based on actual experience and skillset. * B2B Customer Support Role. (No cold calling/cold sales, …",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Technical Support Engineer (Customer Success Manager)",
-            "created": "2025-12-16T18:11:37Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5544189171?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=F60D43E9E6DBE0762F030EA8A95243738CF8DFE6",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQ0MTg5MTcxIn0.2S-hQK9u2l_Odk2Bml6Lsuk897dAeyQycjzFp0fMPD0",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5544189171"
-        },
-        {
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Senior Technical Support Engineer - Firewall - EMEA",
-            "created": "2025-12-19T08:57:42Z",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. We have the vision of a world where each day is safer and more secure than the one before. These aren’t easy goals to accomplish – but we’re not here for easy. We’re here for the better. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to …",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5548134449",
-            "redirect_url": "https://www.adzuna.in/land/ad/5548134449?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=1789283E262B34BEDDCA113D38762BA8589F019C",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEzNDQ0OSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.czoxyu8rkiOsYyaj1WaD_4wHPizOExpSDjTky3E6cFE"
-        },
-        {
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Senior Technical Support Engineer-Prisma Access Browser",
-            "created": "2025-10-26T02:18:35Z",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …",
-            "contract_time": "full_time",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5464584420",
-            "redirect_url": "https://www.adzuna.in/land/ad/5464584420?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=8E551B97B68E1BE96FF545F14A2FD9963CB66B7B",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NDY0NTg0NDIwIn0.BxvCCbVjfJoighd_XjIkAFq-p5cViWzne9f7u73ipaY"
-        },
-        {
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Palo Alto Networks"
-            },
-            "created": "2025-11-12T10:52:17Z",
-            "title": "Senior Technical Support Engineer - Firewall ( NAM shift )",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MTUwMjc2NyIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.MZi7wJRks-PxO5cfiNWJ_ZuYJzh9Pf92t_Rsn0b0G84",
-            "redirect_url": "https://www.adzuna.in/land/ad/5491502767?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=21702764A468355A2848844C01262250D89C3C9D",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5491502767",
-            "contract_time": "full_time"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5530552274",
-            "salary_is_predicted": "0",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MjI3NCIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.UukmgGfOhYKbM8KEsuEsGVvd9hwS_GJUT-rmbyFdRMo",
-            "redirect_url": "https://www.adzuna.in/land/ad/5530552274?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=EC5E9831B059B81AF1F86DCF4DE583CD5134FF53",
-            "created": "2025-12-06T09:38:44Z",
-            "title": "Sr. Technical Support Engineer, Focused Services -XDR",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We believe collaboration thrives in person. Th…",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            }
-        },
-        {
-            "contract_time": "full_time",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5512054956",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5512054956?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=11750CFCBCF4C7C77236571D7595CECABCD81F8C",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMjA1NDk1NiIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0._bx-8FYBrN09Cr551mqqSJ10Y1J2cJuCuq6YhhjbM6U",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Senior Technical Support Engineer - SASE (NAM Shift)",
-            "created": "2025-11-25T08:53:13Z",
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5384381355",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5384381355?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=6C618D734BC63D8092DF2A3711D1391BE42DB775",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM4NDM4MTM1NSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.EtJWqJxGW5nL2X06nc56IUecM9vkV29i9K8kyEh87rU",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Staff Technical Support Engineer, AI Access and SaaS Security",
-            "created": "2025-09-05T09:22:19Z",
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5322717751",
-            "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMyMjcxNzc1MSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.n_oHoI_ura1NPjBQHBsJ21lPmg7YKfDv7xoJzl1SrBM",
-            "redirect_url": "https://www.adzuna.in/land/ad/5322717751?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=76D256AC630193B5275F819F006736495C0252D1",
-            "title": "Sr. Technical Support Engineer, Focused Services - Prisma SDWAN",
-            "created": "2025-07-26T08:45:40Z",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Palo Alto Networks"
-            }
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Palo Alto Networks"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "created": "2025-11-19T08:13:40Z",
-            "title": "Sr. Technical Support Engineer, Focused Services - Cortex XSIAM",
-            "redirect_url": "https://www.adzuna.in/land/ad/5502708557?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=13D7541CFC97301EAF6B5F0F483164999C68B277",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjcwODU1NyIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.qVPFWjqVHEhLsSuxAjWe8nr8UzP8LqQDxhFVdqXGGk4",
-            "contract_type": "permanent",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5502708557"
-        },
-        {
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Textellent, Inc."
-            },
-            "description": "You will work closely with Client Success and support them by providing Tier-2 client support for software technical issues and work with Engineering department to debug and resolve the issues. RESPONSIBILITIES: Provide technical support to internal and external users including customer service teams as well as clients and partners Communication and coordination of feedback and inputs to the development team, mostly based in India Assist QA lead with QA activities Troubleshooting technical issu…",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "created": "2025-11-27T09:43:20Z",
-            "title": "Technical Support Engineer for a Web/Mobile application for US Company",
-            "redirect_url": "https://www.adzuna.in/land/ad/5515691138?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=763AA070392340D967E17C2892F4580982B36D7E",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTE1NjkxMTM4In0.ugfsnmGowISG4ZjhSfxEaA5L9LN-ldwh2uUzJAPylzE",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5515691138",
-            "salary_is_predicted": "0"
-        },
-        {
-            "description": "Experience required - 0.8 to 2.5 years Job description Should have attended regular school/college with 1023 as minimum qualification (regular/fulltime course) in any stream of subject, Diploma graduates - 1023 years as minimum qualification. Good understanding of computer systems, mobile devices and other tech products. Ability to diagnose and troubleshoot basic technical issues. Fresher or has a work experience as a Technical Support Engineer, Desktop Support Engineer, IT Help Desk Technician…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Talent Toppers"
-            },
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "title": "Technical Support Engineer - IT Infrastructure Services (Blended Voice Process)",
-            "created": "2025-12-13T09:39:46Z",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQwNjcyOTIyIn0.-NBuGg0nHgoQB_Y35pEpKIIS7s-VJuVGXbXnC5f9nqo",
-            "redirect_url": "https://www.adzuna.in/land/ad/5540672922?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=B8F123ACC4F24601BDE26D0016623F44EC1CB268",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5540672922",
-            "salary_is_predicted": "0",
-            "contract_type": "permanent",
-            "contract_time": "full_time"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NDQ4Mjc4ODY1In0.J_Pr8P87P3P9VB_QxmvA9tvp0WkXHmHEXrliuhjju4s",
-            "redirect_url": "https://www.adzuna.in/land/ad/5448278865?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=15D16FFC33F2B774F6C48311D4A797977C47C08F",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "id": "5448278865",
-            "contract_time": "full_time",
-            "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of life. Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are. Who We Are We take our mission of protecting the digital …",
-            "company": {
-                "display_name": "Palo Alto Networks",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "title": "Sr. Technical Support Engineer, Focused Services (Firewall) - EMEA Shift",
-            "created": "2025-10-15T17:16:56Z",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            }
-        },
-        {
-            "description": "Position: Senior Technical Customer Support Engineer Location: Hyderabad, Telangana, India Work Hours: Fully aligned with U.S. Eastern Standard Time (EST) hours — must be available for customer calls, collaboration with U.S. teams. Reporting To: Technical Support Lead / Manager Role Summary: As a Senior Technical Customer Support Engineer, you will engage directly with customers (via calls, remote sessions, email/chat) responsible for diagnosing and resolving complex technical issues (Tier 2/3 …",
-            "company": {
-                "display_name": "MAXTALENT / Maxxsavvy Business Solutions Pvt Ltd",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "title": "Senior Technical Customer Support Engineer",
-            "longitude": 78.50806,
-            "created": "2025-12-16T18:13:12Z",
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQ0MTkxMDY3In0.QBw32xVpuPTEy-Vb7XEh9Si7OFELK4qmfu_Zlw6ROGI",
-            "redirect_url": "https://www.adzuna.in/land/ad/5544191067?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=91E90469B9C5A6BE70886A43CC9B8DB42AA15CD3",
-            "latitude": 17.40275,
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5544191067",
-            "salary_is_predicted": "0",
-            "contract_type": "permanent"
-        },
-        {
-            "title": "Staff CCE (Technical / Escalation support Engineer)",
-            "created": "2025-12-18T02:35:37Z",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "description": "Okta Hiring > Staff CCE (Software engineer & Customer support Tier3) || Bangalore (Hybrid) Job Duties and Responsibilities: Troubleshoot, debug, analyze logs, profile code and propose bug fixes or architectural changes (within Okta or with regard to customer side integration or customization) Work closely with Dev teams to propose fixes or design changes Build and employ tools & automation where needed. Understand customer use cases, work with support and escalation teams closely to be an effec…",
-            "category": {
-                "tag": "engineering-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "Engineering Jobs"
-            },
-            "company": {
-                "display_name": "Okta",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5546312840",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NjMxMjg0MCIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.CDhBsPDOs932NY-3lm_Z9dLj6CT814V5A_KARBUqAHs",
-            "redirect_url": "https://www.adzuna.in/land/ad/5546312840?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=139A66F29952AD3D414C284B7045DB3178ECEA4B"
-        },
-        {
-            "title": "Middle Technical Support/Integration Engineer (no night shifts)",
-            "created": "2025-12-06T09:44:29Z",
-            "longitude": 76.24637,
-            "location": {
+                "display_name": "Trivandrum, Thiruvananthapuram",
                 "area": [
                     "India",
                     "Kerala",
-                    "Ernakulam",
-                    "Kochi"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Kochi, Ernakulam"
-            },
-            "description": "Quod Financial is a leading FinTech provider for capital markets. Quod Financial's products are intended for execution and liquidity research for stock exchanges, banks, and brokers. Quod Financial's solutions cover Equities, Derivatives and Currencies. Quod Financial is present in Asia, Europe and the United States.Headquartered in London, we have offices in Paris, Singapore, Dubai, Gdansk, Toronto, New York and Cochin. Required skills: Upper-intermediate spoken English (you will work with cli…",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "display_name": "Quod Financial",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "latitude": 9.98011,
-            "id": "5530553692",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTMwNTUzNjkyIn0.6FxDie0Gyedc4pYVw5r4Oale_Xg0zWFhW3VrfNOayvw",
-            "redirect_url": "https://www.adzuna.in/land/ad/5530553692?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=23BBFB7426F867D9483025ABB3ECC86D214FA2F6"
+                    "Thiruvananthapuram",
+                    "Trivandrum"
+                ]
+            }
         },
         {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTU2MTAyNjkwIn0.ueKutWxI40XzSgeLuigd7IYVj1swUmW16Uisdhcypog",
-            "redirect_url": "https://www.adzuna.in/land/ad/5556102690?se=iMwJ2dDm8BGtfZ1tbNO-SA&utm_medium=api&utm_source=d58ac19b&v=C528FC26A9051CD7A472FF84186BD3D68FA38852",
-            "id": "5556102690",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "latitude": 17.40275,
-            "description": "We’re Hiring at Movate (Formerly CSS Corp Pvt Ltd)!  Movate is pleased to invite you to our walk-in recruitment drive for the position of Service Desk Support Engineer/ Technical Support role at our Hyderabad office.  Walk-in Drive Details  Date: 27th Dec 2025 -  Venue: Movate (Formerly CSS Corp Pvt Ltd) SOHINI TECH PARK, Trendset Apartments, 1, Nanakramguda Rd, Financial District, Nanakramguda, Telangana 500032  Google Maps Link : https://maps.app.goo.gl/t9ATSvW6oE124Amr6 Service desk Support …",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "title": "Associate Technical Program Manager",
+            "description": "About the Role We’re looking for a Technical Program Manager who excels at driving execution for AI-driven SaaS products. This is a unique yet exciting opportunity to join and contribute to Abnormal's Research & Development Operating System. The creation of predictable, reliable, and standardized R&D processes is crucial for Abnormal's future strategy and success. To continue thriving in business, Abnormal is focused on developing several new products and features leveraging AI technologies. Te…",
+            "created": "2026-01-10T00:34:45Z",
             "category": {
                 "label": "IT Jobs",
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
+            "id": "5576481209",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576481209?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Movate"
+                "display_name": "Abnormal"
             },
-            "longitude": 78.50806,
-            "created": "2025-12-26T08:35:21Z",
-            "title": "Walk-in Drive- Technical Support/Service Desk Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "display_name": "Hyderabad, Telangana"
-            }
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQ4MTIwOSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.w6QyCsFhv79DNlVfh6WW1vX-rxaEVsgSYhVNv-kznKg"
         },
         {
-            "contract_type": "permanent",
-            "latitude": 13.09757,
-            "id": "5531873038",
-            "__CLASS__": "Adzuna::API::Response::Job",
             "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/details/5531873038?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTMxODczMDM4In0.iwRdQsEwO3nULMWEqdobJbl8CQiAfHHw8yWKZEaIpd0",
-            "location": {
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai",
-                    "Tondiarpet Fort St George"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Tondiarpet Fort St George, Chennai"
-            },
-            "title": "Technical Support Engineer",
-            "created": "2025-12-07T05:10:56Z",
-            "longitude": 80.29455,
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs",
-                "label": "IT Jobs"
-            },
+            "redirect_url": "https://www.adzuna.in/details/5576460425?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
             "company": {
-                "display_name": "Sisco Jobs",
+                "display_name": "Alkami",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "description": "Job Title: Technical Support Engineer Location: Chennai Experience Required: 3 Years Job Overview The Technical Support Engineer will be responsible for providing advanced technical assistance, troubleshooting complex issues, and delivering comprehensive support for hardware, software, and network-related problems. This role involves identifying technical challenges, implementing solutions, guiding end-users, maintaining system efficiency, and ensuring minimal downtime. The ideal candidate shou…"
-        },
-        {
-            "id": "5223496936",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "redirect_url": "https://www.adzuna.in/details/5223496936?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1MjIzNDk2OTM2In0.823vByDrjeX09H7ktLUeOJ1MNnp3hmbxKIeUByBA4wg",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NDYwNDI1In0.Jg7rcrY2eGeYN0yyoDE5glLhjROaBrTXgV9DEiQUxiY",
             "location": {
                 "display_name": "India",
                 "area": [
@@ -1205,79 +836,18 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "title": "Technical Support Engineer",
-            "created": "2025-05-30T20:10:15Z",
+            "title": "Sr Software Engineer",
+            "description": "Alkami is a leading cloud-based digital banking solutions provider for financial institutions in the United States that helps clients to transform through retail and business banking, digital account opening and loan origination, payment fraud prevention, and data analytics and engagement solutions. Alkami’s Mobile App Platform has been certified by J.D. Power for providing clients with “An Outstanding Mobile Banking Platform Experience.” Founded in 2009, we continue to be recognized for our in…",
+            "created": "2026-01-10T00:33:07Z",
             "category": {
                 "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "display_name": "Axiom Software Solutions Limited",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Technical Support Engineer \"1. Bachelor's degree in Computer Science, Information Technology, or related field. 2. Proficient in Linux/Unix commands and troubleshooting. . 3. Strong technical skills in SQL and scripting languages required. 4. Detailed knowledge of clinical trial phases and clinical data management flow is desirable. 5. Familiarity with the statistical analysis flow and protocol authorization process is desirable. 6. Domain knowledge of metadata components and metadata managemen…"
-        },
-        {
-            "created": "2025-09-10T02:30:03Z",
-            "title": "Technical Support Engineer",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "description": "We are looking for a Technical Support Engineer II (TSE 2) to join our global Customer Support team. This role is ideal for someone with a strong technical foundation who is eager to grow into a subject matter expert. You will be responsible for troubleshooting complex customer issues, collaborating with engineering and product teams, and driving customer satisfaction through timely and effective solutions. As a TSE 2, you are expected to go beyond basic troubleshooting by performing in-depth a…",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Partner One Capital"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5391206201",
-            "salary_is_predicted": "0",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5MTIwNjIwMSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.3tJEuZVxwvBKjzJwnvM6Vybs-6GMRr8cAtVSG2l7Stc",
-            "redirect_url": "https://www.adzuna.in/details/5391206201?utm_medium=api&utm_source=d58ac19b"
-        },
-        {
-            "longitude": 77.64504,
-            "created": "2025-12-16T03:01:13Z",
-            "title": "Technical Support Engineer",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore",
-                    "Indiranagar"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Indiranagar, Bangalore"
-            },
-            "description": "About Eagle Eye Networks: Eagle Eye Networks is a cloud-based video management company. The Eagle Eye Security Camera VMS has been purpose built for the cloud and provides unsurpassed security, redundancy, and reliability while allowing partners and customers the use of a wide variety of IP and analog cameras. Eagle Eye’s cloud is ideal for end-users and resellers requiring single sign-on access to live, recorded or event based video across multiple locations. The Eagle Eye VMS has strong APIs …",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs",
-                "label": "IT Jobs"
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "company": {
-                "display_name": "Eagle Eye Networks Inc",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5543511943",
-            "salary_is_predicted": "0",
-            "latitude": 12.97375,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTQzNTExOTQzIn0.LFAF4pcg8i3ccq2aNTUMEojalPjDeYt1pkyDW-BxArY",
-            "redirect_url": "https://www.adzuna.in/details/5543511943?utm_medium=api&utm_source=d58ac19b"
+            "contract_time": "full_time",
+            "id": "5576460425"
         },
         {
-            "title": "Technical Support Engineer",
-            "created": "2025-11-22T01:28:07Z",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -1285,178 +855,612 @@
                 ],
                 "display_name": "India"
             },
-            "description": "Apsona is a growing company in the Salesforce ecosystem with thousands of delighted customers, many of whom are large non-profits & educational institutes. Our products empower Salesforce admins with powerful reporting, document generation, data tools, and more. Why Apsona? Unlike other startups, we are already profitable. We have thousands of customers who truly love our products. Our products cater to any Salesforce customer, offering us a huge growth potential. At Apsona, you'll enjoy the pe…",
+            "title": "Technical Project Manager",
+            "description": "Equifax is where you can power your possible. If you want to achieve your true potential, chart new paths, develop new skills, collaborate with bright minds, and make a meaningful impact, we want to hear from you. What you will do Supervise Daily Operations and Set Priorities: Lead and supervise the team's daily activities, setting clear priorities and coordinating work to ensure tasks are completed and operational goals are met. Manage Team Performance and Development: Be accountable for the t…",
+            "created": "2026-01-10T00:31:17Z",
             "category": {
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs"
             },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Apsona Technologies India Pvt Ltd"
-            },
-            "salary_max": 1200000,
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5508276264",
-            "contract_type": "permanent",
             "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODI3NjI2NCIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.BrD9rgIzUhnRpEtyBFD5lrHMIaYUlAC0cvjxR5eLw4Q",
-            "redirect_url": "https://www.adzuna.in/details/5508276264?utm_medium=api&utm_source=d58ac19b",
-            "salary_min": 1000000
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI0Njg2NzAwNDA0In0.3mzDjw9YU0sFBso9u3q9oGcg92Qk4xfRi7w0FE-EfIE",
-            "redirect_url": "https://www.adzuna.in/details/4686700404?utm_medium=api&utm_source=d58ac19b",
-            "latitude": 17.40275,
-            "id": "4686700404",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5576435102",
             "salary_is_predicted": "0",
-            "description": "FRESHER MALE CANDIDATE CAN APPLY. Outlook Configuration Software installations and troubleshooting of all types of customer oriented field problems, network setting for TCP/IP and Internet setup. Trouble shooting of all types of Hardware and software applications problems. Configuring & troubleshooting of printer, scanner & LAN related issues reported by users Knowledge on DNS, DHCP, Active Directory, WDS MS Office OS installation and troubleshooting. Contact person-HR Srikanth Email id-srikant…",
+            "redirect_url": "https://www.adzuna.in/details/5576435102?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
             "company": {
+                "display_name": "Equifax",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "title": "Technical Support Engineer",
-            "created": "2024-05-10T07:38:18Z",
-            "longitude": 78.50806,
-            "location": {
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Hyderabad, Telangana"
-            }
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2NDM1MTAyIn0.U6GveirXVf1KtgdPWo2jT_6XjH_paAHlBOyGmka5uI8"
         },
         {
-            "latitude": 28.62623,
+            "created": "2026-01-10T00:29:56Z",
             "contract_time": "full_time",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDQ3OTU5NyIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.0C9R6ve9nCSAoa6nJ1lRuRel36t7b0TBKDmJj2Yvv00",
-            "salary_min": 20000,
-            "created": "2025-12-09T13:55:36Z",
-            "longitude": 77.21808,
-            "location": {
-                "area": [
-                    "India",
-                    "Delhi",
-                    "New Delhi",
-                    "Sansad Marg"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Sansad Marg, New Delhi"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "ATLANTA SYSTEMS PVT LTD"
-            },
             "category": {
                 "label": "IT Jobs",
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "salary_max": 30000,
-            "salary_is_predicted": "0",
+            "longitude": 77.59837,
+            "id": "5576420258",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "ARC Support Engineer - L3 ( Security )",
+            "description": "ARC Support Engineer - L3 ( Security ) This role has been designed as ‘Hybrid’ with an expectation that you will work on average 2 days per week from an HPE office. Who We Are: Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex worl…",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5534479597",
-            "contract_type": "permanent",
-            "redirect_url": "https://www.adzuna.in/details/5534479597?utm_medium=api&utm_source=d58ac19b",
-            "title": "Technical Support Engineer",
-            "description": "Job Title: IoT Support / Technical Support Specialist Location: Connaught Place, New Delhi Experience: 1–2 years in IoT / GPS / Technical Support Job Type: Full-time Gender Preference: Male (field work involved) Requirement: Must have own bike Salary: ₹20,000 – ₹30,000 in-hand Job Description: Looking for an IoT / Technical Support Specialist with hands-on experience in GPS or IoT devices. The role includes customer handling, device troubleshooting, and field visits for installation and assembl…"
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hewlett Packard Enterprise"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQyMDI1OCIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.5PRTABEYGfjGyfZ3BmlRnIk5WGpLmL-NXIUPFM4nV7g",
+            "latitude": 12.95703,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576420258?utm_medium=api&utm_source=d58ac19b"
         },
         {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaU13SjJkRG04Qkd0ZloxdGJOTy1TQSIsImkiOiI1NTM1Njg5MjU1In0.fiuQkrHmV-axfxeGsM5FVUM9SUz_pxl0boDA7pgaBQw",
-            "redirect_url": "https://www.adzuna.in/details/5535689255?utm_medium=api&utm_source=d58ac19b",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5535689255",
-            "salary_is_predicted": "0",
-            "description": "Job Description Years of Experience: 1 – 3 years of experience in Technical Support / BPO industry, preferably both in chat and Voice process. Freshers can also apply. Mandatory Skills:  Excellent communication skills in English (both spoken and written)  Basic to advanced knowledge of computers (software)  Working knowledge of internet and networking  Typing speed - minimum 35 wpm with 100% accuracy  Attention to detail is a must along with accuracy in the chats  Ability to follow instru…",
             "company": {
-                "display_name": "BETSOL",
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Acronis India"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQxNzE1NyIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.nXQMWD0loLfIPUTj0XX_bAxMjXLGZ19i6HCVt_OmmpM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576417157?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T00:29:39Z",
+            "id": "5576417157",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "description": "Holiday Notice: As we move through the holiday season, response times may be slightly delayed. Our team will resume full operations in the New Year and appreciate your patience. Wishing you a wonderful holiday season and a happy, healthy 2026!​ Acronis is a world leader in cyber protection—empowering people by providing them with cutting-edge technology that enables them to monitor, control, and protect the data that their businesses and lives depend on. We are looking for an Expert Support Eng…",
+            "title": "Corporate Cloud Expert Support Engineer - APAC"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576415117?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "CrashPlan",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQxNTExNyIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.bvs_h958H-OKfi1UpIO-W4NbnDUfh7zTULnJGQmYDIs",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Sr. Technical Support Engineer",
+            "description": "Who We Are: C rashPlan ® provides cyber-ready data resilience and governance in a single platform for organizations whose ideas power their revenue. With its comprehensive backup and recovery capabilities for data stored on servers, on endpoint devices, and in SaaS applications, CrashPlan’s solutions are trusted by entrepreneurs, professionals, and businesses of all sizes worldwide. From ransomware recovery and breaches to migrations and legal holds, CrashPlan’s suite of products ensures the sa…",
+            "created": "2026-01-10T00:29:32Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "id": "5576415117"
+        },
+        {
+            "id": "5576413560",
+            "longitude": 77.59837,
             "category": {
                 "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs"
             },
-            "created": "2025-12-10T08:03:01Z",
-            "title": "Technical Support Engineer",
+            "created": "2026-01-10T00:29:25Z",
+            "description": "Recruitment Fraud Alert We’ve learned that scammers are impersonating Commvault team members—including HR and leadership—via email or text. These bad actors may conduct fake interviews and ask for personal information, such as your social security number. What to know: Commvault does not conduct interviews by email or text. We will never ask you to submit sensitive documents (including banking information, SSN, etc) before your first day. If you suspect a recruiting scam, please contact us at w…",
+            "title": "Success Account Manager",
             "location": {
-                "display_name": "Bangalore, Karnataka",
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjQxMzU2MCIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.qqpEZ5Q2hy5eL28D4BvYCZaQBEgqabZ5xgnPYRq9vEs",
+            "company": {
+                "display_name": "Commvault",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576413560?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 12.95703
+        },
+        {
+            "latitude": 13.06041,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576392666?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM5MjY2NiIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.jJ6OUiZNWwJKHmNo37BU_rqoDhhL8oJRL6_QgbSsH2A",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Fortinet"
+            },
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Systems Engineer - Enterprise",
+            "description": "Description Presales SE Join Fortinet, a cybersecurity pioneer with over two decades of excellence, as we continue to shape the future of cybersecurity and redefine the intersection of networking and security. At Fortinet, our mission is to safeguard people, devices, and data everywhere. We are currently seeking a dynamic Pre-Sales System Engineer to contribute to the success of our rapidly growing business. You would act as the key Systems Engineer to work closely with a sales representative i…",
+            "created": "2026-01-10T00:27:56Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "id": "5576392666",
+            "longitude": 80.24963
+        },
+        {
+            "id": "5576388465",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:27:39Z",
+            "description": "This position is posted by Jobgether on behalf of a partner company. We are currently looking for a Technical Support Engineer L1/L2. In this role, you will have the opportunity to make a significant impact on customer satisfaction by resolving technical issues and ensuring a seamless experience with our platform. You will collaborate with a team of talented engineers and become an expert in our AI Data Security platform, helping clients mitigate data loss threats. Your problem-solving skills a…",
+            "title": "Technical Support Engineer L1/L2 - REMOTE",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Jobgether",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM4ODQ2NSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.Pt2GsR7SdVNR1SAbHC3n6_sIyxnJoXrIcnx_QbrCVcQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576388465?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM4NjQyNSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.9zvD8lIGpr_a6023NzLqo7tHT7D8GnCole8JP5gkiyQ",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lingaro"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576386425?utm_medium=api&utm_source=d58ac19b",
+            "created": "2026-01-10T00:27:31Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "id": "5576386425",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "AI Engineer",
+            "description": "Duties description: The person we are looking for will become part of DataScience and AI Competency Center working in AI Engineering team. The key duties are: Building high-performing, scalable, enterprise-grade ML/AI applications in cloud environment Working with Data Science, Data Engineering and Cloud teams to implement Machine Learning models into production Practical and innovative implementations of ML/AI automation, for scale and efficiency Design, delivery and management of industrializ…"
+        },
+        {
+            "description": "Job Description Summary As a member of the Project Engineering team, you will provide input and make decisions that influence major technical and financial outcomes for GEV and/or the customer and customer representatives. Own the project control activity globally and drive consistent functional specifications and common global processes for projects implementation. Activities that are conducted to better understand or ultimately meet the expectations of the customer. Responsible for department…",
+            "title": "Lead Engineer - Customer Project Engineering",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "id": "5576384385",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "created": "2026-01-10T00:27:23Z",
+            "redirect_url": "https://www.adzuna.in/details/5576384385?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "GE Vernova",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM4NDM4NSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.D3Y8kcnTwsQDr2xtT17QdoA-ntI-6_SYsdkNIS9YPE8",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "longitude": 78.50806,
+            "id": "5576348489",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:24:51Z",
+            "description": "Description If you are excited about shaping the future of technology and driving significant business impact in financial services, we are looking for people just like you. Join our team and help us develop game-changing, high-quality solutions. As a Senior Lead Architect at JPMorgan Chase within the Global Customer Platform team in Consumer and Community Banking, you play a crucial role in developing high-quality architecture solutions for a range of software applications and platform product…",
+            "title": "GCP Senior Lead Architect India",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjM0ODQ4OSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.NxK32_pXRxwaONFhtn-efwsLTT6AYxqIuBlZPp4r2Hg",
+            "company": {
+                "display_name": "JPMorganChase",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576348489?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 17.40275
+        },
+        {
+            "title": "Systems Engineer I",
+            "description": "Description Job Summary: Responsible for defining, building and communicating a shared technical and architectural vision for a Product Team to help ensure the system or solution is fit for its intended purpose. Disclaimer: This position is not a fully remote role . It operates on a hybrid schedule , requiring employees to work on-site 2–3 days per week at our office. Key Responsibilities: Defines, explores, and supports the implementation of enablers to evolve solution intent, working directly…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "longitude": 73.84735,
+            "id": "5576343863",
+            "created": "2026-01-10T00:24:29Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576343863?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 18.5062,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MzQzODYzIn0.r7jQ3cXAJYRadSuLlX2ESt8YM4bcYErXQyQyeTpG0cQ",
+            "company": {
+                "display_name": "Cummins",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576343390?utm_medium=api&utm_source=d58ac19b",
+            "latitude": 23.042,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Adani",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MzQzMzkwIn0.agFPgzZc6kkito6i5M5BJ2esTyZgzdzmAOitW_b1FHE",
+            "title": "Associate Manager - Electrical & Automation Equipment",
+            "description": "Responsibilities Engineering specification, review, and selection of electrical and automation systems for: - Container cranes (STS, RMQC) - Yard cranes (RTGC, RMGC) - Bulk handling equipment (Ship loader/unloader, stacker-reclaimer) Interface management and engineering deliverable approvals Ensuring operational efficiency and compliance with safety and performance standards Testing and commissioning of Electrical & automation system of the terminal equipment according to the terminal project r…",
+            "location": {
+                "display_name": "Ahmedabad, Gujarat",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Ahmedabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5576343390",
+            "longitude": 72.59465,
+            "created": "2026-01-10T00:24:27Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "GE Aerospace",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjMxNTA4OSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.odwLQWPEx2Sjrd70WUjmKRIGFVKl4lFCXMOcXnxLoQY",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576315089?utm_medium=api&utm_source=d58ac19b",
+            "created": "2026-01-10T00:22:24Z",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "id": "5576315089",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Lead Engineer - Mechanical Design",
+            "description": "Job Description Summary GE Aerospace Electrical Power business (Power Generation, Conversion, Distribution and Control) is leading the way in the application of advanced technologies towards the development and delivery of high-performance power products for aerospace and industrial hybrid vehicle applications. The ‘Lead Engineer – Mechanical Component’ is a high impact and dynamic role. In this role, you will contribute to the development of advanced power products and be part of the design, d…"
+        },
+        {
+            "title": "Senior Site Reliability Support Engineer",
+            "description": "REMOTE - Hyderabad, India What is Equisoft? Equisoft is a global provider of digital solutions for insurance and investment, recognized by over 250 of the world's leading financial institutions. We offer a comprehensive ecosystem of scalable solutions that help our customers meet all the challenges brought about by this era of digital transformation, thanks to our business needs-driven approach, industry knowledge, cutting-edge technologies and experts. With its business-driven approach, in-dep…",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5576306205",
+            "contract_type": "permanent",
+            "created": "2026-01-10T00:21:44Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576306205?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Equisoft",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MzA2MjA1In0.aWi1jycq2EDww0tTAthwKOKKvvQCxEI-raaZWjHOebE"
+        },
+        {
+            "longitude": 77.59837,
+            "id": "5576291639",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:20:22Z",
+            "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive. Your day at NTT DATA The Networking Remote Technical Support Engineer (L1) is an entry level engineering role, responsible for providing a professional remote technical support…",
+            "title": "Networking Remote Technical Support Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "company": {
+                "display_name": "NTT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjI5MTYzOSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.me6oiUldD3lksJf60g3kU7AbZvRAGY2u1Yl_u_u8PIs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576291639?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "latitude": 12.95703
+        },
+        {
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T00:19:46Z",
+            "id": "5576284755",
+            "longitude": 77.59837,
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "SFDC QA Automation Engineer This role has been designed as ‘Hybrid’ with an expectation that you will work on average 2 days per week from an HPE office. Who We Are: Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our cult…",
+            "title": "SFDC QA Automation Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjI4NDc1NSIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.t_E6KpMwoHCWXfv3bWJizF_PfNu3b_2HWSiTBoSDFQo",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hewlett Packard Enterprise"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "latitude": 12.95703,
+            "redirect_url": "https://www.adzuna.in/details/5576284755?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5576247349?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MjQ3MzQ5In0.gKJoRP4wP-CUhWWW-BtknJwh6Bi2La7bSc3JtQzhklk",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Secureframe"
+            },
+            "title": "Customer Experience Representative",
+            "description": "About Secureframe At Secureframe , we are not just a company; we are at the forefront of revolutionizing cybersecurity compliance. Recognized as one of the industry's most innovative and trusted providers, Secureframe has consistently received accolades for our advanced technology solutions and commitment to excellence. With a robust portfolio of products that safeguard thousands of businesses worldwide, we have been featured in major publications such as Forbes’ next billion dollar startups , …",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "id": "5576247349",
+            "created": "2026-01-10T00:16:11Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Adani"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MjQzMjQ5In0.-YmF-q3bvFAfHfiX8hX53_OZZyIm2HPJmYJnge4W3n8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576243249?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "id": "5576243249",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2026-01-10T00:15:54Z",
+            "description": "Responsibilities Project Planning and Coordination: Develop detailed project plans, schedules, and resource allocation strategies to meet project milestones and budgets. Construction Management: Oversee civil construction activities including foundations, structural works, earthworks, concrete works, and finishing, ensuring compliance with design specifications and quality standards. Technical Supervision: Provide technical guidance and support to site engineers, contractors, and vendors to res…",
+            "title": "Assistant Manager - Civil (Pirpainti)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
                 ]
             }
         },
         {
-            "latitude": 28.62523,
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "4686707762",
-            "redirect_url": "https://www.adzuna.in/details/4686707762?utm_medium=api&utm_source=d58ac19b",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDY4NjcwNzc2MiIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.hyNBfw86-qIXVHgXDA0xdDNEkPf7zPlBszeRdlq1Gko",
             "location": {
-                "display_name": "Delhi, India",
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
-                    "Delhi"
-                ]
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "title": "Technical Support Engineer",
-            "longitude": 77.224601,
-            "created": "2024-05-10T07:39:11Z",
+            "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive. Your day at NTT DATA The Security Remote Technical Support Engineer (L3) is an advanced engineering role, responsible for providing a professional remote technical support serv…",
+            "title": "Technical Specialist, Network & Security",
+            "contract_time": "full_time",
             "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
                 "tag": "it-jobs",
-                "label": "IT Jobs"
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
+            "created": "2026-01-10T00:14:30Z",
+            "id": "5576223046",
+            "longitude": 77.59837,
+            "salary_is_predicted": "0",
+            "latitude": 12.95703,
+            "redirect_url": "https://www.adzuna.in/details/5576223046?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjIyMzA0NiIsInMiOiJzQzh5WnVQdDhCRzV5YUEzczNsdXV3In0.WC80BLEshwQxSnJqSp2tYts2iuVQwfwwPfF-Ce3jGqg",
             "company": {
+                "display_name": "NTT",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "description": "We are looking for a Technical Support Engineer to provide enterprise-level assistance to our customers. You will diagnose and troubleshoot software and hardware problems and help our customers install applications and programs. Technical Support for CCTV , Biometric, Access Control, Smart Homes, Wifi Cameras etc. Technical Support Engineer responsibilities include resolving network issues, configuring operating systems and using remote desktop connections to provide immediate support. You will…"
+            "__CLASS__": "Adzuna::API::Response::Job"
         },
         {
-            "description": "Dear Candidate, We have an urgent requirement for Technical Support Engineer at Bhopal Location. Experience: 2-4 yrs Location: Bhopal, MP Work Mode : WFO only CTC: Best in Industry (25% Hike on Current ctc not the offered one) Education: UG: Any Graduate PG: Any Postgraduate Department : Product Support Designation: Technical Support Engineer Notice Periods: Immediate to 15 days Joiner Priority: Only Males (1 Sr and 2 Jr) Job Description: CPaas - Product operations(1 Technical Project Manager  …",
-            "title": "Technical Support Engineer",
-            "redirect_url": "https://www.adzuna.in/details/5050334685?utm_medium=api&utm_source=d58ac19b",
-            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MjE2MjQ0In0.IZbwS2fxxuglqQV8K3eS3qTjuLKz4g7ARCbeslh-chk",
+            "company": {
+                "display_name": "Reputation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
             "__CLASS__": "Adzuna::API::Response::Job",
-            "id": "5050334685",
-            "salary_max": 400000,
+            "redirect_url": "https://www.adzuna.in/details/5576216244?utm_medium=api&utm_source=d58ac19b",
+            "salary_is_predicted": "0",
+            "id": "5576216244",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs",
                 "label": "IT Jobs"
             },
+            "contract_time": "full_time",
+            "contract_type": "permanent",
+            "created": "2026-01-10T00:14:02Z",
+            "description": "About Reputation Reputation has changed the way companies improve their customer experience through feedback. Based in Silicon Valley and founded in 2013, Reputation is the only platform that empowers companies to fulfill their brand promise by measuring, managing, and scaling their reputation performance in real-time, everywhere. Functioning as a business’ eyes and ears in the spaces where customers talk, post, review, and recommend, Reputation AI-powered product stack analyzes vast amounts of…",
+            "title": "Technical Support Engineer (Tier 3)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0M4eVp1UHQ4Qkc1eWFBM3MzbHV1dyIsImkiOiI1NTc2MjE2MDU0In0.G4zcig2eiOGY0M4LrvngEnPuJlcuMMjWkpZDzYA4r4M",
             "company": {
-                "display_name": "Rigel Networks Pvt Ltd",
+                "display_name": "GE Vernova",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "created": "2025-02-15T04:23:53Z",
-            "longitude": 77.41355,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/details/5576216054?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T00:14:01Z",
+            "id": "5576216054",
             "location": {
+                "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
-                    "Madhya Pradesh",
-                    "Bhopal"
+                    "Karnataka",
+                    "Bangalore"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bhopal, Madhya Pradesh"
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA1MDMzNDY4NSIsInMiOiJpTXdKMmREbThCR3RmWjF0Yk5PLVNBIn0.Va_V0e6pK3fCkREWjlvDWK9mTKAUcqdUmTC93WgyaV8",
-            "salary_min": 200000,
-            "latitude": 23.27495,
-            "contract_time": "full_time"
+            "description": "Job Description Summary As a member of the Project Engineering team, you will provide input and make decisions that influence major technical and financial outcomes for GEV and/or the customer and customer representatives. Own the project control activity globally and drive consistent functional specifications and common global processes for projects implementation. Activities that are conducted to better understand or ultimately meet the expectations of the customer. Responsible for department…",
+            "title": "Lead Engineer - Customer Project Engineering"
         }
-    ]
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 397357.14,
+    "count": 315
 }

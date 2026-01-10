@@ -1,44 +1,107 @@
 {
+    "count": 550,
+    "mean": 1809634.48,
     "__CLASS__": "Adzuna::API::Response::JobSearchResults",
     "results": [
         {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5577433556",
             "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Bangalore, Karnataka"
             },
-            "title": "Full Stack Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTUwMjUxMyIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.4lh0qu3BAAC8o2BCqomC0HTf_Cua7VZb_jPIRmUgSWs",
+            "redirect_url": "https://www.adzuna.in/details/5577433556?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3NDMzNTU2In0.ZsbfRQVMgCjtHFOrjpCQ8wNnDEeMXBSDGPwf7Kxzl-0",
+            "contract_time": "full_time",
+            "description": "Senior Software Engineer The Software Engineering team delivers next-generation application enhancements and new products for a changing world. Working at the cutting edge, we design and develop software for platforms, peripherals, applications and diagnostics — all with the most advanced technologies, tools, software engineering methodologies and the collaboration of internal and external partners. Join us to do the best work of your career and make a profound social impact as a Senior Softwar…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DELL"
+            },
+            "created": "2026-01-10T10:35:44Z",
+            "title": "Software Senior Engineer"
+        },
+        {
+            "title": "Senior Full Stack Developer ( NodeJS  ReactJS  Azure)",
+            "created": "2026-01-10T08:39:15Z",
+            "company": {
+                "display_name": "Krimatix",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Role Summary Krimatix is building a modular, metadata-driven platform for industrial execution, inspection, and integrity workflows. User experiences, validations, and workflows are dynamically generated from JSON configuration and rules. We are seeking five contract Senior Software Engineers who can design and implement end-to-end solutions across frontend, backend, and data. This role requires a strong security mindset and shift-left quality practices, and may also contribute to AI-enabled ca…",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577275385?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=191A30B7641B1CBB84F4DCA128A5558A259161DD",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3Mjc1Mzg1In0.lY-WsJ8VEfNhi1U5eEjptm1CCG5zQsYjjLHx0tk2-14",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5577275385",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "company": {
+                "display_name": "UnitedHealth Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T08:34:59Z",
+            "title": "Senior Full Stack Engineer",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs",
                 "tag": "it-jobs"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5549502513?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9337EA4E56C2212BD5FE64A8AFDA8751B0CC3934",
-            "id": "5549502513",
-            "created": "2025-12-20T09:06:26Z",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "LTIMindtree"
-            },
             "salary_is_predicted": "0",
+            "latitude": 12.95703,
+            "id": "5577273560",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273560?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=B0CC856E4DE830C18056319F2C337AA6A430BED9",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjczNTYwIn0.TzZPyhNqgXja4BmeK3tpXUiVS2RVwjdCU3EuNFEXucM",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "description": " We’re Hiring: Full Stack Engineer | Pune, Bangalore, Chennai, Noida, Mumbai, Kolkata Looking for a passionate Full Stack Engineer skilled in Angular, Java, Spring & Spring Boot to join our dynamic team! What you’ll do:  Build and maintain modern web applications  Work on Angular  Java/Spring Boot stack  Integrate REST APIs & optimize performance  Collaborate in an Agile environment  Work with latest AI-driven tools (Copilot/Windsurf) What we expect: ⭐ 4 years of experience ⭐ Strong in Angular,…"
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…"
         },
         {
             "company": {
-                "display_name": "Tradeberg",
-                "__CLASS__": "Adzuna::API::Response::Company"
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "UnitedHealth Group"
             },
-            "contract_time": "full_time",
-            "description": "Company Description We suggest you enter details here. Role Description This is a full-time on-site role for a Full Stack Engineer located in Nagpur. The Full Stack Engineer will be responsible for designing, developing, and maintaining both front-end and back-end features of web applications. Daily tasks involve writing robust and scalable code, debugging and troubleshooting software, collaborating with cross-functional teams to deliver high-quality software, and working with modern developmen…",
-            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Senior Manager Software Engineering",
+            "created": "2026-01-10T08:34:59Z",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
             "salary_is_predicted": "0",
-            "title": "Full Stack Engineer",
+            "id": "5577273558",
             "location": {
                 "display_name": "Bangalore, Karnataka",
                 "area": [
@@ -48,79 +111,143 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5532110000?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=688E434DC5F8C42B847F66AEBC983EDF84E698B0",
-            "id": "5532110000",
-            "created": "2025-12-07T10:29:30Z",
+            "latitude": 12.95703,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MzU1OCIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.KudvRYKbJr96XdmDDC6Ua71AUhhmpmXIwlLr06vyOPk",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273558?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=DAA4B2E802036F7E539EEEDB287879BD784866BA",
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…"
+        },
+        {
+            "title": "Senior Manager Software Engineering",
+            "created": "2026-01-10T08:34:59Z",
+            "company": {
+                "display_name": "UnitedHealth Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MzU0MyIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.DdkY5HmRp1Em4LHajWRTqpr6pGG49ksrL5rZdykxWUU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273543?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=DF99E40031A8B9FCA5419777187870DCA2BAE9A4",
+            "longitude": 78.50806,
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577273543",
+            "latitude": 17.40275,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MzU0MSIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.f5k5BueFLeIZFHoATRHpAq-4eVw0TM_UH3xFIo4a6vk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 80.24963,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273541?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=FFB02A966ACC0CD2CD0772E2B61F4D91589DC7F1",
+            "location": {
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577273541",
+            "latitude": 13.06041,
             "category": {
                 "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjExMDAwMCIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.WEsoNJU44EylVN9c2606Riy-wmdEY9xjRjOImhjBWMo"
-        },
-        {
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "title": "Full Stack Engineer",
-            "category": {
                 "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MDcxMjA3MSIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.IlcvhMCn5Z80uaxHKyB-hc1n63MBBE3NnGwcDr23Ddw",
-            "redirect_url": "https://www.adzuna.in/land/ad/5560712071?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=5842DDFE3B0548F0D05039D67C7964519F3B9B3D",
-            "id": "5560712071",
-            "created": "2025-12-31T10:35:31Z",
-            "company": {
-                "display_name": "Recro",
-                "__CLASS__": "Adzuna::API::Response::Company"
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
             "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Role - Senior Full Stack Engineer (Java Spring Boot  Next.js) Experience - 3Yrs Location - Gurgaon About the Role Seeking a Senior Full Stack Engineer proficient in Java Spring Boot and Next.js to design, build, and own full-stack solutions from concept to launch. Responsibilities • Design, develop, and maintain end-to-end systems using Java Spring Boot (backend) and Next.js (frontend). • Collaborate with product, design, and business teams to translate requirements into high-impact solutions. …"
-        },
-        {
-            "description": "K&K Global Talent is an international recruiting agency that has been providing technical resources globally since 1993. This position is with one of our clients in India , who is actively hiring candidates to expand their teams. Role: Full Stack Engineer Location: Gurugram, India Type: Full-time | C2H Skills: Java, Python, React, Angular, AWS, CI/CD, TDD Notice Period: Upto 15 days Experience: 6 years Role Overview A Full Stack Engineer to join our Asset Management Technology team in Gurugram.…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
+            "title": "Software Engineering - .Net, Azure, React, SQL",
+            "created": "2026-01-10T08:34:59Z",
             "company": {
-                "display_name": "K&K Global Talent Solutions INC.",
+                "display_name": "UnitedHealth Group",
                 "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time",
-            "redirect_url": "https://www.adzuna.in/land/ad/5549503578?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C67491A8B9E2488B070334738531E3114B7FCEE4",
-            "created": "2025-12-20T09:06:57Z",
-            "id": "5549503578",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTUwMzU3OCIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.fCnK8Psw1_jNFj7KEpEF8MyFlG4Fa_ZdPqvX-KzGUs4",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "title": "Full Stack Engineer",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
             }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577273549",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MzU0OSIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.G3_TFsUWGB8i88Kk3yUljzB0ErwbmR7DxF0QJeDBgi8",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273549?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=34BBB88E4064BAB2AE4743FEE6D92DE273DBE832",
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "UnitedHealth Group"
+            },
+            "created": "2026-01-10T08:34:59Z",
+            "title": "Senior Manager Software Engineering"
         },
         {
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "ngram"
+                "display_name": "UnitedHealth Group"
             },
-            "contract_time": "full_time",
-            "description": "Are you itching to dive heads first into applied AI? Are you looking to build production apps with agentic AI and multi-modal models? Are you one of those people who dream of electric sheep? You have found your match. At ngram, we are building some of the coolest Video AI tech and we have some of the best pay and perks out there. Get to the front of line by solving this puzzle https://i.postimg.cc/44Bmw7tf/wtf.png and sending me an email @ ngram . com (collapse the spaces) Role Description This…",
+            "created": "2026-01-10T08:34:59Z",
+            "title": "Senior Manager Software Engineering",
+            "location": {
+                "display_name": "Noida, Ghaziabad",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577273542",
+            "latitude": 28.56579,
             "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MzU0MiIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.2Az7O4NQYI5KnM_i7O4wHnc8OX1-ToeWR_TtgQmZxRo",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Full Stack Engineer",
+            "longitude": 77.3225,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273542?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=D92E0F3C8DCEC799D88452C7EC60DF1E24E78990"
+        },
+        {
+            "company": {
+                "display_name": "UnitedHealth Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Sr Software Engineer II- Full Stack Engineer",
+            "created": "2026-01-10T08:34:58Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
             "latitude": 17.40275,
             "location": {
                 "display_name": "Hyderabad, Telangana",
@@ -131,715 +258,221 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "id": "5424623183",
-            "created": "2025-10-01T21:05:49Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5424623183?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=280D179E2B79E8AEB0A6DCBC39C8125174F7651B",
+            "id": "5577273524",
             "longitude": 78.50806,
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDI0NjIzMTgzIn0.OMO9x8mKFiW_lsndjmhYiNAbjf4hI8fjer10wWvvTPA"
+            "redirect_url": "https://www.adzuna.in/land/ad/5577273524?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=F5F78624815ED29B5F99106D59A6EA694D578198",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MzUyNCIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.3ES6oWNw2p0qXT2phXi8gQcRjDj2QpvmsF8RnxHp5MA",
+            "description": "As a skilled Full Stack Software Engineer, you will be responsible for designing, developing, and maintaining front-end and back-end application components. This role focuses on delivering end-to-end AI-enabled solutions, ensuring seamless service integration, and utilizing cloud-native technologies to build scalable, secure, and cost-efficient products. You will work closely with cross-functional teams to drive innovation and enhance organizational efficiency. Key Responsibilities: * Design, d…"
         },
         {
-            "description": "Company Description Prolincur Technologies specializes in software development for computational geometry and advanced 3D spatial technology, including CAD, CAM, GIS, and BIM. The company empowers businesses by enabling the use of 3D spatial data to simulate, analyze, and optimize their operations through advanced solutions like Digital Twin platforms and 3D visualization tools. Supporting a range of industries, from AEC and industrial to e-commerce and healthcare, Prolincur caters to both star…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Prolincur Technologies"
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "id": "5548139165",
-            "created": "2025-12-19T09:00:06Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5548139165?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=ED5ED60FB2C4B929D3E7EDB7EB638C4C2FF1E2A6",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTM5MTY1In0.S0zbsjWaInU8Rz5wad6L9VvnDOVS4YCbuMEXXVv2e30",
-            "longitude": 73.84735,
+            "id": "5577272937",
+            "latitude": 17.40275,
             "category": {
                 "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "title": "Full Stack Engineer",
+            "salary_is_predicted": "0",
+            "description": "It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today - ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginn…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI3MjkzNyIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.li-S4drpHS9t8ZEq7VsWPrliZ8su7ppMIIlVGhNN12w",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577272937?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=B674D6110F4530ADB227F1B16F28CE2D824BC3C0",
+            "company": {
+                "display_name": "ServiceNow, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Software Engineer - Full-Stack",
+            "created": "2026-01-10T08:33:53Z"
+        },
+        {
+            "latitude": 12.95703,
+            "id": "5577262078",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Hungry, Humble, Honest, with Heart. The Opportunity Nutanix engineers are creating a revolutionary technology, building the software defined data centre. We're using our love of programming and outstanding backgrounds to change the way companies virtualize their data centre. At Nutanix, you'll find no shortage of challenging problems to work on. We work closely with our product in a collegiate, collaborative environment that encourages the open exploration of ideas. The successful candidate sho…",
+            "longitude": 77.59837,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577262078?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=CDCE45633FD1EB8CD5C6B821E979C73F020A88D1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI2MjA3OCIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.hrod1B_JUYMqZ3kQTnesgokfizlgym8KPD32v_-n9zo",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Nutanix",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Member of Technical Staff 4 [SDET]",
+            "created": "2026-01-10T08:27:17Z"
+        },
+        {
+            "id": "5577261776",
+            "location": {
+                "display_name": "Karnataka, India",
+                "area": [
+                    "India",
+                    "Karnataka"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 14.325172,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "WHO YOU'LL WORK WITH You will be part of the Global Technology organization and report to the Engineering Manager. On a daily basis, you will collaborate with peer software engineers, product managers, and architects on product teams to achieve business objectives. Additionally, you will engage with other Global Technology teams to align on both organizational and individual development goals. WHO WE ARE LOOKING FOR We are seeking a ambitious Full Stack Software Engineer to join our dynamic tea…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjYxNzc2In0.jnB0w45S5eQPdSYzkM1saz1JIWpJoATR7sv8Or0apq8",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261776?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=6475FE4C3635C156FDF563F568AD1407DBC5C98E",
+            "longitude": 76.227524,
+            "company": {
+                "display_name": "Nike",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Software Engineer I, ITC",
+            "created": "2026-01-10T08:26:57Z"
+        },
+        {
+            "created": "2026-01-10T08:26:47Z",
+            "title": "Senior Full Stack Engineer - Java Backend & React",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mastercard"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI2MTcwOSIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.NhG3mV1C5o1X57O-64j1ZxRadvUULDobrWjF40F3MAM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261709?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=7DCF166C589D598D855B70981D85F481C209C7D4",
+            "longitude": 73.84735,
+            "description": "Our Purpose _Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we're helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest po…",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
             "location": {
                 "area": [
                     "India",
                     "Maharashtra",
                     "Pune"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Pune, Maharashtra"
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
+            "id": "5577261709",
             "latitude": 18.5062
         },
         {
-            "location": {
-                "display_name": "Hyderabad, Telangana",
-                "area": [
-                    "India",
-                    "Telangana",
-                    "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 17.40275,
-            "title": "Full Stack Engineer",
-            "longitude": 78.50806,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0OTUwMjk1MyIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.GJH1UZNbpjIe-tbOTsgfMOjQ33Gqu0UanQE7DzbmcPY",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "id": "5549502953",
-            "created": "2025-12-20T09:06:37Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5549502953?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=ADD78720830E09FC90B0BFA5745F644522C3D694",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Blue Spire Inc"
-            },
-            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjYxNzAxIn0.CXBQoSRZGdjwhuKixUnbftTgcmvpFrPpNEHuYcqpJ4U",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Job Summary We are looking for a highly skilled Senior Full Stack Engineers with strong experience in AWS Cloud Engineering, Amazon Connect, API development, and Java-based applications for developing and enhancing our BFSI Client's Contact Center application. The ideal candidate will be responsible for designing, developing, securing, and deploying scalable cloud-native applications while following Dev SecOps best practices throughout the software development lifecycle. Key Responsibilities: D…"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ4MTM5ODEyIn0.-LcYpgWrYHw56G1-eg9HIXOmfAaIF1WHbVZqdbNHtD0",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "id": "5548139812",
-            "created": "2025-12-19T09:00:25Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5548139812?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=D8C818D66B1BC5C2D85220A1F107AC173AE2C360",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "title": "Full Stack Engineer",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "We're seeking a skilled Full Stack Engineer with expertise in NodeJS, PostgreSQL, Python, and React. Experience with CI/CD pipelines and cloud infrastructure (AWS a plus). Strong problem-solving skills and collaborative mindset required. Key Responsibilities: - Design and develop full-stack applications - Build and maintain RESTful APIs and microservices Requirements: - NodeJS, PostgreSQL, Python, React - CI/CD pipelines and cloud infrastructure, AI experience a plus",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Strategic Talent Partner"
-            }
-        },
-        {
-            "company": {
-                "display_name": "Cosette Network Pvt Ltd",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Role: Java Fullstack Engineer Location: Bengaluru Experience: 4 years We are looking for a Java Full Stack Engineer with 3 years of experience to design, build, and maintain AI-powered web applications . The role involves developing responsive front-end interfaces , building scalable backend APIs , and integrating AI models and agents into enterprise systems. Strong skills in Java, modern JavaScript frameworks (React/Angular/Vue), REST/GraphQL APIs, and SQL/NoSQL databases are required.",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "title": "Full Stack Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0OTk0MiIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.Dl9kSb0tgIRr8scF4kitQyeMVPcj1U-vJZl25BV9okU",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5561949942?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=53D553B562F4BBD79CE029F7E029552AEAE62C6C",
-            "created": "2026-01-01T08:42:11Z",
-            "id": "5561949942"
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Exxat"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "We are Hiring Full Stack Software Development Engineer at Exxat! Location: Bengaluru, India Experience: 5 Years About Exxat Exxat builds next-generation SaaS platforms that empower academic programs, students, and healthcare practitioners across the US. Our products are mission-critical and directly shape the future of healthcare education. We are looking for passionate Full Stack Engineers who love solving complex problems and building scalable, high-impact systems. If you enjoy end-to-end own…",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Full Stack Engineer",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA2NjI4NyIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.HFyGlFCAs5fK0_70MDZHodUG_c76NQfrdkFnDbwV8uE",
-            "id": "5536066287",
-            "created": "2025-12-10T16:54:07Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5536066287?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=0C91D55BBDB4579D92D8F031DF52C4A28326251B"
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "Carselonadaily - Everyday Car Care",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Job Description If you're interested, please fill out this form. Form Link: https://forms.gle/Jrxe1pGZZkL2uMPU9 Experience: 2 Years Skills: Node.js, React, MySQL, TypeScript Location : Bangalore and Noida Company Description Carselonadaily is an innovative platform specializing in daily car cleaning and maintenance, driven by a team of skilled and continuously trained cleaning professionals. The platform offers tailored maintenance packages, including daily, weekly, and quarterly services, to p…",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Full Stack Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODgyMzUxMiIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.eZSIn2BY0Ar-UVVTWj9wN9r1H9cekaz0a_EVx-Ccn1g",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "id": "5558823512",
-            "created": "2025-12-29T10:14:46Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5558823512?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=A84032A6290B390170CDF84EC97F99AA018E6283"
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Cobay"
-            },
-            "description": "Full Stack Engineer Company: Cobay Technology Pvt. Ltd. Location: Coimbatore (On-site) Experience: 2–4 years About the Role We’re hiring a Full Stack Engineer to help build and scale our multi-tenant SaaS platform for global e-commerce brands. You’ll work across the MEVN stack—building high-performance UIs, scalable backend services, and reliable integrations that power millions of transactions. This role is ideal for engineers who enjoy owning features end-to-end, solving technical challenges …",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "title": "Full Stack Engineer",
-            "location": {
-                "display_name": "Coimbatore, Tamil Nadu",
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Coimbatore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 11.017171,
-            "redirect_url": "https://www.adzuna.in/land/ad/5559359777?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=779BD1BCE6DD812CDF557C66426B5B8286DE306C",
-            "id": "5559359777",
-            "created": "2025-12-30T01:44:47Z",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU5MzU5Nzc3In0.wSevFovuNX7wwuK8cpudHWW5JYCaJcwW4v79R8b-t50",
-            "longitude": 77.100203
-        },
-        {
-            "location": {
-                "display_name": "Bangalore, Karnataka",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Full Stack Engineer",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODgyMjI4OCIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.kKBcxN5VERTY3zf3jZ0RchNTtJpw2mQ-9f4GZxLsQA0",
-            "redirect_url": "https://www.adzuna.in/land/ad/5558822288?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=3D33EEF9CBA1003E704404EF6C23F69BF6289217",
-            "id": "5558822288",
-            "created": "2025-12-29T10:14:26Z",
-            "company": {
-                "display_name": "nexocean",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "We are seeking a Senior Full-Stack Engineer . You will be responsible for building, scaling, and maintaining IP platform. What You Will Do ● Design, develop, deploy, and maintain full-stack web applications and automations ● Build and maintain backend services, APIs, and integrations with internal and external systems ● Develop scalable front-end interfaces in collaboration with UI/UX stakeholders ● Embed AI capabilities into workflows and automation processes ● Contribute to and improve our Py…"
-        },
-        {
-            "description": "What? Just seeking some good talent! Where? At BrightEdge, we innovate at the intersection of AI, SEO, and enterprise growth. We’re not just shaping the future of enterprise SEO and content performance; we’re also redefining how digital experiences drive real business results. Trusted by more than 55% of the Fortune 100 and 500, alongside 2000 enterprise brands, our AI-powered platform transforms content into measurable traffic, engagement, and revenue. Title: Full Stack Engineer Location: 100%…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "BrightEdge"
-            },
-            "created": "2025-10-01T21:05:30Z",
-            "id": "5424621701",
-            "redirect_url": "https://www.adzuna.in/land/ad/5424621701?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=3990E76CD0BFC8FEEEB5DB3590F0AEAC70EB521F",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDI0NjIxNzAxIn0.KYTRvG_ibdRkpWqkXS4Q4dWgQZXR0xkaodyKfbrh07w",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "title": "Full Stack Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            }
-        },
-        {
-            "title": "Full Stack Engineer",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5559891376?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=CFE8DA7EE818E4037AC8A0E0FDEA69088FDC04CE",
-            "id": "5559891376",
-            "created": "2025-12-30T17:17:28Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU5ODkxMzc2In0.4XB3h1GkNxUzpIkTP4TAdA2EPW379eTMCw8gkP3DlXU",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Raisn"
-            },
-            "contract_time": "full_time",
-            "description": "Full Stack Engineer (Python  React) Location: Bangalore, India Employment Type: Full-time Experience: 3-6 years About Raisn.ai Raisn.ai is an AI orchestration company focused on lead lifecycle management. We build intelligent systems that help businesses automate and optimize their lead processing, scoring, and customer engagement workflows using cutting-edge AI technologies. Role Overview We're looking for two Full Stack Engineers to join our engineering team. You'll work on building and scali…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job"
-        },
-        {
-            "title": "Full Stack Engineer",
-            "latitude": 22.2891,
-            "location": {
-                "display_name": "Vadodara, Gujarat",
-                "area": [
-                    "India",
-                    "Gujarat",
-                    "Vadodara"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "created": "2025-12-13T09:42:14Z",
-            "id": "5540674864",
-            "redirect_url": "https://www.adzuna.in/land/ad/5540674864?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=5C9D10CFF5F7E9172E98F5B74A6951080C01A8C9",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MDY3NDg2NCIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.HcrHPhuQsm_Baxt39zISjWdwqB8wCRpCEJlU28ZI_aY",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "longitude": 73.1924,
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "VikingCloud India"
-            },
-            "description": "We are seeking a highly skilled Full Stack Engineer to join our engineering team. In this role, you will design and build secure, scalable, and high-performance applications that support our security products and internal platforms. You will work across the full technology stack—front end, back end, APIs, databases, cloud infrastructure—while applying secure development practices and contributing to advanced security solutions. This role requires strong technical expertise, attention to detail,…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTUwNjUxNDUyIn0.1SqlWx1j2WUM3r-xunzeXAryBJ01UohJmQk72tiklQU",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5550651452?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=AF4DC83FEB9C2058ABD98905D1DCAECC3099524D",
-            "id": "5550651452",
-            "created": "2025-12-21T08:19:55Z",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Full Stack Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "As a full stack engineer, you will be responsible for the development and launch of product features. Your role will need to be a combination of team player and individual contributor who has production experience delivering front-end and back-end software at scale. Requirements : Bachelor's and Master's degree in Computer Science, or related field with 3-5 years of hands-on experience full-stack development and very good at problem solving, bug fixing, and helping team to solve problems. Fluen…",
-            "company": {
-                "display_name": "Sociolla",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            }
-        },
-        {
-            "title": "Full Stack Engineer",
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "created": "2025-12-24T00:08:14Z",
-            "id": "5553116001",
-            "redirect_url": "https://www.adzuna.in/land/ad/5553116001?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9157CD307874E4ABFBEBB1CB400E0FCF705D38F1",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MzExNjAwMSIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.PTx6jY1j0UjPftDs5TGZkVXY9lNQMa_PnkmW0uDY8mk",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "company": {
-                "display_name": "Bhionix.Group",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "contract_time": "full_time",
-            "description": "Company Description Bhionix Group is a rapidly growing global IT services and consulting organization with headquarters in Abu Dhabi and Delhi. The company operates across various innovative sectors, including AI, IoT, AR/VR, Cloud, and Digital Ecosystems, enabling transformative solutions for industries worldwide. Bhionix Group encompasses multiple specialized divisions, such as SearchingYard Software, YardHealth, YardHotel, and NexEdu, delivering diverse technology, healthcare, and lifestyle …",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Daneen Al Majaz"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Company Description Daneen Al Majaz is an IT services company with 11 years of expertise in web development, mobile app development, software development, and digital marketing (SEO, Google Ads). We help businesses grow by turning ideas into scalable, practical digital solutions through collaboration, innovation, and reliable delivery . Role Description This is a full-time on-site role for a Full Stack Engineer, based in Srinagar. The position involves designing, developing, and maintaining web…",
-            "latitude": 34.08783,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Jammu and Kashmir",
-                    "Srinagar"
-                ],
-                "display_name": "Srinagar, Jammu and Kashmir"
-            },
-            "title": "Full Stack Engineer",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261701?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=7CE008B7867498B367A4FA7736E9F594F9593D33",
+            "longitude": 73.84735,
+            "description": "Our Purpose _Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we're helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest po…",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs",
                 "tag": "it-jobs"
             },
-            "longitude": 74.95627,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0OTExNiIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.vi0l4NKK2w_xC3CPzFD_vmmgzdGA1jiLRJsMmijnEMk",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561949116?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=18E5413F1FE19F7F47BF9028F94C677EF4E523E9",
-            "id": "5561949116",
-            "created": "2026-01-01T08:41:48Z"
-        },
-        {
-            "__CLASS__": "Adzuna::API::Response::Job",
             "salary_is_predicted": "0",
-            "description": "About the Company Dhurin is a fastgrowing data science firm serving financial services industry. We work with banks, NBFCs, fintech and other financial institutions. Our work is in the space of risk, fraud, collections, marketing, sales, and operations through it we directly influence how financial institutions make smarter decisions. Dhurin is ‘the place’ for someone who is passionate about data and wants to grow with a well-positioned firm. Role Overview As a Full Stack Engineer, you will wor…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Dhurin"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTMwNTU1MDM1In0.h_9Lp9g5Ilmu7jntQE-8LuQayOnK4D-p8lbM92dRxVc",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5530555035?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=44E996C66FB526949F108C1E854E9EEF9D28EB6E",
-            "created": "2025-12-06T09:46:32Z",
-            "id": "5530555035",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Full Stack Engineer"
-        },
-        {
-            "title": "Full Stack Engineer",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "id": "5541826449",
-            "created": "2025-12-14T10:29:02Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5541826449?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=9AD5666224886A7ECA4BC7C4A923FE7565988AAE",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MTgyNjQ0OSIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.BwDGTIaZOihq3YoeiETSC3cSZMKEYUjeXhANrGmQWoY",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "company": {
-                "display_name": "Rezolve AI",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "About the Role We are looking for a highly skilled and experienced Full Stack Engineer to join our engineering team in Chennai or Bangalore. The ideal candidate will have strong hands-on expertise in front-end and back-end technologies, proven leadership skills, and the ability to design, develop, and deliver scalable applications. You will guide a team of engineers, drive best practices, and collaborate closely with cross-functional stakeholders. Location : Chennai/Bangalore Key Responsibiliti…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "id": "5561949773",
-            "created": "2026-01-01T08:42:04Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561949773?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=97B13D144E680765F1ABBEBDA69CEF7BB8DAB058",
-            "longitude": 72.84415,
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTYxOTQ5NzczIn0.XjsD32KRgi3IBYvCbBkTk2CuXG8FV3_s5CU4pyh1Cos",
-            "title": "Full Stack Engineer",
+            "id": "5577261701",
             "location": {
                 "area": [
                     "India",
                     "Maharashtra",
-                    "Mumbai"
+                    "Pune"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Mumbai, Maharashtra"
-            },
-            "latitude": 19.00821,
-            "description": "Job description Mandatory Qualifications • BE/BTech in Computer Science or equivalent degree • 1-3 years of professional full-stack development experience • Expertise in Node.js is mandatory • Proficiency in front-end technologies (HTML5, CSS3, JavaScript, Reactus) • Deep expertise in back-end JavaScript frameworks (Next.JS, Nest.JS, ExpressJS) • Experience with relational databases (MySQL, PostgreSQL, MSSQL) and web servers • Hands-on experience with AWS cloud services (EC2, S3, Lambda, RDS, e…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "display_name": "Stealth Startup",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            }
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Senior Full Stack Engineer (TypeScript  React  Node  Postgres) CTC: Open depending on your experience and hands-on skills as per the below JD Location: Remote, may require travelling to Mumbai office once a month/quarter Employment Type: Full-Time About Auvvance, Supported by Augmont Being told the world works in a particular way sparks in us a desire to change the status quo. At Auvvance, in partnership with Augmont GoldTech - one of Asia’s largest integrated gold players - we are building the…",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Augmont | Gold For All"
-            },
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODEzOTg2NSIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.OKq_YqsUrM0KHPh6HUfX71n4ol0dWWc3F646sBKUzVQ",
-            "redirect_url": "https://www.adzuna.in/land/ad/5548139865?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C3888A6122115D3E0339DD0FD6F4CA8724B20AE6",
-            "created": "2025-12-19T09:00:26Z",
-            "id": "5548139865",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
+                "display_name": "Pune, Maharashtra",
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
-            "title": "Full Stack Engineer"
-        },
-        {
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU4MDE3MDY3In0.FdgKfWMG3TBlVTRRa8O53Svd0HapCArRYjwv4x_VHq4",
-            "redirect_url": "https://www.adzuna.in/land/ad/5558017067?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=517FA07E90771D5D3CB6E66ABB7A58B0555552A5",
-            "id": "5558017067",
-            "created": "2025-12-28T10:08:14Z",
-            "location": {
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Bangalore, Karnataka"
-            },
-            "title": "Full Stack Engineer",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Full Stack Software Engineer About FinacPlus FinacPlus is a Great Place to Work® Certified organization — a recognition of our people first culture, collaborative environment, and focus on professional growth. We provide high-end virtual business process and technology services to leading global clients across finance, banking, mortgage, research, and data services. At FinacPlus, you’ll work with world-class talent, cutting-edge technology, and international stakeholders — while still enjoying …",
+            "latitude": 18.5062,
+            "title": "Lead Software engineer (Java Full stack Developer)",
+            "created": "2026-01-10T08:26:46Z",
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "FinacPlus"
-            }
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODgyMzUzNyIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.LTysCa-vgGVkZqDY6MftfwTh6V8bguuk2Pt9wwk_gEg",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "created": "2025-12-29T10:14:59Z",
-            "id": "5558823537",
-            "redirect_url": "https://www.adzuna.in/land/ad/5558823537?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=55D2988CD2A7417F3943657B216ECB7FFA11547B",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "title": "Full Stack Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Company Description Bok AS is an accounting and consulting firm dedicated to supporting both aspiring and established entrepreneurs in achieving their goals. With over 10 years of experience in auditing and accounting, the company provides comprehensive services throughout a business’s lifecycle, including company establishment, restructuring, advisory, bookkeeping, payroll, mandatory reporting, annual financial statements, and shareholder records. Bok AS offers flexible pricing with no binding…",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Bok AS"
-            }
-        },
-        {
-            "title": "Full Stack Engineer",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "id": "5549502436",
-            "created": "2025-12-20T09:06:26Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5549502436?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=37F1DA643965F20851731D25D7598D2C8D632717",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ5NTAyNDM2In0.YMV1H2Z4NEVMkhQ8TyJ0agLsoP8JGOREDYEesXUDRR0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "PICWA.io"
-            },
-            "description": "We’re looking for a Full Stack Engineer with 9 years of total software engineering experience in Python and ReactJS to join our partner that is an Australian ASX listed MedTech company. Requirements: 9 years of professional experience building and maintaining end-to-end web applications Strong experience with Python backend development, including frameworks such as Flask or FastAPI - (Experience with Django is acceptable) Proven experience designing and integrating RESTful APIs and working with…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job"
-        },
-        {
-            "description": "We are looking for a highly skilled Full-Stack Engineer with 5 years of experience to join our growing Engineering team. In this role, you’ll build scalable, reliable, and impactful software that supports the core of our wealth management platform. You’ll work closely with product, design, data, and AI teams to deliver solutions that solve real-world challenges for top-tier financial institutions. This is an opportunity to work on modern technology, contribute to innovative solutions, and help …",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "display_name": "Innover Digital",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5528015003?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=3E0A57BA520A640E5FE3A613798CC757B371494D",
-            "id": "5528015003",
-            "created": "2025-12-05T01:31:47Z",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI4MDE1MDAzIn0.OFD4EUe2_uX7mSKvCn89RHDs1mi66NH0pmYsWAKA0Co",
-            "title": "Full Stack Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
-            }
-        },
-        {
-            "created": "2025-11-05T23:05:24Z",
-            "id": "5482502711",
-            "redirect_url": "https://www.adzuna.in/land/ad/5482502711?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=B9787F43F8375C966D1F5B5D8E8DA0CF115D6191",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDgyNTAyNzExIn0.7WSxezT1ZIyYkSG0R4VIsfu_U4y5t1DijNVVQXuO22s",
-            "title": "Full Stack Engineer",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ],
-                "display_name": "India"
-            },
-            "description": "Job Title: Senior IoT Full Stack Engineer Location: Pune/Hyderabad/Remote We’re rebuilding a legacy IoT monolith into a modern microservices-based platform on Azure. Looking for a hands-on IoT engineer who can own development across cloud and edge services. This role focuses on Azure IoT, microservices, and edge workloads — not device hardware/firmware . Responsibilities Ramp up quickly on current IoT platform, domain, and modernization roadmap. Design and build cloud and edge microservices usi…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "display_name": "IntraEdge",
+                "display_name": "Mastercard",
                 "__CLASS__": "Adzuna::API::Response::Company"
             }
         },
         {
-            "redirect_url": "https://www.adzuna.in/land/ad/5541826135?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4F9183C87DE46CAB2FF32EA92659E318EF3F758E",
-            "created": "2025-12-14T10:28:42Z",
-            "id": "5541826135",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQxODI2MTM1In0._9MtiOk5W6u93y5CG29cVxDPJMRQLvS2F_iSndKK0gY",
-            "title": "Full Stack Engineer",
+            "description": "Our Purpose _Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we're helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest po…",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261705?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=7FAB74B76A5E3EBC15125433D0B96866ABCAC5B4",
+            "longitude": 73.84735,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjYxNzA1In0.-DUUhyASdWixCyx5EgXY1cje3ESipKAN6t87Le8sUos",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.5062,
+            "id": "5577261705",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
-                    "Karnataka",
-                    "Bangalore"
+                    "Maharashtra",
+                    "Pune"
                 ],
-                "display_name": "Bangalore, Karnataka"
+                "display_name": "Pune, Maharashtra"
             },
-            "description": "Company Description Talent Analytics helps recruitment businesses improve service levels and accelerate revenue growth by monitoring every meaningful client and candidate interaction. CX Pro, our AI powered Customer Experience platform, delivers real time insight through Service Automations and intelligent feedback loops. Direct integrations with Bullhorn, Vincere, and JobAdder provide seamless data flow, advanced analysis, and automated workflows that drive consistent, high quality experiences…",
-            "__CLASS__": "Adzuna::API::Response::Job",
             "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "Senior Full Stack Engineer - Java Backend & React",
+            "created": "2026-01-10T08:26:46Z",
             "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Talent Analytics"
+                "display_name": "Mastercard",
+                "__CLASS__": "Adzuna::API::Response::Company"
             }
         },
         {
-            "title": "Full Stack Engineer",
-            "location": {
-                "display_name": "Chandigarh, India",
-                "area": [
-                    "India",
-                    "Chandigarh"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "latitude": 30.75395,
-            "created": "2025-11-22T09:21:28Z",
-            "id": "5508726222",
-            "redirect_url": "https://www.adzuna.in/land/ad/5508726222?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=A7BEAC074EC82E8AD9FD81F693BC063BBDDE9015",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODcyNjIyMiIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.I8bLh69nffw_2xicoN6ZjPgOVu6j13jyTzXqdfvnhRk",
-            "longitude": 76.76094,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577261625?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=19B7E87C9AB1EA72E616A42FEC70E547D8402A18",
+            "longitude": 77.59837,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjYxNjI1In0.tAB7DbjYpjZKwTWq6F95ZIEKMxbM05ru5M4v1-mHn4s",
+            "description": "Introduction At IBM Infrastructure & Technology, we design and operate the systems that keep the world running. From high-resiliency mainframes and hybrid cloud platforms to networking, automation, and site reliability. Our teams ensure the performance, security, and scalability that clients and industries depend on every day. Working in Infrastructure & Technology means tackling complex challenges with curiosity and collaboration. You'll work with diverse technologies and colleagues worldwide …",
             "category": {
-                "tag": "it-jobs",
                 "label": "IT Jobs",
+                "tag": "it-jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "company": {
-                "display_name": "Talink",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": " Ready to Build What Matters? We’re Hiring: Senior Full Stack Engineer (MERN Stack)   Chandigarh, India (On-site) If you’re a Full Stack Developer who thrives on solving real-world problems across diverse industries, this is your moment. At Talink, we don’t do boring. We build systems that keep businesses moving — from energy & healthcare to finance, manufacturing, and beyond. Every project here is an opportunity to architect smart solutions, work with ambitious clients, and push the limits of …",
             "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job"
+            "latitude": 12.95703,
+            "id": "5577261625",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "created": "2026-01-10T08:26:34Z",
+            "title": "Full stack Engineer - IBM Cloud Data Services",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IBM"
+            }
         },
         {
             "location": {
@@ -851,70 +484,34 @@
                 ],
                 "__CLASS__": "Adzuna::API::Response::Location"
             },
+            "id": "5577258892",
             "latitude": 13.06041,
-            "title": "Full Stack Engineer",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Order Fulfillment Technology is looking for Product Lead for delivering awesome Global Trade Services Direct Markets Dealer experiences that embrace Lean, Agile, and Human Centered Design practices to deliver innovative Solutions. This Product Lead role collaborates directly and continuously with Product Owners and leads a Product Teams comprised of Product Manager, Designer and Full Stack Software Engineers. As Product Lead, you will be leading a product team based in FBS, India to deliver the…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1ODg5MiIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.iOTYP7xvJ3wp0DQfgsFG3L2TOb_zikJ8mfE7t3Nw_wo",
+            "__CLASS__": "Adzuna::API::Response::Job",
             "longitude": 80.24963,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDI0NjIxNTIyIn0.OfuFfC6iMt0wMVVr7mcaSpkCgNXqJ6clG-2dC-wWogE",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577258892?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=81FE7396F42B2E609AE9FFD8B916094B1F47AA24",
+            "company": {
+                "display_name": "Ford Motor Company",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Technical engineering manager - Order fullfillment",
+            "created": "2026-01-10T08:22:28Z"
+        },
+        {
+            "salary_is_predicted": "0",
             "category": {
-                "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "created": "2025-10-01T21:05:28Z",
-            "id": "5424621522",
-            "redirect_url": "https://www.adzuna.in/land/ad/5424621522?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=64F8E7332E9510D532DFF83D341A6929203BFBB4",
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "Asign",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Position: Full-Stack Engineer Experience: 3 - 5 years (minimum 3 years hands‐on production work) Location: Chennai, India - on‐site, Monday to Friday Domain: Arts & Culture Reports to: Product Manager Employment Type: Full‐time About Asign Asign is a comprehensive digital ecosystem designed for the art and culture sector. We unite inventory management, a transparent marketplace, a proprietary global‐ID system and discovery modules in a single platform. You’ll help us shape the future of art‐tec…"
-        },
-        {
-            "company": {
-                "display_name": "Wipro Linecraft AI",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "Role Overview - Full Stack Engineer: Working directly with the Engineering Head and Manager, you will be responsible for shaping the technical direction of the product and own a significant part of it. You’ll be in charge of: Working closely with Product Managers, UX/UI designers, and other stakeholders to understand business requirements and translating them into technical solutions Analysing and solving complex technical problems across the full software stack, addressing issues related to pe…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "title": "Full Stack Engineer",
-            "location": {
-                "area": [
-                    "India",
-                    "Maharashtra",
-                    "Pune"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Pune, Maharashtra"
-            },
-            "latitude": 18.5062,
-            "id": "5529811767",
-            "created": "2025-12-06T01:33:11Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5529811767?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=35D3081BBD26277963056AB881D74F1759284596",
-            "category": {
                 "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
+                "label": "IT Jobs"
             },
-            "longitude": 73.84735,
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI5ODExNzY3In0.j1k9uGZyPwI0RaElS_l-wq_4smhVIFGVJXyGprQ8R-M"
-        },
-        {
-            "redirect_url": "https://www.adzuna.in/land/ad/5536064666?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=90E5C6083E1EFC18FADF238E377BD512B8A726DC",
-            "id": "5536064666",
-            "created": "2025-12-10T16:51:42Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM2MDY0NjY2In0.5Mu33qopB0YpJBrsyZzf-m24_toP9d9eS9KrNNscLcQ",
-            "category": {
-                "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "longitude": 78.50806,
-            "title": "Full Stack Engineer",
-            "latitude": 17.40275,
+            "id": "5577257008",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -924,179 +521,121 @@
                 ],
                 "display_name": "Hyderabad, Telangana"
             },
-            "description": "Description: Be a part of our success story. Launch offers talented and motivated people the opportunity to do the best work of their lives in a dynamic and growing company. Through competitive salaries, outstanding benefits, internal advancement opportunities, and recognized community involvement, you will have the chance to create a career you can be proud of. Your new trajectory starts here at Launch. What we are looking for: We are looking for an Full Stack Software Engineer for one of our …",
+            "latitude": 17.40275,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1NzAwOCIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.9sT_GyFcChre8VMWMGa7TKPJnfR1-ZWZ8Y8e_cVq9Ss",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577257008?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=F472C19EBDBF3C58519FBA95D0C1A4F6238738B6",
+            "description": "Position Overview Cigna, a leading Health Services company, is looking for an exceptional Front-End & API engineer in our Provider Engineering organization. The Full Stack Engineer is responsible for the delivery of a business need starting from understanding the requirements to deploying the software into production. This role requires you to be fluent in some of the critical technologies with proficiency in others, with a very strong analytical aptitude and have a hunger to learn on the job, …",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Launch India"
-            }
+                "display_name": "The Cigna Group"
+            },
+            "title": "Software Enigneering Lead Analyst - HIH - Evernorth",
+            "created": "2026-01-10T08:16:55Z"
         },
         {
+            "company": {
+                "display_name": "Capital One",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Principal Associate - Senior Software Engineer",
+            "created": "2026-01-10T08:16:42Z",
+            "salary_is_predicted": "0",
             "category": {
                 "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTM0Mjg3NDg3In0.OVLdr9g8gVnydejoYHkIr-0qcb5_uqe_Ka2uLEir8PY",
-            "redirect_url": "https://www.adzuna.in/land/ad/5534287487?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=C6BFB9DACDAAFAD08B7815E5EDC2ECCA584966CF",
-            "id": "5534287487",
-            "created": "2025-12-09T09:06:21Z",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Full Stack Engineer",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "About SmartQ At SmartQ, we are redefining the way workplaces and campuses experience food and digital services. As part of Compass Group, one of the world’s largest food services companies, SmartQ builds cutting-edge digital platforms that power seamless, data-driven, and personalized dining experiences. We’re a fast-growing product team working at the intersection of technology, design, and operations — creating high-impact, scalable solutions that touch thousands of users every day. We are lo…",
-            "company": {
-                "display_name": "SmartQ",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            }
-        },
-        {
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Sollu"
-            },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "About Sollu At Sollu , we’re building the voice of healthcare. Hospitals across India trust our cloud platform to ensure they never miss a patient call — from appointment booking to follow-ups and reminders. Our solutions power IVR, WhatsApp, WebRTC, and AI-driven communication that improve patient access and hospital efficiency. We’re in hypergrowth mode , expanding rapidly across 250 hospitals — and we’re looking for passionate engineers to help us scale our platform and shape the future of h…",
+            "id": "5577256912",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Tamil Nadu",
-                    "Chennai"
-                ],
-                "display_name": "Chennai, Tamil Nadu"
-            },
-            "latitude": 13.06041,
-            "title": "Full Stack Engineer",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1NDg5MiIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.Cqglq1dnJFf-MmYpM23Dg676MC1SGjrwVK76B1FjTo8",
-            "longitude": 80.24963,
-            "id": "5530554892",
-            "created": "2025-12-06T09:46:21Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5530554892?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=25CD3D67D3E997336FD320436EF73B00E92FB2CF"
-        },
-        {
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTUxNjY0NDY5In0.lQKn2J81zEU2CPwgumhcryyLbobuapPfjTnkdH-Tx6s",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5551664469?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=876AC3FADC265364C9F6CD31D65B2AFCC08398EE",
-            "created": "2025-12-22T12:00:52Z",
-            "id": "5551664469",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            },
-            "title": "Full Stack Engineer",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "We are seeking a Full Stack Software Engineer to join our team and play a pivotal role in driving innovation. We need some with 2-5 Years of experience with React, Python and AWS cloud. Join a growing team to help support the project growth . Job Description: React Python Exposure to AWS or cloud Develop, test, and deploy high-quality software solutions Collaborate with senior engineers and cross-functional partners to translate business requirements into technical features. Write clean, mainta…",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "BayOne Solutions"
-            }
-        },
-        {
-            "description": "We're looking for a Java and React full stack Developer to join our team for an exciting in-house fintech project. for Java and React full stack Developer need to work from office 2 days in Gurugram location Note: we are looking for only Immediate to 10 Days joiners only and other please excuse us Designation: Java and React full stack Developer Experience: 5 Years Location: Gurugram (Hybrid mode 2 days working from office) Mandatory Skills: (Java 8, core Java, oops, Spring boot, Hibernate, Mic…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "ITC Infotech"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5528006050?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=2CD7AFCA923CAD4506B4A62534232474550EF783",
-            "created": "2025-12-05T01:16:55Z",
-            "id": "5528006050",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODAwNjA1MCIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.D0dG-vIPd8nvXJjGxVM6ebWXhwWquoIP-N77OcXvy7U",
-            "category": {
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "tag": "it-jobs"
-            },
-            "title": "Full Stack Engineer",
-            "contract_type": "contract",
-            "location": {
-                "display_name": "India",
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
-        },
-        {
-            "company": {
-                "display_name": "THEKEY",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "description": "About the Role We're seeking a Senior Full Stack Engineer to join our team working on a modern education technology platform built as a Turborepo monorepo. You'll be working across our student and moderator frontends, authentication system, and backend services to deliver a comprehensive learning management solution. Technical Stack Frontend: - React 18 with TypeScript - Vite for build tooling - TanStack Router for routing & TanStack Query for state management - Radix UI components with Tailwin…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "title": "Full Stack Engineer",
-            "location": {
-                "display_name": "India",
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India"
-                ]
-            },
-            "id": "5558823529",
-            "created": "2025-12-29T10:14:59Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5558823529?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=B80812EBF3FA62D76B4A4743BE686262E3E2F524",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODgyMzUyOSIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.tI6_xE95fdPuIsirgmmoO-8AOrL4mOprjcx6YLlhvnE",
-            "category": {
-                "tag": "it-jobs",
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs"
-            }
-        },
-        {
-            "company": {
-                "display_name": "Andor Tech",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "Role & responsibilities Dot net with React or Angular 3 To 8 Years Exp Full-Stack Software Engineer with strong experience in .NET backend development and React front-end technologies. The role focuses on building secure, scalable, and high-performance enterprise applications that support Honeywells industrial, digital, and IoT initiatives.Key Responsibilities Design, develop, and maintain full-stack web applications using .NET Core / ASP.NET and React.js Develop RESTful APIs and backend servic…",
-            "location": {
-                "display_name": "Bangalore, Karnataka",
                 "area": [
                     "India",
                     "Karnataka",
                     "Bangalore"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location"
+                "display_name": "Bangalore, Karnataka"
             },
-            "title": "Full Stack Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU1MjAyNzk2In0.saDO_oabf4uQiZkLCRsR4zHhObwYZN9HK8IVcek-t54",
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256912?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=4D11C94361D2F115126E35B2B9896A482A236FA5",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjU2OTEyIn0.clSXsLO6gKBv7PYLVSkWIgHo6Nazr47Y2wDxv-3Fq6E",
+            "description": "Voyager (94001), India, Bangalore, Karnataka Principal Associate - Senior Software Engineer Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marryin…"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "id": "5577256744",
+            "latitude": 19.00821,
+            "salary_is_predicted": "0",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs",
                 "tag": "it-jobs"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5555202796?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=0B98C463D79BE4DAF12CD0A2F86A9DD378CFF839",
-            "id": "5555202796",
-            "created": "2025-12-25T13:42:57Z"
+            "description": "About this role What is Global Marketing function in BlackRock? The Digital Platforms & Experiences team is part of the fast-growing Global Marketing function at BlackRock which seeks to scale our platforms, embody our brand and better engage a multi-trillion dollar audience of investors, advisors and institutions. The Digital team is at the center of a company-wide focus on expanding how design, technology and data can serve our users better. We are building the firm's digital vision, developi…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1Njc0NCIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.T5G09b01FX0dvIiFtbgcuR_iMPrlFhqfMV3lhYYRwgs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 72.84415,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256744?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=FB3A7B605F44450713F2F44B80A5B51EF8946829",
+            "company": {
+                "display_name": "BlackRock",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T08:16:30Z",
+            "title": "Full Stack Engineer (Front-end heavy), Associate"
         },
         {
-            "latitude": 13.06041,
+            "company": {
+                "display_name": "BlackRock",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Full Stack Developer, Aladdin Engineering, Vice President",
+            "created": "2026-01-10T08:16:30Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "latitude": 19.00821,
+            "id": "5577256745",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 72.84415,
+            "redirect_url": "https://www.adzuna.in/land/ad/5577256745?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=D7A790AA8B96F318081B4B0298612A0782B5529D",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzI1Njc0NSIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.BRNyxS3F6mYGvlWDADzO1TW6EvsZkYItlfsEAJTW_Ss",
+            "description": "About this role Are you interested in building innovative technology that crafts the financial markets? Do you like working at the speed of a startup, and solving some of the world's most exciting challenges? Do you want to work with, and learn from, hands-on leaders in technology and finance? At BlackRock, we are looking for Software Engineers who like to innovate and solve sophisticated problems. We recognize that strength comes from diversity, and will embrace your outstanding skills, curios…"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjMzMTA5In0.4Z8nMYvQzwZyWJzJhNbvLszNKe1A-2teZe9hFSD06jE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "longitude": 80.24963,
+            "redirect_url": "https://www.adzuna.in/details/5577233109?utm_medium=api&utm_source=d58ac19b",
+            "description": "This job will provide you with an opportunity to further your career alongside some of the best and most passionate technology experts from around the world in a leading company within the test, measurement and data analytics industry. You will be a strong contributor collaborating closely with colleagues from various business functions. At HBK, we live up to our three values: Be True, Own It and Aim High. We believe in absolute integrity – it’s how we win for stakeholders, the environment and …",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -1106,194 +645,758 @@
                 ],
                 "display_name": "Chennai, Tamil Nadu"
             },
-            "title": "Full Stack Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NDI0NjIwMDgyIn0.GiB3hD9MfxS-QiFzDwQwYVvsnNGFF8FkI5NyOX9KKzU",
+            "id": "5577233109",
+            "latitude": 13.06041,
+            "created": "2026-01-10T07:38:30Z",
+            "title": "Software Engineer - Full Stack",
+            "company": {
+                "display_name": "HBK - Hottinger Brüel & Kjær",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Full Stack Engineer (SDE1/SDE2)",
+            "created": "2026-01-10T07:26:18Z",
+            "company": {
+                "display_name": "Absolute Sports Pvt. Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "About us Sportskeeda - For the hardcore sports fan Established in 2009, Absolute Sports is the parent company of Sportskeeda.com, ITRwrestling.com, TJRWrestling.net, ProFootballNetwork.com, SoapCentral.com, Deltiasgaming.com , and Primetimer.com . We are a subsidiary of Nazara Technologies, the only publicly listed Indian gaming / diversified media company. Sportskeeda is a global sports content platform that covers the world's biggest sports and esports subjects and serves over 100 Million fan…",
+            "longitude": 77.66033,
+            "redirect_url": "https://www.adzuna.in/details/5577224268?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MjI0MjY4In0.kWLnMnk2R-XuLSZ6kvDFy9tXyuGBHk-Cm_b6iFW6rhg",
+            "contract_time": "full_time",
+            "latitude": 12.98005,
+            "location": {
+                "display_name": "New Thippasandra, Bangalore",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore",
+                    "New Thippasandra"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577224268",
             "category": {
                 "tag": "it-jobs",
                 "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
             },
-            "longitude": 80.24963,
-            "redirect_url": "https://www.adzuna.in/land/ad/5424620082?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=4232E88012033A36A0B4816DB33339AA79F28A69",
-            "id": "5424620082",
-            "created": "2025-10-01T21:05:10Z",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Vivriti Capital"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "description": "About Vivriti Group Vivriti Group is a trailblazer in the mid-market lending space, offering customized debt solutions to mid-sized enterprises. The group operates through two core businesses: Vivriti Capital Limited: A systematically important Non-Banking Financial Company (NBFC ND-SI) regulated by the Reserve Bank of India (RBI). Vivriti Capital has disbursed over USD 3 billion to 300 enterprise borrowers and holds a CRISIL rating of A. Vivriti Asset Management: A fixed-income fund manager, m…"
+            "contract_type": "permanent",
+            "salary_is_predicted": "0"
         },
         {
-            "description": "Work Location : Mohali, Vadodara, Kochi (India) Job Summary : We are seeking a hands-on Full Stack & Mobile Software Engineer with a minimum of 5 years of experience in building and deploying production-grade applications. The role covers modern web and mobile development, backend engineering, API integrations, microservices architecture, and cloud deployments. The engineer will develop responsive web applications using React.js, mobile applications using React Native or Flutter, and backend se…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
             "company": {
-                "display_name": "Staff Connect UAE",
+                "display_name": "Trigent Software Private Limited",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "redirect_url": "https://www.adzuna.in/land/ad/5559728197?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=694D80BB418268E1C6969850A062B90A7F6E9575",
-            "id": "5559728197",
-            "created": "2025-12-30T10:30:52Z",
-            "longitude": 78.50806,
+            "created": "2026-01-10T06:54:23Z",
+            "title": "Python Developer",
+            "salary_min": 1200000,
+            "latitude": 12.9706,
+            "id": "5577194616",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore",
+                    "Richmond Town"
+                ],
+                "display_name": "Richmond Town, Bangalore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
             "category": {
-                "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
                 "tag": "it-jobs"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1OTcyODE5NyIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.B6--as6ipiO9NGb3MQ9BNDX4gD-fgzwU00tyA8kb25I",
-            "title": "Full Stack Engineer",
-            "latitude": 17.40275,
+            "description": "As a Full Stack Engineer, you will be responsible for developing and engineering the end-to-end features of a system. Your typical day will involve collaborating with cross-functional teams to design and implement innovative solutions that enhance user experience and optimize backend processes. You will leverage new technologies to address complex business challenges while maintaining a cloud-first and agile approach, ensuring that the services provided to clients are continuously improved and …",
+            "salary_max": 1200000,
+            "longitude": 77.60024,
+            "redirect_url": "https://www.adzuna.in/details/5577194616?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzE5NDYxNiIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.d13bZxCScVWr5mBs1ZvNaQE2l2-PhKzlSehYcorYGd8"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Trigent Software Private Limited"
+            },
+            "created": "2026-01-10T06:54:23Z",
+            "title": "Java Fullstack Developer_Mphasis",
+            "salary_min": 2500000,
+            "latitude": 26.01423,
             "location": {
+                "area": [
+                    "India",
+                    "Rajasthan",
+                    "Sawai Madhopur",
+                    "Chauth Ka Barwara"
+                ],
+                "display_name": "Chauth Ka Barwara, Sawai Madhopur",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577194659",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "We are looking for Java Fullstack developer with 7 Years of experience. Technical Skills: Full Stack Engineer or similar role. Proficiency in front-end technologies: HTML5, CSS3, JavaScript (ES6), and frameworks such as Next.js and React. Strong knowledge of back-end technologies: Java Spring Boot and experience with eCommerce. Experience in building reusable Java libraries for back-end services (Nice to have). Familiarity with version control systems, particularly Git. Experience with Azure cl…",
+            "longitude": 76.07746,
+            "salary_max": 3000000,
+            "redirect_url": "https://www.adzuna.in/details/5577194659?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzE5NDY1OSIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.3T1Eg0K6jBhnkmjpF3GmumBRxnhXsx3fN-czkIYbUNI"
+        },
+        {
+            "salary_min": 2000000,
+            "title": "Automation Tester",
+            "created": "2026-01-10T06:54:23Z",
+            "company": {
+                "display_name": "Trigent Software Private Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 2000000,
+            "longitude": 80.23349,
+            "redirect_url": "https://www.adzuna.in/details/5577194611?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MTk0NjExIn0.y1GdZuzvUFMM7pzFpXxV0fYS_q74Fyal7xgm3Yu-VWc",
+            "description": "As a Full Stack Engineer, you will be responsible for developing and engineering the end-to-end features of a system. Your typical day will involve collaborating with cross-functional teams to design and implement innovative solutions that enhance user experience and optimize backend processes. You will leverage new technologies to address complex business challenges while maintaining a cloud-first and agile approach, ensuring that the services provided to clients are continuously improved and …",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 13.06019,
+            "id": "5577194611",
+            "location": {
+                "display_name": "Nungambakkam, Chennai",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai",
+                    "Nungambakkam"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "description": "Job Title : Java Full Stack Engineer Job Summary : We are seeking a highly skilled Java Full Stack Engineer to join our dynamic development team. In this role, you will be responsible for designing, developing, and maintaining both frontend and backend components of our applications using Java and associated technologies. You will collaborate with cross-functional teams to deliver robust, scalable, and high-performing software solutions that meet our business needs. The ideal candidate will hav…",
+            "salary_max": 3000000,
+            "longitude": 80.23349,
+            "redirect_url": "https://www.adzuna.in/details/5577194657?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MTk0NjU3In0.usMEG9hSDgFeTEHttyjSiDjL7RrsI4Nv-Qz1d3y6h8o",
+            "latitude": 13.06019,
+            "location": {
+                "display_name": "Nungambakkam, Chennai",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai",
+                    "Nungambakkam"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577194657",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-01-10T06:54:23Z",
+            "title": "Java Fullstack Developer",
+            "salary_min": 1000000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Trigent Software Private Limited"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Trigent Software Private Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 1800000,
+            "created": "2026-01-10T06:54:23Z",
+            "title": "Python Developer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5577194614",
+            "salary_max": 1800000,
+            "redirect_url": "https://www.adzuna.in/details/5577194614?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzE5NDYxNCIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.aeAQHxuiN1PzYITJGmLLHerDbbWaVhi01Df59JYyrWI",
+            "description": "Summary: As a Full Stack Engineer, you will be responsible for developing and engineering the end-to-end features of a system, from user experience to backend code. Your typical day will involve collaborating with cross-functional teams to design, implement, and optimize innovative solutions that enhance client services. You will leverage new technologies and methodologies to address complex business challenges, all while maintaining a cloud-first and agile mindset. Engaging in continuous learn…"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5577194615?utm_medium=api&utm_source=d58ac19b",
+            "salary_max": 1800000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzE5NDYxNSIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.naUcrs93iFt7Tsb0qRDgwu9StP3_sKjH632u1QnKm_U",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "9 BDC7A Summary: As a Full Stack Engineer, you will be responsible for developing and engineering the end-to-end features of a system. A typical day involves collaborating with cross-functional teams to design and implement innovative solutions that enhance user experience and optimize backend processes. You will leverage new technologies to address complex business challenges while maintaining a cloud-first and agile approach, ensuring that the services provided to clients are continuously imp…",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5577194615",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "salary_min": 1800000,
+            "created": "2026-01-10T06:54:23Z",
+            "title": ".NET Developer",
+            "company": {
+                "display_name": "Trigent Software Private Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzE5NDYwNCIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.GRMACJaFFAFjAWEAuXuPY731sORJnNOw9saru9bw82U",
+            "salary_max": 1500000,
+            "redirect_url": "https://www.adzuna.in/details/5577194604?utm_medium=api&utm_source=d58ac19b",
+            "description": "Summary: As a Full Stack Engineer, you will be responsible for developing and engineering the end-to-end features of a system. A typical day involves collaborating with cross-functional teams to design user experiences, writing backend code, and delivering innovative solutions that enhance client services. You will leverage new technologies to address complex business challenges while maintaining a cloud-first and agile approach, ensuring that the solutions you create are both effective and eff…",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5577194604",
+            "salary_min": 1500000,
+            "created": "2026-01-10T06:54:23Z",
+            "title": "Python Developer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Trigent Software Private Limited"
+            }
+        },
+        {
+            "description": "Req ID: 347346 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Java, J2EE, Spring Boot, REST API, Angular, AWS, CI/CD - Developer to join our team in Bangalore, Karnātaka (IN-KA), India (IN). Java, J2EE, Spring Boot, REST API, Angular, AWS, CI/CD - Developer FMRJP00036848 Full Stack Engineer 3 (6-9 Years) Mandatory Skil…",
+            "redirect_url": "https://www.adzuna.in/details/5577184135?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 77.59837,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzE4NDEzNSIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.-inkZl3dqYMiQexzgWpqtuwgcrmZfnuM7xDMusp7W1c",
+            "latitude": 12.95703,
+            "id": "5577184135",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "created": "2026-01-10T06:49:03Z",
+            "title": "Java, J2EE, Spring Boot, REST API, Angular, AWS, CI/CD - Developer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT DATA Services"
+            }
+        },
+        {
+            "created": "2026-01-10T06:38:19Z",
+            "company": {
+                "display_name": "BOLT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 4000000,
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_type": "permanent",
+            "latitude": 20.59315,
+            "id": "5577161213",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Samudrapur, Wardha",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Wardha",
+                    "Samudrapur"
+                ]
+            },
+            "salary_min": 2500000,
+            "title": "Senior Full Stack Engineer",
+            "redirect_url": "https://www.adzuna.in/details/5577161213?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 78.9533,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MTYxMjEzIn0.Qb-11kVS_WGNe8RQF0Tt16ufahclHXbfqGcAKSeauG0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Key Responsibilities: Full-Stack Development: Design, develop, and maintain backend services in Go and frontend applications in TypeScript to power Bolt’s checkout and merchant dashboard experiences. Merchant Dashboard Ownership: Drive the development of the Connect-specific merchant dashboard while also evaluating and enhancing the overall merchant dashboard experience across Bolt. Checkout Experience: Collaborate closely with design, product, and data teams to build intuitive, performant chec…"
+        },
+        {
+            "description": "• • • • • • • • Software Engineer I, ITC WHO YOU’LL WORK WITH You will be part of the Global Technology organization and report to the Engineering Manager. On a daily basis, you will collaborate with peer software engineers, product managers, and architects on product teams to achieve business objectives. Additionally, you will engage with other Global Technology teams to align on both organizational and individual development goals. WHO WE ARE LOOKING FOR We are seeking a ambitious Full Stack …",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc3MTUxODA4In0.f8ZnLc60_8sw6lsTmZQJts9BsoxNg8CxO1pYZRc4jkA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 76.227524,
+            "redirect_url": "https://www.adzuna.in/details/5577151808?utm_medium=api&utm_source=d58ac19b",
+            "id": "5577151808",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka"
+                ],
+                "display_name": "Karnataka, India",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 14.325172,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "created": "2026-01-10T06:32:00Z",
+            "title": "Software Engineer I, ITC",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nike Inc."
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "id": "5577083807",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
                 "display_name": "Hyderabad, Telangana",
                 "area": [
                     "India",
                     "Telangana",
                     "Hyderabad"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location"
-            }
+                ]
+            },
+            "latitude": 17.40275,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzA4MzgwNyIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.-5xocv2Z_n71nqfEO156ruy1CqDXGTJTsnjKi5VsJyw",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/details/5577083807?utm_medium=api&utm_source=d58ac19b",
+            "description": "Software Engineer, Full Stack Ingestion About T-Mobile T-Mobile US, Inc. (NASDAQ: TMUS), headquartered in Bellevue, Washington, is Americas supercharged Un-carrier, connecting millions through its strong nationwide network and flagship brands, T-Mobile and Metro by T-Mobile. Customers benefit from an unmatched combination of value, quality, and exceptional service experience. About TMUS Global Solutions TMUS Global Solutions is a world-class technology powerhouse accelerating the companys globa…",
+            "company": {
+                "display_name": "TMUS Global Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Engineer Software Fullstack",
+            "created": "2026-01-10T06:12:30Z"
         },
         {
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
+            "title": "Full Stack Developer/Senior Full Stack/Lead",
+            "created": "2026-01-10T04:21:52Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CRUX"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTMwNTU0ODk1In0.pZEN4_ykRj4DdZY64tkBHOv7hpdt5-E11zu_hRb6DRY",
-            "id": "5530554895",
-            "created": "2025-12-06T09:46:21Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5530554895?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=FE0D8668538C89FF4CA3D4C00AEC8E10F4E31FAD",
+            "description": "Job Description We are seeking a highly skilled and versatile Full-Stack Developer to join our engineering team. In this role, you will be responsible for the end-to-end development of web applications, from architecting user-facing front-end components to building robust, scalable server-side logic and database schemas. The ideal candidate has a deep understanding of the entire software development life cycle and is comfortable working in a fast-paced, Agile environment. Whether you are a seas…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Njk1MjE4MCIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.3cAgPQvmJbgiPRlto5F32oMME6VyuZoivM6AWzHMOPY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576952180?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 80.24963,
+            "id": "5576952180",
             "location": {
-                "display_name": "Bangalore, Karnataka",
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
                     "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
             },
-            "title": "Full Stack Engineer",
+            "latitude": 13.06041,
             "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "About Position: We are seeking Python Fullstack Engineers with Python, Reactjs, MSSQL, PostgreSQL, fastapi, flask experience. Role: Full Stack Engineer Location: Bangalore Experience: 4 to 6 Years Job Type: Full Time Employment What You'll Do: 4-6 years experience We are looking for a skilled python  React Developer with 4-6 Years of experience in application development. The ideal candidate should have strong expertise in backend and frontend development, building scalable web applications. Ex…",
-            "contract_time": "full_time",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Persistent Systems"
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
             }
         },
         {
-            "location": {
-                "area": [
-                    "India"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
-            },
-            "title": "Full Stack Engineer",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "Engineering Jobs",
-                "tag": "engineering-jobs"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2MTk0NDU0NyIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.L2XOoAXaTW5dQVCJp8-z3CdCWzo2ccLmnrjMliyi99E",
-            "redirect_url": "https://www.adzuna.in/land/ad/5561944547?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=2E76765FCDAFB9F74DC1E98EC7B46F6DA67D9A03",
-            "created": "2026-01-01T08:41:06Z",
-            "id": "5561944547",
+            "salary_min": 3100000,
+            "title": "SAP S/4HANA Technical Consultant",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2ODgzNjc1In0.WiQ7bFZkowZs6XfsWhh-rz6EHLbC4H4ZnwP1FXAgoV8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576883675?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 80.24963,
+            "description": "Job Title: SAP S/4HANA Technical Consultant,34765 Experience: 6 Years Location: Chennai (Onsite) Employment Type: Full-Time Compensation: Up to ₹32 LPA Position Overview The Software Engineer will be responsible for designing, developing, testing, and maintaining enterprise-grade software applications across the full software development lifecycle. This role requires strong full-stack engineering expertise, deep SAP technical knowledge, and the ability to collaborate closely with cross-function…",
+            "created": "2026-01-10T03:14:29Z",
             "company": {
                 "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Wellness Coach"
+                "display_name": "Umanist Staffing LLC"
             },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Team: Engineering Location: Remote/Hybrid (India preferred) Reports to: Role Summary We’re Wellness Coach—a B2B wellness platform. We’re hiring a dedicated, AI-first full-stack engineer with a backend emphasis who owns features end-to-end across Node.js/TypeScript/NestJS (primary) and React/TypeScript (secondary). You’ll ship with strong CI/CD , uphold SonarQube quality gates, and drive scaling & optimization across the stack. Responsibilities (backend-heavy) End-to-end delivery: requirement Ga…"
-        },
-        {
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "About The Role Lilo is looking for a Full-Stack/Backend Engineer to help our Operations team scale. You’ll design and build internal tools and workflows that support customer orders and drive customer success. About Lilo Lilo is revolutionizing procurement for Commercial Real Estate (CRE) businesses by providing a single platform to automate and optimize procurement processes using AI. From hotels to gyms, schools, and senior living homes, we streamline workflows like invoicing, vendor manageme…",
-            "company": {
-                "display_name": "Lilo",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgwNTMzNCIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.ivruDJ1s4ZPtyj7rUps1jmgdbgk2Tz7SVqyIKR8AYTE",
+            "contract_time": "full_time",
+            "salary_max": 3200000,
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs",
                 "tag": "it-jobs"
             },
-            "id": "5529805334",
-            "created": "2025-12-06T01:27:11Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5529805334?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=8763D4BFE74BEFB6DD2216EC9E1B015BB40AEABD",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
             "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "id": "5576883675",
+            "latitude": 13.06041
+        },
+        {
+            "title": "Sr. Full Stack Engineer (Team Lead) - SaaS- Pune",
+            "salary_min": 1800000,
+            "description": "Senior Full Stack Engineer (Team Lead) Location: Pune (Hybrid – 3 days in-office) Experience: 5 - 7 Years (with 1 year in leadership) Compensation: ₹26 LPA - ₹30 LPA About the Opportunity We are a leading SaaS-based Procurement Technology platform dedicated to transforming how global enterprises manage and optimize their purchasing power. Our cloud-native platform leverages high-scale data analytics and AI to drive measurable impact for our customers. We foster a culture of high performance, co…",
+            "redirect_url": "https://www.adzuna.in/details/5576883612?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 73.84735,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2ODgzNjEyIn0.9pP8pyIiCyhU9bn2R4BYWRBMQOFyDFlpRrFB1Egok80",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "HyrEzy Talent Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T03:14:29Z",
+            "latitude": 18.5062,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "id": "5576883612",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_type": "permanent",
+            "salary_max": 3000000,
+            "contract_time": "full_time"
+        },
+        {
+            "title": "Full Stack Engineer (Backend Focused)- 2 – 5 Years- Mumbai",
+            "salary_min": 2000000,
+            "description": "About Company: It is the leading on-demand delivery platform in Latin America, operating in multiple countries and connecting millions of users with restaurants, supermarkets, pharmacies, retail stores, and more. With a mission to make people’s lives easier. Role: Full Stack Engineer Location: Mumbai (Hybrid) Experience: 2 – 5 Years (flexible based on quality of talent) Skills & Expertise: Python, REST API, React JS, MongoDB Budget: 20 - 24 LPA Notice Period: 30 days or less preferred Notes fro…",
+            "longitude": 72.84415,
+            "redirect_url": "https://www.adzuna.in/details/5576883627?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2ODgzNjI3In0.LLWBgPyN-GdyADN27fU9EKul1eoYgOSGwSMXjz2SIDo",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2026-01-10T03:14:29Z",
+            "company": {
+                "display_name": "HyrEzy Talent Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 2400000,
+            "contract_time": "full_time",
+            "latitude": 19.00821,
+            "id": "5576883627",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "contract_type": "permanent",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "id": "5576580550",
+            "location": {
+                "display_name": "India",
                 "area": [
                     "India"
                 ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "India"
+                "__CLASS__": "Adzuna::API::Response::Location"
             },
+            "redirect_url": "https://www.adzuna.in/details/5576580550?utm_medium=api&utm_source=d58ac19b",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTgwNTUwIn0.jSqPznyuZN0v0Lx0EwgMAIKAEUDSc2ozVRk6nKfxk3I",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "description": "Project Role : Full Stack Engineer Project Role Description : Responsible for developing and/or engineering the end-to-end features of a system, from user experience to backend code. Use development skills to deliver innovative solutions that help our clients improve the services they provide. Leverage new technologies that can be applied to solve challenging business problems with a cloud first and agile mindset. Must have skills : Python (Programming Language) Good to have skills : NA Educati…",
+            "company": {
+                "display_name": "Accenture",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T00:48:29Z",
             "title": "Full Stack Engineer"
         },
         {
             "location": {
-                "display_name": "Bangalore, Karnataka",
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
+                    "India"
+                ],
+                "display_name": "India"
             },
-            "title": "Full Stack Engineer",
+            "id": "5576577555",
+            "salary_is_predicted": "0",
             "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
                 "tag": "it-jobs",
-                "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
+                "label": "IT Jobs"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU4MDE3MTA5In0.GE7hYRPMvtyEL0ctjqHHF35YywOXI3--gAi0Iis-PGw",
-            "id": "5558017109",
-            "created": "2025-12-28T10:08:27Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5558017109?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=298818403EC01B5482F7F8F07B169BDBEE454950",
+            "description": "Who We Are At Kyndryl, we design, build, manage and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward – always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our customers and our communities. The Role Are you passionate about solving complex problems? Do you thrive in a fast-paced environment? Then there’s a good chance you will love being a pa…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTc3NTU1In0.vSEAmt0J0kMiZ_acQ9rtpJmiow7j6cqVGDnmg7soIM0",
+            "redirect_url": "https://www.adzuna.in/details/5576577555?utm_medium=api&utm_source=d58ac19b",
             "company": {
-                "display_name": "Recro",
+                "display_name": "Kyndryl",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "Full stack Engineer - Mobile/Desktop Focus | Bangalore (On-site) | 2-4 Years Experience What We're Building About Client:- • Featured on Shark Tank India (4M viewers) • Team of 10 (you'd be 11) • Based in Bangalore (Indiranagar area) Neo 1 is a wearable AI pendant that captures conversations in real-time, transcribes them, and turns them into searchable memories. Think of it as a second brain you wear around your neck. The hardware works. The backend processes thousands of audio streams daily. …"
+            "title": "Software Engineer - Full Stack Development",
+            "created": "2026-01-10T00:48:05Z"
         },
         {
+            "description": "Would you like to be part of a team that delivers high-quality software to our customers? Are you a visible champion with a ‘can do’ attitude and enthusiasm that inspires others? About the Business LexisNexis Risk Solutions is the essential partner in the assessment of risk. Within our Business Services vertical, we offer a multitude of solutions focused on helping businesses of all sizes drive higher revenue growth, maximize operational efficiencies, and improve customer experience. Our soluti…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU3NzI3MCIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.Cuh0KhH0_cxThV1_TK-6_VXOPEt972COXBuE70dXXlk",
+            "redirect_url": "https://www.adzuna.in/details/5576577270?utm_medium=api&utm_source=d58ac19b",
+            "id": "5576577270",
             "location": {
-                "display_name": "Bangalore, Karnataka",
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ]
+                    "India"
+                ],
+                "display_name": "India"
             },
-            "title": "Full Stack Engineer",
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs",
                 "tag": "it-jobs"
             },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTQ5NTAyOTM1In0.OllOxpfVYqH_AZnyGIA6Pc_UjVNzxrYFnFSem0OTvNQ",
-            "created": "2025-12-20T09:06:37Z",
-            "id": "5549502935",
-            "redirect_url": "https://www.adzuna.in/land/ad/5549502935?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=AEEB587127DAC324F5495EE16340FB53D95F1FAD",
-            "contract_time": "full_time",
-            "company": {
-                "display_name": "Chubb",
-                "__CLASS__": "Adzuna::API::Response::Company"
-            },
             "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "description": "About Chubb Chubb is a world leader in insurance. With operations in 54 countries and territories, Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance and life insurance to a diverse group of clients. The company is defined by its extensive product and service offerings, broad distribution capabilities, exceptional financial strength and local operations globally. Parent company Chubb Limited is listed on the N…"
+            "title": "Senior Performance Test Engineer I",
+            "created": "2026-01-10T00:48:02Z",
+            "company": {
+                "display_name": "LexisNexis",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
         },
         {
+            "company": {
+                "display_name": "Udemy",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T00:47:34Z",
+            "title": "Software Development Engineer (Full Stack)",
+            "id": "5576573992",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ]
+            },
+            "latitude": 13.06041,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Where we work Udemy is a global company headquartered in San Francisco, with additional U.S. offices in Denver and Austin, and international hubs in Australia, India, Ireland, Mexico, and Türkiye. This is an in-office position in Chennai, requiring three days a week in the office (Tuesday, Wednesday, Thursday) and flexibility on Mondays and Fridays . About your skills Proactive Ownership: You take initiative and ownership of features that have a direct impact on our global platform, driving the…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTczOTkyIn0.ww2Ux9K-jNtjk2Qgrgzi2xLXllAea3JNI1FtwDyBNFM",
+            "redirect_url": "https://www.adzuna.in/details/5576573992?utm_medium=api&utm_source=d58ac19b",
+            "longitude": 80.24963
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "id": "5576559123",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "redirect_url": "https://www.adzuna.in/details/5576559123?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU1OTEyMyIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.FWv2ZOYkK7b_ZNr66mWA1zwiDdWvgrVAsSrrAVVvgeI",
+            "description": "About this role Job Description Are you interested in building innovative technology that crafts financial markets? Do you like working at the speed of a startup, and solving some of the world’s most exciting challenges? Do you want to work with, and learn from, hands-on leaders in technology and finance? At BlackRock, we are looking for Software Engineers who like to innovate and solve sophisticated problems. We recognize that strength comes from diversity, and will embrace your outstanding sk…",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BlackRock"
+            },
+            "title": "Full Stack Java Developer, Aladdin Engineering, Vice President",
+            "created": "2026-01-10T00:45:42Z"
+        },
+        {
+            "company": {
+                "display_name": "Empower Retirement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-01-10T00:44:51Z",
+            "title": "Senior Software Engineer (PL/ SQL Developer)",
+            "id": "5576553347",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Our vision for the future is based on the idea that transforming financial lives starts by giving our people the freedom to transform their own. We have a flexible work environment, and fluid career paths. We not only encourage but celebrate internal mobility. We also recognize the importance of purpose, well-being, and work-life balance. Within Empower and our communities, we work hard to create a welcoming and inclusive environment, and our associates dedicate thousands of hours to volunteeri…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU1MzM0NyIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.r4pDRtRU_mbaILqoPtyqSpiPdrSwYCSvkNzxrSD2N8U",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5576553347?utm_medium=api&utm_source=d58ac19b"
+        },
+        {
+            "title": "Sr. Full Stack Software Engineer",
+            "created": "2026-01-10T00:44:50Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nextpower India"
+            },
+            "description": "Job Description: Job Description Sr Full Stack Software Engineer Job Description: Here is a glimpse of what you’ll do… • End-to-End Software Development: o Design, develop, and optimize frontend and backend applications using Angular and Golang to deliver seamless, robust solutions. Write clean, efficient, and well-documented code. o Design, implement, and maintain database schemas and queries for efficient data storage and retrieval, ensuring data security and integrity in all database-related…",
+            "redirect_url": "https://www.adzuna.in/details/5576553221?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU1MzIyMSIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.TDEIFyNirE08XOdeYNv3jN4DYB6ocY_tky2EQpWehug",
+            "contract_time": "full_time",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "id": "5576553221",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2026-01-10T00:44:15Z",
+            "title": "Senior DevOps Cloud Engineer",
+            "company": {
+                "display_name": "Finastra Technology",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Who are we? At Finastra, we are a dynamic global provider of open finance software solutions, dedicated to expanding access to financial services. Our innovative applications span Lending, Payments, Treasury and Capital Markets, and Universal Banking. Proudly serving over 8,000 customers, including 45 of the world's top 50 banks, we aim to boost financial inclusion for all. Join us and be part of a vibrant company that embraces diverse perspectives, and is committed to doing well by doing good.…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTQ5NjQwIn0.vMv0W3543m6UJRYU3mSwRfKRtTA75zKzMaJ8UHebYwQ",
+            "longitude": 76.93365,
+            "redirect_url": "https://www.adzuna.in/details/5576549640?utm_medium=api&utm_source=d58ac19b",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Trivandrum, Thiruvananthapuram",
+                "area": [
+                    "India",
+                    "Kerala",
+                    "Thiruvananthapuram",
+                    "Trivandrum"
+                ]
+            },
+            "id": "5576549640",
+            "latitude": 8.49239,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Software Engineer, Actimize (Java)",
+            "created": "2026-01-10T00:43:58Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NICE"
+            },
+            "description": "At NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you. So, what’s the role all about? NiCE Actimize is the largest and broadest provider of financial crime, risk and compliance products & solutions for regional and global financial institutions, as well as gover…",
+            "longitude": 73.84735,
+            "redirect_url": "https://www.adzuna.in/details/5576547402?utm_medium=api&utm_source=d58ac19b",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU0NzQwMiIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.LKTN6onvcym2ukVZtxTUmS0LQlRA7L2x8Prp9Q9mntg",
+            "latitude": 18.5062,
+            "id": "5576547402",
             "location": {
                 "__CLASS__": "Adzuna::API::Response::Location",
                 "area": [
@@ -1303,118 +1406,95 @@
                 ],
                 "display_name": "Pune, Maharashtra"
             },
-            "latitude": 18.5062,
-            "title": "Full Stack Engineer",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTI5ODAzNDU1In0.OCsZEqZWLpbXO_TjqIO7ylec20b_Fj4TBtPE72DKz3c",
-            "category": {
-                "__CLASS__": "Adzuna::API::Response::Category",
-                "label": "IT Jobs",
-                "tag": "it-jobs"
-            },
-            "longitude": 73.84735,
-            "id": "5529803455",
-            "created": "2025-12-06T01:24:40Z",
-            "redirect_url": "https://www.adzuna.in/land/ad/5529803455?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=D6E7E2A199507AC72CFE0498F1B40165BECAC8C4",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Peoplefy"
-            },
-            "__CLASS__": "Adzuna::API::Response::Job",
             "salary_is_predicted": "0",
-            "description": " We’re Hiring | IT Applications Engineer– Full Stack (UI/AEM/Web) - Pune Location  Location: Pune  Work Mode: 5 Days Work from Office  Shift Timing: 2:00 PM – 11:00 PM Notice Period:-Max 60 Days Experience range:-9 to 14 Years We are looking for an experienced Full Stack Web Developer / Technical Lead with strong hands-on coding and expertise in UI, AEM, and modern web technologies . ✅ Must-Have Skills: Hands-on Web Development & Full Stack Coding Java OR Node.js Angular / React HTML, CSS Conte…"
-        },
-        {
-            "title": "Full Stack Engineer",
-            "latitude": 28.62523,
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Delhi"
-                ],
-                "display_name": "Delhi, India"
-            },
-            "redirect_url": "https://www.adzuna.in/land/ad/5558017100?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=5C576D1C3EDEA700837ABFAB904E073A1A2A284D",
-            "id": "5558017100",
-            "created": "2025-12-28T10:08:27Z",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU4MDE3MTAwIn0.-msNxliQqa2pOEfqrVbMfzOZZdlHjO0U_eb8x9WcGuQ",
-            "longitude": 77.224601,
             "category": {
-                "tag": "it-jobs",
                 "label": "IT Jobs",
-                "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Hero Vired"
-            },
-            "contract_time": "full_time",
-            "description": "About Hero Vired: Would you like to be part of an exciting, innovative, and high-growth startup from one of the largest and most well-respected business houses in the country - the Hero Group? Hero Vired is a premium learning experience offering industry-relevant programs and world-class partnerships, to create the change-makers of tomorrow. At Hero Vired, we believe everyone is made of big things. With the experience, knowledge, and expertise of the Hero Group, Hero Vired is on a mission to ch…",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0"
-        },
-        {
-            "description": "Job Title: Senior Full Stack Developer Location: Bengaluru & Hyderabad Department: Engineering Employment Type: Permanent - Full Time Education: Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience. Experience: 4-6 years’ experience required. Company: Gnapi Technologies., is an Information Technology Company with registered offices in Canada, United States and India. Gnapi provides end-to-end IT services and solutions to help and support cli…",
-            "salary_is_predicted": "0",
-            "__CLASS__": "Adzuna::API::Response::Job",
-            "company": {
-                "__CLASS__": "Adzuna::API::Response::Company",
-                "display_name": "Gnapi Technologies"
-            },
-            "contract_time": "full_time",
-            "redirect_url": "https://www.adzuna.in/land/ad/5559727225?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=07E5B729A09EADA70513C6ABA4062BFD193EEA30",
-            "created": "2025-12-30T10:30:39Z",
-            "id": "5559727225",
-            "category": {
                 "tag": "it-jobs",
-                "label": "IT Jobs",
                 "__CLASS__": "Adzuna::API::Response::Category"
-            },
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakl6Znh0RG04QkdOS2ZJLUhQUndidyIsImkiOiI1NTU5NzI3MjI1In0.-Po8UIkYxUG4ev6H3bcL5IdAo6rJE4nXOl1szBC7cmM",
-            "title": "Full Stack Engineer",
-            "contract_type": "permanent",
-            "location": {
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "area": [
-                    "India",
-                    "Karnataka",
-                    "Bangalore"
-                ],
-                "display_name": "Bangalore, Karnataka"
             }
         },
         {
+            "title": "Full-Stack Engineer - Backend & Infrastructure",
+            "created": "2026-01-10T00:43:11Z",
             "company": {
-                "display_name": "Nivi Capital",
+                "display_name": "VantedgeAI",
                 "__CLASS__": "Adzuna::API::Response::Company"
             },
-            "contract_time": "full_time",
-            "description": "Company Description Nivi Capital is dedicated to empowering Indian students to pursue global education by eliminating financial barriers. Focused on students heading to Australia, Nivi Capital offers a comprehensive financial platform that includes education loans, forex services, and a rewards program to make overseas education more accessible and stress-free. Supported by industry leaders and trusted financial institutions, the company ensures seamless access to secure and flexible financial …",
+            "description": "About Vantedge AI Vantedge AI is a YC-backed fintech re-imagining how private-credit, private-equity, and hedge-fund teams turn mountains of deal data into decisions. Our multi-agent workspace ingests everything from bond prospectuses and trustee reports to full data rooms, then delivers structured models, crisp memos, and live dashboards in seconds—end-to-end secure and audit-ready. Founders Ravi – 20-year Wall Street credit-investing veteran; former CIO of Eight Capital (acquired by JC Flower…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjU0MjMxOSIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.zQ2QIoaQ62SUK0lZaXYvsmX54HLH-ZIOBLu45oRNtHw",
             "__CLASS__": "Adzuna::API::Response::Job",
-            "salary_is_predicted": "0",
-            "title": "Full Stack Engineer",
+            "redirect_url": "https://www.adzuna.in/land/ad/5576542319?se=lKnxV-Pt8BG4cJ-BGkYPSg&utm_medium=api&utm_source=d58ac19b&v=92049189D687520A481A08E558B2098ECBB48EA4",
+            "longitude": 72.84415,
+            "id": "5576542319",
             "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra",
                 "area": [
                     "India",
                     "Maharashtra",
                     "Mumbai"
-                ],
-                "__CLASS__": "Adzuna::API::Response::Location",
-                "display_name": "Mumbai, Maharashtra"
+                ]
             },
             "latitude": 19.00821,
-            "created": "2025-12-30T10:31:18Z",
-            "id": "5559728987",
-            "redirect_url": "https://www.adzuna.in/land/ad/5559728987?se=jIzfxtDm8BGNKfI-HPRwbw&utm_medium=api&utm_source=d58ac19b&v=5236005DAB3124BE9EF7FE933F5BA83278E17024",
-            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1OTcyODk4NyIsInMiOiJqSXpmeHREbThCR05LZkktSFBSd2J3In0.MUSv68Pz1mP0a0n_9g9KtEm46yatR0cvUKOvJn_7ynQ",
-            "longitude": 72.84415,
             "category": {
                 "__CLASS__": "Adzuna::API::Response::Category",
                 "label": "IT Jobs",
                 "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "description": "About LumiMeds LumiMeds is a fast-growing U.S.-based telehealth company focused on weight management and long-term metabolic health. We work with a fully remote, globally distributed team and pride ourselves on moving quickly, communicating clearly, and building systems that actually work. If you’re someone who thrives in a high-ownership environment, values structure and accountability, and enjoys working with U.S.-based teams, you’ll feel right at home here. About LumiMeds LumiMeds is a fast-…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEtueFYtUHQ4Qkc0Y0otQkdrWVBTZyIsImkiOiI1NTc2NTQwNjMzIn0.K2rXPLnBh6s4ZretyrW-C0D-VEJg6vMgqtBB5aolxlk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5576540633?utm_medium=api&utm_source=d58ac19b",
+            "id": "5576540633",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India",
+                "area": [
+                    "India"
+                ]
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "created": "2026-01-10T00:42:52Z",
+            "title": "Senior Full-Stack Engineer (Node.js & Next.js) - Senior / Lead Level - India",
+            "company": {
+                "display_name": "LumiMeds",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Senior Software Engineer - Java - Full stack",
+            "created": "2026-01-10T00:42:12Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Next Gear India Private"
+            },
+            "description": "At Cotality, we are driven by a single mission—to make the property industry faster, smarter, and more people-centric. Cotality is the trusted source for property intelligence, with unmatched precision, depth, breadth, and insights across the entire ecosystem. Our talented team of 5,000 employees globally uses our network, scale, connectivity and technology to drive the largest asset class in the world. Join us as we work toward our vision of fueling a thriving global property ecosystem and a m…",
+            "redirect_url": "https://www.adzuna.in/details/5576536376?utm_medium=api&utm_source=d58ac19b",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjUzNjM3NiIsInMiOiJsS254Vi1QdDhCRzRjSi1CR2tZUFNnIn0.sZlVF_z0I8PCua_5I7jGdmPPWfaSSLibuKs7iXi1PMs",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "id": "5576536376",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
             }
         }
-    ],
-    "mean": 1674224.05,
-    "count": 2271
+    ]
 }

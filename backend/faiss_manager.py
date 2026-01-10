@@ -1,7 +1,3 @@
-"""
-FAISS Vector Store Manager
-Handles saving and loading of FAISS index for efficient RAG operations
-"""
 
 import os
 import numpy as np
@@ -13,8 +9,12 @@ if not hasattr(langchain, 'verbose'):
     langchain.verbose = False
 if not hasattr(langchain, 'debug'):
     langchain.debug = False
+if not hasattr(langchain, 'llm_cache'):
+    langchain.llm_cache = None
 
 from langchain_community.vectorstores import FAISS
+from langchain_community.document_loaders import DirectoryLoader, JSONLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.embeddings import Embeddings
 
 # Constants
@@ -46,13 +46,13 @@ def load_documents():
     """Load documents from data directories"""
     backend_dir = os.path.dirname(__file__)
     
-    loader1 = DirectoryLoader(
-        os.path.join(backend_dir, "data/"),
-        glob="**/*.json",
-        loader_cls=JSONLoader,
-        show_progress=True,
-        loader_kwargs={"jq_schema": ".", "text_content": False}
-    )
+    # loader1 = DirectoryLoader(
+    #     os.path.join(backend_dir, "data/"),
+    #     glob="**/*.json",
+    #     loader_cls=JSONLoader,
+    #     show_progress=True,
+    #     loader_kwargs={"jq_schema": ".", "text_content": False}
+    # )
     
     loader2 = DirectoryLoader(
         os.path.join(backend_dir, "data_files/"),
@@ -62,7 +62,7 @@ def load_documents():
         loader_kwargs={"jq_schema": ".", "text_content": False}
     )
     
-    all_files = loader1.load() + loader2.load()
+    all_files = loader2.load()
     print(f"{len(all_files)} documents loaded.")
     return all_files
 
