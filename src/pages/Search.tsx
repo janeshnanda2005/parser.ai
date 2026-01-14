@@ -1,7 +1,47 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import api from '../services/api'
 import { useAuth } from '../contexts/AuthContext'
+import { useSavedJobs } from '../hooks/useSavedJobs'
+
+// Animated stars background component
+function StarField() {
+  const [stars] = useState(() => 
+    Array.from({ length: 50 }, (_, i) => ({
+      id: i,
+      x: Math.random() * 100,
+      y: Math.random() * 100,
+      size: Math.random() * 2 + 1,
+      duration: Math.random() * 3 + 2,
+      delay: Math.random() * 2,
+      opacity: Math.random() * 0.5 + 0.2,
+    }))
+  )
+
+  return (
+    <div className="fixed inset-0 overflow-hidden pointer-events-none">
+      {stars.map((star) => (
+        <div
+          key={star.id}
+          className="absolute rounded-full bg-white animate-pulse"
+          style={{
+            left: `${star.x}%`,
+            top: `${star.y}%`,
+            width: `${star.size}px`,
+            height: `${star.size}px`,
+            opacity: star.opacity,
+            animationDuration: `${star.duration}s`,
+            animationDelay: `${star.delay}s`,
+          }}
+        />
+      ))}
+      {/* Nebula effects */}
+      <div className="absolute top-1/4 -left-20 w-96 h-96 bg-violet-600/10 rounded-full blur-3xl" />
+      <div className="absolute bottom-1/4 -right-20 w-80 h-80 bg-indigo-600/10 rounded-full blur-3xl" />
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-purple-600/5 rounded-full blur-3xl" />
+    </div>
+  )
+}
 
 // Parse markdown-like content into structured sections
 function parseRAGResponse(text: string) {
@@ -53,6 +93,45 @@ function parseRAGResponse(text: string) {
 function extractUrl(text: string): string | null {
   const urlMatch = text.match(/https?:\/\/[^\s<>"{}|\\^`[\]]+/i)
   return urlMatch ? urlMatch[0] : null
+}
+
+// Extract job info from sections for saving
+function extractJobInfo(sections: ReturnType<typeof parseRAGResponse>): {
+  title: string;
+  company?: string;
+  location?: string;
+  salary?: string;
+  description?: string;
+  applyUrl?: string;
+} {
+  let title = ''
+  let company: string | undefined
+  let location: string | undefined
+  let salary: string | undefined
+  let description: string | undefined
+  let applyUrl: string | undefined
+
+  for (const section of sections) {
+    if (section.type === 'heading' && !title) {
+      title = section.content
+    } else if (section.type === 'subheading') {
+      const lower = section.content.toLowerCase()
+      if (lower.startsWith('company:')) {
+        company = section.content.split(':').slice(1).join(':').trim()
+      } else if (lower.startsWith('location:')) {
+        location = section.content.split(':').slice(1).join(':').trim()
+      }
+    } else if (section.type === 'salary') {
+      salary = section.content
+    } else if (section.type === 'link') {
+      const url = extractUrl(section.content)
+      if (url) applyUrl = url
+    } else if (section.type === 'paragraph' && !description) {
+      description = section.content
+    }
+  }
+
+  return { title, company, location, salary, description, applyUrl }
 }
 
 // Component to render a single section
@@ -123,13 +202,38 @@ function RenderSection({ section }: { section: ReturnType<typeof parseRAGRespons
 }
 
 // Job Card Component for better visual display
-function JobResultCard({ children, index }: { children: React.ReactNode; index: number }) {
+function JobResultCard({ children, index, onSave, isSaved }: { 
+  children: React.ReactNode; 
+  index: number;
+  onSave?: () => void;
+  isSaved?: boolean;
+}) {
   return (
     <div 
-      className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl p-5 hover:bg-white/10 transition-colors"
+      className="group relative bg-gradient-to-br from-white/5 to-violet-500/5 backdrop-blur-sm border border-violet-500/20 rounded-2xl p-6 hover:border-violet-400/40 transition-all duration-300 hover:shadow-lg hover:shadow-violet-500/10"
       style={{ animationDelay: `${index * 100}ms` }}
     >
-      {children}
+      {/* Subtle glow effect on hover */}
+      <div className="absolute inset-0 bg-gradient-to-br from-violet-500/0 to-purple-600/0 group-hover:from-violet-500/5 group-hover:to-purple-600/5 rounded-2xl transition-all duration-300"></div>
+      <div className="relative">
+        {/* Save button */}
+        {onSave && (
+          <button
+            onClick={onSave}
+            className={`absolute top-0 right-0 p-2 rounded-lg transition-all ${
+              isSaved 
+                ? 'text-violet-400 bg-violet-500/20' 
+                : 'text-slate-400 hover:text-violet-400 hover:bg-violet-500/10'
+            }`}
+            title={isSaved ? 'Job saved' : 'Save job'}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill={isSaved ? 'currentColor' : 'none'} viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
+            </svg>
+          </button>
+        )}
+        {children}
+      </div>
     </div>
   )
 }
@@ -140,13 +244,38 @@ export default function Search() {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [showUserMenu, setShowUserMenu] = useState(false)
+  const menuRef = useRef<HTMLDivElement>(null)
   
   const { user, logout } = useAuth()
+  const { saveJob, isJobSaved, jobCount } = useSavedJobs()
   const navigate = useNavigate()
 
-  const handleLogout = () => {
-    logout()
+  // Close menu when clicking outside
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
+        setShowUserMenu(false)
+      }
+    }
+
+    if (showUserMenu) {
+      document.addEventListener('mousedown', handleClickOutside)
+    }
+
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside)
+    }
+  }, [showUserMenu])
+
+  const handleLogout = async () => {
+    setShowUserMenu(false)
+    await logout()
     navigate('/login')
+  }
+
+  const handleGoToSavedJobs = () => {
+    setShowUserMenu(false)
+    navigate('/saved-jobs')
   }
 
   const handleSearch = async (e: React.FormEvent) => {
@@ -198,22 +327,30 @@ export default function Search() {
   }, [parsedSections])
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-slate-900 flex flex-col">
+    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-violet-950/50 to-slate-950 flex flex-col relative overflow-hidden">
+      {/* Animated Star Background */}
+      <StarField />
+      
       {/* Top Navigation Bar */}
-      <nav className="px-4 py-4">
+      <nav className="relative z-10 px-4 py-4">
         <div className="max-w-6xl mx-auto flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <span className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-blue-600 text-white shadow-lg text-sm font-bold">
-              JT
+            <span className="relative inline-flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-violet-600 via-purple-600 to-indigo-700 text-white shadow-lg shadow-purple-500/30">
+              <svg viewBox="0 0 24 24" fill="none" className="h-6 w-6" stroke="currentColor" strokeWidth="1.5">
+                <circle cx="12" cy="12" r="3" fill="currentColor" />
+                <path d="M12 2v4M12 18v4M2 12h4M18 12h4" strokeLinecap="round" />
+                <path d="M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" strokeLinecap="round" opacity="0.5" />
+              </svg>
+              <span className="absolute -right-0.5 -top-0.5 h-2 w-2 rounded-full bg-emerald-400 shadow-lg shadow-emerald-400/50 animate-pulse" />
             </span>
-            <span className="text-lg font-semibold text-white">JobTrackr</span>
+            <span className="text-lg font-semibold text-white">Parser.ai</span>
           </div>
 
           {/* User Menu */}
-          <div className="relative">
+          <div className="relative" ref={menuRef}>
             <button
               onClick={() => setShowUserMenu(!showUserMenu)}
-              className="flex items-center gap-3 px-3 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 transition-colors"
+              className="flex items-center gap-3 px-3 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-violet-500/20 transition-all hover:border-violet-500/40 hover:shadow-lg hover:shadow-violet-500/10"
             >
               <img
                 src={user?.avatar || `https://ui-avatars.com/api/?name=${encodeURIComponent(user?.name || 'User')}&background=3b82f6&color=fff`}
@@ -231,36 +368,33 @@ export default function Search() {
 
             {/* Dropdown Menu */}
             {showUserMenu && (
-              <div className="absolute right-0 mt-2 w-56 rounded-xl bg-slate-800 border border-white/10 shadow-xl z-50">
+              <div className="absolute right-0 mt-2 w-56 rounded-xl bg-slate-900/95 border border-violet-500/20 shadow-xl shadow-violet-500/10 backdrop-blur-xl z-50">
                 <div className="px-4 py-3 border-b border-white/10">
                   <p className="text-sm font-medium text-white">{user?.name}</p>
                   <p className="text-xs text-slate-400">{user?.email}</p>
                 </div>
                 <div className="py-2">
-                  <button className="w-full px-4 py-2 text-left text-sm text-slate-300 hover:bg-white/5 flex items-center gap-3">
+                  <button
+                    type="button"
+                    onClick={handleGoToSavedJobs}
+                    className="w-full px-4 py-2 text-left text-sm text-slate-300 hover:bg-white/5 flex items-center gap-3 cursor-pointer"
+                  >
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-                    </svg>
-                    Profile Settings
-                  </button>
-                  <button className="w-full px-4 py-2 text-left text-sm text-slate-300 hover:bg-white/5 flex items-center gap-3">
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
                     </svg>
                     Saved Jobs
-                  </button>
-                  <button className="w-full px-4 py-2 text-left text-sm text-slate-300 hover:bg-white/5 flex items-center gap-3">
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                    </svg>
-                    Settings
+                    {jobCount > 0 && (
+                      <span className="ml-auto px-2 py-0.5 text-xs bg-violet-500/30 text-violet-300 rounded-full">
+                        {jobCount}
+                      </span>
+                    )}
                   </button>
                 </div>
                 <div className="py-2 border-t border-white/10">
                   <button
+                    type="button"
                     onClick={handleLogout}
-                    className="w-full px-4 py-2 text-left text-sm text-red-400 hover:bg-red-500/10 flex items-center gap-3"
+                    className="w-full px-4 py-2 text-left text-sm text-red-400 hover:bg-red-500/10 flex items-center gap-3 cursor-pointer"
                   >
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
@@ -275,59 +409,68 @@ export default function Search() {
       </nav>
 
       {/* Header */}
-      <header className="pt-8 pb-8 px-4">
+      <header className="relative z-10 pt-8 pb-8 px-4">
         <div className="text-center">
-          <div className="inline-flex items-center justify-center w-16 h-16 bg-blue-600 rounded-2xl mb-6 shadow-lg shadow-blue-600/30">
-            <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+          <div className="inline-flex items-center justify-center w-20 h-20 bg-gradient-to-br from-violet-600 via-purple-600 to-indigo-700 rounded-2xl mb-6 shadow-lg shadow-violet-600/40 relative">
+            <svg viewBox="0 0 24 24" fill="none" className="h-10 w-10 text-white" stroke="currentColor" strokeWidth="1.5">
+              <circle cx="12" cy="12" r="3" fill="currentColor" />
+              <path d="M12 2v4M12 18v4M2 12h4M18 12h4" strokeLinecap="round" />
+              <path d="M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" strokeLinecap="round" opacity="0.5" />
             </svg>
+            <span className="absolute -right-1 -top-1 h-3 w-3 rounded-full bg-emerald-400 shadow-lg shadow-emerald-400/50 animate-pulse" />
+            {/* Orbital ring */}
+            <div className="absolute inset-0 rounded-2xl border border-violet-400/30 animate-spin" style={{ animationDuration: '8s' }} />
           </div>
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-3">
-            Job Finder AI
+          <h1 className="text-4xl md:text-5xl font-bold mb-3">
+            <span className="bg-gradient-to-r from-violet-400 via-purple-400 to-indigo-400 bg-clip-text text-transparent">Parser</span>
+            <span className="text-white">.ai</span>
           </h1>
-          <p className="text-blue-200 text-lg max-w-md mx-auto">
-            Welcome back, <span className="font-semibold">{user?.name?.split(' ')[0]}</span>! Let's find your next opportunity.
+          <p className="text-violet-200/80 text-lg max-w-md mx-auto">
+            Welcome back, <span className="font-semibold text-violet-300">{user?.name?.split(' ')[0]}</span>! Let's explore the universe of opportunities.
           </p>
         </div>
       </header>
 
       {/* Main Content */}
-      <main className="flex-1 px-4 pb-12">
+      <main className="relative z-10 flex-1 px-4 pb-12">
         <div className="max-w-4xl mx-auto">
           {/* Search Input */}
           <form onSubmit={handleSearch} className="mb-10">
-            <div className="relative">
-              <input
-                type="text"
-                value={query}
-                onChange={(e) => setQuery(e.target.value)}
-                placeholder="Enter job role (e.g., Data Scientist, DevOps Engineer...)"
-                className="w-full px-6 py-5 pr-32 rounded-2xl bg-white/10 backdrop-blur-sm border border-white/20 text-white text-lg placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
-                disabled={loading}
-              />
-              <button
-                type="submit"
-                disabled={loading}
-                className="absolute right-2 top-1/2 -translate-y-1/2 px-6 py-3 bg-blue-600 hover:bg-blue-500 disabled:bg-blue-800 disabled:cursor-not-allowed text-white font-semibold rounded-xl transition-all duration-200 flex items-center gap-2"
-              >
-                {loading ? (
-                  <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24">
-                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
-                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
-                  </svg>
-                ) : (
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                  </svg>
-                )}
-                {loading ? 'Searching' : 'Search'}
-              </button>
+            <div className="relative group">
+              <div className="absolute -inset-0.5 bg-gradient-to-r from-violet-600 to-indigo-600 rounded-2xl blur opacity-30 group-hover:opacity-50 transition duration-300" />
+              <div className="relative">
+                <input
+                  type="text"
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                  placeholder="Search the galaxy... (e.g., Data Scientist, ML Engineer...)"
+                  className="w-full px-6 py-5 pr-36 rounded-2xl bg-slate-900/80 backdrop-blur-sm border border-violet-500/30 text-white text-lg placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-violet-500 focus:border-transparent transition-all"
+                  disabled={loading}
+                />
+                <button
+                  type="submit"
+                  disabled={loading}
+                  className="absolute right-2 top-1/2 -translate-y-1/2 px-6 py-3 bg-gradient-to-r from-violet-600 to-indigo-600 hover:from-violet-500 hover:to-indigo-500 disabled:from-violet-800 disabled:to-indigo-800 disabled:cursor-not-allowed text-white font-semibold rounded-xl transition-all duration-200 flex items-center gap-2 shadow-lg shadow-violet-500/30"
+                >
+                  {loading ? (
+                    <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24">
+                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
+                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
+                    </svg>
+                  ) : (
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                  )}
+                  {loading ? 'Scanning' : 'Search'}
+                </button>
+              </div>
             </div>
           </form>
 
           {/* Error */}
           {error && (
-            <div className="mb-6 p-4 bg-red-500/20 border border-red-500/40 rounded-xl text-red-300 flex items-center gap-3">
+            <div className="mb-6 p-4 bg-red-500/10 border border-red-500/30 rounded-xl text-red-300 flex items-center gap-3 backdrop-blur-sm">
               <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
@@ -338,14 +481,19 @@ export default function Search() {
           {/* Loading */}
           {loading && (
             <div className="text-center py-20">
-              <div className="inline-block">
-                <svg className="animate-spin h-12 w-12 text-blue-400 mb-4" viewBox="0 0 24 24">
-                  <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
-                  <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
-                </svg>
+              <div className="inline-block relative">
+                {/* Orbital animation */}
+                <div className="w-24 h-24 relative">
+                  <div className="absolute inset-0 rounded-full border-2 border-violet-500/20" />
+                  <div className="absolute inset-2 rounded-full border-2 border-violet-500/30 animate-spin" style={{ animationDuration: '3s' }} />
+                  <div className="absolute inset-4 rounded-full border-2 border-violet-500/40 animate-spin" style={{ animationDuration: '2s', animationDirection: 'reverse' }} />
+                  <div className="absolute inset-0 flex items-center justify-center">
+                    <div className="w-4 h-4 bg-violet-500 rounded-full animate-pulse shadow-lg shadow-violet-500/50" />
+                  </div>
+                </div>
               </div>
-              <p className="text-blue-200 text-lg">AI is finding jobs for "{query}"...</p>
-              <p className="text-slate-400 text-sm mt-2">This may take a few seconds</p>
+              <p className="text-violet-200 text-lg mt-6">Scanning the universe for "{query}"...</p>
+              <p className="text-slate-400 text-sm mt-2">Our AI is analyzing millions of opportunities</p>
             </div>
           )}
 
@@ -355,14 +503,14 @@ export default function Search() {
               {/* Results Header */}
               <div className="flex items-center justify-between mb-6">
                 <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-green-500/20 rounded-xl flex items-center justify-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <div className="w-10 h-10 bg-emerald-500/20 rounded-xl flex items-center justify-center border border-emerald-500/30">
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                   </div>
                   <div>
-                    <h2 className="text-xl font-semibold text-white">Results for "{query}"</h2>
-                    <p className="text-slate-400 text-sm">{groupedJobs.length > 1 ? `${groupedJobs.length} jobs found` : 'AI-generated recommendations'}</p>
+                    <h2 className="text-xl font-semibold text-white">Discovered for "{query}"</h2>
+                    <p className="text-slate-400 text-sm">{groupedJobs.length > 1 ? `${groupedJobs.length} opportunities found` : 'AI-curated recommendations'}</p>
                   </div>
                 </div>
               </div>
@@ -370,17 +518,33 @@ export default function Search() {
               {/* Job Cards */}
               {groupedJobs.length > 1 ? (
                 <div className="grid gap-4">
-                  {groupedJobs.map((group, index) => (
-                    <JobResultCard key={index} index={index}>
-                      {group.map((section, sectionIndex) => (
-                        <RenderSection key={sectionIndex} section={section} />
-                      ))}
-                    </JobResultCard>
-                  ))}
+                  {groupedJobs.map((group, index) => {
+                    const jobInfo = extractJobInfo(group)
+                    const saved = isJobSaved(jobInfo.title, jobInfo.company)
+                    return (
+                      <JobResultCard 
+                        key={index} 
+                        index={index}
+                        isSaved={saved}
+                        onSave={() => {
+                          if (!saved && jobInfo.title) {
+                            saveJob({
+                              ...jobInfo,
+                              query: query,
+                            })
+                          }
+                        }}
+                      >
+                        {group.map((section, sectionIndex) => (
+                          <RenderSection key={sectionIndex} section={section} />
+                        ))}
+                      </JobResultCard>
+                    )
+                  })}
                 </div>
               ) : (
                 /* Single block result */
-                <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6">
+                <div className="bg-white/5 backdrop-blur-sm border border-violet-500/20 rounded-2xl p-6 hover:border-violet-500/40 transition-colors">
                   <div className="prose prose-invert max-w-none">
                     {parsedSections.map((section, index) => (
                       <RenderSection key={index} section={section} />
@@ -404,25 +568,33 @@ export default function Search() {
           {/* Empty State */}
           {!result && !loading && !error && (
             <div className="text-center py-16">
-              <div className="w-24 h-24 bg-white/5 rounded-full flex items-center justify-center mx-auto mb-6">
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12 text-slate-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                </svg>
+              <div className="relative w-28 h-28 mx-auto mb-6">
+                {/* Orbital rings */}
+                <div className="absolute inset-0 rounded-full border border-violet-500/20 animate-[spin_20s_linear_infinite]"></div>
+                <div className="absolute inset-2 rounded-full border border-violet-500/30 animate-[spin_15s_linear_infinite_reverse]"></div>
+                <div className="absolute inset-4 rounded-full border border-violet-500/40 animate-[spin_10s_linear_infinite]"></div>
+                
+                {/* Center icon */}
+                <div className="absolute inset-6 bg-gradient-to-br from-violet-500/20 to-purple-600/20 rounded-full flex items-center justify-center backdrop-blur-sm border border-violet-500/30">
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-violet-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                  </svg>
+                </div>
               </div>
-              <h3 className="text-xl font-semibold text-white mb-2">Search for a Job Role</h3>
-              <p className="text-slate-400 max-w-sm mx-auto">
-                Type any job role above and press search to get AI-powered job recommendations
+              <h3 className="text-2xl font-bold bg-gradient-to-r from-violet-400 to-purple-400 text-transparent bg-clip-text mb-3">Explore the Universe of Jobs</h3>
+              <p className="text-slate-400 max-w-md mx-auto">
+                Enter any job role above and let Parser.ai navigate through thousands of opportunities to find your perfect match
               </p>
               
               {/* Quick suggestions */}
               <div className="mt-8">
-                <p className="text-slate-500 text-sm mb-3">Popular searches:</p>
+                <p className="text-slate-500 text-sm mb-3">🚀 Popular searches:</p>
                 <div className="flex flex-wrap justify-center gap-2">
                   {['Data Scientist', 'DevOps Engineer', 'Frontend Developer', 'Machine Learning'].map((suggestion) => (
                     <button
                       key={suggestion}
                       onClick={() => setQuery(suggestion)}
-                      className="px-4 py-2 bg-white/5 hover:bg-white/10 border border-white/10 rounded-full text-slate-300 text-sm transition-colors"
+                      className="px-4 py-2 bg-violet-500/10 hover:bg-violet-500/20 border border-violet-500/30 hover:border-violet-400/50 rounded-full text-violet-300 text-sm transition-all duration-300 hover:scale-105"
                     >
                       {suggestion}
                     </button>
@@ -435,8 +607,10 @@ export default function Search() {
       </main>
 
       {/* Footer */}
-      <footer className="py-4 text-center text-slate-500 text-sm">
-        Powered by AI • Job Finder
+      <footer className="py-4 text-center">
+        <span className="text-slate-500 text-sm">Powered by </span>
+        <span className="bg-gradient-to-r from-violet-400 to-purple-400 text-transparent bg-clip-text font-semibold">Parser.ai</span>
+        <span className="text-slate-500 text-sm"> • AI-Powered Job Discovery</span>
       </footer>
     </div>
   )

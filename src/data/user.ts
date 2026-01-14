@@ -18,7 +18,7 @@ export interface UserProfile {
 
 export const userProfile: UserProfile = {
   name: 'Maya Fernandes',
-  title: 'Product Designer · JobTrackr member since 2022',
+  title: 'Product Designer · Parser.ai explorer since 2022',
   avatar: 'https://i.pravatar.cc/160?img=47',
   location: 'Lisbon, Portugal',
   availability: 'Open to remote & hybrid roles',

@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Link, useNavigate } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 
 interface AuthPageProps {
@@ -7,85 +7,38 @@ interface AuthPageProps {
 }
 
 const headline: Record<AuthPageProps['variant'], string> = {
-  login: 'Sign in and ship your next chapter',
-  register: 'Create your JobTrackr workspace',
+  login: 'Welcome back to the universe',
+  register: 'Launch your Parser.ai journey',
 }
 
 const subtext: Record<AuthPageProps['variant'], string> = {
-  login: 'Welcome back! Review your pipeline, prep your portfolio, and keep momentum.',
-  register: 'Join in minutes and sync your applications across devices. Cancel anytime, no credit card needed.',
+  login: 'Your AI-powered job search awaits. Continue discovering opportunities.',
+  register: 'Join thousands exploring the tech galaxy. Find roles that match your skills, not just keywords.',
 }
 
 const alternateCopy: Record<AuthPageProps['variant'], { text: string; link: string; to: string }> = {
   login: { text: "Don't have an account?", link: 'Create one', to: '/register' },
-  register: { text: 'Already on JobTrackr?', link: 'Log in', to: '/login' },
+  register: { text: 'Already on Parser.ai?', link: 'Log in', to: '/login' },
 }
 
 export default function AuthPage({ variant }: AuthPageProps) {
-  const isLogin = variant === 'login'
   const alternate = alternateCopy[variant]
-  const navigate = useNavigate()
-  const { login, register } = useAuth()
+  const { signInWithGoogle } = useAuth()
 
-  const [formData, setFormData] = useState({
-    name: '',
-    email: '',
-    password: '',
-    role: 'Frontend Engineering'
-  })
   const [error, setError] = useState<string | null>(null)
   const [isLoading, setIsLoading] = useState(false)
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
-    setFormData(prev => ({
-      ...prev,
-      [e.target.name]: e.target.value
-    }))
-    setError(null)
-  }
-
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault()
-    setError(null)
+  const handleGoogleSignIn = async () => {
     setIsLoading(true)
+    setError(null)
 
-    try {
-      if (isLogin) {
-        const success = await login(formData.email, formData.password)
-        if (success) {
-          navigate('/search')
-        } else {
-          setError('Invalid email or password')
-        }
-      } else {
-        if (!formData.name.trim()) {
-          setError('Please enter your name')
-          setIsLoading(false)
-          return
-        }
-        if (!formData.email.trim()) {
-          setError('Please enter your email')
-          setIsLoading(false)
-          return
-        }
-        if (formData.password.length < 6) {
-          setError('Password must be at least 6 characters')
-          setIsLoading(false)
-          return
-        }
+    const result = await signInWithGoogle()
 
-        const success = await register(formData.name, formData.email, formData.password, formData.role)
-        if (success) {
-          navigate('/search')
-        } else {
-          setError('An account with this email already exists')
-        }
-      }
-    } catch {
-      setError('Something went wrong. Please try again.')
-    } finally {
+    if (!result.success) {
+      setError(result.error || 'Failed to sign in with Google')
       setIsLoading(false)
     }
+    // If successful, Supabase will redirect automatically
   }
 
   return (
@@ -95,10 +48,15 @@ export default function AuthPage({ variant }: AuthPageProps) {
           <div className="grid gap-0 md:grid-cols-[1.2fr_1fr]">
             <div className="bg-white px-10 py-12 text-slate-900 md:px-14">
               <Link to="/" className="flex items-center gap-3">
-                <span className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-blue-600 text-white shadow-lg">
-                  JT
+                <span className="relative inline-flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-violet-600 via-purple-600 to-indigo-700 text-white shadow-lg shadow-purple-500/30">
+                  <svg viewBox="0 0 24 24" fill="none" className="h-6 w-6" stroke="currentColor" strokeWidth="1.5">
+                    <circle cx="12" cy="12" r="3" fill="currentColor" />
+                    <path d="M12 2v4M12 18v4M2 12h4M18 12h4" strokeLinecap="round" />
+                    <path d="M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" strokeLinecap="round" opacity="0.5" />
+                  </svg>
+                  <span className="absolute -right-0.5 -top-0.5 h-2 w-2 rounded-full bg-emerald-400 shadow-lg shadow-emerald-400/50 animate-pulse" />
                 </span>
-                <span className="text-lg font-semibold">JobTrackr</span>
+                <span className="text-lg font-semibold">Parser.ai</span>
               </Link>
 
               <div className="mt-8 space-y-4">
@@ -115,123 +73,28 @@ export default function AuthPage({ variant }: AuthPageProps) {
                 </div>
               )}
 
-              <form onSubmit={handleSubmit} className="mt-10 space-y-5">
-                {!isLogin && (
-                  <div className="space-y-2">
-                    <label className="text-sm font-semibold text-slate-700" htmlFor="name">
-                      Full name
-                    </label>
-                    <input
-                      id="name"
-                      name="name"
-                      type="text"
-                      value={formData.name}
-                      onChange={handleChange}
-                      placeholder="Maya Fernandes"
-                      className="w-full rounded-2xl border border-slate-200 px-4 py-3 text-sm shadow-sm transition focus:border-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-200"
-                    />
-                  </div>
-                )}
-
-                <div className="space-y-2">
-                  <label className="text-sm font-semibold text-slate-700" htmlFor="email">
-                    Work email
-                  </label>
-                  <input
-                    id="email"
-                    name="email"
-                    type="email"
-                    value={formData.email}
-                    onChange={handleChange}
-                    placeholder="maya@product.dev"
-                    className="w-full rounded-2xl border border-slate-200 px-4 py-3 text-sm shadow-sm transition focus:border-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-200"
-                  />
-                </div>
-
-                <div className="space-y-2">
-                  <div className="flex items-center justify-between">
-                    <label className="text-sm font-semibold text-slate-700" htmlFor="password">
-                      Password
-                    </label>
-                    {isLogin && (
-                      <a href="#" className="text-xs text-blue-600 hover:text-blue-700">
-                        Forgot password?
-                      </a>
-                    )}
-                  </div>
-                  <input
-                    id="password"
-                    name="password"
-                    type="password"
-                    value={formData.password}
-                    onChange={handleChange}
-                    placeholder="••••••••"
-                    className="w-full rounded-2xl border border-slate-200 px-4 py-3 text-sm shadow-sm transition focus:border-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-200"
-                  />
-                </div>
-
-                {!isLogin && (
-                  <div className="space-y-2">
-                    <label className="text-sm font-semibold text-slate-700" htmlFor="role">
-                      Role focus
-                    </label>
-                    <select
-                      id="role"
-                      name="role"
-                      value={formData.role}
-                      onChange={handleChange}
-                      className="w-full rounded-2xl border border-slate-200 px-4 py-3 text-sm shadow-sm transition focus:border-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-200"
-                    >
-                      <option>Product Design</option>
-                      <option>Frontend Engineering</option>
-                      <option>Fullstack Engineering</option>
-                      <option>Backend Engineering</option>
-                      <option>Product Management</option>
-                      <option>Data Science</option>
-                      <option>Machine Learning</option>
-                      <option>DevOps</option>
-                      <option>Other</option>
-                    </select>
-                  </div>
-                )}
-
+              <div className="mt-10">
                 <button
-                  type="submit"
+                  type="button"
+                  onClick={handleGoogleSignIn}
                   disabled={isLoading}
-                  className="mt-2 w-full rounded-full bg-slate-900 px-6 py-3 text-sm font-semibold text-white shadow-lg transition hover:bg-slate-800 disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
+                  className="flex w-full items-center justify-center gap-3 rounded-2xl border border-slate-200 px-6 py-4 text-base font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-slate-50 disabled:opacity-50 disabled:cursor-not-allowed"
                 >
-                  {isLoading && (
-                    <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24">
+                  {isLoading ? (
+                    <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24">
                       <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
                       <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
                     </svg>
+                  ) : (
+                    <svg className="h-5 w-5" viewBox="0 0 24 24">
+                      <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+                      <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/>
+                      <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+                      <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+                    </svg>
                   )}
-                  {isLogin ? 'Sign in' : 'Create account'}
+                  Continue with Google
                 </button>
-              </form>
-
-              <div className="mt-8 flex items-center gap-4 text-xs text-slate-400">
-                <span className="h-px flex-1 bg-slate-200" />
-                Or continue with
-                <span className="h-px flex-1 bg-slate-200" />
-              </div>
-
-              <div className="mt-6 grid gap-3 sm:grid-cols-2">
-                {[
-                  { name: 'Google', icon: '🔍' },
-                  { name: 'GitHub', icon: '🐙' },
-                  { name: 'LinkedIn', icon: '💼' },
-                  { name: 'Microsoft', icon: '🪟' }
-                ].map((provider) => (
-                  <button
-                    key={provider.name}
-                    type="button"
-                    className="flex items-center justify-center gap-2 rounded-2xl border border-slate-200 px-4 py-2.5 text-sm font-semibold text-slate-600 transition hover:border-slate-300 hover:bg-slate-50"
-                  >
-                    <span className="text-base">{provider.icon}</span>
-                    {provider.name}
-                  </button>
-                ))}
               </div>
 
               <p className="mt-6 text-xs text-slate-500">
@@ -248,40 +111,49 @@ export default function AuthPage({ variant }: AuthPageProps) {
 
               <div className="mt-8 text-sm text-slate-500">
                 {alternate.text}{' '}
-                <Link to={alternate.to} className="font-semibold text-blue-600 hover:text-blue-700">
+                <Link to={alternate.to} className="font-semibold text-violet-600 hover:text-violet-700">
                   {alternate.link}
                 </Link>
               </div>
             </div>
 
-            <div className="relative hidden flex-col justify-between border-l border-white/10 bg-gradient-to-br from-blue-500/40 via-purple-500/40 to-slate-900/40 p-10 text-white md:flex">
-              <div>
-                <p className="text-xs uppercase tracking-[0.3em] text-blue-100">What members say</p>
-                <p className="mt-4 text-lg leading-relaxed text-blue-50">
-                  "The AI-powered job search helped me find roles I never would have discovered. I landed my dream job in just 3 weeks!"
+            <div className="relative hidden flex-col justify-between border-l border-white/10 bg-gradient-to-br from-violet-600/30 via-purple-600/30 to-indigo-900/50 p-10 text-white md:flex overflow-hidden">
+              {/* Stars background */}
+              <div className="absolute inset-0">
+                <div className="absolute h-1 w-1 rounded-full bg-white/40 top-[10%] left-[20%] animate-pulse" />
+                <div className="absolute h-1.5 w-1.5 rounded-full bg-violet-300/40 top-[30%] left-[80%] animate-pulse delay-200" />
+                <div className="absolute h-1 w-1 rounded-full bg-white/30 top-[60%] left-[15%] animate-pulse delay-500" />
+                <div className="absolute h-1 w-1 rounded-full bg-white/40 top-[80%] left-[60%] animate-pulse delay-700" />
+                <div className="absolute h-1.5 w-1.5 rounded-full bg-purple-300/30 top-[45%] left-[40%] animate-pulse delay-1000" />
+              </div>
+              
+              <div className="relative">
+                <p className="text-xs uppercase tracking-[0.3em] text-violet-200">What members say</p>
+                <p className="mt-4 text-lg leading-relaxed text-white/90">
+                  "Parser.ai's semantic search found roles I never knew existed. The AI understood what I wanted, not just what I typed."
                 </p>
                 <div className="mt-6 text-sm font-semibold text-white">Rohan Mehta</div>
-                <div className="text-xs text-blue-100">Staff Engineer • Notion alum</div>
+                <div className="text-xs text-violet-200">Staff Engineer • Ex-Notion</div>
               </div>
 
-              <div className="rounded-3xl border border-white/20 bg-white/10 p-6 text-sm text-blue-50 backdrop-blur">
-                <p className="text-xs uppercase tracking-[0.3em] text-blue-200">Platform Features</p>
+              <div className="relative rounded-3xl border border-white/20 bg-white/10 p-6 text-sm text-white/80 backdrop-blur">
+                <p className="text-xs uppercase tracking-[0.3em] text-violet-200">Platform Features</p>
                 <ul className="mt-4 space-y-3">
                   <li className="flex items-start gap-3">
-                    <span className="mt-0.5 h-2 w-2 rounded-full bg-emerald-300" />
-                    <span>AI-powered job recommendations</span>
+                    <span className="mt-0.5 h-2 w-2 rounded-full bg-emerald-400 shadow-lg shadow-emerald-400/50" />
+                    <span>AI-powered semantic job search</span>
                   </li>
                   <li className="flex items-start gap-3">
-                    <span className="mt-0.5 h-2 w-2 rounded-full bg-blue-300" />
-                    <span>Search across multiple job boards</span>
+                    <span className="mt-0.5 h-2 w-2 rounded-full bg-violet-400 shadow-lg shadow-violet-400/50" />
+                    <span>Natural language queries</span>
                   </li>
                   <li className="flex items-start gap-3">
-                    <span className="mt-0.5 h-2 w-2 rounded-full bg-amber-300" />
-                    <span>Track applications & interviews</span>
+                    <span className="mt-0.5 h-2 w-2 rounded-full bg-amber-400 shadow-lg shadow-amber-400/50" />
+                    <span>Real-time job discovery</span>
                   </li>
                   <li className="flex items-start gap-3">
-                    <span className="mt-0.5 h-2 w-2 rounded-full bg-purple-300" />
-                    <span>Smart salary insights & predictions</span>
+                    <span className="mt-0.5 h-2 w-2 rounded-full bg-pink-400 shadow-lg shadow-pink-400/50" />
+                    <span>Smart matching & insights</span>
                   </li>
                 </ul>
               </div>

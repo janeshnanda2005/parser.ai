@@ -1,6 +1,6 @@
-# JobTrackr – Modern Job Search Companion
+# Parser.ai – AI-Powered Job Discovery Platform
 
-JobTrackr is a polished React + Vite frontend that helps job seekers manage applications, prepare for interviews, and showcase their profile. The UI is intentionally crafted to feel like a modern web app: responsive layouts, Tailwind-powered design tokens, and clean component architecture that is easy to extend.
+Parser.ai is a polished React + Vite frontend that helps job seekers discover opportunities using AI-powered search, manage applications, prepare for interviews, and showcase their profile. The UI features a modern space-themed dark design with violet accents, responsive layouts, Tailwind-powered design tokens, and clean component architecture that is easy to extend.
 
 ---
 

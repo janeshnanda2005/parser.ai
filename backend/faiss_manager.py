@@ -2,16 +2,6 @@
 import os
 import numpy as np
 from sentence_transformers import SentenceTransformer
-
-# Fix langchain attribute issues
-import langchain
-if not hasattr(langchain, 'verbose'):
-    langchain.verbose = False
-if not hasattr(langchain, 'debug'):
-    langchain.debug = False
-if not hasattr(langchain, 'llm_cache'):
-    langchain.llm_cache = None
-
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import DirectoryLoader, JSONLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -24,8 +14,7 @@ EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 class LocalEmbeddings(Embeddings):
     """Custom embeddings class using sentence-transformers directly"""
-    
-    def __init__(self, model_name: str = EMBEDDING_MODEL):
+    def __init__(self, model_name: str):
         self.model = SentenceTransformer(model_name)
     
     def embed_documents(self, texts: list[str]) -> list[list[float]]:
@@ -33,38 +22,25 @@ class LocalEmbeddings(Embeddings):
         return embeddings.tolist()
     
     def embed_query(self, text: str) -> list[float]:
-        embedding = self.model.encode([text], convert_to_numpy=True)[0]
+        embedding = self.model.encode(text, convert_to_numpy=True)
         return embedding.tolist()
-
-
-def get_embeddings():
-    """Get the embeddings model"""
-    return LocalEmbeddings(model_name=EMBEDDING_MODEL)
 
 
 def load_documents():
     """Load documents from data directories"""
     backend_dir = os.path.dirname(__file__)
     
-    # loader1 = DirectoryLoader(
-    #     os.path.join(backend_dir, "data/"),
-    #     glob="**/*.json",
-    #     loader_cls=JSONLoader,
-    #     show_progress=True,
-    #     loader_kwargs={"jq_schema": ".", "text_content": False}
-    # )
-    
-    loader2 = DirectoryLoader(
-        os.path.join(backend_dir, "data_files/"),
+    loader = DirectoryLoader(
+        os.path.join(backend_dir,"data"),
         glob="**/*.json",
         loader_cls=JSONLoader,
         show_progress=True,
-        loader_kwargs={"jq_schema": ".", "text_content": False}
+        loader_kwargs=({"content_key":"text"})
     )
+
+    documents = loader.load()
+    print(f"Loaded {len(documents)} documents.")
     
-    all_files = loader2.load()
-    print(f"{len(all_files)} documents loaded.")
-    return all_files
 
 
 def create_and_save_vectorstore():
@@ -78,7 +54,7 @@ def create_and_save_vectorstore():
     print(f"Created {len(chunks)} chunks.")
     
     print("Creating embeddings and vectorstore...")
-    embeddings = get_embeddings()
+    embeddings = LocalEmbeddings(EMBEDDING_MODEL)
     vectorstore = FAISS.from_documents(chunks, embeddings)
     
     print(f"Saving vectorstore to {FAISS_INDEX_PATH}...")
@@ -90,7 +66,7 @@ def create_and_save_vectorstore():
 
 def load_vectorstore():
     """Load FAISS vectorstore from local storage for inference"""
-    embeddings = get_embeddings()
+    embeddings = LocalEmbeddings(EMBEDDING_MODEL)
     print(f"Loading vectorstore from {FAISS_INDEX_PATH}...")
     vectorstore = FAISS.load_local(
         FAISS_INDEX_PATH, 
@@ -130,7 +106,7 @@ def similarity_search(query: str, k: int = 10):
     return docs
 
 
-# Run this file directly to rebuild the index
+
 if __name__ == "__main__":
     import argparse
     
@@ -149,6 +125,5 @@ if __name__ == "__main__":
             print(f"\n--- Result {i} ---")
             print(doc.page_content[:500])
     else:
-        # Default: load or create
         vectorstore = get_or_create_vectorstore()
         print(f"Vectorstore ready with index at: {FAISS_INDEX_PATH}")

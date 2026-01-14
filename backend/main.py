@@ -4,54 +4,69 @@ import json
 import os
 from dotenv import load_dotenv
 
-# Fix langchain attribute issues
-import langchain
-if not hasattr(langchain, 'verbose'):
-    langchain.verbose = False
-if not hasattr(langchain, 'debug'):
-    langchain.debug = False
-if not hasattr(langchain, 'llm_cache'):
-    langchain.llm_cache = None
-
-from langchain_openai import ChatOpenAI
-from faiss_manager import get_or_create_vectorstore
-
-# Load environment variables
 load_dotenv()
 
-# Global variables for RAG components
+# Global variables for RAG components (lazy loaded)
 vectorstore = None
 retriever = None
 llm = None
+rag_initialized = False
 
 def initialize_rag():
-    """Initialize the RAG components (embeddings, vectorstore, LLM)"""
-    global vectorstore, retriever, llm
+    """Initialize the RAG components (embeddings, vectorstore, LLM) - lazy loaded"""
+    global vectorstore, retriever, llm, rag_initialized
     
-    OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
+    if rag_initialized:
+        return True
     
-    # Load vectorstore from saved FAISS index (or create if not exists)
-    vectorstore = get_or_create_vectorstore()
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 10})
-    
-    # Initialize LLM
-    llm = ChatOpenAI(
-        model="deepseek/deepseek-r1-0528:free",
-        temperature=0.6,
-        openai_api_key=os.getenv("OPENROUTER_API_KEY"),
-        openai_api_base=OPENROUTER_BASE_URL,
-        max_tokens=30000,
-        default_headers={
-            "HTTP-Referer": "http://localhost:3000",
-            "X-Title": "Job Tracker RAG App"
-        },
-    )
-    
-    print("RAG components initialized successfully!")
+    try:
+
+        import langchain
+        if not hasattr(langchain, 'verbose'):
+            langchain.verbose = False
+        if not hasattr(langchain, 'debug'):
+            langchain.debug = False
+        if not hasattr(langchain, 'llm_cache'):
+            langchain.llm_cache = None
+
+        from langchain_openai import ChatOpenAI
+        from faiss_manager import get_or_create_vectorstore
+        
+        OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
+        
+        # Load vectorstore from saved FAISS index (or create if not exists)
+        print("Loading vectorstore...")
+        vectorstore = get_or_create_vectorstore()
+        retriever = vectorstore.as_retriever(search_kwargs={"k": 10})
+        
+        # Initialize LLM
+        print("Initializing LLM...")
+        llm = ChatOpenAI(
+            model="deepseek/deepseek-r1-0528:free",
+            temperature=0.6,
+            openai_api_key=os.getenv("OPENROUTER_API_KEY"),
+            openai_api_base=OPENROUTER_BASE_URL,
+            max_tokens=30000,
+            default_headers={
+                "HTTP-Referer": "http://localhost:3000",
+                "X-Title": "Parser.ai RAG App"
+            },
+        )
+        
+        rag_initialized = True
+        print("RAG components initialized successfully!")
+        return True
+    except Exception as e:
+        print(f"Failed to initialize RAG: {e}")
+        return False
 
 def rag_answer(query: str) -> str:
     """Get RAG-based answer for a job query"""
     global retriever, llm
+    
+    if not rag_initialized:
+        if not initialize_rag():
+            return "RAG system failed to initialize. Please try again later."
     
     if retriever is None or llm is None:
         return "RAG system not initialized. Please try again later."
@@ -68,7 +83,7 @@ def rag_answer(query: str) -> str:
 
     Answer:
     - If you don't know the answer, tell the user that you don't know the answer for the specific question.
-    - If you don't have the salary, please reason it yourself and give a predicted salary range for the job.
+    - If you don't have the salary, please reason it yourself and give a predicted salary range for the job give in indian rupee term (only give the salary range) no other thing should be in salary's placeholder.
     - Also give the link to apply to a job if available in the context.(this should be clickable link)
     - Give the required skills for the job. 
     - Provide a brief JD (Job Description) summary for the job role.
@@ -154,9 +169,8 @@ def create_app():
 # Create app instance for gunicorn
 app = create_app()
 
-# Initialize RAG when module loads
-print("Initializing RAG system...")
-initialize_rag()
+# Don't initialize RAG at startup - lazy load on first request
+print("App created. RAG will initialize on first search request.")
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)

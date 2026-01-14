@@ -1,4 +1,6 @@
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react'
+import { supabase } from '../lib/supabase'
+import { User as SupabaseUser } from '@supabase/supabase-js'
 
 export interface User {
   id: string
@@ -11,101 +13,83 @@ export interface User {
 interface AuthContextType {
   user: User | null
   isLoading: boolean
-  login: (email: string, password: string) => Promise<boolean>
-  register: (name: string, email: string, password: string, role: string) => Promise<boolean>
-  logout: () => void
+  logout: () => Promise<void>
+  signInWithGoogle: () => Promise<{ success: boolean; error?: string }>
   isAuthenticated: boolean
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined)
 
-const STORAGE_KEY = 'jobtrackr_user'
-const USERS_KEY = 'jobtrackr_users'
+// Helper to convert Supabase user to our User type
+const mapSupabaseUser = (supabaseUser: SupabaseUser): User => ({
+  id: supabaseUser.id,
+  name: supabaseUser.user_metadata?.name || supabaseUser.user_metadata?.full_name || supabaseUser.email?.split('@')[0] || 'User',
+  email: supabaseUser.email || '',
+  role: supabaseUser.user_metadata?.role || 'User',
+  avatar: supabaseUser.user_metadata?.avatar_url || `https://ui-avatars.com/api/?name=${encodeURIComponent(supabaseUser.email || 'U')}&background=3b82f6&color=fff`
+})
 
 export function AuthProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<User | null>(null)
   const [isLoading, setIsLoading] = useState(true)
 
-  // Load user from localStorage on mount
   useEffect(() => {
-    const storedUser = localStorage.getItem(STORAGE_KEY)
-    if (storedUser) {
-      try {
-        setUser(JSON.parse(storedUser))
-      } catch {
-        localStorage.removeItem(STORAGE_KEY)
+    // Get initial session
+    const getSession = async () => {
+      const { data: { session } } = await supabase.auth.getSession()
+      if (session?.user) {
+        setUser(mapSupabaseUser(session.user))
       }
+      setIsLoading(false)
     }
-    setIsLoading(false)
+
+    getSession()
+
+    // Listen for auth changes
+    const { data: { subscription } } = supabase.auth.onAuthStateChange(
+      async (_event, session) => {
+        if (session?.user) {
+          setUser(mapSupabaseUser(session.user))
+        } else {
+          setUser(null)
+        }
+        setIsLoading(false)
+      }
+    )
+
+    return () => subscription.unsubscribe()
   }, [])
 
-  // Get all registered users
-  const getUsers = (): Record<string, { password: string; user: User }> => {
-    const users = localStorage.getItem(USERS_KEY)
-    return users ? JSON.parse(users) : {}
-  }
-
-  // Save users to localStorage
-  const saveUsers = (users: Record<string, { password: string; user: User }>) => {
-    localStorage.setItem(USERS_KEY, JSON.stringify(users))
-  }
-
-  const login = async (email: string, password: string): Promise<boolean> => {
-    // Simulate API call delay
-    await new Promise(resolve => setTimeout(resolve, 500))
-
-    const users = getUsers()
-    const userData = users[email.toLowerCase()]
-
-    if (userData && userData.password === password) {
-      setUser(userData.user)
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(userData.user))
-      return true
-    }
-
-    return false
-  }
-
-  const register = async (name: string, email: string, password: string, role: string): Promise<boolean> => {
-    // Simulate API call delay
-    await new Promise(resolve => setTimeout(resolve, 500))
-
-    const users = getUsers()
-    const emailLower = email.toLowerCase()
-
-    // Check if user already exists
-    if (users[emailLower]) {
-      return false
-    }
-
-    const newUser: User = {
-      id: crypto.randomUUID(),
-      name,
-      email: emailLower,
-      role,
-      avatar: `https://ui-avatars.com/api/?name=${encodeURIComponent(name)}&background=3b82f6&color=fff`
-    }
-
-    users[emailLower] = { password, user: newUser }
-    saveUsers(users)
-
-    setUser(newUser)
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser))
-    return true
-  }
-
-  const logout = () => {
+  const logout = async () => {
+    await supabase.auth.signOut()
     setUser(null)
-    localStorage.removeItem(STORAGE_KEY)
+  }
+
+  const signInWithGoogle = async (): Promise<{ success: boolean; error?: string }> => {
+    try {
+      const { error } = await supabase.auth.signInWithOAuth({
+        provider: 'google',
+        options: {
+          redirectTo: `${window.location.origin}/search`
+        }
+      })
+
+      if (error) {
+        return { success: false, error: error.message }
+      }
+
+      return { success: true }
+    } catch (error) {
+      return { success: false, error: 'Failed to sign in with Google' }
+    }
   }
 
   return (
     <AuthContext.Provider value={{
       user,
       isLoading,
-      login,
-      register,
       logout,
+      signInWithGoogle,
       isAuthenticated: !!user
     }}>
       {children}

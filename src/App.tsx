@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { AuthProvider, useAuth } from './contexts/AuthContext'
 import Search from './pages/Search'
 import AuthPage from './pages/AuthPage'
+import SavedJobs from './pages/SavedJobs'
 
 // Protected route component
 function ProtectedRoute({ children }: { children: React.ReactNode }) {
@@ -78,6 +79,14 @@ function AppRoutes() {
         element={
           <ProtectedRoute>
             <Search />
+          </ProtectedRoute>
+        }
+      />
+      <Route
+        path="/saved-jobs"
+        element={
+          <ProtectedRoute>
+            <SavedJobs />
           </ProtectedRoute>
         }
       />
