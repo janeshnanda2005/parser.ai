@@ -57,7 +57,7 @@ function PublicRoute({ children }: { children: React.ReactNode }) {
 function AppRoutes() {
   return (
     <Routes>
-      <Route path="/" element={<Navigate to="/login" replace />} />
+      <Route path="/" element={<Navigate to="/search" replace />} />
       <Route
         path="/login"
         element={
@@ -74,14 +74,8 @@ function AppRoutes() {
           </PublicRoute>
         }
       />
-      <Route
-        path="/search"
-        element={
-          <ProtectedRoute>
-            <Search />
-          </ProtectedRoute>
-        }
-      />
+      {/* Search is now public - auth prompt handled within the page */}
+      <Route path="/search" element={<Search />} />
       <Route
         path="/saved-jobs"
         element={
@@ -90,7 +84,7 @@ function AppRoutes() {
           </ProtectedRoute>
         }
       />
-      <Route path="*" element={<Navigate to="/login" replace />} />
+      <Route path="*" element={<Navigate to="/search" replace />} />
     </Routes>
   )
 }

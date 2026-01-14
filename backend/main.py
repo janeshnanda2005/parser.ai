@@ -42,7 +42,7 @@ def initialize_rag():
         # Initialize LLM
         print("Initializing LLM...")
         llm = ChatOpenAI(
-            model="deepseek/deepseek-r1-0528:free",
+            model="xiaomi/mimo-v2-flash:free",
             temperature=0.6,
             openai_api_key=os.getenv("OPENROUTER_API_KEY"),
             openai_api_base=OPENROUTER_BASE_URL,

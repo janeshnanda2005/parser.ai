@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 import { useAuth } from '../contexts/AuthContext'
+import { supabase } from '../lib/supabase'
 
 export interface SavedJob {
   id: string
@@ -13,20 +14,59 @@ export interface SavedJob {
   query?: string
 }
 
-const STORAGE_KEY = 'parser_ai_saved_jobs'
+interface DbSavedJob {
+  id: string
+  user_id: string
+  title: string
+  company: string | null
+  location: string | null
+  salary: string | null
+  description: string | null
+  apply_url: string | null
+  query: string | null
+  saved_at: string
+}
+
+// Convert database row to SavedJob interface
+function dbToSavedJob(row: DbSavedJob): SavedJob {
+  return {
+    id: row.id,
+    title: row.title,
+    company: row.company || undefined,
+    location: row.location || undefined,
+    salary: row.salary || undefined,
+    description: row.description || undefined,
+    applyUrl: row.apply_url || undefined,
+    savedAt: row.saved_at,
+    query: row.query || undefined,
+  }
+}
 
 export function useSavedJobs() {
   const [savedJobs, setSavedJobs] = useState<SavedJob[]>([])
   const [isLoading, setIsLoading] = useState(true)
   const { user } = useAuth()
 
-  // Load saved jobs from localStorage
+  // Load saved jobs from Supabase
   useEffect(() => {
-    const loadSavedJobs = () => {
+    const loadSavedJobs = async () => {
+      if (!user?.id) {
+        setSavedJobs([])
+        setIsLoading(false)
+        return
+      }
+
       try {
-        const stored = localStorage.getItem(`${STORAGE_KEY}_${user?.id || 'guest'}`)
-        if (stored) {
-          setSavedJobs(JSON.parse(stored))
+        const { data, error } = await supabase
+          .from('saved_jobs')
+          .select('*')
+          .eq('user_id', user.id)
+          .order('saved_at', { ascending: false })
+
+        if (error) {
+          console.error('Error loading saved jobs:', error)
+        } else {
+          setSavedJobs((data || []).map(dbToSavedJob))
         }
       } catch (error) {
         console.error('Error loading saved jobs:', error)
@@ -38,45 +78,89 @@ export function useSavedJobs() {
     loadSavedJobs()
   }, [user?.id])
 
-  // Save to localStorage whenever savedJobs changes
-  const persistJobs = useCallback((jobs: SavedJob[]) => {
+  const saveJob = useCallback(async (job: Omit<SavedJob, 'id' | 'savedAt'>) => {
+    if (!user?.id) {
+      console.error('User must be logged in to save jobs')
+      return null
+    }
+
+    // Check if job already exists (by title and company)
+    const exists = savedJobs.some(
+      j => j.title.toLowerCase() === job.title.toLowerCase() && 
+           j.company?.toLowerCase() === job.company?.toLowerCase()
+    )
+    if (exists) return null
+
     try {
-      localStorage.setItem(`${STORAGE_KEY}_${user?.id || 'guest'}`, JSON.stringify(jobs))
+      const { data, error } = await supabase
+        .from('saved_jobs')
+        .insert({
+          user_id: user.id,
+          title: job.title,
+          company: job.company || null,
+          location: job.location || null,
+          salary: job.salary || null,
+          description: job.description || null,
+          apply_url: job.applyUrl || null,
+          query: job.query || null,
+        })
+        .select()
+        .single()
+
+      if (error) {
+        console.error('Error saving job:', error)
+        return null
+      }
+
+      const newJob = dbToSavedJob(data)
+      setSavedJobs(prev => [newJob, ...prev])
+      return newJob
     } catch (error) {
-      console.error('Error saving jobs:', error)
+      console.error('Error saving job:', error)
+      return null
+    }
+  }, [user?.id, savedJobs])
+
+  const removeJob = useCallback(async (jobId: string) => {
+    if (!user?.id) return
+
+    try {
+      const { error } = await supabase
+        .from('saved_jobs')
+        .delete()
+        .eq('id', jobId)
+        .eq('user_id', user.id)
+
+      if (error) {
+        console.error('Error removing job:', error)
+        return
+      }
+
+      setSavedJobs(prev => prev.filter(j => j.id !== jobId))
+    } catch (error) {
+      console.error('Error removing job:', error)
     }
   }, [user?.id])
 
-  const saveJob = useCallback((job: Omit<SavedJob, 'id' | 'savedAt'>) => {
-    const newJob: SavedJob = {
-      ...job,
-      id: `job_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`,
-      savedAt: new Date().toISOString(),
+  const clearAllJobs = useCallback(async () => {
+    if (!user?.id) return
+
+    try {
+      const { error } = await supabase
+        .from('saved_jobs')
+        .delete()
+        .eq('user_id', user.id)
+
+      if (error) {
+        console.error('Error clearing jobs:', error)
+        return
+      }
+
+      setSavedJobs([])
+    } catch (error) {
+      console.error('Error clearing jobs:', error)
     }
-
-    setSavedJobs(prev => {
-      // Check if job already exists (by title and company)
-      const exists = prev.some(
-        j => j.title.toLowerCase() === job.title.toLowerCase() && 
-             j.company?.toLowerCase() === job.company?.toLowerCase()
-      )
-      if (exists) return prev
-
-      const updated = [newJob, ...prev]
-      persistJobs(updated)
-      return updated
-    })
-
-    return newJob
-  }, [persistJobs])
-
-  const removeJob = useCallback((jobId: string) => {
-    setSavedJobs(prev => {
-      const updated = prev.filter(j => j.id !== jobId)
-      persistJobs(updated)
-      return updated
-    })
-  }, [persistJobs])
+  }, [user?.id])
 
   const isJobSaved = useCallback((title: string, company?: string) => {
     return savedJobs.some(
@@ -85,20 +169,13 @@ export function useSavedJobs() {
     )
   }, [savedJobs])
 
-  const clearAllJobs = useCallback(() => {
-    setSavedJobs([])
-    persistJobs([])
-  }, [persistJobs])
-
   return {
     savedJobs,
     isLoading,
     saveJob,
     removeJob,
-    isJobSaved,
     clearAllJobs,
+    isJobSaved,
     jobCount: savedJobs.length,
   }
 }
-
-export default useSavedJobs

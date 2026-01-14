@@ -128,32 +128,32 @@ export default function AuthPage({ variant }: AuthPageProps) {
               </div>
               
               <div className="relative">
-                <p className="text-xs uppercase tracking-[0.3em] text-violet-200">What members say</p>
-                <p className="mt-4 text-lg leading-relaxed text-white/90">
-                  "Parser.ai's semantic search found roles I never knew existed. The AI understood what I wanted, not just what I typed."
+                <p className="text-xs uppercase tracking-[0.3em] text-violet-200">About Parser.ai</p>
+                <h3 className="mt-4 text-2xl font-semibold text-white">AI-Powered Job Discovery</h3>
+                <p className="mt-3 text-base leading-relaxed text-white/80">
+                  Parser.ai uses advanced semantic search to understand what you're really looking for. 
+                  Forget keyword matching – describe your dream role in natural language and let our AI find the perfect opportunities.
                 </p>
-                <div className="mt-6 text-sm font-semibold text-white">Rohan Mehta</div>
-                <div className="text-xs text-violet-200">Staff Engineer • Ex-Notion</div>
               </div>
 
               <div className="relative rounded-3xl border border-white/20 bg-white/10 p-6 text-sm text-white/80 backdrop-blur">
-                <p className="text-xs uppercase tracking-[0.3em] text-violet-200">Platform Features</p>
+                <p className="text-xs uppercase tracking-[0.3em] text-violet-200">Why Choose Parser.ai?</p>
                 <ul className="mt-4 space-y-3">
                   <li className="flex items-start gap-3">
                     <span className="mt-0.5 h-2 w-2 rounded-full bg-emerald-400 shadow-lg shadow-emerald-400/50" />
-                    <span>AI-powered semantic job search</span>
+                    <span>Semantic search that understands context, not just keywords</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="mt-0.5 h-2 w-2 rounded-full bg-violet-400 shadow-lg shadow-violet-400/50" />
-                    <span>Natural language queries</span>
+                    <span>Natural language queries – search like you speak</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="mt-0.5 h-2 w-2 rounded-full bg-amber-400 shadow-lg shadow-amber-400/50" />
-                    <span>Real-time job discovery</span>
+                    <span>Discover hidden opportunities you'd otherwise miss</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="mt-0.5 h-2 w-2 rounded-full bg-pink-400 shadow-lg shadow-pink-400/50" />
-                    <span>Smart matching & insights</span>
+                    <span>Save and track jobs that match your career goals</span>
                   </li>
                 </ul>
               </div>
