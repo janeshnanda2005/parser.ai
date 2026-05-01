@@ -1,0 +1,32 @@
+{
+  "name": "job-tracker-backend",
+  "version": "1.0.0",
+  "description": "Node.js backend for job tracker with RAG capabilities",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "node sample_test_script.js"
+  },
+  "keywords": [
+    "jobs",
+    "rag",
+    "faiss",
+    "embeddings"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2",
+    "langchain": "^0.1.28",
+    "openai": "^4.28.0",
+    "@xenova/transformers": "^2.6.5",
+    "faiss-node": "^0.5.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {}
+}

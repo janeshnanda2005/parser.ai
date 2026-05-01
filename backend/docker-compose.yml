@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - NODE_ENV=development
+      - PORT=5000
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+      - LOG_LEVEL=INFO
+    volumes:
+      - ./data:/app/data:ro
+      - ./data_files:/app/data_files:ro
+      - ./faiss_index:/app/faiss_index
+      - ./logs:/app/logs
+    networks:
+      - job-tracker
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  job-tracker:
+    driver: bridge
