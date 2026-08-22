@@ -14,7 +14,7 @@ export const config = {
   openrouter: {
     apiKey: process.env.OPENROUTER_API_KEY,
     baseUrl: process.env.OPENROUTER_BASE_URL || 'https://openrouter.ai/api/v1',
-    model: process.env.LLM_MODEL || 'xiaomi/mimo-v2-flash:free',
+    model: process.env.LLM_MODEL || 'nvidia/nemotron-3-ultra-550b-a55b:free',
     temperature: parseFloat(process.env.LLM_TEMPERATURE || '0.6'),
     maxTokens: parseInt(process.env.LLM_MAX_TOKENS || '30000')
   },

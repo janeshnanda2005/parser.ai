@@ -154,7 +154,7 @@ Adzuna job API integration:
 |----------|-------------|----------|
 | OPENROUTER_API_KEY | API key for OpenRouter LLM service | Yes (for RAG) |
 | PORT | Server port | No (default: 5000) |
-| LLM_MODEL | Model to use from OpenRouter | No (default: xiaomi/mimo-v2-flash:free) |
+| LLM_MODEL | Model to use from OpenRouter | No (default: nvidia/nemotron-3-ultra-550b-a55b:free) |
 | NODE_ENV | Environment mode | No (default: development) |
 
 ## Performance Notes

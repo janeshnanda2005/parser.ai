@@ -18,16 +18,26 @@ Supabase's **Authorized Redirect URLs** don't include your Vercel app URL. When 
    https://parser-ai-phi.vercel.app/search
    https://parser-ai-phi.vercel.app/login
    https://parser-ai-phi.vercel.app/register
+   https://agkgbliutldgnxohfxhp.supabase.co/auth/v1/callback
    ```
 3. Click **Save**
+
+### Step 1b: Verify Google OAuth Provider Settings
+If you are configuring Google in Supabase, make sure the provider also allows:
+
+```
+https://agkgbliutldgnxohfxhp.supabase.co/auth/v1/callback
+```
+
+This is the Supabase auth callback URL that Google should return to after login.
 
 ### Step 2: Verify Vercel Environment Variables
 Set these in your **Vercel Project Settings** → **Environment Variables**:
 
 ```
 VITE_API_URL=https://parser-ai.onrender.com/api
-VITE_SUPABASE_URL=https://qnaspllidbpsnfntoisx.supabase.co
-VITE_SUPABASE_ANON_KEY=sb_publishable_pxsjFwmJQQh6ff5loxy8dw_RDGLmrbn
+VITE_SUPABASE_URL=https://agkgbliutldgnxohfxhp.supabase.co
+VITE_SUPABASE_ANON_KEY=REPLACE_WITH_YOUR_SUPABASE_ANON_KEY
 ```
 
 ### Step 3: Redeploy on Vercel

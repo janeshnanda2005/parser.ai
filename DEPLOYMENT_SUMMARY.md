@@ -23,8 +23,8 @@
 #### Environment Variables (Vercel Settings):
 ```
 VITE_API_URL=https://parser-ai.onrender.com/api
-VITE_SUPABASE_URL=https://qnaspllidbpsnfntoisx.supabase.co
-VITE_SUPABASE_ANON_KEY=sb_publishable_pxsjFwmJQQh6ff5loxy8dw_RDGLmrbn
+VITE_SUPABASE_URL=https://agkgbliutldgnxohfxhp.supabase.co
+VITE_SUPABASE_ANON_KEY=REPLACE_WITH_YOUR_SUPABASE_ANON_KEY
 ```
 
 #### Created configuration files:
@@ -62,6 +62,7 @@ https://parser-ai-phi.vercel.app
 https://parser-ai-phi.vercel.app/search
 https://parser-ai-phi.vercel.app/login
 https://parser-ai-phi.vercel.app/register
+https://agkgbliutldgnxohfxhp.supabase.co/auth/v1/callback
 http://localhost:3000 (for local dev)
 ```
 

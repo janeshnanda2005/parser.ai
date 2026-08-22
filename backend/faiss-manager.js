@@ -17,6 +17,7 @@ const EMBEDDING_MODEL = 'Xenova/all-MiniLM-L6-v2';
 let extractor = null;
 let vectorStore = null;
 let initialized = false;
+const EMBEDDING_BATCH_SIZE = parseInt(process.env.EMBEDDING_BATCH_SIZE || '16', 10);
 
 /**
  * Initialize the embedding model
@@ -33,15 +34,25 @@ async function initializeModel() {
  */
 async function generateEmbeddings(texts) {
     const model = await initializeModel();
-    const embeddings = await model(texts, { pooling: 'mean', normalize: true });
-    
-    // Convert to array if single text
-    if (texts.length === 1) {
-        return [Array.from(embeddings.data)];
+    const allEmbeddings = [];
+
+    for (let i = 0; i < texts.length; i += EMBEDDING_BATCH_SIZE) {
+        const batch = texts.slice(i, i + EMBEDDING_BATCH_SIZE);
+        const batchEmbeddings = await model(batch, { pooling: 'mean', normalize: true });
+
+        if (batch.length === 1) {
+            allEmbeddings.push(Array.from(batchEmbeddings.data));
+            continue;
+        }
+
+        const batchVectors = batchEmbeddings.tolist
+            ? batchEmbeddings.tolist()
+            : Array.from(batchEmbeddings).map(e => Array.from(e.data));
+
+        allEmbeddings.push(...batchVectors);
     }
-    
-    return embeddings.tolist ? embeddings.tolist() : 
-           Array.from(embeddings).map(e => Array.from(e.data));
+
+    return allEmbeddings;
 }
 
 /**
