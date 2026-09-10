@@ -100,11 +100,10 @@ def create_app():
     app = Flask(__name__)
     CORS(
     app,
-    resources={
-        r"/api/*": {
-            "origins": ["https://parser-ai-phi.vercel.app"]
-            }
-        }
+    origins=[
+            "http://localhost:5173",
+            "https://parser-ai-phi.vercel.app"
+        ]
     )
 
     @app.route('/health', methods=['GET'])
@@ -147,7 +146,7 @@ def create_app():
     def search_jobs():
         """Search jobs using RAG-based query"""
         data = request.get_json()
-        
+
         if not data or 'query' not in data:
             return jsonify({"error": "Query is required"}), 400
         
