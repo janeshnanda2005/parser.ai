@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import { Link, useNavigate } from 'react-router-dom'
-import { useAuth } from '../contexts/AuthContext'
+import { Link } from 'react-router-dom'
 import { useSavedJobs, SavedJob } from '../hooks/useSavedJobs'
 
 // Animated stars background component
@@ -161,16 +160,8 @@ function SavedJobCard({ job, onRemove }: { job: SavedJob; onRemove: (id: string)
 }
 
 export default function SavedJobs() {
-  const { user, logout } = useAuth()
   const { savedJobs, isLoading, removeJob, clearAllJobs, jobCount } = useSavedJobs()
-  const [showUserMenu, setShowUserMenu] = useState(false)
   const [showClearConfirm, setShowClearConfirm] = useState(false)
-  const navigate = useNavigate()
-
-  const handleLogout = async () => {
-    await logout()
-    navigate('/login')
-  }
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-950 via-violet-950/50 to-slate-950 flex flex-col relative overflow-hidden">
@@ -207,74 +198,12 @@ export default function SavedJobs() {
             </Link>
           </div>
 
-          {/* User Menu */}
-          <div className="relative">
-            <button
-              onClick={() => setShowUserMenu(!showUserMenu)}
-              className="flex items-center gap-3 px-3 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-violet-500/20 transition-all hover:border-violet-500/40 hover:shadow-lg hover:shadow-violet-500/10"
-            >
-              <img
-                src={user?.avatar || `https://ui-avatars.com/api/?name=${encodeURIComponent(user?.name || 'User')}&background=3b82f6&color=fff`}
-                alt={user?.name}
-                className="w-8 h-8 rounded-lg"
-              />
-              <div className="hidden sm:block text-left">
-                <p className="text-sm font-medium text-white">{user?.name}</p>
-                <p className="text-xs text-slate-400">{user?.role || 'Job Seeker'}</p>
-              </div>
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-              </svg>
-            </button>
-
-            {/* Dropdown Menu */}
-            {showUserMenu && (
-              <div className="absolute right-0 mt-2 w-56 rounded-xl bg-slate-900/95 border border-violet-500/20 shadow-xl shadow-violet-500/10 backdrop-blur-xl z-50">
-                <div className="px-4 py-3 border-b border-white/10">
-                  <p className="text-sm font-medium text-white">{user?.name}</p>
-                  <p className="text-xs text-slate-400">{user?.email}</p>
-                </div>
-                <div className="py-2">
-                  <Link
-                    to="/search"
-                    className="w-full px-4 py-2 text-left text-sm text-slate-300 hover:bg-white/5 flex items-center gap-3"
-                    onClick={() => setShowUserMenu(false)}
-                  >
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                    </svg>
-                    Search Jobs
-                  </Link>
-                  <Link
-                    to="/saved-jobs"
-                    className="w-full px-4 py-2 text-left text-sm text-violet-300 bg-violet-500/10 flex items-center gap-3"
-                    onClick={() => setShowUserMenu(false)}
-                  >
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
-                    </svg>
-                    Saved Jobs
-                    {jobCount > 0 && (
-                      <span className="ml-auto px-2 py-0.5 text-xs bg-violet-500/30 text-violet-300 rounded-full">
-                        {jobCount}
-                      </span>
-                    )}
-                  </Link>
-                </div>
-                <div className="py-2 border-t border-white/10">
-                  <button
-                    onClick={handleLogout}
-                    className="w-full px-4 py-2 text-left text-sm text-red-400 hover:bg-red-500/10 flex items-center gap-3"
-                  >
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
-                    </svg>
-                    Sign out
-                  </button>
-                </div>
-              </div>
-            )}
-          </div>
+          <Link
+            to="/search"
+            className="px-4 py-2 text-slate-300 hover:text-white rounded-lg hover:bg-white/5 transition-colors flex items-center gap-2"
+          >
+            Search Jobs
+          </Link>
         </div>
       </nav>
 

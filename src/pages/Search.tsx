@@ -5,7 +5,7 @@ import { useAuth } from '../contexts/AuthContext'
 import { useSavedJobs } from '../hooks/useSavedJobs'
 
 // Login Modal Component
-function LoginModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }) {
+export function LoginModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }) {
   const navigate = useNavigate()
   const { signInWithGoogle } = useAuth()
   const [isLoading, setIsLoading] = useState(false)
@@ -337,28 +337,13 @@ export default function Search() {
   const [result, setResult] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
-  const [showLoginModal, setShowLoginModal] = useState(false)
-  
-  const { user, logout, isAuthenticated } = useAuth()
   const { saveJob, isJobSaved, jobCount } = useSavedJobs()
-  const navigate = useNavigate()
-
-  const handleLogout = async () => {
-    await logout()
-    navigate('/login')
-  }
 
   const handleSearch = async (e: React.FormEvent) => {
     e.preventDefault()
     
     if (!query.trim()) {
       setError('Please enter a job role')
-      return
-    }
-
-    // Check if user is authenticated before searching
-    if (!isAuthenticated) {
-      setShowLoginModal(true)
       return
     }
 
@@ -424,70 +409,10 @@ export default function Search() {
 
           {/* Navigation Links */}
           <div className="flex items-center gap-3">
-            {isAuthenticated ? (
-              <>
-                {/* Saved Jobs Link */}
-                <Link
-                  to="/saved-jobs"
-                  className="flex items-center gap-2 px-4 h-10 rounded-xl bg-white/5 hover:bg-white/10 border border-violet-500/20 transition-all hover:border-violet-500/40 text-slate-300 hover:text-white"
-                >
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
-                  </svg>
-                  <span className="hidden sm:inline text-sm font-medium">Saved Jobs</span>
-                  {jobCount > 0 && (
-                    <span className="px-2 py-0.5 text-xs bg-violet-500/30 text-violet-300 rounded-full">
-                      {jobCount}
-                    </span>
-                  )}
-                </Link>
-
-                {/* User Info */}
-                <div className="flex items-center gap-2 px-3 h-10 rounded-xl bg-white/5 border border-violet-500/20">
-                  <img
-                    src={user?.avatar || `https://ui-avatars.com/api/?name=${encodeURIComponent(user?.name || 'User')}&background=3b82f6&color=fff`}
-                    alt={user?.name}
-                    className="w-7 h-7 rounded-lg"
-                  />
-                  <div className="hidden sm:block text-left">
-                    <p className="text-sm font-medium text-white leading-tight">{user?.name}</p>
-                    <p className="text-xs text-slate-400 leading-tight">{user?.role || 'User'}</p>
-                  </div>
-                </div>
-
-                {/* Sign Out Button */}
-                <button
-                  onClick={handleLogout}
-                  className="flex items-center gap-2 px-4 h-10 rounded-xl bg-red-500/10 hover:bg-red-500/20 border border-red-500/20 hover:border-red-500/40 transition-all text-red-400 hover:text-red-300"
-                >
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
-                  </svg>
-                  <span className="hidden sm:inline text-sm font-medium">Sign out</span>
-                </button>
-              </>
-            ) : (
-              <>
-                {/* Sign In Button */}
-                <button
-                  onClick={() => setShowLoginModal(true)}
-                  className="flex items-center gap-2 px-4 h-10 rounded-xl bg-white/5 hover:bg-white/10 border border-violet-500/20 transition-all hover:border-violet-500/40 text-slate-300 hover:text-white"
-                >
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 16l-4-4m0 0l4-4m-4 4h14m-5 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
-                  </svg>
-                  <span className="text-sm font-medium">Sign in</span>
-                </button>
-
-                {/* Get Started Button */}
-                <Link
-                  to="/register"
-                  className="flex items-center gap-2 px-4 h-10 rounded-xl bg-gradient-to-r from-violet-600 to-purple-600 hover:from-violet-500 hover:to-purple-500 text-white transition-all shadow-lg shadow-violet-500/25"
-                >
-                  <span className="text-sm font-medium">Get Started</span>
-                </Link>
-              </>
-            )}
+            <Link to="/saved-jobs" className="flex items-center gap-2 px-4 h-10 rounded-xl bg-white/5 hover:bg-white/10 border border-violet-500/20 transition-all text-slate-300 hover:text-white">
+              <span className="text-sm font-medium">Saved Jobs</span>
+              {jobCount > 0 && <span className="px-2 py-0.5 text-xs bg-violet-500/30 text-violet-300 rounded-full">{jobCount}</span>}
+            </Link>
           </div>
         </div>
       </nav>
@@ -510,11 +435,7 @@ export default function Search() {
             <span className="text-white">.ai</span>
           </h1>
           <p className="text-violet-200/80 text-lg max-w-md mx-auto">
-            {isAuthenticated ? (
-              <>Welcome back, <span className="font-semibold text-violet-300">{user?.name?.split(' ')[0]}</span>! Let's explore the universe of opportunities.</>
-            ) : (
-              <>Discover your dream job with AI-powered semantic search.</>
-            )}
+            Discover your dream job with AI-powered semantic search.
           </p>
         </div>
       </header>
@@ -701,8 +622,6 @@ export default function Search() {
         <span className="text-slate-500 text-sm"> • AI-Powered Job Discovery</span>
       </footer>
 
-      {/* Login Modal */}
-      <LoginModal isOpen={showLoginModal} onClose={() => setShowLoginModal(false)} />
     </div>
   )
 }
