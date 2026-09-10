@@ -98,12 +98,19 @@ def rag_answer(query: str) -> str:
 
 def create_app():
     app = Flask(__name__)
+
     CORS(
-    app,
-    origins=[
-            "http://localhost:5173",
-            "https://parser-ai-phi.vercel.app"
-        ]
+        app,
+        resources={
+            r"/api/*": {
+                "origins": [
+                    "http://localhost:5173",
+                    "https://parser-ai-phi.vercel.app"
+                ]
+            }
+        },
+        methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+        allow_headers=["Content-Type", "Authorization"]
     )
 
     @app.route('/health', methods=['GET'])
