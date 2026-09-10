@@ -123,7 +123,19 @@ CORS(app,
      ],
      methods=["GET", "POST", "OPTIONS", "PUT", "DELETE"],
      allow_headers=["Content-Type", "Authorization"],
-     supports_credentials=True)
+     expose_headers=["Content-Type"],
+     max_age=3600,
+     supports_credentials=False)
+
+# Add OPTIONS handler for preflight requests
+@app.before_request
+def handle_preflight():
+    if request.method == "OPTIONS":
+        response = jsonify({"status": "ok"})
+        response.headers["Access-Control-Allow-Origin"] = request.headers.get("Origin", "*")
+        response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS, PUT, DELETE"
+        response.headers["Access-Control-Allow-Headers"] = "Content-Type, Authorization"
+        return response, 200
 
 @app.route('/health', methods=['GET'])
 def health_check():
