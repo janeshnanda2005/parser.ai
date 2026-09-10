@@ -1,5 +1,12 @@
 // Use environment variable for API URL, fallback to relative path for Vercel
-const API_BASE_URL = import.meta.env.VITE_API_URL || '/api';
+const VITE_API_URL = import.meta.env.VITE_API_URL || '/api';
+
+// Normalize URL to avoid double slashes
+const getApiUrl = (path: string): string => {
+  const base = VITE_API_URL.endsWith('/') ? VITE_API_URL.slice(0, -1) : VITE_API_URL;
+  const endpoint = path.startsWith('/') ? path : `/${path}`;
+  return `${base}${endpoint}`;
+};
 
 export interface Job {
   id?: string;
@@ -23,21 +30,22 @@ export interface SearchResponse {
 export const api = {
   // Health check
   async healthCheck(): Promise<{ status: string }> {
-    const response = await fetch(`${API_BASE_URL.replace('/api', '')}/health`);
+    const baseUrl = VITE_API_URL.replace(/\/api\/?$/, '');
+    const response = await fetch(`${baseUrl}/health`);
     if (!response.ok) throw new Error('Health check failed');
     return response.json();
   },
 
   // Get all jobs
   async getJobs(): Promise<Job[]> {
-    const response = await fetch(`${API_BASE_URL}/jobs`);
+    const response = await fetch(getApiUrl('/jobs'));
     if (!response.ok) throw new Error('Failed to fetch jobs');
     return response.json();
   },
 
   // Get jobs by category
   async getJobsByCategory(category: string): Promise<Job[]> {
-    const response = await fetch(`${API_BASE_URL}/jobs/${encodeURIComponent(category)}`);
+    const response = await fetch(getApiUrl(`/jobs/${encodeURIComponent(category)}`));
     if (!response.ok) throw new Error(`Failed to fetch ${category} jobs`);
     return response.json();
   },
@@ -45,7 +53,7 @@ export const api = {
   // Search jobs using RAG
   async searchJobs(query: string): Promise<SearchResponse> {
     try {
-      const response = await fetch(`${API_BASE_URL}/search`, {
+      const response = await fetch(getApiUrl('/search'), {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

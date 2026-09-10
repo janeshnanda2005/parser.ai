@@ -112,7 +112,18 @@ def rag_answer(query: str) -> str:
     return clean_response
 
 app = Flask(__name__)
-CORS(app)
+# Configure CORS to allow frontend requests
+CORS(app, 
+     origins=[
+         "https://parser-ai-phi.vercel.app",
+         "http://localhost:5173",
+         "http://localhost:3000",
+         "http://localhost:3001",
+         "*"
+     ],
+     methods=["GET", "POST", "OPTIONS", "PUT", "DELETE"],
+     allow_headers=["Content-Type", "Authorization"],
+     supports_credentials=True)
 
 @app.route('/health', methods=['GET'])
 def health_check():
